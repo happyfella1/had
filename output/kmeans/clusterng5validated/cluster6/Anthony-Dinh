@@ -1,0 +1,216 @@
+Anthony Dinh
+
+North Wales, PA - Email me on Indeed: indeed.com/r/Anthony-Dinh/4d1df852068cab9d
+
+Highly skilled, versatile and detail oriented IT professional with 10 years of experience in Quality Assurance
+and Project Management. Excellent individual contributor as well as a great team player with strong leadership,
+organizational, interpersonal and communication skills. Seeking to attain a Senior Quality Assurance position
+with a dynamic company that is premier in its industry where I can contribute and continue to grow.
+
+WORK EXPERIENCE
+
+Lead Quality Assurance Engineer
+Hoopla Software  -  Exton, PA - May 2014 to Present
+
+• Implemented a strategic QA process in order to ensure the rapid and cost-effective delivery of a quality
+product to our customers, while still maintaining minimal defects, high performance and security.
+• Perform manual frontend testing of the Hoopla webUI, TV and iOS/Android mobile apps.
+•  Assist  automation  lead  in  writing  Protractor  automated  E2E  regression  tests  using  Jasmine/Node.js/
+Selenium/webdriver toolsets 
+•  Run  integration  tests  between  Hoopla  and  third-party  partners  such  as  Salesforce  and  Recurly  billing
+management.
+• Collaborate with Dev and Product Management teams to create comprehensive test plans derived from JIRA
+user stories and defects. 
+• Coordinate test efforts with remote QA teams in San Jose and Argentina, assuring complete test coverage
+across both the Hoopla mobile and web apps.
+
+Enterprise Project Manager & Quality Assurance Engineer
+eMoney Advisor  -  Conshohocken, PA - September 2011 to April 2014
+
+Role: Enterprise Project Manager
+• Coordinated partner application upgrade review and release process by drafting timelines, initiating kick-off
+meetings, conducting WebEx feature demos, working with Dev and QA to verify custom partner configuration,
+and ensuring availability of Ops resources for upgrade.
+• Managed third-party integration projects, acting as liaison between the vendor, Dev and QA teams to ensure
+project is on task and meets deadline.
+• Authored detailed feature specs outlining technical requirements as required by partners and business team
+to serve as a framework for Dev and QA testing efforts.
+• Conducted daily scrums with Dev and QA teams to discuss overall project status and address any outstanding
+issues or concerns.
+
+Role: Quality Assurance Engineer
+•  Performed  frontend  unit,  smoke  and  regression  testing  of  the  eMoney  Advisor,  Client  and  Client  Mobile
+personal financial planning application using various browsers and mobile devices.
+• Collaborated with Project Management and Dev teams to create comprehensive Excel-based test plans for
+full coverage in regression and automation testing.
+• Opened, tracked and verified defects as assigned in FogBugz ticketing system.
+•  Supported  Release  Team  with  troubleshooting  any  defects  encountered  during  application  upgrade
+deployments.
+
+Quality Assurance Engineer
+Channel Intelligence  -  Conshohocken, PA - October 2010 to September 2011
+
+• Participated in team sprint planning, review and retrospect sessions, as well as daily standups to communicate
+current  day's  goals,  previous  day's  achievements,  and  any  impediments  or  concerns  in  an  Agile  Scrum
+environment.
+• Developed test cases based on features identified in sprint planning, manage Excel based test suites, and
+track, prioritize and report on outstanding and resolved issues in Bugzilla ticketing system.
+•  Performed  frontend  unit  and  regression  testing  of  the  CQ  Webapp  and  its  modules  including  user
+administration, dashboard, campaign manager, reports and Analyst Excel reporting plug-in.
+• Executed backend unit, performance and regression testing of Google/Yahoo/MSN API data pulls and ETL,
+including extracting, normalizing and loading of engine data into MySQL databases.
+•  Responsible  for  triaging  tier3  production  issues  by  checking  client  page-tags,  system  configuration  and
+beacon weblogs to pinpoint conversion and performance related issues, and act as liaison between Support
+and Dev teams to coordinate production patch releases.
+•  Researched  Google  Preferred  API  requirements,  documented  CQ  User  Interface  functionalities  and
+successfully submitted RMF application to Google for approval, resulting in ~$500k savings annually.
+
+Quality Assurance Engineer
+AOL/Time Warner  -  Fort Washington, PA - October 2007 to September 2010
+
+•  Supported  the  successful  migration  of  TACODA's  systems  to  AOL  following  TACODA  acquisition  by
+regression testing all systems on new network.
+• Participate in daily team Scrum standup meetings to discuss stories - daily goals, completed tasks, as well
+as outstanding issues and points of concern or impediments.
+• Develop use cases and test cases, and perform stress, regression and performance testing of the TAN User
+Interface and its modules including user roles and permissions, dashboard widgets, presentation manager,
+segments and reports as assigned in QuickBase ticketing system.
+• Responsible for troubleshooting defects, root cause analysis, QA testing, upgrade risk assessment and data
+validation of proprietary ETL Factory, Retriever and Targeting Export systems.
+• Researched and documented TACODA Visitor Data Privacy Policy for legal use and to ensure NAI (National
+Advertising Initiative) compliancy.
+• Transition TAN knowledge and responsibilities to Dublin Team counterparts over the course of 9 months
+by writing detailed training docs, holding on-site and remote training sessions, as well as providing on-going
+phone, email and aim support as needed.
+
+Support Engineer
+TACODA Systems, Inc  -  Fort Washington, PA - August 2005 to October 2007
+
+• Configured user data agent in SiteManager for new TACODA Audience Network deployments.
+• Generated and tested new data and inventory tags.
+• Wrote custom shell scripts to automate apache RTX and registration log parsing.
+• Ran SQL queries to validate audience segment population.
+• Addressed customer pageviews, ad impressions, segment population and reporting issues as assigned in
+SalesForce CRM system.
+
+Productivity & Security Analyst - Tier 3 Support
+Computer Aid, Inc  -  Allentown, PA - September 2003 to June 2005
+
+Role: UNIX & Wintel Systems Administrator
+• Built and configured UNIX and Wintel servers to specific requirements as outlined by team lead.
+• Tested and installed patches on Windows and UNIX-based servers to ensure compliancy.
+• Installed UNIX packages and modules as well as program updates.
+• Managed 8 UNIX email, spam, relay, Jabber messaging and list servers by maintaining user accounts, mail
+queues, disk space utilization, file system permissions, performance and cron jobs.
+
+• Ensured connectivity and availability of virtual VMware servers hosted on 2 Linux host servers.
+• Maintained user domain, Exchange email and SQL accounts.
+•  Performed  BigBrother  administration  to  monitor  server  connectivity,  CPU,  disk  usage,  and  other  various
+processes and services.
+• Wrote Perl and shell scripts to automate nslookups, pings, VMware server status reports, patch downloads
+and data extraction for monthly metrics reports.
+• Alternated monthly "on call" rotation to address virus outbreaks, email, Jabber and spam server issues.
+
+Role: Security Analyst
+•  Planned,  tested  and  spearheaded  ePolicy  Orchestrator  3.5  migration,  as  well  as  McAfee  VirusScan
+Enterprise 8.0i rollout to over 8,000 clients worldwide.
+• Deployed emergency McAfee virus DAT definitions and VirusScan Enterprise 8.0i client to rogue machines,
+and cleaned infected machines using ePolicy Orchestrator 3.5.
+• Configured VirusScan 7.1/ 8.0i client On-Access and exclusion rules to resolve application conflicts.
+• Ran weekly ePO Infection Reports to identify infected and noncompliant machines having out-of-date DAT's,
+scan engines and patches.
+•  Maintained  spam  policies  using  PureMessage  to  update  sender  white  and  blacklists,  as  well  as  spam
+expressions heuristics.
+• Identified and blocked spam and virus sources by tracing email headers and gateway email logs.
+
+Role: Database Analyst
+• Developed and maintained MS Access, SQL and MySQL databases to support corporate data management
+needs.
+• Performed data analysis, as well as wrote custom reports and queries using SQL Query Analyzer, Cognos
+and Access.
+• Collaborated with customers to gather information on database management needs and architect ERD's
+(Entity Relationship Diagram) using database modeling tools such as Visio and System Architect.
+
+• Performed database normalization to remove duplicate records and minimize data redundancy.
+• Increased database efficiency and reliability through index tuning and SQL Profiler analysis.
+• Imported and exported data to and from spreadsheets and ASCII files using SQL statements and extraction
+tools.
+• Extracted, compiled and analyzed Jabber, Exchange, Citrix, VPN, Spam and ePO stats for monthly metrics
+reports.
+
+Role: Tier3 Support Analyst
+• Logged, tracked and addressed escalated tier 3 issues in Remedy ticketing system.
+• Supported Jabber Messaging users with accounts, password and connectivity issues.
+• Addressed user issues with Majordomo distribution lists.
+• Cleaned virus infected machines and made policy modifications to detect reported spam.
+
+Administrative Technology Specialist
+North Penn School District  -  Lansdale, PA - December 2001 to September 2003
+
+• Responsible for internal ad hoc queries using advanced data mining tools such as MS Access, iSQL, and
+Cognos Impromptu.
+• Analyzed and reported on data, to support both financial and student-side department projects and initiatives.
+• Developed and maintained Informix databases, to support departmental information management needs.
+• Provided desktop and desk-side staff support at 17 district-wide locations.
+• Researched and installed upgrades to existing information systems.
+
+• Created a technology education forum to serve employee-training needs.
+• Designed Access databases with a full user interface for data entry, querying, and reporting writing.
+• Administered UNIX system security and performance; managed file systems, disk space allocation, backups,
+restores, crons, shell scripting and printer set-ups.
+• Managed UNIX system, realizing a cost savings of $8,000 annually.
+• Performed administration of district website using HTML, JavaScript, and Photoshop.
+
+Analyst Intern
+KnightRidder.com  -  Philadelphia, PA - September 2000 to December 2000
+
+• Performed in-depth analysis of data gathered from surveys and constructed visual designs.
+• Generated queries to extract data from MS Access and SQL Server database systems.
+• Designed web documents to enhance communication, and build a stronger relationship between the company
+and its clients.
+• Provided support to the end-users on MS Office applications.
+• Assisted service representatives in the reporting of customer incentive programs.
+• Gathered, organized, and updated customer data.
+
+EDUCATION
+
+B.B.A in Business & Management Information Systems
+Temple University - Philadelphia, PA
+May 2001
+
+ADDITIONAL INFORMATION
+
+Technical Skills
+
+Internet Marketing:
+•  Google  Adwords,  MSN  Bing  /  Yahoo  Search  Marketing,  Facebook  Ads,  Prosper202,  ClickEquations
+Campaign Manager, SEO, Wordpress, affiliate networks, campaign scaling, lead generation, landing pages,
+A/B split testing, conversion pixel tracking
+
+Operating Systems:
+• Win2k Server, Windows NT 4.0, Windows XP, Windows 7, DOS, SCO Unix, Apache Server, IBM Mainframe,
+Solaris 8, Linux 7
+
+Programming Languages:
+• Pascal, Cobol, C/C++, HTML, Javascript, PHP, CSS, Visual Basic, Ace, iSQL, MySQL, Oracle, Perl, shell
+
+Applications:
+• Quality Assurance: HTTP headers, Tamper Data, Firebug, Fiddler, Protractor E2E, Selenium webdriver
+• Networking: LANDesk, Terminal Services, VNC, FTP, Active Directory, DNS server, VMware, Big Brother,
+Cisco VPN, Bitvise Tunnelier, pcAnywhere
+•  Spam/AV:  Stinger,  SpyBot,  Adaware,  ePolicy  Orchestrator  3.5,  VirusScan  Enterprise  8.0i,  Sophos
+PureMessage
+• General: Apache Server, Net Meeting, Bridge-trak, Remedy, Jabber Messaging, Outlook, Word, Access,
+Excel,  PowerPoint,  Visio,  System  Architect  2001,  Majordomo2  List  Server,  Odyssey,  Salesforce,  Jira,  Git,
+sendmail, Symantec Ghost, ETL, Query Analyzer, SQL Developer
+
+Networking:
+• TCP/IP, telnet, ftp/scp, ssh, pcAnywhere, VPN, HTTP, DHCP, DNS, pop3, SMTP, LAN topologies, […] VNC,
+Bitvise Tunnelier
+
+Hardware:
+•  Hubs,  bridges,  CAT5/RJ45,  NIC  cards,  CPUs,  sound/video  cards,  motherboards,  memory,  PCMCIA,
+modems, HP and Genicom printers, Linksys/D-link routers, Orinoco/Proxim/Linksys wireless cards, Sun Sparc,
+Sun Blade servers, iPAQ, Compaq and IBM laptops, iPhone iOS, Android
+
+

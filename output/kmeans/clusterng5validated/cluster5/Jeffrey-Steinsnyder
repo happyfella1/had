@@ -1,0 +1,101 @@
+Jeffrey Steinsnyder
+
+Senior Software Engineer at Mission Solutions Engineering
+
+Holland, PA - Email me on Indeed: indeed.com/r/Jeffrey-Steinsnyder/a6a4d30add9bf8d7
+
+WORK EXPERIENCE
+
+Senior Software Engineer
+Mission Solutions Engineering  -  Moorestown, NJ - October 2010 to Present
+
+• Developing mission critical, requirements driven, real-time Linux embedded software applications for various
+AEGIS/SPY  platforms,  encompassing  all  phases  of  development.  Tasks  included  analyzing  requirements,
+generating  Use  Cases  and  object  oriented  design  artifacts  using  DOORS,  Rhapsody  and  ClearCase,
+developing distributed multi-tasking component architecture.
+• Performing design reviews, coding and unit testing utilizing C++, and performing integration and test with
+various RADAR components running Linux RTOS.
+•  Designed  and  developed  Electronic  Test  Functions/Fault  Isolation  software  application  for  various  AN/
+SPY-1D(MOD) -RADAR functions.
+• Designed and developed Transmitter/Exciter and Phase Shifter Driver fault isolation software for the RADAR
+respective components.
+• Designed and developed Fault Management software to perform RADAR fault management functions and
+reconfiguration based on the fault thread prioritization.
+
+Senior Member, Engineering Staff - Software
+L3 Communications Systems East Corporation  -  Camden, NJ - January 2002 to October 2010
+
+•  Developed  mission  critical,  requirements  driven,  real-time  embedded  software  applications  for  various
+programs, encompassing all phases of development. Tasks included analyzing requirements, generating Use
+Cases and object oriented design artifacts using DOORS, Rhapsody and Rose with ClearCase, developing
+multi-tasking architecture.
+•  Presented  material  to  customers  at  milestone  reviews,  coded  and  unit  tested  in  C++,  and  performed
+integration and test with INTEGRITY DO-178B RTOS on a 32-bit PowerPC target platform.
+• Designed and developed secure communications module utilizing TLS/TCP/IP stack.
+• Designed and developed Commands Validator interface between the ASN.1 decoder and system interfaces.
+• Designed and developed architecture to support multi-threaded Encryption Keys Production and Distribution
+application utilizing SCO UNIX operating system.
+• Designed and developed DS101 interface between the Data Transfer Device and the Local Management
+Station utilizing an Oracle database.
+
+Software Engineer
+General Instrument / Motorola Inc  -  Horsham, PA - October 1995 to November 2001
+
+• Designed and developed an embedded-downloadable software Client and PC Server applications to perform
+an automated testing of the Interactive two-way System using UDP/IP Network model.
+•  Developed  Digital  Cable  System  analysis  applications  in  C/C++  using  Vertex  and  VxWorks  Operating
+Systems.
+• Performed network design, throughput analysis and interactive network optimization in an integration lab
+environment.
+• Experienced with all aspects of the project management, system engineering and integration processes.
+•  Designed  and  developed  GI's  Network  Solutions,  network  architectures  and  methodologies,  to  support
+customers distributed network systems using GI's and third party network equipment.
+
+Software Engineer
+North American Dräger  -  Telford, PA - August 1990 to September 1995
+
+• Developed embedded real-time multi-tasking software for patient monitoring system in C/C++ using the pSOS
++ and OS/2 Operating Systems.
+• Designed and implemented system diagnostics.
+• Developed an audio package for system alarms annunciation.
+• Designed and implemented a transport mechanism to decrease TCP/IP Network Manager's demand for OS/2
+system resources.
+•  Experienced  with  complete  product  development  life  cycle  including  requirements  definition,  design,
+implementation, testing, integration, documentation and manufacturing support.
+
+Software Engineer
+General Electric Co  -  Moorestown, NJ - December 1986 to August 1990
+
+• Participated in the development of a PC communication package as member of the design team.
+• Designed and implemented mainframe software to satisfy customer requirements.
+•  Developed  solution  for  interfacing  communication  equipment  to  incompatible  local  area  network  wiring
+system.
+• Worked directly with customers to provide support and solve problems.
+
+EDUCATION
+
+Master of Science in Information Systems
+Drexel University - Philadelphia, PA
+2000
+
+Bachelor of Science in Computer Science
+Drexel University - Philadelphia, PA
+1990
+
+Lyons Technical Institute - Cherry Hill, NJ
+
+ADDITIONAL INFORMATION
+
+SKILL SUMMARY
+Programming Languages: C/C++, 680x0 Assembly, Perl
+Operating Systems: INTEGRITY/INTEGRITY-178B, VxWorks, Vertex, pSOS, RT Linux
+Hardware Interfaces: PowerPC, RS-232, Ethernet
+Protocols: TLS, TCP, UDP, IP, DHCP, DS101
+Development Tools: Rhapsody, Rational Rose, MULTI IDE, Tornado IDE
+Version Control Tools: DOORS, ClearCase, ClearQuest
+Development Workstations: PC, UNIX
+
+Active Security Clearance (TS/SI)
+SSBI (TS) […] w/ Full Scope/Lifestyle Polygraph […]
+
+

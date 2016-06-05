@@ -1,0 +1,174 @@
+Vijay Anipey
+
+AWS DevOps Engineer
+
+Philadelphia, PA - Email me on Indeed: indeed.com/r/Vijay-Anipey/c3e73f2e1b05ccfc
+
+Willing to relocate: Anywhere
+Authorized to work in the US for any employer
+
+WORK EXPERIENCE
+
+AWS DevOps Engineer
+IBM India PVT LTD - April 2013 to June 2014
+
+Project  Description:  Responsible  for  day  to  day  monitoring  and  maintenance  of  production  servers  in  an
+environment with 15 million daily transactions, 5 million+ automated daily email volume, global customer base
+of over 15,000 users. It's an ATS where I was responsible in making sure that releases, and patches were
+delivered successfully and on time.
+
+Key Deliverables:
+• Member of the Technical Design team, Build and Release Module for Development of new products.
+• Worked for DevOps Platform team responsible for specialization areas related to Chef for Cloud Automation.
+•  Technical  leader  to  align  processes  and  tools,  such  as  branching,  source  control  structure,  dependency
+management,  Linux\Windows  hybrid  build  infrastructure,  code  review,  and  check-in  policies,  that  are
+developed and instrumented by DevOps teams across projects globally.
+• Managed Ubuntu Linux and Windows virtual servers on AWS EC2 using Puppet.
+• Experienced with working on Puppet Master and Puppet Agents. Defined Puppet Master and Puppet Agents
+to manage and configure nodes.
+•  Designed  and  deployed  AWS  solutions  using  E2C,  S3,  RDS,  EBS,  Elastic  Load  Balancer,  Auto  scaling
+groups, Opsworks.
+• Optimized volumes and EC2 instances & Created multi AZ VPC instances.
+• Used IAM to create new accounts, roles and groups.
+• Configured S3 versioning and lifecycle policies to and backup files and archive files in Glacier.
+• Deployed cloud stack using AWS OpWorks.
+• Configured Elastic Load Balancers with EC2 Autoscaling groups.
+• Configured and monitored distributed and multi-platform servers using Nagios.
+• Supported 2000+ AWS Cloud instance's and also familiar with Amazon Cloud command line management.
+• Worked on User administration setup, maintaining account, Monitor system performance using Nagios and
+Tivoli.
+• Encrypted EBS volumes via KMS service.
+• Created monitors, alarms and notifications for EC2 hosts using Cloudwatch.
+• Set up Elasticache using memcached.
+• Migrated applications to the AWS cloud.
+• Provided stable build environments for product development.
+• Actively involved in architecture of DevOps platform and cloud solutions.
+• Developed installer scripts using Ant, Python, and UNIX for various products to be hosted on Application
+Servers.
+• Used chef for server provisioning and infrastructure automation in different environments.
+• Set up CI (Continuous Integration) for major releases in Jenkins and TeamCity.
+
+• Integration of Automated Build with Deployment Pipeline. Currently installed Chef Server and clients to pick
+up the Build from Jenkins repository and deploy in target environments (Integration, QA, and Production).
+• Implemented and building tools such as Ant/Maven in order to automate and enhance the overall operational
+environment.
+• Worked on Cloud automation using AWS Cloud Formation templates.
+•  Implemented  Chef  Recipes  for  Deployment  on  build  on  internal  Data  Centre  Servers.  Also  re-used  and
+modified same Chef Recipes to create a Deployment directly into Amazon EC2 instances.
+• Implemented scheduled downtime for non-prod servers for optimizing AWS pricing.
+• Integrated various provisioning and monitoring modules into a single platform using Jenkins/Hudson CI tools.
+• Maintaining a farm of EC2 instances, ELB's and RDS.
+• Troubleshooted issues along the CI/CD pipelines.
+• Evaluated testing of Chef Recipes - Concept of Test Driven Development for Infrastructure as a Code.
+• Implemented Chef Cookbooks for OS component configuration to keep AWS server's template minimal.
+• Written Chef Cookbooks for various DB configurations to modularize and optimize end product configuration.
+• Developed Custom Scripts to monitor repositories, Server storage.
+
+AWS DevOps Engineer
+Kenexa Technologies PVT LTD - March 2010 to March 2013
+
+Key Deliverables:
+•  Technical  point  of  contact  to  align  processes  and  tools,  such  as  branching,  source  control  structure,
+dependency management, Linux\Windows hybrid build infrastructure, code review, and check-in policies, that
+are developed and instrumented by DevOps teams across projects globally.
+• Designing and implementing CI (Continuous Integration) system: configuring Jenkins servers, Jenkins nodes,
+creating required scripts (Perl & Python), and creating/configuring VMs (Windows/Linux).
+• Migrating and maintaining build and test environments into the Cloud Infrastructure.
+• Providing CM and Build support for different applications built and deployed to lower and higher environments.
+Defined and Implemented CM and Release Management Processes, Policies and Procedure.
+•  Automated  the  release  pipeline  to  achieve  zero  touch  deployments  using  Jenkins,  SVN,  Nexus,  Nolio.
+Created deployment workflows in Nolio, which includes prerelease, release and Post release steps.
+•  Coordinate/assist  developers  with  establishing  and  applying  appropriate  branching,  labeling/naming
+conventions using Subversion (SVN) and Git source control.
+• Analyze and resolve conflicts related to merging of source code for SVN and Git.
+• Implement, maintain and support reliable, timely and reproducible builds for project teams.
+• Maintained build related scripts developed in shell for Maven builds. Created and modified build configuration
+files including POM.xml.
+• Primarily used Ruby to write GIT applications and chef Recipes.
+• Used Maven dependency management system to deploy snapshot and release artifacts to Nexus to share
+artifacts across projects and environments.
+• Configured and maintained Hudson to implement the CI process and integrated the tool with Ant and Maven
+to schedule the builds. Took the sole responsibility to maintain the CI Hudson server.
+•  Worked  with  development/testing,  deployment,  systems/infrastructure  and  project  teams  to  ensure
+continuous operation of build and test systems.
+• Managed Git repository, code merging, and production deployments.
+• Supported 1500+ AWS Cloud instance's and used AWS command line Interface to manage and configure
+various AWS products. Wrote automation scripts in Ruby and bash.
+•  Designed  highly  available,  cost  effective  and  fault  tolerant  systems  using  multiple  EC2  instances,  Auto
+Scaling, Elastic Load Balance and AMIs.
+• Utilize EBS to store persistent data and mitigate failure by using snapshots.
+
+• Designed AWSCloudFormation templates to create custom sized VPC, subnets, NAT to ensure successful
+deployment of Web applications and database templates.
+• Designed roles and groups for users and resources using AWSIdentity Access Management (IAM) and also
+managed network security using Security Groups, and IAM.
+• Provide highly durable and available data by using S3 data store, versioning, lifecycle policies, and create
+AMIs for mission critical production servers for backup.
+•  Utilized  CloudWatch  to  monitor  resources  such  as  EC2,  CPU  memory,  Amazon  RDS  DB  services,
+DynamoDB tables, EBS volumes; to set alarms for notification or automated actions; and to monitor logs for
+a better understanding and operation of the system.
+• Utilize AmazonGlacier for archiving data.
+• Used Chef to configure and manage infrastructure. Wrote cookbooks to automate the configuration setups.
+• Installation of Oracle on Linux and Solaris, creating database, creating Oracle users etc.
+
+EDUCATION
+
+Bachelor of Technology in Computer Science
+JNTU - Ashburn, VA
+May 2015 to Present
+
+ADDITIONAL INFORMATION
+
+•  Over  6  years  of  experience  in  Linux  Administration,  Configuration  Management,  Continuous  Integration,
+Continuous Deployment, Release Management and Cloud Implementations.
+• Highly motivated and committed DevOps Engineer experienced in Automating, Configuring and deploying
+instances on AWS, Azure and Rackspace cloud environments and Data centers, also familiar with EC2, Cloud
+watch, Elastic Search and managing security groups on AWS.
+• Expert level knowledge on Amazon EC2 and Amazon SC3.
+• Experience in running web scale services on Amazon Web Services(AWS)
+• Experience in using bug tracking systems like JIRA and Remedy.
+• Experience in installing, configuration and administering of DHCP, DNS, FTP and LVM.
+• Over 2+ year of experience in using configuration management tools like Puppet/ Chef/AWS.
+• Installed and configured an automated tool Puppet that included the installation and configuration of the
+Puppet master, agent nodes and an admin control workstation.
+• In-depth understanding of the principles and best practices of Software Configuration Management (SCM).
+• Excellent experience in documenting and automating the build and release process.
+•  Production  experience  in  large  environments  using  configuration  management  tools  like  Chef  and
+Puppet  supporting  Chef  Environment  with  500+  servers  and  involved  in  developing  manifests.  Developed
+ChefCookbooks to manage systems configuration.
+• Experience in monitoring System/Application Logs of server using Splunk to detect Prod issues.
+•  Experienced  in  Administration  of  Production,  Development  and  Test  environment's  carrying  Windows,
+Ubuntu, Red Hat Linux, SUSE Linux, Centos and Solaris servers.
+• Have 1+ years of experience on Python Scripting in various projects for automating tasks.
+•  Has  Experience  in  continuous  integration  technologies  with  Jenkins.  Designed  and  created  multiple
+deployment strategies using Continuous Integration and Continuous Development.
+• Created and wrote shell scripts (ksh, Bash), Ruby, Python and PowerShell for setting up baselines, branching,
+merging, and automation processes across the environments using SCM tools like GIT, Subversion (SVN),
+Stash and TFS on Linux and windows platforms.
+• Extensive experience in UNIX performance monitoring and kernel tuning and Load balancing to ensure stable
+performance.
+
+• Extensively experienced in using Build Automation tools like ANT, Maven, Gradle and working knowledge
+on other build tools like makefile.
+• Experience with Bug tracking tool like JIRA, Bugzilla.
+•  Established  capabilities  in  application  design,  implementation,  troubleshooting,  monitoring,  continuous
+improvement and change controls. Enhances and automates internal processes to generate efficiency.
+• Proficient in tracing complex build problems, release issues and environment issues in a multi-component
+environment.
+• Coordinated different teams across the globe to deploy different builds to different environments on parallel
+development for multiple projects.
+
+TECHINICAL SKILLS
+DevOps Tools Chef, Puppet, Ansible, Jenkins, Vagrant, Docker and Splunk
+Cloud Platforms OpenStack, AWS, Microsoft Azure and Rackspace
+Operating  Systems  Sun  Solaris  11,  10,  9,  8,  7,  Red  Hat  Linux  3.x,  4.x,  5.x,6.x,  SUSE  […]  Ubuntu,  OEL,
+CentOS, Windows […]
+Network Protocols SMTP, SNMP, ICMP, TCP/IP, FTP, TELNET, UDP, and RIP, iSCSI, Fibre Channel.
+Software and Tools VERITAS Volume Manager 3.x/4.x,WinSCP, FTP, SSL, VERITAS Cluster Services, Cisco
+CNR, Send mail.
+Backup Management VERITAS Netback up 4.x/5.x/6.x, Solstice Disk Suite, tar, dd, cpio
+Web/Application Servers Tomcat, Apache, Maven.
+Database Oracle,DB2.
+Languages C/C++, HTML, Shell Scripting, Perl , Python, Ruby
+
+

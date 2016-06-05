@@ -1,0 +1,164 @@
+Lavanya Milton
+
+Software Test Engineer, QA - Iron Mountain
+
+Lawrenceville, NJ - Email me on Indeed: indeed.com/r/Lavanya-Milton/70dd55e9dc8d7149
+
+● Sixteen years of total IT industry experience in Software Testing, Implementation, Development and Design
+of Web & Client Server projects.
+● Highly experienced in Deployment, Installation, Configuration and Quality Assurance Testing of major and
+minor releases of ETL software
+● Delivered and Supported three critical Web projects under both Conventional and Off-Shore model
+● Highly experienced in Technical Leadership
+● Has a thorough knowledge of ETL Software, Billing, Mortgage and Pharmaceutical business
+
+WORK EXPERIENCE
+
+Software Test Engineer, QA
+Iron Mountain  -  Collegeville, PA - September 2015 to Present
+
+Iron Mountain provides various Information Management Solutions such as Records Management, Information
+Destruction, Data Backup and Recovery to their customers.
+
+● Wrote, Executed and Documented manual Browser App Tests in HP Quality Center
+● Worked on JBehave BDD Framework
+● Developed Automated Tests on Spring Tool Suite STS using Java and Selenium Web Driver Framework
+● Utilized Groovy Script Files that were embedded in Java Files of the Automation Framework
+● Utilized Chrome's Rest/HTTP API Client DHC, passed JSON data and POSTed Requests
+● Produced various documentation on Automation Framework, Oracle, Progress Database Access Methods
+via Squirrel SQL Client 3.3 and Oracle SQL Developer in Confluence
+● Utilized JIRA as issues tracking system and SVN for source code access.
+● Configured Bamboo plans of automation tests, also monitored and fixed Regression and Smoke Tests in
+Bamboo jobs.
+● Executed Automation Tests in the Cloud Environment, Sauce Labs.
+● Utilized Maven as build tool.
+
+Software Test Engineer, QA, Automated Document Factory
+Billtrust  -  Hamilton, NJ - March 2015 to September 2015
+
+Billtrust is the premier provider of automated invoice-to-cash solution.
+
+● Wrote test plans and documented results
+● Tested and signed-off on various features scheduled for bi-weekly sprints
+● Executed and Documented the process of automated regression tests
+Software Tools
+● Built the Application Solutions using Visual Studio 2005, 2013
+● Produced various Confluence Wiki Documents using Atlassian Suite (JIRA, Confluence, Fish Eye)
+● Worked on various cases in JIRA following the QA workflow
+● Executed Continuous Integration Builds in Jenkins
+● Checked out/in files and documentation in SVN
+● Worked on Bare metal machines of 150 GB hard disk, 24 GB RAM and 2.67 GHz
+● Copied databases, Synched Production data to test environment using SQLyog
+
+● Compared database tables using a home-grown C# solution.
+● Analyzed data with extensive queries using SQLyog on MySQL database
+● Configured and worked on PHP web apps
+
+Software Test Engineer, DEVOPS GROUP - Monitoring Server Project
+IBM CORPORATION  -  Princeton, NJ - July 2007 to February 2015
+
+IBM Data Refinery Service Monitoring Server is an application that monitors all hosts of IBM Data Refinery
+Engine and displays the metrics information of those hosts such as alerts about system issues, current status
+of the various components of the Engine, Application usage pattern of the hosts, the top 10 popular API calls,
+the average response time, the worst response time, API usage trend, etc.
+● Logged and verified defects related to Monitoring Server UI
+● Verified defects on SoftLayer Object Storage where Monitoring Server was hosted as Cloud Service.
+Software Tools
+● Built Java, Eclipse and Junit code using Apache Ant build script
+● Analyzed HTML, XML blocks
+●  Downloaded  source  code,  wrote  work  items  in  Rational  Team  Concert,  a  software  development  team
+collaboration tool
+● Deployed, trouble-shooted software in Windows Virtual Machine
+● Verified SoftLayer Object Storage add/delete container folders
+
+Lead Software Test Engineer, QA - OPTIM Project
+IBM® InfoSphere® Optim(TM) Data Growth Solution allows you to extract sets of relational data from one
+or more databases and store the data for future use. Optim Data Growth Solution helps you manage data
+growth with Archive, an Optim component that provides everything you need to create and manage archives
+of relationally intact data from databases with any number of tables, interconnected with any number of DBMS
+and applicationmanaged relationships, regardless of their complexity. After creating an archive file, Archive
+selectively removes data from the production database, according to your instructions, to maximize database
+performance and response time. An indexing feature allows you to quickly search archive files for needed
+information and, if necessary, restore all or a precisely selected, referentially intact, portion of the data.
+● Worked as Technical QA Lead driving the QA effort of multiple major and minor releases of Optim, an ETL
+product.
+● Analyzed Software Specifications and Requirements with Dev and Product Line Management Teams
+● Led multiple platform manual tests and windows automation tests which included complex Installation and
+Configuration of the product and testing release features
+● Built code using Jenkins CI deployment and Package Developer.
+● Uploaded Build Files to External Release Site using Core FTP Lite
+● Analyzed and increased test coverage
+● Created test cases, test plans and automated the same.
+● Created test data in multiple databases
+●  Completed  Smoke  Test,  Functional  Test,  Regression  Test,  Installation  Test,  Build  Verification  Test  for
+multiple releases of Optim, an ETL software
+● Completed on site deployments and enablement of the product.
+● Helped resolve various remote customer installation and configuration challenges throughout the years.
+● Presented demos and transfer of knowledge sessions to various team members individually and as a group.
+● Produced numerous technical and functional documentation for consumption by many cross-functional team
+members on the areas of my responsibility
+● Helped increase the efficiency of QA and Support teams greatly by creating VM templates that are ready
+to be deployed as Test Environments with all the necessary software required for anyone working with Optim
+Components.
+
+Software Tools
+● Wrote, Executed and Debugged Automation Test cases in Rational Functional Tester.
+● Installed Selenium, Identified Objects of Web Application, completed Record and Playback for Automation
+of Tests
+● Wrote Junit tests in Java using Eclipse and built them using Apache ANT and Apache Maven
+● Completed Proof of Concept of Rational Purify Plus, EclEmma which are code coverage tools and Selenium
+Automation
+●  Downloaded  source  code,  wrote  work  items  in  Rational  Team  Concert,  a  software  development  team
+collaboration tool
+● Deployed, Configured and Trouble-shooted software in Windows and Unix/Linux Virtual Machines
+● Installed, Configured and Trouble-shooted WebSphere Application Server-Community Edition, WebSphere
+Application Server
+●  Installed  and  Configured  DB  Clients,  Performed  DDL/DML  Operations  on  Informix,  Oracle,  DB2  UDB,
+Sybase, SqlServer Databases
+● Installed, Configured and Utilized XTERM, Winscp, VMWare VSphere Client
+● Wrote XML, HTML docs for Translation Verification tests
+● Deployed ISO images and ZIP files of the product in Linux, AIX, Solaris Platforms
+
+Senior Java Developer, DEVELOPMENT - CA
+CENDANT/PHH MORTGAGE  -  Mount Laurel, NJ - April 2000 to June 2007
+
+H Project
+CA$H (Cendant Achieving Service Heights) is a Real Estate Services application which keeps track of the
+home mortgage information of customers right from calling for a mortgage, registering and applying for a loan
+till the loan is closed, serviced and paid off. The system helps real estate agents and counselors to originate
+and process the loan in its various stages.
+Roles and Responsibilities
+●  Worked  on  data  gathering  for  Functional  Requirements,  Data  Modeling,  detailed  Design,  Analysis,
+Architecture, Development and Implementation of many enhancement projects.
+●  Developed  many  packages,  stored  procedures  and  stored  functions  for  various  requirements  of  many
+projects.
+● Completed peer Code Reviews and Quality verification of team members' code and unit testing verification
+● Created complex database reports for the users
+● Handled Production Support of all the projects that I worked on in PHH Mortgage for a limited time period
+after release of every project.
+● Worked in Production Support Team full-time for a year and a half maintaining projects and releases.
+● Worked on many java delegates, jsps and databeans for Data Collection Layer
+● Worked extensively on ORM tool - Oracle's TopLink
+●  Rewrote  the  legacy  Funding(CA$H)  system,  Automated  Underwriting  System(PHHORCE)  as  J2EE
+applications with EJBs, JavaPageFlows and TopLink
+● Responsible for a complex everyday 'RATE LOAD PROCESS' ( a complex oracle package) which inputs
+the market interest rate, margin, point and price into all the systems companywide
+●  Maintained  the  heart  and  sole  of  the  project  CA$H  called  'PRODUCTS  &  PRICING'  (a  complex  oracle
+package) which gives the customer the 30 YR. Fixed Mortgage, 5 YR. ARM and hundreds of other products,
+and the interest rate and point quotes
+● Worked on a JSP/EJB Framework based J2EE application which had a number of JSPs to present the data
+and one big Data Service (EJB) to handle the entire retrieval/update of the loan information from a legacy
+system.
+● Worked on Performance Tuning and Optimization at both front-end UI and back-end EJBs of the applications
+and related database stored procedures, packages and functions.
+
+Software Tools
+● Installed, Configured, Trouble-shooted, Monitored performance of Weblogic 8.1 SP3
+● Wrote and debugged Java Classes, worked on J2EE MVC architecture using EJBs, Java Page Flows and
+Oracle Toplink mappings, an object-to-relational persistence architecture
+● Worked on JSP/EJB Framework
+● Wrote Oracle Stored Procedures and Packages
+● Logged defects in Mercury's Test Center, Test Director
+● Checked out and built code in Borland's StarTeam
+
+

@@ -1,0 +1,124 @@
+Jeffrey Wilson
+
+Software QA Automation Engineer - […]
+
+Morrisville, PA - Email me on Indeed: indeed.com/r/Jeffrey-Wilson/8cfdc70048d794f3
+
+Willing to relocate: Anywhere
+
+WORK EXPERIENCE
+
+Software QA Engineer
+SENSUS  -  Morrisville, NC - January 2014 to Present
+
+SENSUS provides hardware and software solutions for electric, gas, and water utilities. Hardware includes
+electric,  water,  and  gas  meters.  Software  solutions  allow  the  utilities  to  receive  meter  reads  and  perform
+demand resets and other actions remotely.
+
+● Developed test support of all software functionality for water and gas meters. Inherited a test base of over
+400 tests for the legacy UI and automated over 300 of them in 4 months.
+
+● Developed test support for customer billing using CMEP reports (California Metering Exchange Protocol).
+Automated over 200 test cases in 2 months.
+
+● Setup a "mini-lab" consisting of 25 water meters and 25 gas meters producing actual reads to allow for a
+realistic environment for test verification and control.
+
+●  Organized  and  lead  the  automation  effort  to  translate  over  1,000  Selenium  IDE  automated  tests  of  the
+Device Manager UI into the Selenium WebDriver framework, so these could be run on Jenkins servers.
+
+● Automated over the air (OTA) testing for new products (ally, ESAAP meters, and temperature/pressure
+sensors) using Device Manager. This included selecting test meters on the fly using DB queries, manipulating
+the  UI  with  Selenium  commands  to  search  for  and  call  various  actions  using  drop  down  menus.  Finally,
+command parameters were verified in outgoing message files and results verified through DB queries and
+UI history.
+
+● Provided training for colleagues in water and gas meter radio communication techniques using proprietary
+tools and software.
+
+● Lead the multi-year QA effort for the new water meter (ally) which involved hardware, firmware, and software
+testing. Frequently demonstrated the complete solution to both internal and external customer.
+
+● Implemented automation of previously verified defects to eliminate manual re-testing.
+
+● Automated over 250 alarm tests cases, which replay captured alarm messages then verify the data in the
+DB, UI, and CMEP alarm report.
+
+●  Automated  direct  to  meter  testing  for  ESAAP  meters  which  writes  .json  files  using  input  parameters,
+subsequently calls a .jar to process those files, and finally interprets the results which are written back to .json
+files.
+
+● Automated comprehensive UI sanity testing involving more than 750 tests which are used to quickly validate
+new builds.
+
+● Development team award winner for Technical Skill and Initiative for the months of April, 2014, April, 2015,
+and November 2015.
+
+● Technologies/Methodologies used include: Java, SQLServer and Oracle Databases, XML, Agile (SCRUM),
+SVN, Eclipse, Putty, WinSCP, Jenkins, TestTrack Pro, Selenium WebDriver, Salesforce
+
+Consultant
+SENSUS  -  Uberaba, MG - August 2011 to December 2013
+
+Supported  the  "Device  Manager"  project.  This  project  re-wrote/re-designed  the  legacy  SENSUS  web
+application.
+
+●  Implemented  over  the  air  (OTA)  commands,  which  are  sent  to  the  meters  via  an  RF  network.  These
+commands  include  demand  reset,  demand  response,  sending  text  messages,  and  managing  alarms.  The
+workings for each command previously existed within the SENSUS radio network interface (RNI), and Device
+Manager called methods on that API using JAXB and listened for asynchronous responses on JMS queues.
+
+● Frequently tested all OTA commands since this was the main functionality of the application. This entailed
+debugging through each command being sent and verifying that correct parameters were sent to the RNI.
+Verified receipt of synchronous/asynchronous responses to ensure that Device Manager correctly processed,
+stored and displayed the returned information.
+
+● Within an Agile framework and 3 week sprint cycle, did general coding, diagnosing problems and bug fixing.
+Handled building ISOs using Jenkins and deploying on development machines.
+
+● Participated in daily stand-ups with SCRUM teams including members from 5 locations in North and South
+America.
+
+● Consulted with product owners and marketing in sprint planning sessions and sprint reviews.
+
+● Communicated design decisions to the development team through prototyping and interactive question and
+answer Google docs with subject matter experts.
+
+●  Worked  on-site  at  customer  locations  in  North  America  as  part  of  installation/deployment  of  production
+systems.
+
+● Technologies/Methodologies used include: Java 7, SQL, XML, UML, Agile (SCRUM), Version One, JUnit,
+SVN, JMS, Spring, iBatis, Eclipse, Ant, Maven, Tomcat, Putty, WinSCP, Jenkins, TestTrack Pro
+
+Software AG Backend Java Developer
+Berlin - 2003 to 2011
+
+July 1999 - July 2003
+Berlin, Germany
+
+AIDOS  developed  a  knowledge  management  software  targeted  at  large  multi-national  corporations.  This
+software would receive millions of documents as input and then connect the contained information. Effective
+searching was facilitated through an intuitive GUI based representation of that knowledge.
+
+● Supported the "KAI| Box" project. This project was the proprietary knowledge management software.
+
+● As part of a development team, implemented the search functionality using Apache Lucene.
+
+● Worked in teams to write specifications for modules, then coded and tested those modules.
+
+● Diagnosed problems and fixed bugs.
+
+● Provided on-site installation and customer support for the application in production.
+
+● Technologies/Methodologies used include: Java, EJB, XML, HTML, UML, SQL, CVS, JUnit, Apache Lucene
+
+EDUCATION
+
+American Sentinel University - Aurora, CO
+1999 to 2001
+
+Humanities/Business
+Milligan College - Johnson City, TN
+1990 to 1993
+
+

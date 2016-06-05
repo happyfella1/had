@@ -1,0 +1,226 @@
+Robert Quinlan
+
+- Email me on Indeed: indeed.com/r/Robert-Quinlan/0d18a1125bcacbf1
+
+WORK EXPERIENCE
+
+Embedded Systems/Software Engineer
+L3 Telemetry  -  Bristol, PA - June 2015 to Present
+
+Responsibilities
+Designed  and  developed  embedded  aircraft  air  born  telemetry  system  for  Linux  and  windows.  Developed
+enterprise wide network management system. Developed communication system to stream real time telemetry
+data. Developed code in C++, C and Java for Linux and windows. 
+
+Developed device drivers for embedded Linux application. Developed front end client in c#. 
+
+Skills used:
+• Languages C++, C, Java, C#
+• Operating systems Linux Windows Multithreaded development 
+• Client/Server ntier
+
+Embedded Software Engineer
+GE Transportation  -  Erie, PA - May 2014 to May 2015
+
+Responsibilities
+Continuation of Trip Optimizer project described below.
+
+Embedded Software Engineer
+GENERAL ELECTRIC Transportation  -  Erie, PA - February 2013 to February 2014
+
+Trip Optimizer is an intelligent, fuel-saving cruise control for locomotive that optimizes fuel consumption based
+on a specific train’s make up and the route traveled. The System calculates the most efficient operation by
+considering such factors as train length, weight, grade, track conditions, weather and locomotive performance.
+The trip’s profile is updated continuously through a complex network of on-board computers, GPS systems and
+advanced algorithms that make adjustments, enabling the train to use less fuel while maintaining smooth train.
+The main purpose of this algorithm is to control the locomotive in an automated manner that optimizes for
+fuel efficiency. The Trip Optimizer is also added with new Interface called Locomotive Command and Control
+Module (LCCM) and use LCCM through the M-9155 network protocol [1] for all its locomotive information and
+governing needs. Prior to the advent of LCCM, TO interfaced with locomotive hardware through a miscellany
+of mechanisms including CPO, shared memory, serial-port comms, and discrete I/O. The key features of TO
+are Automatic throttle and dynamic brake control, Builds individual plan for each train over a given territory,
+Improved  and  consistent  train  handling,  Eliminates  over  Speeding,  Provides  auto  independent  Distributed
+Power control, EPA certified advanced energy management system and Increasing footprint.
+
+Responsibilities
+• Requirement analysis for various customers, tracing and linking them using
+requirement management tools.
+• Source Code modification based on requirements and validation on GE-CCA HITL simulators
+• Proactively communicate and collaborate with System Engineers and Train Control Engineers to analyze
+the HMI needs and functionality.
+• Develop software for x86 and, Power PC architectures
+
+• Software implementation for communication protocols: RS232, TCP/IP, CAN
+•  Develop  embedded  code  for  Interfacing  with  serial  and  CAN  drivers,  file  management,  communication
+systems interfaces, object oriented analysis and design (OOAD), task management, firmware development,
+and engine or power control applications. 
+• Analyze and fix bugs found during testing and validation
+• Perform sanity test on locomotive simulators to ensure locomotive safety
+• Deliver successful high quality embedded software products in C/C++, under both QNX and embedded real
+time operating systems
+• Prepare necessary documentation for customer releases.
+• Following the Agile Scrum methodology by attending daily scrum meetings, completing the user stories as
+per Sprints.
+
+Embedded Software Consultant - Motorsports Division
+SPORTVISION  -  Mountain View, CA - October 2011 to January 2013
+
+Mountain View, California • Oct 2011- Jan 2013
+Innovator of sports and broadcast media products.
+
+Embedded Software Consultant - Motorsports Division
+Embedded  Software  Consultant  for  motorsports  (NASCAR)  division  based  on  OMAP  3530/Atmel  AVR
+solution.
+
+Selected Accomplishments:
+• Develop custom in-house Linux Distribution (Kernel 2.6.35) for motorsport vehicle communication information
+• Enhancements to communication signaling between OMAP and AVR
+• Decrease system boot time and improve system stability issues.
+• Ability to remotely update images in nand flash
+
+Principal Engineer - Systems Engineering
+BROADCOM  -  Sunnyvale, CA - January 2011 to October 2011
+
+Sunnyvale, California • Jan 2011-Oct 2011
+From acquisition of Beceem Communications. Specializing in WiMAX and LTE.
+
+Principal Engineer - Systems Engineering
+Systems Software Architecture for WiMAX and LTE software reference designs and customer platforms.
+
+Selected Accomplishments:
+• Development and architecture of WiMAX subsystem in QNX OS on customer platform (OMAP 4430).
+• Platform Integration requirements and architecture of VoLTE stack into reference design
+• Multi-site Project management, planning, and coordination of tasks between customer and team members.
+
+Large international designer
+QUALCOMM  -  Raleigh, NC - 2007 to 2010
+
+manufacturer,  and  marketer  of  digital  wireless  telecommunications  products/services.  Customers  include
+global ODMs/OEMs and semiconductor firms.
+
+Staff Engineer - Computing and Consumer Product Division
+Create Windows Mobile 6.1/6.5/7 BSP software for QSD8650/8250 SnapDragon ~1GHz ARM Cortex (ARMv7-
+A) architecture processors. Part of team responsible for board bring-up, BSP development, and smartbook
+
+reference software design. Collaborate with teams to assess/establish processor requirements, develop new
+features, and integrate BSP software from previous processor baselines.
+
+Selected Accomplishments:
+• Contribute to System Performance team initiatives, e.g. boot time, system load ordering, memory, latency.
+• Kernel enhancements, e.g. L1/L2 Cache Parity Error handling, Performance Monitors.
+• Bootloader enhancements, e.g. battery charging, keyboard, test menu.
+• Contributed to board bring-up across multiple chipset ASIC revisions, baselines, and AKUs.
+• Work with multi-site technology teams to resolve system issues.
+• Develop python scripts to automate target performance baselines issues.
+• Develop I2C multi-client and multi-master WM Stream driver in interrupt/polling mode function.
+• Work with HW teams to resolve timing defects in I2C core and develop software workarounds.
+• Provide slave device development (keyboard, touchpad, PMIC, sensors) and resolve latency issues.
+
+Principal Software Engineer
+TAPROOT SYSTEMS  -  Morrisville, NC - 2003 to 2007
+
+Morrisville, North Carolina • 2003-2007
+A provider of smartphone embedded handset software; specializes in Telephony, Wireless LAN, and BSP
+software service development. Had roughly 100 employees during peak of operation.
+
+Principal Software Engineer (Technical lead, Software Architect)
+Developed  Wi-Fi  solutions  for  Symbian  OS,  and  BSP  Reference  design  software  solutions  for  Windows
+Mobile. Facilitated business development by participating in pre-sales activities with OEMs, reviewing SOWs,
+and responding to RFIs. Contributed to software development projects by collaborating with teams to define
+system/subsystem requirements, software architecture, and resolve certification issues. Contributed to porting
+across multiple OS versions/releases. Mentored employees in technical matters.
+
+Selected Accomplishments:
+Reference  Design  Service  Contract  for  Qualcomm  MSM7500/7200  Processors:  Based  on  integrated  dual
+processor solution (ARM11, ARM9) for Windows Mobile 6/6.1 Solutions.
+•  Implemented/Extended  GPSID  for  standalone  and  A-GPS  operations;  CETK  GPS  test  harness  per
+verification.
+• Implemented SD/MMC/SDIO multiplexing host controller driver in polling FIFO and DMA INTR Mode.
+• Implemented AMSS RPC SMEM control/event processing and multi-client shared memory between AP/BP.
+• Resolved thread priority, stability, memory, and synchronization porting related issues.
+
+Wi-Fi Solution (802.11 b/g): Fulfilled multiple roles in development of Wi-Fi subsystem for UIQ-related projects.
+Core development based on Symbian OS versions 7.0-9.1.
+• Architecture and Implementation of Wi-Fi subsystem for different OEM vendors.
+• Solutions based on Phillips, Marvell, and TI Wi-Fi chipsets.
+• Implemented command/frame-based semiconductor flavors.
+• Implemented multi-client Wi-Fi control subsystem via client-server with polymorphic plug-in.
+• Development includes connection management, Ethernet data frame translation, host driver implementation.
+• Architecture and implementation of Wi-Fi security subsystem (802.1x).
+• EAP Authentication methods include TTLS, PEAP, TLS, LEAP, CHAP, GTC, MD5, EAP-SIM, EAP-AKA,
+PSK.
+• Encryption(802.11i/WPA/WPA2) includes CCMP-AES, TKIP, Dynamic/Static WEP.
+• Collaboration with Symbian (9.3) for Security Subsystem Key Exchange communications framework.
+• Resolved certification issues with handset OEMs gaining acceptance from Wi-Fi Alliance.
+
+Senior Software Engineer
+PANASONIC MOBILE COMMUNICATIONS  -  Suwanee, GA - 2000 to 2003
+
+Suwanee, Georgia • 2000-2003
+An OEM of wireless handsets, North American division had roughly 250 employees.
+
+Senior Software Engineer
+Created  and  enhanced  software  subsystems  to  fulfill  wireless  carrier  and  QA  requirements.  Defined
+requirements and introduced new features. Eliminated defects from various software subsystems.
+
+Selected Accomplishments:
+Nokia Series 60 Symbian OS: GSM/GPRS mobile phone solution, based on OMAP 1510 AP, Infineon SGOLD
+BP.
+• Implemented and integrated CSR H5/BCSP HCTL and BCCMD protocols.
+• Implemented LDD/PDD for HDLC GSM 7.10 solution.
+• Define use cases and requirements for AP/BP communication.
+• Define Test and Adjust Mode (TAM) component for calibration, testing, and customization.
+• Populate Factory, Service Center, and Carrier Requirements.
+
+Nucleus Plus: TDMA (IS-136) mobile phone solution based on Prairiecomm (PCI3620) w/ARM7 (no MMU).
+• Implemented secure ESN bootloader and critical bank preservation.
+• Implemented custom Serial Protocol for uploading and downloading melodies/bitmaps to NVM.
+• Enhanced and resolved issues regarding critical Alarm Task Handler.
+• Implemented NVM customization interfaces for Authentication, Security, and NAM.
+• Coordinated implementation of Factory and Service Center programming.
+• Resolved Factory and Service Center production related issues.
+
+RF Systems Performance Engineer
+VERIZON WIRELESS  -  Plymouth Meeting, PA - 1999 to 2000
+
+Plymouth Meeting, Pennsylvania • 1999-2000
+Large RF wireless carrier serving clients nationwide. Specializes in wireless voice/data services.
+
+RF Systems Performance Engineer
+Ensured  wireless  network  performance  for  base  stations  in  the  North  Eastern  region.  Utilized  parameter
+thresholds  to  simulate  network  performance.  Analyzed  frequency  cell  planning,  addressed  call-processing
+failure problems, and conducted drive tests. Resolved issues around CDMA, CDPD, and AMPS.
+
+Selected Accomplishments:
+• Initiated significant improvements for region performance, automation of geographical performance reports
+and base station cell filters.
+
+EDUCATION
+
+Artificial Intelligence
+Stanford University
+2011
+
+Bachelor of Science in Electrical Engineering
+Lehigh University - Bethlehem, PA
+1999
+
+ADDITIONAL INFORMATION
+
+SELECTED TECHNICAL SKILLS
+
+OOD Modeling: UML, OCL
+Software Applications: MS Office, MS Project, Visio, Open Office
+SCM Applications: Perforce, ClearCase, ClearQuest, SVN, Git, Bugzilla, PVCS, Tracker, Doors
+Languages: C, C++, ARM Assembler, Python, Perl, XML, Fortran, HTML, VHDL
+OS: Linux/Unix, QNX, Windows Mobile (6.x/7), WinCE (5/6), Symbian (Nokia Series 60/UIQ, 6.0-9.1), Nucleus
+Plus, Windows (7/XP)
+IDE/ICE:  QNX  Momentics  IDE,  Platform  Builder,  Trace32  Lauterbauch,  Eclipse,  GDB,  ARM  Development
+Suite, Rational Rose RT, Microsoft Visual Studio, CodeWarrior
+CPUs: Cortex (ARMv7-A, A8), ARM11, ARM9, ARM7, 0x86
+Microprocessors: QCT […] TI OMAP […] Infineon, Prairiecomm
+Peripherals:  BRCM/Beceem  WiMAX  (BCSM350),  TI  WiFi  (TINet1100B),  Marvell  WiFi  […]  Phillips  WiFi
+(BGW211), CSR Bluecore (Casira), Qualcomm GPSOne, Fujitsu Flash […] […]
+Open Development Platforms: Gumstix, Beagleboard
+
+

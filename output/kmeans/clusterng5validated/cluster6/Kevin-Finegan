@@ -1,0 +1,113 @@
+Kevin Finegan
+
+Network Engineer - Geissele Automatics
+
+Warminster, PA - Email me on Indeed: indeed.com/r/Kevin-Finegan/6b8d7789b77386fd
+
+Willing to relocate: Anywhere
+Authorized to work in the US for any employer
+
+WORK EXPERIENCE
+
+Network Engineer
+Geissele Automatics  -  North Wales, PA - December 2015 to Present
+
+Responsible for the continuous process of maintaining onsite infrastructure as well as our website. Technical
+expert on all things technology. Being a small/medium business, the Network Engineer is also responsible for
+providing help desk support as needed.
+• Designed plan to expand subnet to /22 for future growth. Documented VLAN structure to build out: Voice,
+Data, Design, Security, ISCSI, VMotion, and DMZ networks. Phase Two of the project would build out the DMZ
+and implement layer 3 switching relieving the firewall of all local routing.
+• Configured ISCSI switches and installed Dell EqualLogic SAN according to Dell and VMWare best practices.
+• Upgraded Active Directory Schema from 2003 to 2012R2 in preparation for Exchange 2010 to 2016 migration.
+• Implemented INVICTADesk Service desk solution. Planned to implement LANDesk Management Suite for
+full Service Desk management capabilities.
+• Created standardized desktop image ensuring software and patches are up to date.
+• Developed policies and procedures for New Hire Onboarding, Exit employees, and general security best
+practices.
+• Conducted security audit and made recommendations for server hardening, external access, and terminated
+employees.
+
+Senior Technical Specialist
+Quintiq Inc  -  Radnor, PA - April 2014 to April 2015
+
+As the Senior Technical Specialist, I was responsible for the planning, design, and implementation of all IT
+related duties ensuring stability before any catastrophic failures occurred. Daily activities included oversight
+and management of the VMWare environment, Active Directory management, and all network infrastructure
+as 3rd line support. Other responsibilities included purchasing of all hardware and software as well as contract
+negotiations. Oversaw first line support ensuring help desk tickets were resolved in a timely fashion.
+• Stabilized ESX environment running a mix of 5.0 and 5.5 to 5.5 Update 2. Upgraded all server firmware and
+upgraded RAM in 5 nodes to maximize lifespan of environment saving over $100,000 in hardware costs.
+•  Expanded  Tier  1  &  3  storage  of  unbalanced  Compellent  SAN.  Upgraded  SC20  controllers  to  SC8000
+maximizing performance.
+• Implemented monthly meetings with Business Unit Directors and Technical Services department to ensure
+IT projects align with the actual needs of the business reducing overall helpdesk calls and keeping staff of
+the same page.
+• Architected new database design for North America giving each business unit their own SQL environment
+utilizing the Dell FX2 chassis reducing the server footprint in the datacenter. Implemented Dell Spotlight for
+monitoring of databases.
+•  Championed  upgrade  of  aging  wireless  network  to  new  Cisco  Access  Points,  increasing  bandwidth  and
+stability of wireless network throughout the office.
+• Point of Contact for Technical Services in the organizations implementation of the ISO 27001 Standard.
+
+Network Analyst
+American college of physicians  -  Philadelphia, PA - May 2006 to February 2014
+
+Responsible for the College's internal computer networks and external computer communications. Specifically
+responsible for email, firewall management, and day-to-day administration of Windows networking systems.
+Responsible for maintenance and patch management of over 125 Windows Servers. Also provided assistance
+to the Senior Network Administrator in support of Network projects and acted as the backup when required.
+• Designed and implemented SAP Business Objects Enterprise and supporting systems for data warehouse
+built from the ground up.
+• Conceptualized Windows 2008 Remote Desktop Services farm utilizing RemoteApp applications for credit
+card processing to meet PCI PA-DSS compliance in a multimillion dollar organization
+•  Streamlined  the  organizations  association  management  package  spanning  25  physical  servers  into  6
+VMWare servers.
+• Provided level 2 support to the User Support group assisting in timely turnaround of network related requests.
+• Overhauled the Symantec NetBackup Enterprise backup solution from nightly full backups to daily differentials
+with a weekly and monthly full back up significantly reducing tape usage and increasing backup window.
+
+Network Administrator
+Bergey's Inc  -  Franconia, PA - December 1999 to May 2006
+
+Responsible for installation, configuration, and maintenance of all network related equipment including servers,
+routers,  and  switches.  Managed  creation  and  deletion  of  network  user  and  email  accounts  in  all  network
+systems. Assisted in installation of Cisco routers and replaced costly backup frame relay circuits using business
+class cable modem connections as backup links. Served as backup to the Network Manager
+• Participated in the design and planning of a new corporate data center.
+• Assisted in implementing of Novell GroupWise email system Barracuda Spam filter.
+• Guided implementation of Track-It! Help Desk for support ticket management.
+•  Oversaw  installation  of  Novell  ZENWorks  for  simplified  patch  management  and  software  distribution
+throughout the multi-location network within the organization.
+• Upgraded user workstations ensuring a safe rollover during Y2K.
+
+EDUCATION
+
+Associates in PC / LAN Networking
+Montgomery County Community College
+
+Certificate of completion in Computer Network Administration
+Eastern Center for Arts and Technology
+
+Diploma
+Bishop McDevitt High School
+
+ADDITIONAL INFORMATION
+
+Distinguished  IT  Professional  with  expertise  in  networking  technologies.  Illustrated  success  in  installing,
+configuring, and maintaining all facets of the network. A visionary, with the ability to think creatively to find
+resolution of complex technical issues. Strong leadership skills to spearhead and oversee projects. Works
+well in team oriented environments as well as independently. Consistently recognized for going above and
+beyond the call of duty.
+
+Core Competencies
+
+• Hardware: HP and Dell servers and desktops; Cisco, Meru, F5 Big IP, Compellent, Juniper, NetApp SAN,
+Hitachi SAN, QLogic, Brocade, Fortigae Firewall.
+•  Software:  Microsoft  Windows  (All  Versions),  VMWare,  Novell  Netware,  OS-X,  IOS,  Linux,  NetBackup,
+AppAssure, Business Objects, Microsoft SQL Server, Spotlight, IIS, Citrix, GroupWise, DotNetNuke, ESET,
+Storage Foundation for Windows.
+•  Technologies  /  Protocols:  DHCP,  DNS,  TCP/IP,  LAN,  WAN,  VOIP,  Active  Directory,  eDirectory,  SAN,
+Virtualization, Clustering, Load Balancing, PCI PA-DSS, ISO 27001, mobile.
+
+

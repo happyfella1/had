@@ -1,0 +1,157 @@
+Jan Rovins
+
+Embedded Systems Software Engineer - S-Link
+
+Woodstown, NJ - Email me on Indeed: indeed.com/r/Jan-Rovins/3f89f76e3dfcbe38
+
+Work  System  Architecture,  Design  or  software  development,  Embedded  Linux,  Distributed  Multi-Tier  Unix
+Based systems, or Highly Parallel Systems
+
+WORK EXPERIENCE
+
+Embedded Systems Software Engineer
+S-Link  -  Mount Laurel, NJ - April 2000 to Present
+
+Mt. Laurel NJ 4/2000 - Present
+Project has gone through three Companies, because of a series of acquisitions.
+Embedded Systems Software Engineer.
+
+An embedded telecom signaling Gateway using SS7 & SIGTRAN protocols.
+Sends SS7 Signaling over an IP network using the ITEF SIGTRAN protocols.
+Currently working on a distributed cluster version of this product.
+• Architected the overall Embedded Linux runtime environment, which was a Custom Linux distribution (BSP)
+from  scratch.  Also  implemented  CVS  version  control  &  build  scripts  for  the  Linux  "System"  portion  of  the
+product.
+• Ported product to PPC, Intel x86, Xscale, & Mips Octeon hardware architectures.
+•  Developed  Parts  of  a  SCTP  (RFC  2960)  network  stack  (user  space  &  raw  sockets)  Participated  in  2
+international SCTP interop "Bake-Offs" hosted by the IETF
+• Adapted PPC Linux kernel to support non-standard PCI bridge hardware.(PLX 9060es & Powerspan II)
+• Ported & enhanced a Cross buss PCI network layer that linked multiple systems.
+• Enhanced the Linux MTD flash driver to support a non-standard 64 bit flash geometry.
+• Set up initial lab infrastructure for IP/WAN network testing for simulated packet loss & delay, and also did
+an Ipv6 WAN simulation.
+
+Middleware Architect AVP, Distributed Systems - Common Services
+MBNA  -  Wilmington, DE - April 1998 to April 2000
+
+Credit Card Processing
+Served as tech lead for groups of 1 - 3.
+Design Reviews & Code Reviews of work going on in the department.
+Maintained Core Communication API Libraries (Tuxedo Isolation Layer)
+Developed a workable Release Management infrastructure for deployment of generic middleware services
+used by multiple applications throughout the bank.
+Coordinated the production releases of all Common Services deliverables.
+Supported infrastructure upgrades & conversions of Bank wide applications.
+Participated in technology evaluations, and Determined hardware & software specifications for applications
+going into production.
+Designed & prototyped middleware isolation layer for Plexus Workflow.
+
+Senior Systems Engineer
+AW Computer Systems  -  Mount Laurel, NJ - May 1997 to March 1998
+
+Checker Productivity Analyzer; A supermarket security system that can detect
+
+employee and customer theft, by using computer vision technology, and real-time
+point of sale data. Implemented as a distributed system involving
+multiple Linux nodes and a single Windows NT server as the controller node.
+My work involved the server subsystems on the NT controller, as well as the IPC
+communication layers, was also responsible for maintenance and re-design of the
+C++  system  base  classes,  Event  Manager  sub  system  (NT)  and  also  configuration  management  (builds,
+version control & install).
+
+Senior Software Engineer
+First Data Resources  -  Marlton, NJ - June 1995 to May 1997
+
+Credit Card Services, Client Server, Three Tiered Architecture
+
+Was a member of the Systems Architecture Group. Also did
+Profiling & System performance tuning on a Windows NT based System, and Server Programming on the
+"Data Abstraction Layer".
+Ported UNIX server System layers To Windows NT. (Tuxedo TPM based)
+Also did System Integration of Wang Workflow, UNIX Server Development
+(application Layer Tuxedo Services).
+
+Systems Development
+Dow Jones & Co  -  Township of South Brunswick, NJ - November 1994 to June 1995
+
+Senior Software Engineer:
+Distributed Processing, Text Processing, UNIX (SUN & DEC)
+
+Did extensive performance benchmark evaluations on hardware & software
+components for a new "News Clipping" System. Also participated in the system
+design & did demo prototype of that system mostly in PERL.
+
+Senior Member Technical Staff
+AUTOMATIC DATA PROCESSING, Strategic Architecture Division  -  Mount Laurel, NJ - January 1993 to
+November 1994
+
+Mount Laurel NJ 1/93 - 11/94
+Senior Member Technical Staff:
+Distributed Processing, UNIX (SUN) environment.
+
+Working on design and implementation of the new Central site
+news wire distribution service. a distributed system using
+TCP/IP networking, SNMP network management, and multiple
+UNIX servers. Hardware includes: Sun SPARC 10, HP 9000, IBM RS6000.
+Responsible for Scaling Up from a Pilot demo, to a production news distribution
+server system. Full Production capacity was 80,000 Users. This involved scaling the pilot from a single machine
+to a multiple machine architecture, and implementing failover and redundancy capabilities. Also it involved
+system
+performance tuning and code optimization to meet the full production capacity.
+As well as Integration of new subsystems into an older existing proprietary
+Distribution  network.  Duties  also  included  System  &  Network  configuration  of  Lab  &  QA  equipment,  and
+Software Configuration management for the project.
+
+Senior Software Engineer
+LEEDS & NORTHRUP  -  North Wales, PA - 1990 to 1992
+
+MMI Development Group (Man Machine Interface)
+
+MAX1000; A distributed industrial process control system with realtime
+software developed in C and C++,
+responsibilities included: Specification requirements,
+Design, sed subsystems in a distributed processing environment.
+Developed for UNIX, and CEXEC (a real time bare bones executive)
+Hardware platform was Intel 386 and 486.
+PROJECTS INCLUDED:
+• A real time database retrieval engine (name & list server).
+• A virtual terminal server for distributed systems.
+• Multi-network time synchronization services for distributed system.
+• Lower level data retrieval support for a trend archival system.
+
+Adjunct Professor
+Atlantic County Community College - September 1989 to November 1989
+
+Computers and information Sciences teaching C programming
+
+EDUCATION
+
+Masters in Computer Science
+Villanova University
+1990 to 1993
+
+Atlantic County Community College
+1987 to 1989
+
+B.S.
+Syracuse University:, College of Visual & performing Arts
+1977
+
+SKILLS
+
+OOA/OOD Distributed System Architecture, Server Transaction Protocol Design, Multi Core Parallel
+Processing System Scaling & Performance Tuning (NT & UNIX), Linux Kernel internals, Linux Device
+Drivers, Embedded Linux, SCTP, IP, IPv6, Tuxedo (TPM), CVS, CMVC, SVN, BZR, Git VSS, Text
+Processing (inverse Index): LMDS & VERITY, SQL server 6.0, Informix 7.x, Sybase(dblib), Oracle(oci), T2-
+SDE, GCC Cross compiling.
+
+LINKS
+
+http://www.linkedin.com/pub/jan-rovins/2/a03/ab3
+
+ADDITIONAL INFORMATION
+
+Operating Systems: Linux, SUN Solaris 1, Solaris 2, HPUX 9,10, 11 AIX, Digital Unix, Windows NT/2000, and
+various Real-Time Executives
+
+

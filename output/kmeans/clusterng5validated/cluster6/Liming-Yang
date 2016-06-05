@@ -1,0 +1,74 @@
+Liming Yang
+
+Senior Software Support Engineer
+
+Lawrenceville, NJ - Email me on Indeed: indeed.com/r/Liming-Yang/d9d118025c0649ef
+
+WORK EXPERIENCE
+
+Senior Software Support Engineer
+Verizon Wireless - July 2013 to January 2016
+
+• Software support for real time messaging services.
+
+-  Support  the  application  servers  they  are  processing  huge  volume  (400+  millions  per  day)  of  real  time
+messages. It is multiple threaded java services based on IBM WebSphere, IBM MQ and j2ee jdbc with oracle
+database.
+
+• Big data projects. Data mining and predictive modeling.
+
+- Loading the huge volume real time data into Hadoop (hive/hbase tables) using java MapReducer job, sqoop
+and pig scripts.
+- Design the data struct to query the data to build reports and real time trouble shooting using hive hql and
+java hbase APIs.
+- Prepare the data for analysis using statistics models.
+
+Environment: Java, J2EE, JDBC, Oracle, JMS, IBM MQ, Spring, Hadoop/HBase/Hive/pig, Mapper/Reducer
+and data modeler.
+
+Senior Software Engineer
+CA Technology Inc - March 1998 to May 2013
+
+Sustaining Engineering (Level 2 support) for CA Technology software products and solutions. Responsible to
+support customers to resolve the complicated problems, bug fix, patches creation, service packs and create
+solution for customer's special requests.
+1) Uncenter Management Portal. It is tomcat based application server.
+2) Event/message services and agents.
+3) Workload component.
+4) Worked with ERP (Enterprise Resource Planning) software modules (SAP, PeopleSoft)
+
+• Environment: UNIX, Windows, J2EE, SQL server, Oracle, Apache web server, tomcat, JBoss, ActiveMQ,
+Web service SOAP and RESTful API, C/C++, Java
+
+Software Engineer
+Siemens Hearing Instruments Inc - 1997 to 1998
+
+Software development in Hearing Aids manufacture includes Order entry, Instruments testing and embedded
+software.
+• Environment: Windows, C/C++, SQL, Sybase
+
+Software Analyst
+AT&T - 1996 to 1997
+
+Contractor)
+
+• Working on the CM system (Software Configuration and Management System) in the Windows and WEB
+environment.
+• Environment: Windows, UNIX, C/C++, SQL, Sybase
+
+Software Engineer
+- 1993 to 1996
+
+Software Kinetics Ltd.
+
+• Software development for Computerized Integrated Information Dispatch System.
+• Researching project for parallel solution of scientific computation.
+• Environment: Fortran77, C, UNIX, VM/CMS, Windows
+
+EDUCATION
+
+MS in Computer Science
+The University of Ottawa - Ottawa, ON
+1991 to 1993
+
+

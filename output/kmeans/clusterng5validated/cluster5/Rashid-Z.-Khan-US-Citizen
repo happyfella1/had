@@ -1,0 +1,189 @@
+Rashid Z. Khan (US Citizen)
+
+Embedded SW, DSP & Firmware Engineer (interested in ONLY direct jobs with real
+companies NOT contract jobs) lives in Philadelphia (NOT Pittsburgh), PA, USA
+
+Philadelphia, PA - Email me on Indeed: indeed.com/r/Rashid-Z-Khan-(US-Citizen)/a671a550ff62565b
+
+Authorized to work in the US for any employer
+
+WORK EXPERIENCE
+
+Firmware Engineer
+Alpha Technologies Inc.  -  Pittsburgh, PA - October 2014 to August 2015
+
+Accomplishments
+
+• Designed and tested digital and analog channel identification (full-band diagnostics) digital signal processing
+firmware modules written in C/C++ for a network node status monitoring transponder device known as Powered
+Gateway DOCSIS®.
+
+• Re-coded and tested an existing non-volatile storage C/C++ firmware module according to modified firmware
+architecture for a legacy fiber optic status monitoring transponder device.
+
+Skills Used
+C/C++,  Embedded  Software,  RTOS,  Digital  Signal  Processing,  Communications,  Microprocessors/
+Microcontrollers
+
+Firmware Engineer
+Cheetah Technologies L.P.  -  Pittsburgh, PA - September 2013 to October 2014
+
+Accomplishments
+
+•  Re-coded  and  tested  various  existing  C/C++  firmware  control  modules  according  to  modified  firmware
+architecture for two legacy fiber optics node status monitoring transponder devices.
+
+Skills Used
+C/C++, Embedded Software, Microprocessors/Microcontrollers, Electronics
+
+Electrical and Electronic Systems Engineer
+CNH INDUSTRIAL  -  New Holland, PA - November 2011 to October 2012
+
+Accomplishments:
+
+•  Provided  continuing  engineering  C  language  based  embedded  software  (microcontroller  firmware)
+modifications design support for use in cotton harvester (picker) vehicle’s control electronics. This included
+some exposure to Matlab/Simulink modeling of the vehicle’s sub-system electromechanical control.
+
+Firmware Engineer
+OCLARO, Incorporated  -  Horseheads, NY - April 2010 to February 2011
+
+Accomplishments:
+
+• Made modifications to the GUI (Graphical User Interface) C/C++ source code of an EDFA optical amplifier
+system modeling simulator for displaying amplifier’s noise figure statistics.
+
+• Designed GUI test tool scripts for system verification of an EDFA optical amplifier’s control module using
+RS232 and I2C link protocols.
+
+• Utilized and suitably modified a PC based C/C++ software utility for sanity testing of an optical amplifier’s
+transmission control module using I2C protocol.
+
+•  Made  C/C++  firmware  (real-time  embedded  software)  modifications  for  an  optical  amplifier’s  firmware
+upgrade releases.
+
+DSP Engineer
+Teletronics Technology Corporation  -  Newtown, PA - June 2006 to April 2009
+
+Accomplishments:
+
+•  Designed  C  language  software  modules  for  extraction  of  embedded  high  resolution  (1280x1024)  and
+standard resolution MPEG-2 video elementary bit streams from fiber channel payload frames. 
+
+• Designed preliminary real-time C software modules for Silicon Laboratories embedded 8051 micro controller-
+FPGA based flight recorder control panel product.
+
+• Linked an ADPCM (adaptive differential pulse code modulation) audio decoder software C module to the
+MPEG-2 transport stream de-multiplexing chain (C software) of a real-time video decoder.
+
+• Linked MPEG-4 (Part 2) video decoder software library set, with frame buffering, to an MPEG-2 transport
+stream de-multiplexing chain.
+
+• Modified a third party MPEG-2 and MP3 standards compliant C language software package for real-time de-
+multiplexing of air-to-ground audio-video transport stream telemetry link data.
+
+Senior Engineer
+InterDigital Communications Corporation  -  King of Prussia, PA - April 2004 to April 2004
+
+Accomplishments:
+
+•  Designed  preliminary  interface  C  software  control  modules  for  the  automatic  gain  control  and  automatic
+frequency control hardware blocks of a 3G (third generation) wireless modem platform.
+
+• Designed a C software unit test bench for testing the operation of the automatic frequency control hardware
+block of a 3G wireless modem platform.
+
+• Developed and simulated (using CoWare software and hardware modeling tool) a fixed-point timing manager
+algorithm for providing data flow timing control signals to the hardware blocks of a 3G wireless modem platform.
+
+• Designed several C language based test scripts used by a software test bench for testing the physical layer
+hardware operation of a 3G modem platform.
+
+Senior Engineer
+ITT Aerospace/Communications Division  -  Clifton, NJ - March 1998 to October 1999
+
+Accomplishments:
+
+• Designed selected microprocessor based real-time embedded assembly language software modules for a
+software-defined radio’s firmware improvement project and participated in radio user control interface testing.
+
+Digital Signal Processing Engineer
+Ariel Corporation  -  Cranbury, NJ - September 1997 to March 1998
+
+Accomplishments:
+
+•  Converted  selected  microprocessor  based  real-time  embedded  assembly  language  software  modules  to
+equivalent C language software modules for ITU/CCITT v.34 modem product.
+
+• Designed PC based C simulation software for a T1 network voice-band echo canceller.
+
+Software Design Engineer
+Hewlett-Packard Company  -  Santa Rosa, CA - August 1996 to September 1997
+
+Accomplishments:
+
+•  Fine-tuned  existing  C  language  embedded  software  modules  as  part  of  a  HP  PA-RISC  microprocessor
+based next generation portable radio frequency (RF) measurement instrument’s code division multiple access
+(CDMA) IS-95 standards compliant signal parameter’s measurement firmware.
+
+Member of Technical Staff Level - 1
+AT&T Bell Laboratories  -  Middletown, NJ - February 1988 to July 1996
+
+Accomplishments:
+
+• Designed and unit tested selected microprocessor based real-time embedded transmitter/receiver assembly
+language software modules for 2-wire switched telephone network QAM, QPSK, BPSK and FSK software
+modems.
+
+• Modified and integrated microprocessor based real-time existing infrastructure embedded control software
+modules in both C and assembly languages for a T1 network switch voice quality improvement microprocessor
+circuit pack.
+
+• Designed 4-wire analog leased line modem embedded microprocessor based real-time embedded assembly
+language software modules for non-disruptive circuit quality measurements.
+
+Design Engineer
+Alcatel Transcom  -  Portsmouth, RI - November 1985 to December 1987
+
+Accomplishments:
+
+• Designed and unit tested microprocessor based real-time embedded assembly language software modules
+for automatic software provisioning (programmable gain and equalization settings) of telephone central office
+pulse code modulation channel units via intrusive telephone subscriber loop circuit quality measurement tests.
+
+• Fine-tuned and maintained microprocessor based real-time embedded assembly language echo cancellation
+software modules for a metallic facilities terminal adaptive voice frequency repeater product.
+
+EDUCATION
+
+Master of Science in Electrical Engineering
+University of Texas - Arlington, TX
+1983 to 1984
+
+Bachelor of Science in Electrical Engineering
+University of Texas - Arlington, TX
+1979 to 1982
+
+PUBLICATIONS
+
+Taylor Series Approximation of the Energy Spectral Density
+January 1, 1988
+With  L.  Anderson  and  M.  T.  Manry,  "Taylor  Series  Approximation  of  the  Energy  Spectral  Density",  IEEE
+transactions on Acoustics, Speech and Signal Processing, January 1988.
+
+ADDITIONAL INFORMATION
+
+TECHNICAL SKILLS & KNOWLEDGE AREAS
+
+MS Visual Studio C; basic level experience in C++ language; assembly programming languages; real-time
+embedded DSP software design experience for modems; infrastructure software (C/C++) module re-usability;
+16-bit microcontroller (8051); RS-232 serial data transmission utilizing UART; some familiarity with embedded
+RTOS  concepts;  software  development  life  cycle  familiarity;  strong  theoretical  background  in  digital  signal
+processing concepts and applications; modem selected digital waveform processing algorithm subject matter
+familiarity; TI […] DSP processor familiarity; knowledge of I2C link protocol; familiarity with MPEG-2 video-
+audio transport stream processing; familiar with the use of NetBeans IDE under Ubuntu; familiar with SNMP v1
+MIB design, incorporation and use within a MIB browser; some familiarity with embedded HTML; experienced
+in wiring basic Electronic and digital circuits on a breadboard using logic gates, resistors, capacitors, inductors
+and amplifiers; familiarity with UNIX
+
+

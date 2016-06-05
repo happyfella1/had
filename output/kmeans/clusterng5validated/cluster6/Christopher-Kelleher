@@ -1,0 +1,156 @@
+Christopher Kelleher
+
+Sr. Software Engineer - Health Information Designs
+
+West Chester, PA - Email me on Indeed: indeed.com/r/Christopher-Kelleher/fcf0959f05036c9d
+
+WORK EXPERIENCE
+
+Sr. Software Engineer
+Health Information Designs  -  Auburn, AL - July 2014 to Present
+
+Auburn, AL 7/2014 - Present
+Pharmacy services company that provides clinical expertise to improve the clinical and economic value of
+health care at the earliest point in the continuum of care.
+Sr. Software Engineer
+Developer working on customized web-based Progress application.
+• Fixed web page load times, some that took minutes to load to under a second, by enhancing the Blue
+Diamond framework to parse parameters only once and cache the resulting values.
+• Setup WebSpeed and made some minor changes to the existing SpeedScript HTML pages to further improve
+the application performance and scalability.
+• Designed several prototypes for new frameworks to modernize the application front end, and to separate
+front- end display from the back end database access and business logic. Front end designed with HTML5 and
+popular JavaScript frameworks such as Bootstrap and JQuery. Front end server designed using Node.js.
+Middleware prototypes designed with Node4Progress to run AppServer programs, and using the Progress
+REST
+Adaptor on the AppServer.
+
+Software Engineer
+Quicken Loans  -  Detroit, MI - September 2013 to June 2014
+
+Detroit, MI 9/2013 - 6/2014
+Largest online retail mortgage lender and the second largest overall retail lender in the United States. Employ
+over 10,000
+team members.
+Software Engineer
+Developer working on customized Lakewood Loan Origination System. Worked on various projects to ensure
+compliance with federal and state regulations.
+• Created framework to support new functionality to support requirements for Dodd-Frank Wall Street Reform
+and
+Consumer Protection Act mortgage rules for ability to repay and qualified mortgages.
+• Worked with Mortgage Industry Standard Maintenance Organization (MISMO) format and implemented
+enhancements for data exchange between systems.
+• Developed a real time interface between the enterprise loan origination system, written in Progress ABL,
+and a
+.NET web service for regulatory calculations.
+
+IT Software Development Manager
+Sedgwick  -  Memphis, TN - February 2009 to August 2013
+
+Memphis, TN 2/2009 - 8/2013
+Leading  North  American  provider  of  innovative,  technology-enabled  claims  and  productivity  management
+solutions.
+
+Employ over 10,000 colleagues.
+IT Software Development Manager
+Development  manager  for  newly  developed  application,  a  multi-purpose  data  warehouse  and  online
+transaction
+processing system, running on an Oracle database, utilizing PL/SQL for business logic and .NET for a web-
+based front- end. System enabled compiling claim data from various sources, data entry and validation of data
+elements, and
+reporting applicable claims data to the government.
+• Successfully met goal to enable complete compliance with Mandatory Insurer Reporting requirements for
+liability, no fault and worker's compensation insurance required under Section 111 of the Medicare, Medicaid
+and SCHIP Extension Act of 2007 (MMSEA).
+• Created and maintained complex data models for the application and data warehouse using ER/Studio.
+• Designed complex XML Schemas using Altova XMLSpy to define interfaces between several internal as well
+as external clients' claims systems and the application.
+• Developed a real time interface between the enterprise claim system, written in Progress ABL, and a .NET
+web
+service utilizing SOAP.
+
+Consultant
+Iron Mountain  -  Collegeville, PA - July 2007 to February 2009
+
+Collegeville, PA 7/2007 - 2/2009
+Leading provider of storage and information management services. NYSE: IRM
+Consultant
+Developer and data analyst that utilized Progress ABL to simultaneously undertook and completed large-scale
+data
+projects accurately and meet deadlines, often involving millions of records and large facets of a customer's
+records
+management process.
+• Analyzed data and understanding what the data represents functionally to customers and the records
+management business and recommended solutions to customers based on analysis.
+• Followed and established new processes and procedures to minimize risk and ensure data integrity.
+
+Consultant
+Great Valley Technologies  -  Malvern, PA - February 2006 to July 2007
+
+Malvern, PA 2/2006 - 7/2007
+Provider of medical provider practice management software and electronic medical records.
+Consultant
+Developer working on medical provider practice management software written in Progress ABL.
+• Added several new features to the software, including an enhancement that allowed scanning, viewing and
+printing of documents directly from within the application.
+
+Lead Developer
+Reliance Standard Life Insurance Company  -  Philadelphia, PA - September 2002 to February 2006
+
+Philadelphia, PA 9/2002 - 2/2006
+Leading insurance carrier specializing in innovative and flexible employee benefits solutions including disability
+income and group term life insurance.
+Lead Developer
+Lead developer on Policy Administration and Claims Systems software project, a GUI based Progress ABL
+application
+
+that utilizes the Progress AppServer, Oracle DataServer and an Oracle database backend.
+• Mentored and guided a development staff consisting of several experienced Progress developers and other
+developers just learning Progress.
+• Able to debug and fix complex problems, including being able to increase performance on the policy rating
+calculations from an average of 3 minutes under 20 seconds using a combination of Oracle database tuning
+and SQL query tuning.
+• Developed several complex interfaces to Calligo for batch and online document generation, and to FileNet
+for document archiving, imaging and retrieval.
+
+Consultant
+Fast 4GL Systems  -  Philadelphia, PA - October 1995 to September 2002
+
+Various assignments completed for clients including:
+
+• Sterling Medical Services, a McKesson Corporation Company. Worked on custom medical products order
+management system written in Progress.
+• Independence Blue Cross. Worked on custom prior authorization software written in Progress.
+• Ethicon, a Johnson & Johnson Company. Worked under FDA guidelines on MFG/PRO software.
+• Ohmeda, a GE Healthcare Company. Worked under FDA guidelines on MFG/PRO software.
+• Foxwoods Casinos. Worked on IGT (International Game Technology) software written in Progress.
+• Lucent Technologies. Worked on MFG/PRO software written in Progress.
+• Prudential Insurance. Worked on Infosys McCamish Variable Product Administrative System (VPAS) annuity
+software written in Progress.
+•  The  Rotorex  Company,  a  division  of  Fedders  North  America.  Worked  on  MFG/PRO  software  written  in
+Progress.
+• Royal Doulton. Worked on WDS Distribution Software written in Progress.
+
+ADDITIONAL INFORMATION
+
+TECHNICAL SKILLS
+
+Progress OpenEdge ABL 4GL and WebSpeed SpeedScript with Character, Web and
+Development Graphical User Interfaces • SQL • Oracle PL/SQL • Objective-C • Cocoa Touch • HTML •
+Languages JavaScript • XML • XSD • SOAP • Unix Shell Scripting
+
+Development Progress AppBuilder • Progress Developer Studio OpenEdge • Eclipse • xCode • AppCode
+Tools • WebStorm • Oracle SQL Developer • Quest Toad
+
+Database Progress RDMS & Progress DataServers • Oracle • MySQL • PostgreSQL • SQLite
+Systems
+
+Data Modeling Embarcadero ER/Studio • CA Erwin Data Modeler • Sybase PowerDesigner • Altova XMLSpy
+
+Database OpenEdge Management • Oracle Enterprise Manager (OEM) • Quest Spotlight on Oracle
+Administration
+
+Operating Windows client & server • Unix • Linux (RHEL, CentOS)
+Systems
+
+

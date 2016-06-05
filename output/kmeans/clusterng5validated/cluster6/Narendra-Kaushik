@@ -1,0 +1,214 @@
+Narendra Kaushik
+
+Senior Software Engineer - On Demand Agility Software Private, Ltd
+
+King of Prussia, PA - Email me on Indeed: indeed.com/r/Narendra-Kaushik/4035a758e9c73f5d
+
+⇨ A competent individual with around 5.9 years of rich & comprehensive experience in e-commerce application
+development using WCS 6.0 and WCS 7.0.
+⇨ Presently associated with On Demand Agility Solutions Inc - USA.
+⇨ Has worked on different subsystems of IBM WebSphere Commerce like Order, Member, Catalog, Payment
+and SEO. Has also worked on integration of WebSphere Commerce with application like Adobe CQ5 (Content
+management  system),  PayPal,  Cyber  Source,  Footjoy's  myjoys,  Bronto  application,  Border  Free,  Alfresco
+CMS, Needle application, Channel advisor and Google Analytics.
+⇨ An enthusiastic and dedicated person who can accurately perform challenging tasks requiring precision,
+detailed and exceptional organizational/analytical abilities.
+⇨ Capable of meeting very aggressive schedule and work efficiently in high pressure/stress environment with
+the ability to grasp new concepts & utilize them in a productive manner.
+
+I had worked on BODL (Business object data load) for 10 months
+I was involved in product development that uses springs MVC model along with WebSphere Commerce 7.0
+with feature pack 6.
+I have been working on Web-sphere commerce server 6.0 and 7.0 for 5.8+ years.
+
+Skill Set/Software Proficiency
+Primary Skill WCS 6.0, WCS 7.0, BODL, Java/J2EE, JSP, JSF, Spring MVC
+Other Skill Java Script
+Tools RAD , Eclipse, Rational Clear Case 7.0,Rational Clear Quest, SVN, TFS
+Web/App servers IBM WebSphere Commerce Server 6.0, 7.0
+Willing to relocate: Anywhere
+Authorized to work in the US for any employer
+
+WORK EXPERIENCE
+
+Senior Software Engineer
+On Demand Agility Software Private, Ltd - January 2014 to Present
+
+Senior software engineer
+Horizon Hobby - January 2014 to Present
+
+January 2014 to Present 4
+
+Senior Software Engineer
+GlobalLogic, Inc - January 2013 to January 2014
+
+Product development
+CVCC, CVPOS - January 2013 to January 2014
+
+CrossView,  Inc.  WCS  7.0,  Java,  J2EE,  DB2,  MYSQL,  Spring  MVC,  SOLR,  ETL  (Kettle)  Senior  software
+engineer January, 2013 to January, 2014 15
+
+Associate Technology L
+Sapient Consulting Ltd - November 2011 to January 2013
+
+2
+
+Associate Technology L
+Marks & Spencer's (U.K) - November 2011 to January 2013
+
+2 November,2011 to January,2013 35
+
+Systems Engineer
+Development - July 2010 to October 2011
+
+Enhancement and Maintenance of U.S based healthcare Website. Cardinal health (U.S) WCS 6.0, Java, J2EE,
+DB2, BODL Systems Engineer July-2010 to October-2011 8
+
+PROJECT EXPERIENCE DETAILS
+
+Organization: On Demand Agility Software Private, Ltd
+Client: Horizon Hobby
+Project: E-commerce Retail application built using WCS 7.0
+Project Description:
+The Client had chosen WebSphere Commerce server 7.0 and other services like SOLR, Alliance, BRONTO,
+PayPal, Cyber Source, Border Free, Google Analytics as the part of their Web Application. DB2 has been
+chosen as the back-end database
+
+Responsibilities:
+• Customizing Out of the box functionality related to new customer account creation and updating customer
+account  information.  Assign  new  customer  to  different  application  or  business  specific  segments  as  per
+customer interest.
+• Integrating WebSphere Commerce with BRONTO application which will be used for managing marketing
+strategy and sending marketing mails as per customer interest.
+• Implement SEO URL's throughout the application.
+• Integrating WebSphere Commerce with Alfresco content management system and displaying static content
+throughout the application.
+• Integrating WebSphere Commerce with Cyber Source using secure acceptance silent order post.
+• Framework for displaying HTML content throughout the application.
+• Back end for handling tracking numbers related to orders shipment based on data provided by Alliance order
+management system.
+• Customizing OOB wish list functionality. OOB functionality adds default quantity of Item as 1, changed this
+behavior for adding quantity of item as specified by user.
+• JUnit test for backend functionality.
+• Integrating WebSphere Commerce with Needle application, Channel advisor and Google Analytics, Bronto
+Analytics,  Universal  Analytics,  Google  trusted  store,  Adwards  conversion  tag,  Bing  tag,  Remarketing  tag,
+OLAPIC tag.
+• Customizing e-mail templates and e-mail functionality.
+• Dataload for custom tables.
+• Integrating WebSphere Commerce with Border free.
+◦ Includes Border free data load. Loading commerce data like Catalog data, Country restrictions data to border
+free and border free specific data like Countries that border free supports, Foreign exchange rates, IP lists
+and Pricing customization data.
+◦ Displaying border free equivalent data on Home Page, Category landing pages, Search landing pages and
+Product display pages.
+• Setting up new stores as per requirements. Making all the integration Points work for new stores. (In Progress)
+
+Organization: GlobalLogic, Inc
+Client: CrossView, Inc.
+Project: E-commerce product development using WCS 7.0 and springs framework
+Project Description:
+The Client had chosen WebSphere Commerce server 7.0 and other services like SOLR, ETL (Kettle) etc. As
+the part of their Web Application. DB2 and MYSQL have been chosen as the back-end database.
+
+Responsibilities:
+• Implementing new functionalities like Wish list and my closet.
+• Creating customer profile with minimal information.
+• Modification of payment calculation and integrating application with PayPal and Cyber source.
+• Implementation of command triggers.
+• Handling credit card track data.
+• Handling inventory in case of multiple fulfillment centers.
+• Adding new items to order in post order modification cycle. Adding new items to an order which is already
+fulfilled.
+• Design and implementation of customized product functionality using Footjoy's myjoys functionality.
+
+Organization: Sapient consulting limited
+
+Client: Marks & Spencer's
+Project: E-commerce Retail application developed using WCS 7.0
+Project Description:
+The Client had chosen WebSphere Commerce server 7.0 and other services like ENDECA, Adobe CQ5, PIM,
+Scene 7, DAM etc. As the part of their Web Application. Oracle has been chosen as the back-end database.
+
+Responsibilities:
+• WCS and Adobe CQ5 (Content management system) integration.
+◦ Design and development for integrating two distinct systems.
+◦ Scheduler implementation for Inserting Static content in collateral and marketing data model tables, creating
+E-marketing Spots and Web-Activities related to content using BOD implementation.
+◦ Displaying Static content using E-Marketing spots on respective pages.
+
+• Design and implementation of Dynamic template management for category and product display pages.
+◦ Customizing WCS OOTB category landing and product landing pages template management for custom
+product types.
+• Design and implementation of Item sale module- product carousel (Catalog entry recommendations).
+◦  Customizing  OOTB  catalog  entry  recommendations  for  displaying  products/items  based  on  available
+inventory and for displaying History price, reviews and ratings.
+
+• Performance testing and evaluation of the system and code optimization for performance improvement.
+◦ Evaluating application performance using J-Profiler and Performance logger.
+◦ Code optimization for the hot spots identified during performance evaluation.
+
+• Implementation of ESAPI validation framework.
+◦ Developed a component which will use OWASP ESAPI framework for security validations throughout the
+application.
+
+• WCS SEO implementation.
+◦ SEO URL construction\deconstruction.
+◦ Customizing seourlkeywordgen utility for generating tokens as per requirement.
+◦ SiteMap creation.
+◦ Canonical URL for PDP pages.
+◦ 301 redirect.
+◦ Product URL feed for third party (Rich relevance and Bazar voice).
+
+• Workspace management.
+◦ Enabling workspaces on different environments and resolving issues related to that.
+◦ Using workspace management for handling CMS content depending on status of content.
+
+• Implementing caching strategy.
+
+Organization: Infosys limited
+
+Client: Cardinal health
+
+Project: E-commerce healthcare application developed using WCS and WPS
+Project Description:
+The Client had chosen WebSphere products and other various services as part of their Web Application. DB2
+had been chosen as the back-end database
+
+Responsibilities:
+• Development, Enhancement and Maintenance of the WebSphere Commerce side of the Web site
+• Development of new features at Commerce and BODL side:
+◦ Implementing new functionality for sending orders directly to patient address instead of sending order to
+vendor address.
+◦ Implementation of credit card purchase functionality for Pharma products.
+◦ Handling of invalid and deleted ship to accounts in commerce database through BODL.
+◦ Handling of credit hold validations, contract mappings to ship to accounts and license validations.
+
+• Complete Commerce and BODL Installation and setup of Test environment
+• Giving valuable suggestion to maximize customer satisfaction.
+
+Declaration
+
+I hereby declare that the above information is correct to the best of my knowledge.
+
+Date: 25th, November 2015
+Place: King of Prussia, PA (Narendra Kaushik)
+
+Systems Engineer
+Infosys Limited - January 2010 to October 2011
+
+Certifications and Trainings
+WebSphere Commerce V7.0 Application Development, IBM WCS (000-723) (Certification).
+WebSphere Commerce V6.0 Application Development (Certification).
+IBM WCS 7.0 vendor's training
+Infosys Training at Mysore in .Net
+
+Project Experience Summary
+Project Description Client Technologies Role Period Team Size
+
+EDUCATION
+
+Computer Science and Engineering
+Batchelor of technology
+2009
+
+

@@ -1,0 +1,378 @@
+Igor Antonyak
+
+Senior software engineer/ Software Architect/ PL-SQL Developer
+
+Holland, PA - Email me on Indeed: indeed.com/r/Igor-Antonyak/c702244a237e7a5b
+
+♦ Technology professional with over 20 years of extensive successful experience leading development of
+innovative distributed, multi-tier, cross-platform enterprise software systems. Strong expertise in the real-time
+firmware applications development and maintenance
+♦ Strong industry knowledge and over 10 years of experience in building multi-tiered systems with a focus on
+web services (WCF, AJAX, SOAP, RESTful, XML-RPC, HTML/XSL, XML, Servlets, JSP/ASP/ASP.NET).
+♦ Hands on experience and solid understanding of database (Oracle, Informix, SQL Server, MySQL, JDBC/
+ODBC/ ODP.NET/ Entity Framework) data and process modeling tools and persistence techniques.
+♦ Solid experience through all phases of technology system rollout including business analysis, architecture
+design, prototyping, implementation, testing, and deployment.
+♦ Strong object-oriented analysis, design, and programming skills (UML, ER-diagrams).
+♦ Significant expertise with various advanced cutting-edge technologies, enterprise systems architectures,
+business  modeling,  distributed  object-oriented  computing,  databases,  transaction  processing,  and  legacy
+systems integration.
+♦ Excellent written and oral communication and presentation skills.
+Willing to relocate: Anywhere
+Authorized to work in the US for any employer
+
+WORK EXPERIENCE
+
+Senior software engineer/ Software Architect/ PL-SQL Developer
+Merrill Lynch  -  Pennington, NJ - August 2015 to February 2016
+
+Provide  business  analysis,  technical  specifications,  LOE  and  coding  for  CDOL  business  and  marketing
+software projects. Objects / Database Models structural and functional design.
+- ER data model diagrams / UML class models design / business analysis for new and legacy systems.
+- Provide architecture design for DOCUMENTUM system conversion from single into multiple channels mode.
+- Development Java/JDBC, PL/SQL, C# for MS.NET 4.5 backend and Oracle ETL applications for business-
+to -business communication for customer document management system based off DOCUMENTUM. Target
+was to convert single node DOCUMENTUM structure into 6 nodes grid solution.
+- Upgrade legacy ASP.NET-2.0 documents data collection systems to ASP.NET-4.5.
+-  Development  Oracle  objects  (triggers,  views,  stored  procedures,  packages,  ETL,  DDL  etc)  for  legacy
+DOCUMENTUM threads synchronization.
+- Provide management for continuous integration build process based off MLTP-process for MS.NET desktop
+and web applications.
+- Provide client side script code conversion for legacy web applications compatibility with Firefox, Chrome and
+IE11.
+- Introduce Security Source Code Assurance for legacy ASP, ASP.NET and MS.NET desktop applications
+with source code rewrite based off AUTHZ-framework.
+- Introduce SQL performance analysis in SDLC based off SQL Developer and TOAD.
+- Identify problems uncovered by testing and customer feedback, and correct problems or refer problems to
+appropriate personnel for correction.
+- Maintain all versions of the code using TFS.
+
+Senior software engineer/ Software Architect/ PL-SQL Developer
+
+JP Morgan Chase  -  Wilmington, DE - June 2014 to August 2015
+
+Provide business analysis, technical specifications, LOE and coding for credit card business and marketing
+software projects. Objects / Database Models structural and functional design.
+- ER data model diagrams / UML class models design / business analysis for new and legacy systems.
+- Provide architecture design for business-to-business credit card transactions communication.
+-  Provide  architecture  design  for  legacy  systems  infrastructure  and  source  code  conversion  to  meet  new
+security requirements for banking credit card line of business (like SQL injection and Cross Site Scripting).
+- Development C# /VB.Net MS.NET 4.5 backend and SQL Server/ Oracle ETL applications for business to
+business communication with major credit card providers (Visa, MasterCard).
+-  Upgrade  legacy  classic  ASP-based  credit  card  services  data  collection  systems  to  ASP.NET-3.5  and
+ASP.NET-2.0.
+- Development SQL Server and Oracle objects (triggers, views, stored procedures, packages, ETL, DDL etc).
+- Provide management for continuous integration build process based off JENKINS/ FORTIFY for MS.NET
+desktop and web applications.
+- Provide client side script code conversion for legacy web applications compatibility with Firefox, Chrome and
+IE11 (from VbScript to JavaScript).
+- Design KORN shell scripts for custom vendor data extraction into CHASE's proprietary ETL format.
+- Introduce Security Source Code Assurance for legacy ASP, ASP.NET and MS.NET desktop applications
+with source code rewrite.
+- Introduce SQL performance analysis in SDLC based off SQL Developer and TOAD.
+-  Provide  architectural  analysis  and  redesign  for  legacy  applications  from  MS  OFFICE  to  ASP.NET  and
+backend MS.NET desktop applications.
+- Identify problems uncovered by testing and customer feedback, and correct problems or refer problems to
+appropriate personnel for correction.
+- Maintain all versions of the code using SVN.
+-  Develop  testing  strategies  which  would  be  suitable  to  test  the  modules  impacted  as  a  result  of  both  the
+migration & enhancement requirements.
+- Provide inter-team communication between BA and IT teams as a part of SDLC.
+
+Senior software engineer
+PrintMail  -  Newtown, PA - January 2014 to June 2014
+
+Provide business analysis, technical specifications, estimates and planning for the corporate software projects.
+Objects / Database Models structural and functional design.
+◆Active full cycle code design, technical writing and maintenance for distributed corporate desktop systems
+based off 4 production branches. Corporate infrastructure is designed using 4 MS Access databases integrated
+with central SQL Server 2008 R2 databases:
+- ER data model diagrams / UML class models design / business analysis for new and legacy systems.
+- Development MS.NET 4.5 backend, VB6 frontend and SQL Server DTL applications.
+- Develop WCF based end client e-statements delivery system.
+-  Upgrade  legacy  VB-6  based  production  services  data  collection  system  to  centralized  MVC4/  ASP.NET
+solution with ASPX and Razor view parsing. Provided HTML5/CSS3 web design for MVC views. for purpose
+of billing process accuracy and performance improvement.
+- Development SQL Server objects (triggers, views, stored procedures etc).
+- Design and implement QuickBooks database integration with production based off API libraries for billing
+system.
+- Handling IIS application environment in development and QA environment.
+- Provide data maintenance and database backup/ restore on a daily basis.
+- Introduce Quality Assurance beta testing environment and VSS software versioning.
+
+Senior Software Engineer/ Software Architect/ Tech Lead
+Lexicon Pharmaceuticals, Inc  -  Princeton, NJ - 2004 to January 2014
+
+Senior software engineer, Software Architect, PL/SQL Developer
+◆Technical leader and manager for the Cheminfomatics IT team out of 5 developers.
+◆Provide  business  analysis,  technical  specifications,  estimates  and  planning  for  the  corporate  software
+projects. Objects / Database Models structural and functional design.
+◆Active full cycle code design, technical writing and maintenance for the corporate INTRANET systems:
+- ER data model diagrams / UML class models design / business analysis for new and legacy systems.
+-  Provide  architecture  design  for  various  ASP.NET  web  applications,  SOA/  RESTful  webservices  and
+SharePoint document management systems.
+- WEB-services design for the applications distributed connectivity (JSP/EJB to ASP.NET) and common shared
+resources usage (label printing, chemical replication, precision weighing, etc ).
+- Web development for the IIS-based internal business operations INTRANET portal.
+- Development for corporate legacy desktop systems.
+- VB.NET/C# libraries design for the application's business layer (Active Directory authentication, BI, Web
+Controls, ORM abstraction layers, ActiveX controls etc)
+- Provide migration from classic ASP-based to ASP.NET applications and VB6 desktop applications conversion
+to ASP.NET based off VB.NET.
+- Provide integration between legacy Ms.Net 1.1 and Ms.Net 4.0 based systems from INTRANET portal.
+- Design ASP.NET event driven User Controls (client side and backend), JavaScript objects and libraries,
+JavaScript objects for AJAX / JQUERY / MagicAJAX frameworks, XSLT style sheets.
+- Convert ASP.NET chemistry object attributes registration system into AJAX/JQUERY/WebAPI single page
+application.
+- Create WebAPI modules for analytical equipment API exposure for non-Windows commercial applications.
+- Design multi-thread search engines for processing data from multiple datasources based off WCF.
+- Develop HttpModules for the Web applications flowchart validation and security.
+- Design custom ActiveX controls for the Client-side connectivity with custom equipment (scanner, scale etc).
+- Design objects, packages for Oracle 8i/9i/10g/11g-RAC. Provide Oracle objects performance optimization
+and scalable structure using new PL/SQL 11g2 features(XML DB, DBMS_TEXT, ref cursor data type, etc).
+-  Build  enterprise  data  access  business  layer  based  off  intensive  usage  of  Oracle's  PL/SQL  for  stored
+procedures and functions.
+- Design triggers, views, stored procedures for SQL Server based systems using TSQL and C# (ver. 2005,
+2010).
+- Design chemistry data management PL/SQL objects for using Accord Chemistry Cartridge (ver. 3.5, 5.3, 7.0).
+- Migrate chemistry data management PL/SQL objects from Accord Chemistry Cartridge to DIRECT Cartridge
+8.0.
+- Develop SharePoint 2007 document libraries system integration and management with ASP.NET applications
+and MOSS SDK.
+- Develop sequential workflows for various INTERNET / INTRANET preclinical document systems based off
+SharePoint 2007.
+- Develop DLL libraries for corporate PDF documents (preclinical, analytical, MSDS, etc) management and
+paring system using C# and SharpPDF.
+- Java-objects (JavaBeans) design for the LINUX-based systems interface with corporate PL/SQL data layer.
+- Develop LINQ-based libraries for custom filtering and ordering of ADO.NET output datasets.
+- Migrate legacy ASP.NET page postback applications to MVC3 pattern as a part of application environment
+restructuring.
+- Migrate legacy desktop VB6 applications to WinForms MS.NET platform.
+
+- Support and upgrade for the VB6 desktop chemistry applications, NANT-based make-processes, NUNIT-
+based test system, VSS branching and versioning, Oracle databases synchronization between production,
+testing and development environments.
+- Design network topology for enterprise applications.
+- Identify problems uncovered by testing and customer feedback, and correct problems or refer problems to
+appropriate personnel for correction.
+- Maintain all versions of the code using Visual SourceSafe.
+- Handling IIS application environment in development and QA environment.
+- FDA 21 CFR PART II Cheminformatics regulation application certification.
+
+Here is 3 examples from more than 60 designed systems
+System1: Corporate Chemistry portal (19 subsystems, around 800 forms and 300 objects) for 400 users.
+- Oracle 11g2-RAC with ODP.NET pooled connection (300 tables and materialized views). Package-based
+data access layer (50 packages). Custom web sessions processing for web farm.
+- ASP.NET application server (visualization libraries with more than 80 User / Web Controls).
+- Server-side DLL-based business rules storage, processing and visualization libraries. Client-side JavaScript
+processing with AJAX-communication, interface and common objects library. Client-side ActiveX chemistry
+objects.
+- XML-based ADO.NET data caching for read only information (for multiple data sources merge and filtering).
+- Custom interface for CAP chemistry database (by ACELRYS) and JDE ordering backend system.
+- Convert web applications to non-postback entry data transfer using WCF to save on amount of JavaScript
+coding,  minimize  postback  data  amount  and  extend  Visual  Studio  debugging  capabilities  into  client-side
+scripts.
+System2: Biology tests registration and compound requests staging.
+- PL-SQL Object Type-based data access. Oracle 8i with OO4O custom pooled connection (20 tables).
+- ASP.NET application server (visualization libraries, OO4O's COM-objects instantiation).
+- Server-side DLL-based business rules storage, processing and visualization libraries. Client-side JavaScript
+processing, interface and common objects library.
+- Web services for shared lab equipment.
+System3: Chemistry storage registration and sample replication.
+-  XML-based  ORM  objects  storage,  Oracle10i  with  ODP.NET  pooled  connection  (60  tables,  500000
+transactions per request).
+- ASP.NET application server (visualization libraries, ORM abstraction layer using C#, multithreaded long-run
+processes, web services for the intersystem communication).
+- Web interface for heavy loaded graphic tabular data simultaneous processing (320 objects).
+- MVC-based application flowchart using open source library Maverick.Net.
+-  Server-side  DLL-based  business  rules  storage,  processing,  visualization  libraries,  EXCEL-spreadsheet's
+generation. Client-side JavaScript processing, interface and common objects library. Client-side EXCEL-based
+communication with the CALIPER and TECAN replication equipments.
+
+Senior software engineer/ Software architect
+ATX Telecommunications Inc  -  King of Prussia, PA - 2004 to 2004
+
+Technical management for the 4 development teams out of 26 developers. Analysis, estimation, planning and
+assignment for the corporate software projects. Structural and functional model design (UML, ER-diagrams)
+for the Object/Database models.
+◆Code design, technical writing and maintenance for the corporate INTRANET systems:
+- J2EE (EJB/JSP/JavaBeans/JSP-Tags) development for the enterprise web/file processing cluster. Design
+objects for corporate Java library JAR-repository. Provide development for custom XML-based data repository
+analysis using JavaBeans. Hibernate-based Object/Database API-bridge for Java corporate development.
+
+- SOAP bridge design for the application servers cluster connectivity.
+- Provided migration from ASP-based to ASP.NET applications and web design (DHTML, JavaScript, XML/
+XSLT). Designed C# libraries design for application migration to .NET Framework
+- Developed various Server-Side maintenance SHELL scripts for LINUX/UNIX environment.
+- Designed business logic objects (packages stored procedures, triggers) for Oracle, INFORMIX, SQL Server,
+SQL Server-CE based systems (PL-SQL, TSQL).
+- Maintained SQL Server, MySQL RDBMS, SourceSafe system, JSP/ASP OOP development/test/production
+environments, application installation procedures for more than 60 systems/applications.
+
+Technical leader/ Senior Software Engineer
+ATX Telecommunications Inc  -  King of Prussia, PA - 2001 to 2004
+
+Provided management and technical writing for the development team (8 members).
+◆Designed JSP/JavaBeans/JavaScript/XML-libraries for the customer's billimage processing system running
+under Windows/ JRun and UNIX/ Nestcape Server environments. Developed JavaBeans for business rules
+implementation.
+◆Provided development and maintenance for CGI-based UNIX web applications..
+◆Participated in design and analysis of various applications and reporting tools.
+◆Designed  Winsock-based  Multi-Form  Client/Server  software 
+management VB-6.0, MS Access-7.0 and INFORMIX.
+◆Developed WEB reporting tool design using HTML, VbScript, ADO, ActiveX and ASP.
+
+the  ALCATEL  switch  accounts
+
+for 
+
+Software trainer
+Computer Source Consulting  -  Cherry Hill, NJ - 2003 to 2003
+
+Provided training for:
+◆Java, Visual Basic 5.0 / 6.0 as OOP programming languages for enterprise.
+◆Oracle 7.3/ 8 as database management system. PL/SQL programming language.
+◆Microsoft SQL Server as database management system. Transact SQL programming language.
+◆COM objects design using ActiveX.
+◆Three and two tiers Client / Server application design. Database engines implementation.
+◆Internet application design using VbScript, JavaScript, DHTML and ASP.
+
+Senior Software Engineer
+ATX Telecommunications Inc  -  King of Prussia, PA - 2000 to 2001
+
+for the application interfaces development. Implements XML-based MDI/screens/elements/fields/data source
+(EJB/JDBC/FileSystem/SOAP) definition language.
+System2: Corporate customer's portal www.atxinsight.com (around 2000 forms and 100 objects).
+- INFORMIX RDBMS with XML-configured concurrent JDBC connections (more than 1000 tables).
+- Apache-2.0/Tomcat-4.29 4 web servers and 2 file processing servers cluster with SOAP-based custom API.
+-  Server-side  JSP/EJB-based  business  rules  storage,  processing  and  visualization  libraries.  Client-side
+JavaScript processing, interface and common objects library. Client-side Java applets.
+System3: Business analysis, production operations and billing support INTRANET web portal (250 forms).
+- INFORMIX RDBMS with ODBC connection (200 tables).
+- IIS-5.0 web server with NET Framework.
+-  Server-side  ASP-based  processing  and  visualization  custom  framework  libraries.  Client-side  JavaScript
+processing, interface and common objects library. Client-side Java applets.
+- Common usage objects based off ActiveX DLL deployed in MTS for Telnet, FTP, Winsock, compressing,
+document conversions, communication with Netscape Enterprise Server.
+System4: Sales staff management system (70 forms).
+- SQL Server RDBMS with ODBC connection (40 tables). Triggers, views and stored procedures.
+
+- IIS-5.0 web server with ADO-3.0.
+- Application forms for sales and administrative interface based off ASP-pages.
+- XML-format data communication with the corporate systems. Table forms and Reports based off XML, XSLT,
+JavaScript presentation and processing libraries.
+- ActiveX DLL for image/data upload and download.
+
+Software engineer
+MEI Technologies  -  West Chester, PA - 2000 to 2000
+
+Designed ActiveX custom controls for export data from MS-SQL Server to HP-Unix databases.
+◆Designed  stored  procedures  and  triggers  for  the  SQL  Server-6.5  based  system  to  provide  company
+movement toward Oracle oriented system. Create and maintain control software using VB-6.0 and ADO for
+the database connections and data manipulation for the above process.
+◆Participated in design and analysis of various applications using VB-6.0 , MS SQL Server-6.5 and reporting
+tools.
+◆Designed  Multi-Form  Client/Server  software,  database  structure  and  data  manipulation  queries  for  the
+company products local audit data collection using VB-6.0, DAO and MS Access-7.0.
+◆MEI production statistics collection software design using VB-6.0 and ADO.
+◆Designed  stored  procedures  and  triggers  for  the  production  control  data  collection  RDBMS  based  on
+Oracle.
+◆Designed Oracle packages for the production database data integrity control team support using PL/SQL.
+◆Developed and maintenance of the ActiveX-EXE servers for the company instrumental interface support.
+◆Production reporting tool design using HTML, VbScript, ADO and ASP.
+◆Developed interrupt firmware routines for the instrumental custom serial interfacing using Assembler.
+◆Realtime image processing algorithms and firmware design using C and Assembler.
+◆Gaming interfaces firmware design using C and Assembler.
+◆Provided software version control support in team using PVCS-5.3/6.0. Build PVCS make scripts.
+◆Consulted with users to define their needs and explain the systems features. Conduct system and product
+specifications documentation.
+
+Software engineer
+Accu-Sort Systems, Inc  -  Telford, PA - 1996 to 1999
+
+Designed  view,  stored  procedures,  triggers  and  database  structure  for  the  company  firmware  products
+shipment and production control system based on SQL Server-6.5. User interface design for the database
+connections and data manipulation using VB-5.0 and RDO.
+◆Designed interface, structure and queries for the local access databases using MS Access, VB-5.0 and
+Crystal Report.
+◆Designed RDO and ODBC API access ActiveX custom controls and classes for the team project support.
+◆Designed instrumental system utilities for the company systems field adjustment using VB-5.0.
+◆Customized software for the PC-based conveyor control systems using TurboC.
+◆Developed interrupt routines for the embedded systems synchronization with real time processes.
+◆Designed  real  time  optical  recognition  algorithms  and  firmware  for  the  barcode  scanners  and  object
+detectors based on RISC processors ADSP-2105 and MIPS-3000 with Assembler and C language.
+◆Conducted  personnel  training  for  the  Visual  Basic,  SQL  Server-6.0  and  RISC  processors  firmware
+application design.
+◆Provided documentation and customer support for the company software products.
+
+Software engineer
+"IKKO" Engineering Company  -  Львов - 1993 to 1996
+Team leader of two programmers and three electronics engineers.
+
+◆Participated  in  design  and  coding  of  various  size  and  nature  applications  using  Visual  Basic  and  MS
+Access.
+◆Developed optical recognition and video filtering software for the INTEL 8086 based system.
+◆Designed software for the teaching system network file server using Turbo Pascal.
+◆Designed firmware for the thermo-control technology equipment using Z80 Assembler.
+◆Designed software and hardware for the IBM-PC ISA-interface technological periphery.
+
+Scientific researcher
+"ELVIT" Defense Scientific Research Center  -  Львов - 1988 to 1993
+Designed mobile measurement and conveyor data processing systems for spectrum analysis.
+◆Created software and hardware for the mainframe input/output channel microprocessor equipment.
+◆Designed hardware and software for IBM - PC prototype computer control system.
+◆Designed analog input devices and software for the audio band spectrum analyzers.
+◆Developed software using Assembler, C and Pascal languages for IBM/PC and PDP-11 computers.
+
+EDUCATION
+
+Keystone University
+December 2002
+
+design
+CSC Institute - Southampton, PA
+December 1999
+
+project management
+Learning Tree - West Chester, PA
+October 1999
+
+MS in Computer Science
+State Lvov Technical University - Львов
+1983 to 1988
+
+ADDITIONAL INFORMATION
+
+Professional Skills
+Operating Systems: LINUX, UNIX, Windows […] ISIS-II, CP/M, MS-DOS
+Programming Languages
+C#, Java, C, LINQ, C++, VisualBasic-6.0/.Net/CE, VBScript-5.0, JavaScript, Assembler, PL/M, C, Pascal, Korn
+Shell, Keil C51/ASM51, MASM-x86, C, HTML, XML, XSLT, ASP/ ASP.NET, JSP, SOAP, SOAP-RPC, CSS
+
+Programming Technologies:
+J2EE(EJB, JavaBeans, JSP, Servlets), JNI, Struts, JAXP, FOP, POI, ANT/NANT, JFC (Swing), WEB Services,
+WebAPI, XML, ActiveX, OLE, MS MTS, Windows API, HTML-DOM, WinSock, Apache-SOAP
+
+Programming Tools:
+JBuilder-10, Forte, […] Visual Studio-6.0, Embedded Visual Basic, XML Spy, Altova XSLT Designer, Eclipse,
+DreamWeaver-7.0
+
+Middleware:
+
+Reporting Services for SQL Server 2008, SharePoints 2007(MOSS SDK), IIS-6.0/7.0 (ASP.NET […] /ASP ),
+Jboss-3.2.3,  Tomcat-4.1.30  (JSP/  Servlet),  JDK-1.4,  NET  […]  4.5,  Windows  CE,  Hibernate/  Nhibernate,
+Log4Net, Accelrys-5.3 Chemistry Objects / Chemistry cartridge, AJAX, JQUERY, JSON, Maverick.Net, Magic
+AJAX, SharpPDF, GDI image library, IonicZIP, QuickBooks API library.
+
+Databases:
+[…] Informix-7.2, MS SQL Server-6.5/ 7.0/ 2000/ […] MS Access, MySQL-4.01, SQL, Transact-SQL, PL/SQL,
+SQL Plus, ODBC,/JDBC, RDO, DAO, ADO,ADO.NET,ODP.NET(9.2, 11r2), OO4O
+
+OOA/OOD Methodologies/ Tools:
+TOAD-9.6/10,  Erwin-4.1,  VisualUML-3.22,  Argo  UML,  MS  Visio,  CVS,  TFS,  Subversion,  JENKINS,Visual
+Source  Safe,  FORTIFY  MS  Front  Page,  Crystal  Report-8.0,  CorelDraw-9.0,PhotoShop,  Seagull's
+Bartender-9.0, Jira, ServiceDesk, MS VisualStudio […]
+
+Hardware: Microprocessors: 8080, Z80, 80x86, 8048, 8051, ADSP-2105, […] IBM PC 80x86
+
+

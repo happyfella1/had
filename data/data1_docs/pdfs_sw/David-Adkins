@@ -1,0 +1,158 @@
+David Adkins
+
+Senior Software Engineer
+
+Shamong, NJ - Email me on Indeed: indeed.com/r/David-Adkins/24a8a45d2ee3fb61
+
+SENIOR SOFTWARE DEVELOPER, TEAM LEAD AND PROJECT MANAGER
+
+Driven Software Engineer experienced in developing innovative applications for industry leaders. Expertise
+in the initial architecture, development, testing, implementation, and troubleshooting for delivery of leading-
+edge technologies.
+
+*  Offer  a  background  of  20+  years  and  a  record  of  success  creating  high-performing  applications,
+enhancements, and features that interface with various systems, simplify processes, and resolve complex
+problems.
+* Leverage expertise in Java J2EE Technologies programming and experience in agile environments.
+* Served in several lead roles, ensuring the successful delivery of applications on time while within budget.
+* Equally adept as an individual contributor and team player with a keen focus on quality, timeliness, and
+ongoing improvement.
+
+WORK EXPERIENCE
+
+Senior Software Engineer
+EBAY ENTERPRISE  -  King of Prussia, PA - 2013 to 2016
+
+Held  a  key  role  in  the  development  of  integral  applications,  software  components  and  services  to  reduce
+analysis of reported issues and drive productivity. Developed and documented software enhancements while
+collaborating with the Product and Services teams to improve processes and prevent recurring errors. Set up
+Centos Linux in VMWare instances to troubleshoot reported issues with partner sites which included the full
+configuration of Intershop site including Oracle Database setup and importing data dumps of production data
+using data pump to reproduce issues. Setup Mobile angular application configured to go through Mule ESB
+to back end Intershop application soap web service.
+* Spearheaded the development of a tool to address Epicor integration issues, improving data integrity by
+providing better method to recognize and accurately parse and catalog application logs. Identified root cause
+of issue and provided resolution updating over 1 million records in partners Web Store Database.
+* Designed and implemented a framework which cut the triage of errors by over 50% as well as produced key
+analytics to quantify all errors, giving exact reasons for each error.
+*  Instrumental  in  improving  software  quality  for  Sterling  OMS  issues,  identifying  root  cause  that  caused
+inventory events not being published and of order discrepancies impacting overall customer satisfaction and
+brand loyalty; developed a solution which will directly increase revenues by ensuring accurate listings.
+* Discovered payment service issues with credit cards, presented problem to key stakeholders and devised
+a solution that minimized customer complaints that utilized reward programs and coupons in conjunction with
+credit cards.
+* Identified and remedied cause of Solr Search Index data discrepancies with Source Data from Database
+alleviating customer service issues impacting revenue; saving hundreds of programming man hours.
+
+Senior Software Engineer
+FRONT PORCH DIGITAL  -  Mount Laurel, NJ - 2011 to 2013
+
+Contributed to all aspects of software development while working within a collaborative agile team. Developed
+core Java applications to better serve customers and provide integral support to resolve software problems.
+
+Served as a lead on database projects, creating a simpler, cleaner implementation by using Hibernate ORM
+rather than an in house built ORM Developed a DIVA Automated deployment and testing application designed
+in Java, using an XML configuration to deploy, initiate and test applications in Amazon AWS cloud solution
+*  Provided  critical  backup  services  for  the  DIVA  system  using  an  Oracle  database  -  monitored  backups
+and metadata (flat files) which also monitored all CPU and Disk Space utilization. This improvement greatly
+increased customer service by introducing a messaging system to clients notifying them that they were at
+maximizes capacity.
+* Designed and developed a java based application to schedule and monitoring oracle RMAN backups and
+backup ups of proprietary metadata files application which provided ability to send out e-mail notifications to
+multiple recipients for critical errors. Utilized RSYNC to push backup files to remote servers launched through
+the Java application.
+* Decoupled the system - it was originally built on TCP sockets, each client had individual connections which
+created scattering and errors: Introduced message brokers to publish system status allowing those interested
+to subscribe reducing over stress on the Diva System. Built the system in an agile team environment introducing
+hibernate as a light weight database layer allowing more efficient queries and transactional inserts and updates
+to Oracle 11g databases.
+
+Senior Architect/Programmer
+NEW JERSEY STATE POLICE  -  West Trenton, NJ - 1998 to 2011
+
+Developed core business web-based Java applications in support of a 24/7 public safety organization which
+increased  productivity  of  the  police  while  improving  the  accuracy  and  reliability  of  critical  data.  Pursued
+technology initiatives to streamline business processes, improve response time and strengthen information
+quality.
+* Appointed as Project Manager for the state police side of the Red Light & Electronic Summons Project,
+enabling significant process automation that reduced administrative tasks for officers to focus more on field
+needs.
+- Created an interface (WebSphere ESB and MQ) allowing police to enter data once automatically replicating
+over to other systems including the Records Management System (RMS).
+- Architected systems, which were adopted throughout the state, including new ticketing system that alleviated
+task of officers having to deliver paper tickets in-person.
+* Architected and developed an E-Ticketing (Electronic Summon Submission System and Gate Way) using
+Java, Hibernate, Oracle 10g Database, IBM MQ Series and IBM Enterprise Service Bus (ESB).
+*  Designed  and  developed  the  NJTR-1  (New  Jersey  Traffic  Report/Crash  Report)  using  Java,  Spring/
+Hibernate, Oracle 10g, Adobe Air which streamlined critical processes including allowing the completion of
+accident reports in the patrol car, improved communication through Soap service on a Web Logic application
+server.
+* Designed and implemented an interface to a third party CAD System providing real time information used
+to accurately complete accident reports, relieving officers from having to key information captured in other
+systems - system allowed all information to be captured on the initial dispatch which reduced redundancies
+and also allowed the officer to complete the summons at a more optimal time.
+*  Spearheaded  state-wide  deployment  of  the  RDDB  (Resource  Directory  Database)  asset  management
+system (developed in ArcIMS, Web Services, Top-Link, Oracle 10g, Sun-Portal gateway), enabling tracking
+and availability of all equipment and inventory; this was the first ever computerized directory of critical assets
+used to plan for/respond to emergencies.
+* Served as the lead on the NCIC 2000 project used for fingerprinting - this was the first in the US to use
+this system to submit fingerprints. Integrated the Federal Bureau of Investigations C++ libraries to manage
+fingerprint data and attached to NCIC records and to query national database (NCIC) for wanted persons.
+Built interface to capture and format mug shots and identify markings to NCIC specifications for submission
+to NCIC database.
+
+* Instrumental in the development of the DIVR (Digital In-vehicle Video Recorder project) - utilized a third party
+integrator which produced equipment and software that went into cars to capture video. Lead on the design and
+development of the CRABSWS (CAD & RMS Abstract Web Service) which matched DIVR (digital in vehicle
+recorders video clips) to CAD incidents and set retention periods for the data. Developed Java applications
+to process incoming videos, architected and developed this on a web based platform to provide interface for
+retrieving and viewing motor Vehicle stop videos. Created an API that detected the videos and automatically
+tagged the video with CAD systems and tied this into the RMS to reduce any redundancies and saved time
+matching up records.
+* Led design and development of RMS2G0 (Mobile Records Management Reporting System), enabling New
+Jersey to first in the nation to capture/submit fingerprints for query from a mobile application; designed in Java,
+XML, and IBM MQ-Series.
+- Integrated barcode scanning using custom C++ libraries, enabling capture of registration and driver's license
+information from provided documents.
+- Facilitated capture of GPS data and associated with reports for analysis, report retrieval for editing, and
+submission.
+* Created a reporting system: MAPPS (Management Awareness Personnel Performance System) to document
+RMS/CAD records; utilized a third-party tool to analyze the data. Created a critical data warehouse and analysis
+system for NJ State Police compliance with federal and state requirements.
+*  Captured  images  and  provided  application  (visual)  to  print  out  ID  cards  for  the  NJSP  Human  Resource
+Management System.
+* Designed and integrated the image storage inside an Oracle Database and enabled access to these photos
+through a statewide web application and web service as the lead for the Sex Offender Public Registry System.
+
+EDUCATION
+
+Diploma in Computer Programming
+The Chubb Institute
+
+Electronics and Data Processing Systems
+New Jersey and Oregon State
+
+LINKS
+
+https://www.linkedin.com/in/davidladkinssoftwareengineer
+
+ADDITIONAL INFORMATION
+
+Key Skills:
+Software Design & Development ? Project Life Cycle ? Object Oriented Analysis
+Research ? Coding ? Documentation ? Test Planning ? Debugging ? Defect Management
+
+Technical Skills
+Languages:  Java  J2EE,  Intershop  platform,  Adobe  Action  Scripting,  Flex,  JavaScript;  DOJO,  AJAX  and
+JQUERY, Angular, HTML, Visual Basic/VBA, PHP, Python, IBM E-SQL,C, C++ Cobol, and CISCS, XSL/XML
+Databases: Oracle 8i to12g, DB2, Fox Pro, MS Access, Microsoft SQL Server, Cassandra NoSQL
+Middleware:  Hibernate,  Top-Link,  Struts,  Spring,  IBM  WebSphere;  ESB,  Message  Broker,  Message  Flow,
+Mule ESB, ArcIMS & ArcGIS Server (ESRI Mapping integration software), RabbitMQ, ActiveMQ, SonicMQ
+Third Party: Apache Solr, Apache ZooKeeper, Epicor, Facebook, Omniture
+
+Tools: Jdeveloper, Eclipse, Weblogic Workshop, Maven, Java, ANT, Jenkins, Together Soft, Rational Rose,
+Toad (Oracle optimizer tool) Visual Interdev, Visual Studio, Crystal Reports, Oracle Reports, SVN
+Servers:  Oracle  Application  Server,  Oracle  Weblogic  Server,  Apache,  Tomcat,  WSO2,  Amazon  (AWS),
+Apache, VMWare
+
+

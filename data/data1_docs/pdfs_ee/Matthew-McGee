@@ -1,0 +1,242 @@
+Matthew McGee
+
+Technical Architect - Razorfish
+
+Philadelphia, PA - Email me on Indeed: indeed.com/r/Matthew-McGee/dc415218c712e252
+
+Authorized to work in the US for any employer
+
+WORK EXPERIENCE
+
+Data Warehouse Engineer
+Continuum Health Alliance  -  Marlton, NJ - October 2015 to Present
+
+Responsibilities
+Responsible  for  analysis,  design,  and  implementation  of  clinical  and  claims  data  flows  with  emphasis  on
+advanced care organizations and population health management.
+Specifically, I created Applications and automated processes using Visual Studio 2015, C# and SQL Server
+tools. 
+Used  Visual  Studio,  SSIS,  SSAS,  SSRS,  TFS  to  migrate  a  shared  development  server  to  a  full  featured
+continuous integration environment including full process instrumentation.
+Used SQL Data Tools to create Kimball lifecycle patterned data warehouses.
+Created and maintained several data pipelines, outbound feeds, reports and cubes.
+
+Consultant
+Independent Professional Services  -  Norristown, PA - August 2014 to September 2015
+
+Responsibilities
+Responsible for analysis, design, and implementation of BI dashboards and backend artifacts
+Used C#, ASP.Net MVC, WEB API, Angularjs to build dashboards
+Used SQL Server, SSIS and Tableau to create data marts 
+Data formats; EDI, XML, EXCEL, CSV, TXT, Oracle and SQL Server
+Used JIRA, Scrum, GIT, Jenkins, MS Office, Skype in daily workflow
+
+Consultant
+Global Healthcare Exchange  -  Louisville, CO - January 2014 to June 2014
+
+Responsibilities
+Created Web based Applications and Dashboards used to make purchasing decisions.
+Responsible for design and implementation of business intelligence applications
+Used Visual Studio, Asp.Net, AJAX, JavaScript, Telerik controls and Microstrategy on the front end
+Used Entity Framework 6 to access Oracle databases
+Used Toad to create Tables, Procedures and other database artifacts
+Used .Net Test framework and HP Quick Test Pro for automated testing
+Used Rally for AGILE/SCRUM/CAN BAN management
+
+Technical Architect
+Razorfish  -  Philadelphia, PA - May 2008 to October 2013
+
+Created cloud based business intelligence systems used to optimize client marketing.
+Responsible for analysis, design, implementation and maintenance of various systems
+Primarily used Microsoft servers and tools
+Collected requirements and defined functional specifications
+Designed solution and created implementation tasks
+
+Utilized Agile and SCRUM to drive implementation
+Technically lead on and offshore teams; implementation, testing, deployment, support and operations
+Designed Web analytics data warehouses
+Designed ETL systems for large databases
+Created and supported various ASP.Net applications
+Created a metadata driven Database factory that created Data Warehouses
+Created metadata driven package factory that created ETLs
+Created metadata driven Analytics factory that created Cubes
+Integrated applications and data feeds supporting SEO and Web Analytics
+Created SharePoint applications
+Implemented a SQL based rules engine that eliminated significant code and increased scalability
+Replaced numerous manual operations with automated workflows and ETL processes.
+Optimized architectures, processes, databases and programs to reduce cost and improve efficiency
+Instrumented numerous applications and data flows to enable monitoring and fault recovery
+
+Consultant
+Hill International  -  Marlton, NJ - January 2008 to May 2008
+
+Responsible for the design and implementation of SharePoint based system
+Built Workflows Using Windows Workflow Foundation (WWF) and Visual Studio
+Designed and implemented ASP.Net, C# application for data collection and import
+Built SharePoint applications using SharePoint Designer
+Built Custom Fields for SharePoint using Visual Studio, C#
+Integrated SQL Server data via SharePoint's Business Data catalog (BDC)
+Installed and configured SQL Serer
+Installed and configured SharePoint
+
+Consultant
+Lockheed Martin  -  Cherry Hill, NJ - January 2007 to December 2007
+
+Responsible for Design and implementation of internal system
+Developed ASP.Net application using Visual Studio .Net, C#
+Developed packages and stored procedures using Oracle
+Developed Web parts in C# for SharePoint
+Utilized Web Services, AJAX, and Infragistics controls
+Utilized Microsoft Application blocks for Exception Handling
+
+Senior Developer
+Popular Financial Holdings  -  Marlton, NJ - October 2005 to January 2007
+
+Responsible for analysis, design and implementation of internal applications
+Participated in several projects as technical analyst and designer
+Participated as team lead on various projects
+Installed and configured SharePoint Portal Server
+Participated in MS Share Point implementation
+Integrated InfoPath MSMQ into SharePoint
+Built several Visual Studio .Net, C# Applications
+Migrated applications to Visual studio .Net, C#
+Re-Factored several applications into SOA, using .Net, C#, and web services
+Utilized Microsoft Application Blocks for configuration, security and Error handling
+Utilized Windows Workflow Foundation
+Successfully completed SQL Server training
+
+Technical Lead
+Omicron Consulting  -  Philadelphia, PA - July 2004 to October 2005
+
+Responsible for analysis, design and implementation of various client's systems
+Developed use cases, object models, data models and sequence diagrams using Visio
+Developed various user interfaces and web services using Asp.net, infragistics components and C#
+Developed stored procedures, functions, and triggers for SQL Server 2000 and Oracle
+Integrated ASP.Net applications with Share Point
+Created Web Parts for share point using Visual studio, c#
+Created reports using Crystal Reports and Oracle
+Installed and configured Windows 2003, IIS, SQL Server, Share point
+
+Consultant
+Tripod Technologies  -  Cherry Hill, NJ - May 2004 to July 2004
+
+Responsible for design and implementation of a Broker Management System prototype
+The prototype served as the Architecture pattern for completion by offshore development team.
+Developed User Interfaces in ASP.Net and C#
+Developed web Services using C#
+Developed stored procedures in SQL Server
+Produced Pattern documentation and step-by-step instructions for implementers
+Installed and configured Windows, Active Directory, IIS, SQL Server, Share point
+
+Sr. Web Developer
+Equity One  -  Marlton, NJ - June 2002 to May 2004
+
+Responsible for new and existing applications
+Technical Lead on several projects, Technical Resource on several others
+Performed Use Case analysis and design
+Developed several systems based on Windows
+Developed applications in .NET with C#, VB.NET, and ASP.NET
+Installed and configured Windows, IIS, SQL Server, Share Point
+Developed Custom Web Parts in Visual Studio
+Developed Databases, Stored Procedures, and Triggers in SQL Server
+Performed design and code reviews
+Performed configuration management
+Developed Standards for Design, Coding and Documentation
+
+Project Leader (Consultant)
+Controlled Access  -  Moorestown, NJ - July 2000 to April 2002
+
+Responsible for full life cycle of a suite of applications
+Built and mentored the development team.
+Performed Use Case analysis and design using Visio and Rational Rose
+Developed applications with Microsoft Visual Studio
+Operating system: Windows. Database: Oracle 8i.
+Developed middle tier with Visual Basic, ADO, ASP and COM/COM+.
+Developed browser based applications with ASP, HTML/CSS XML/XSL
+Developed stand-alone applications with Visual Basic and C++
+Designed database, developed triggers, stored procedures, and packages using PL/SQL
+Developed reports using Crystal Reports
+Performed design and code reviews
+Performed configuration management
+
+Developed test plans and test procedures
+Developed and delivered presentations
+
+Consultant
+Assessment Systems Inc  -  Cynwyd, Pa, US - January 1999 to July 2000
+
+Responsible for design, implementation, and maintenance of several applications
+Mentored developers
+Designed system using Visio, Rational Rose and ERWin
+Operating Systems were Windows. The database was Oracle.
+Developed applications with Microsoft Visual Studio
+Developed Middle tier with Visual Basic, ADO, ASP, COM and MTS
+Developed applications with visual basic, HTML/CSS, VBScript and JavaScript
+Designed database, developed stored procedures and packages using PL/SQL
+Developed test plans and procedures
+Performed design and code reviews
+Developed reports using Crystal Reports for the web
+
+Consultant
+CIGNA  -  Philadelphia, PA - June 1998 to January 1999
+
+Responsible for design and implementation of Insurance application subsystems
+Primary design tools were Rational Rose and ERWin.
+Operating Systems were Windows 98 and NT. The database was MS-SQL Server.
+Developed applications using Visual Basic, SQL, HTML, ASP, VBScript, JavaScript, and MTS
+Developed data model, stored procedures and triggers using Enterprise Manager
+
+Project Leader Admiral Insurance (Full Time employee)
+Cherry Hill, NJ - May 1996 to May 1998
+
+Responsible for full life cycle of a suite of Insurance Applications
+Performed analysis and design using CRC modeling
+The Operating Systems were Windows. The Database was Oracle
+Developed applications using C++, Delphi and JAVA and COM
+Developed stored procedures and triggers using PL/SQL
+Developed test plans and test procedures
+Performed design and code reviews
+Performed Automated testing using Rational Test
+
+Consultant
+ARMS / ACSIS Inc  -  Cherry Hill, NJ - January 1993 to May 1996
+
+Project leader on several projects
+Built managed and mentored several development teams
+Languages were C++, Visual Basic and SQL.
+Databases were Oracle, MS-SQL Server, Access, and DB2
+Developed wireless interfaces into various systems
+Designed and implemented Transaction Management Systems
+Developed Mortgage Application
+Designed databases, developed stored procedures and triggers
+Developed reports using Crystal Reports
+
+Software Engineer
+US Sprint  -  Mount Laurel, NJ - September 1984 to January 1993
+
+Served on many projects including:
+Developed Desktop applications
+Miscellaneous data entry systems
+Workflow and asset tracking system
+Inventory management System
+Firmware development and maintenance
+LAN and WAN design and maintenance
+Operating systems were Windows, MAC, UNIX and MS-DOS
+
+EDUCATION
+
+Electrical and Computer Engineering
+Drexel University - Philadelphia, PA
+1984 to 1989
+
+Electronics Engineering Technology
+RETS Electronics School - Broomall, PA
+1982 to 1983
+
+ADDITIONAL INFORMATION
+
+Over  twenty  years  of  experience  developing  enterprise  class  software  and  databases.  Areas  of  expertise
+include;  analysis,  design,  implementation  and  team  leadership  using  proven  methodologies  and  patterns.
+Technologically focused on, but not limited to, Microsoft servers and tools.
+
+

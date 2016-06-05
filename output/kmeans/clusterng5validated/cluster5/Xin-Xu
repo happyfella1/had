@@ -1,0 +1,167 @@
+Xin Xu
+
+Medical device engineer
+
+Philadelphia, PA - Email me on Indeed: indeed.com/r/Xin-Xu/938a707470ce5d93
+
+WORK EXPERIENCE
+
+Research and Development Engineer
+Lenima Field Diagnostics  -  Philadelphia, PA - March 2014 to Present
+
+Development of a Rapid Antimicrobial Susceptibility Test (AST)
+● Co-invented a piezoelectric sensor for AST, which can significantly reduce the time of testing compared
+to commercial devices
+● Built the prototype and established the testing protocol for preliminary studies 
+● Wrote the software in MATLAB to communicate with the hardware devices, analyze the data, and display
+the results in real time
+
+Rapid, Accurate, and Low-Cost Clostridium Difficile Genetic Test Development
+● Developed piezoelectric plate sensors (PEPSs) for ultra-sensitive DNA/RNA hybridization detection 
+● Built a multiplexed system to target different genes in Clostridium Difficile using an array of sensors
+● Designed a flow system with local heating elements in SolidWorks and built a prototype of the system for
+pilot clinical study
+● Achieved fast and accurate measurements by developing customized software in MATLAB
+
+Skills Used
+Programing ( Matlab, LabView), CAD design (SolidWorks), FEA analysis (ABAQUS), and statistical analysis
+(SPSS)
+
+Research Assistant
+Drexel University  -  Philadelphia, PA - September 2009 to Present
+
+Breast Cancer and Skin Cancer Detection and 3D Imaging Using Array Piezoelectric Fingers (PEFs) 
+● Designed and manufactured the piezoelectric cantilever sensors for tissue stiffness measurement
+●  Designed  a  hand-held  PEF  array  probe  using  SolidWorks  and  built  a  prototype  of  PEF  breast  cancer
+detection system for pilot clinical study
+● Validated the PEF measurements using Finite Element Analysis (ABAQUS) 
+● Developed the software to measure tissue stiffness continuously and create 2D color-coded maps in real
+time using LabVIEW and MATLAB
+● Evaluated the PEF breast cancer detection system on both excised breast cancer tissues and patients
+● Utilized the system to detect breast cancers for 40 patients in vivo
+
+Skills Used
+Circuit  design,  Programing  (  Matlab,  LabView),  CAD  design  (SolidWorks),  FEA  analysis  (ABAQUS),  and
+statistical analysis (SPSS)
+
+Research Assistant
+Shanghai Jiao Tong University  -  上海市 - January 2008 to June 2009
+Dermoscope Design and Instrumentation
+● Designed a cross-polarized dermoscope using SolidWorks for visual inspection and digital imaging of skin
+cancers
+
+● Designed an electrical circuit for the illumination system in the dermoscope
+● Built a prototype of the dermoscope and imaged skin lesions invisible to naked eyes for early detection of
+skin cancers
+
+Skills Used
+Circuit design, Programing (C++, Matlab), CAD design (SolidWorks), and statistical analysis (SPSS)
+
+Research Assistant
+Shanghai Jiao Tong University  -  上海市 - February 2007 to January 2008
+Effective Inhibition of BRCAA1 Gene Expression in gastric cancer cells
+● Utilized PAMAM-mediated RNA interference to inhibit the expression of the gene BRCAA1
+● Demonstrated the results with fluorescence and Western Blot
+
+EDUCATION
+
+Ph.D. in Biomedical Engineering
+Drexel University - Philadelphia, PA
+2011 to 2016
+
+Master's in Biomedical Engineering
+Drexel University - Philadelphia, PA
+2009 to 2011
+
+B.S. in Biomedical Engineering
+Shanghai Jiao Tong University - 上海市
+2005 to 2009
+
+SKILLS
+
+CAD design (SolidWorks, AutoCAD), Finite Element Analysis (ABAQUS), Circuit design,Programing (C++,
+Matlab, LabView,.etc), Statistical analysis (SPSS, SAS).
+
+AWARDS
+
+Calhoun Fellowship
+September 2009
+Fellowship covering tuition and fees, living expenses for the first 2 years of the PhD Program in School of
+Biomedical Engineering, Science and Health Systems at Drexel University.
+
+Provost Fellowship
+September 2009
+The Provost Fellowship is designed to encourage the recruitment of highly qualified 
+students for Drexel’s doctoral programs. Each Provost Fellow will receive a sum of $10,000 
+distributed over two years in addition to whatever stipend is being offered to them by their 
+program.
+
+PATENTS
+
+Depth Measurement in Tissue Suing Piezoelectric Sensors Having Different Probe Sizes
+(#WO2015105827 A1)
+
+July 2015
+An apparatus and method for determining the depth of an object below a surface or the thickness of the dermis.
+The apparatus and method use a plurality of piezoelectric fingers having probes with differently sized contact
+areas. A plurality of measurements is taken using each of the probes with differently sized contact areas in
+order to determine the depth of an object below a surface or the thickness of the dermis.
+
+PUBLICATIONS
+
+Systematic Design of a Cross-Polarized Dermoscope for Visual Inspection and Digital
+Imaging
+http://lifesciences.ieee.org/articles/76-systematic-design-of-a-cross-polarized-dermoscope-for-visual-
+inspection-and-digital-imaging
+December 2011
+A dermoscope is a diagnostic device that can image the skin in situ and is used for early diagnosis of melanoma
+and  pigmented  skin  lesions.  In  this  paper,  we  describe  the  design  and  construction  of  a  cross-polarized
+dermoscope including the illumination evaluation, imaging design, and the mechanical setup. By using the
+cross-polarization dermoscope, specular reflection from the superficial layer of the skin is largely eliminated.
+Therefore,  deeper  layers  of  the  skin,  such  as  the  inner  pigments  and  the  capillary  blood  vessels,  can  be
+visualized.
+
+Portable and Low Cost Breast Cancer Detection for Dense Breasts
+2011
+Conference poster presentation
+Cancer Detection & Diagnostics Technologies for Global Health Conference (2011)
+
+Breast Tumor Detection Using Piezoelectric Fingers: First Clinical Report
+http://www.sciencedirect.com/science/article/pii/S1072751513001683
+June 2013
+We have developed a radiation-free, portable, low-cost detector --Piezoelectric Finger (PEF)-- that does not
+require  skilled  interpretation  to  be  used  as  a  first-line  prescreening  test  in  women  who  do  not  receive  the
+maximum benefit from mammographic surveillance. This report describes our first clinical experience with this
+device.
+
+An electrospun PVDF-TrFe fiber sensor platform for biological applications
+http://www.sciencedirect.com/science/article/pii/S0924424714004944
+November 2014
+Flexible,  self-powered  materials  are  in  demand  for  a  multitude  of  applications  such  as  energy  harvesting,
+robotic  devices,  and  lab-on-a  chip  medical  diagnostics.  Electrospinning  piezoelectric  fluoropolymers  into
+nanofibers can provide these functionalities in a facile method. PVDF-TrFe was electrospun in an aligned
+format  and  interfaced  with  a  flexible  plastic  substrate  in  order  to  create  a  platform  for  voltage  response
+characterization after small force cantilever deformations. Voltage peak signals were an average of ±0.4V,
+and  this  response  did  not  change  after  platform  sterilization.  However,  when  placed  in  cell  culture  media,
+piezoelectric  response  was  dampened.  This  platform  can  be  used  for  measurement  and  analysis  of
+electromechanical behavior in a variety of applications, including cellular-powered nanodevices
+
+Under review: Development of Array Piezoelectric Fingers towards In Vivo Breast Tumor
+Detection
+February 2016
+We  have  investigated  the  development  of  a  handheld  4×1  piezoelectric  finger  (PEF)  array  breast  tumor
+detector system towards in vivo patient testing, particularly, on how the duration of the DC applied voltage, the
+depression depth of the handheld unit, and breast density affect the PEF detection sensitivity on 40 patients.
+
+The tests were blinded and carried out in four phases: with DC voltage durations 5, 3, 2, to 0.8 s corresponding
+to  scanning  a  quadrant,  a  half,  a  whole  breast,  and  both  breasts  within  30  min,  respectively.  The  results
+showed that PEF detection sensitivity was unaffected by shortening the applied voltage duration from 5 to
+0.8 s. Nor was it affected by increasing the depression depth from 2 to 6 mm. Over the 40 patients, PEF
+detected 46 of the 48 lesions (46/48) --with the smallest lesion detected being 5 mm in size. Of 28 patients with
+mammography records, PEF detected 31/33 of all lesions (94%) and 14/15 of malignant lesions (93%) while
+mammography detected 30/33 of all lesions (91%) and 12/15 of malignant lesions (80%), indicating that PEF
+could detect malignant lesions not detectable by mammography without significantly increasing false positives.
+PEF’s detection sensitivity is also shown to be independent of breast density, suggesting that PEF could be a
+potential tool for detecting breast cancer in young women and women with dense breasts.
+
+

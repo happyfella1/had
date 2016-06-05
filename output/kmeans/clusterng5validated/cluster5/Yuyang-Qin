@@ -1,0 +1,56 @@
+Yuyang Qin
+
+King of Prussia, PA - Email me on Indeed: indeed.com/r/Yuyang-Qin/90cf6362baa68d6a
+
+Willing to relocate: Anywhere
+Authorized to work in the US for any employer
+
+WORK EXPERIENCE
+
+Junior Engineer Intern
+ANSTEEL GROUP CORPORATION  -  Anshan, CN - 2013 to July 2013
+
+•  Understand  process  of  metallurgical  industry  and  typical  control  system  structure,  familiar  with  how
+industry equipment works, learn more about management, technology and control status of modern industrial
+enterprise.
+• Analyze drawings of component, determine process routine, calculate parameters for current status in the
+coordination, write CNC program for cutting component.
+
+PROJECTS
+Object pursuit using sonar sensor based on Arduino Spring 2015
+• Design an object pursuit and park program for car based on Arduino.
+• Assembling components including battery, chip, sonar sensor, and car framework.
+Traffic light control logic for crossing Fall 2014
+• Design a traffic light logic for crossing between a farm road and a highway using VHDL.
+• Define input and output, analysis each status, design state program, generate state table, determine possible
+states for machine, encode states and outputs into a binary code, realize logic to implement functions for
+states and outputs.
+Face detection and recognition Spring 2015
+• Implement the Karhunen-Loeve (KL) transform for face detection and recognition.
+• Generate matrix based on sample images, calculate the characteristics of the face using the singular value
+decomposition,  get  coordination  for  Eigen  face  space  for  each  sample  image,  categorize  using  nearest-
+neighbor method.
+Implement a JPEG encoder Spring 2014
+• DCT, Quantization, Zig-Zag ordering and encoding with Huffman table.
+• Evaluate the performance and achieve the compression ratio with 1:4.
+Design a control system for double inverted pendulum Spring 2013
+• Make a double inverted pendulum keep standing after the pendulum raised.
+• Establish mathematical model, calculate open-loop characteristics with MatLab simulation, design controller
+and add it to close-loop, adjust parameters using linear quadratic optimal (LQR) method based on record of
+MatLab simulation.
+
+EDUCATION
+
+Master of Electrical and Computer Engineer in Electrical and Computer
+UNIVERSITY OF ILLINOIS AT CHICAGO - Chicago, IL
+May 2015
+
+Bachelor of Automation in Fluent
+NORTHEASTERN UNIVERSITY - Shenyang, CN
+June 2014
+
+SKILLS
+
+C (4 years), C++ (1 year), VHDL (2 years), SQL (Less than 1 year), Matlab (4 years)
+
+

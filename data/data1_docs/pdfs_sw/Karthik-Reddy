@@ -1,0 +1,248 @@
+Karthik Reddy
+
+DevOps Engineer - Kantar Media
+
+Philadelphia, PA - Email me on Indeed: indeed.com/r/Karthik-Reddy/896ac828c4aaee23
+
+• Having 8 years of experience in DevOps, Configuration Management and Build and Release.
+• Good understanding of the principles and best practices of Software Configuration Management (SCM) in
+Agile, Scrum, and Waterfall methodologies.
+• Extensively worked on Hudson, Jenkins, Team City and Bamboo for continuous integration and for End-to-
+End automation for all build and deployments.
+• Administered and Implemented CI tools Hudson/Jenkins, Build Forge and Bamboo for automated builds and
+deployments.
+• Create Build jobs in Jenkins and monitor status of daily builds.
+• Used ANT scripts, Make and Maven for Build process.
+• Expertise in Continuous Delivery tools like Chef, RunDeck and puppet.
+• Experience in branching, tagging and maintaining the version across the environments using SCM tools like
+Subversion (SVN), CVS and GIT on UNIX and windows environment.
+• Expert in deploying the code through web application servers like Apache Tomcat/JBOSS/IIS application
+servers.
+•  Expertise  in  Shell  Scripting  and  Perl  Scripting  for  Environment  Builds  and  Automating  Deployment  on
+WebSphere Application Servers and WebLogic Application Servers.
+• Good Knowledge in bash (Shell) and exposure to Jython, Python scripting.
+• Experience writing Shell scripts and Perl scripts to automate the deployments
+• Extensive experience with configuration management tools such as Chef, Puppet & similar deployment tools.
+• Worked with different Bug tracking tools like JIRA, Rally, Remedy, Fisheye, Crucible and IBM Clear Quest.
+• Extensive experience using MAVEN, ANT as build tools for the building of deployable artifacts from source
+code.
+•  Experience  in  continuous  integration  technologies  Bamboo  and  Jenkins.  Designed  and  created  multiple
+deployment strategies using Continuous Integration and Continuous Development Pipelines and configuration
+management  tools  with  remote  execution  to  ensure  zero  downtime  and  shortened  deployment  cycles  via
+automated deployments.
+•  Established  capabilities  in  application  design,  implementation,  troubleshooting,  monitoring,  continuous
+improvement and change controls. Enhances and automates internal processes to generate efficiency.
+• Highly motivated and committed DevOps Engineer experienced in Automating, Configuring and deploying
+instances on AWS, Azure and Rack space, cloud environments and Datacentres, also familiar with EC2, Cloud
+watch, Elastic Search and managing security groups on AWS.
+• Experience in monitoring System/Application Logs of server using Splunk to detect Prod issues.
+• Experience with build tools Ant and Maven for writing build (. xmls) and pom.xmls respectively.
+• Excellent communicative, interpersonal, intuitive, analysis and leadership skills with ability to work efficiently
+in both independent and team work environments.
+• Understanding of Amazon Web Services (EC2, S3, Cloud formation, OpsWorks, etc.).
+•  Strong  ability  to  troubleshoot  any  issues  generated  while  building,  deploying  and  in  production  support.
+Hands- on experience in developing web applications using Python on Linux and UNIX platform.
+• AWS Cloud platform and its features which includes EC2, VPC, EBS, AMI, SNS, RDS, EBS, Cloud Watch
+In-depth understanding of the principles and best practices of Software Configuration Management (SCM)
+processes, which include compiling, packaging, deploying and Application configurations.
+• Application Deployments & Environment configuration using Chef, Puppet
+• Involved in writing Perl, python and shell scripts for compilation and deployment process.
+
+• Good Interpersonal Skills, team-working attitude, takes initiatives and very proactive in solving problems and
+providing best solutions.
+Willing to relocate: Anywhere
+
+WORK EXPERIENCE
+
+DevOps Engineer
+Kantar Media  -  Philadelphia, PA - January 2015 to Present
+
+Responsibilities:
+• Creating the automated build and deployment process for application, re-engineering set up for better user
+experience, and leading up to building a continuous integration system
+• Implementing new projects builds framework using Jenkins & maven as build framework tools
+•  Implementing  a  Continuous  Delivery  framework  using  Jenkins,  Puppet,  Maven  and  Nexus  in  Linux
+environment.
+• Responsible for Database build, release and configuration.
+• Responsible for nightly and weekly builds for different modules.
+• Resolved system issues and inconsistencies in coordination with quality assurance and engineering teams.
+• Managing Monitoring solution using Nagios Environment.
+• Updating monitoring parameter in Nagios with active and passive check.
+• Troubleshoot the build issue during the Jenkins build process.
+• Integration of Maven/Nexus, Jenkins, Urbancode Deploy with Patterns/Release, Git, Confluence, Jira and
+Cloud Foundry.
+• Created and maintained the Shell/Perl deployment scripts for TC Server/Tomcat web application servers.
+• Developed and implemented Software Release Management strategies for various applications according
+to the agile process
+• Interacted with client teams to understand client deployment requests
+• Coordinate with the development, Database Administration, QA and IT Operation teams to ensure there are
+no conflicts.
+• Worked very closely with the project managers to understand a code/configuration release scope and how
+to confirm a release was successful
+•  Build,  manage,  and  continuously  improved  the  build  infrastructure  for  global  software  development
+engineering  teams  including  implementation  of  build  scripts,  continuous  integration  infrastructure  and
+deployment tools
+• Defined branching, labelling and merge strategies for all the applications in Git
+• Managing code migration from TFS, CVS and Star team to subversion repository
+• Manage server monitoring and log management using Splunk, Hubble, and AppDynamic
+• Manage build and deployment using maven, Jenkins, Chef, SCM tools
+• Implementing Chef and configuring it was well
+• Troubleshoot the automation of installing and configuring applications in the test environment
+• Provided periodic feedback of status and scheduling issues management
+• Developed and maintained UNIX/Ruby/Maven scripts for build and release task
+• Defined and implemented build and deployment strategies for all applications
+• Create and manage Chef Cookbooks (RedHat 6)
+• Configured Jenkins for continuous integration
+• Configured Jenkins with Plugins and created jobs
+• Manage AWS EC2 instances utilizing Auto Scaling, Elastic Load Balancing and Glacier for our QA and UAT
+environments as well as infrastructure servers for GIT and Chef
+
+Environment: Git, Jenkins, Chef, Ant, Jira, Confluence, AWS EC2, RedHat 6, VMware, Linux, Python, Ruby,
+Maven
+
+Build & Release Engineer/ DevOps Engineer
+Liberty Mutual Insurance  -  Indianapolis, IN - August 2013 to December 2014
+
+Responsibilities:
+• Configured GIT with Jenkins and schedule jobs using Poll SCM option
+• Experience in working GIT for branching, tagging, and merging
+• Worked closely with the development team in the design phase and developed use case environment
+• Worked with the Architect on SDLC process being the owner of post development environment
+• Worked closely with the team to review code for compatibility issues
+• Migrated source control tool from clear case to Subversion (SVN) and build tool from Ant to MAVEN
+• Wrote ANT and MAVEN script to automate the build process
+• Used Subversion for the purpose of software configuration management and maintain the versions
+• Participated in the release cycle of the product, which involves environment like development QA, UAT and
+production
+• Configured the load balancer and VPC with public and private subnet
+• Performed branching and merging as per the schedule
+• Performed S3 bucked creation, policies and also on the IAM role based polices and customizing the JSON
+template
+• Managed repository, folder and user/group privileges different environment
+• Managing the release process end - to - end, from the planning of release content through to actual release
+deployment to production. Leads and facilitate the planning of product software releases
+• Manging. Directing and coordinating all code and code related activities for all applications including but not
+limited to the requisitioning of code streams, delivery, packaging, deployment, environment setup, and release
+capabilities across the portfolio
+•  Developed  Bash  and  Python  scripts  for  the  purpose  of  manual  deployment  of  the  code  to  the  different
+environments and E-mail the team when the build is completed
+• Created the Master/Slave pattern for Jenkins to distribute the load and builds around the build farm
+• Managed and performed the environment related configuration changes as a part of deployment
+• Served as a partial administrator for Linux machines
+• Installed the applications on AWS EC2 AMI instances and also configured the storage on S3 Buckets
+• Configuration management and server application management using Chef and Puppet
+• Maintained user account across the networking using Chef
+• Used JIRA tool to track the defects and changes released to all the environments
+
+Environment: Chef, ANT, Maven, Jenkins, Shell Scripts, XML, Linux, Apache, Python, Amazon AWS Services,
+MySQL, JIRA, Subversion (SVN)
+
+Build and Release Engineer
+General Motors  -  Detroit, MI - October 2012 to June 2013
+
+Responsibilities:
+• Experience in working GIT for branching, tagging, and merging.
+• Configured GIT with Jenkins and schedule jobs using Poll SCM option
+• Worked closely with application developers to devise robust deployment, operating, monitoring, and reporting
+for the COTS applications.
+• Worked with the Architect son SDLC process being the owner of post development environments.
+• Worked closely with the Development Team in the design phase and developed use case diagrams using
+Rational Rose.
+
+•  Deployment,  implementation  of  Subversion  (SVN)  as  source  control,  collaboration  and  QA  tool.  Project
+management, versioning and blame/issue tracking using Subversion (SVN).
+• Worked closely with the team to review code for compatibility issues.
+• Developed and implemented the software release management for the release of web applications.
+•  Coordinating  the  resources  by  working  closely  with  Project  Manager's  for  the  release  and  Carried
+Deployments and builds on various environments using continuous integration tool.
+• Designed a customized Status Reporting tool used currently based on the specific requirements usingJ2EE/
+Struts and Web sphere Application Server with DB2 as Database.
+• Migrated source control tool from Clear Case to Subversion (SVN) and build tool from Ant to MAVEN.
+• Wrote ANT and MAVEN Scripts to automate the build process.
+• Used MAVEN as a dependency management tool to manage all the dependencies that are required.
+• Planning, scheduling and documenting release sat code Freeze Periods.
+• Co-coordinated Instance Refreshes and Environment Re-base lining.
+•  Converted  and  automated  builds  using  MAVEN  and  ANT.  Scheduled  automated  nightly  builds  using
+HUDSON.
+• Sole person to be responsible for Release/Change control Process.
+Environment: Java/J2ee, GIT, Jdk, Ant, Maven, Subversion (SVN), Hudson/Jenkins, Clear Case, UNIX, Web
+Sphere, Perl Scripting.
+
+Build Engineer
+EviCore Healthcare  -  Franklin, TN - January 2011 to August 2012
+
+Responsibilities:
+• Involved in setting up Jira as defect tracking system and configured various workflows, customizations and
+plug-ins for the Jira bug/issue tracker.
+• Integrated Maven with Perforce to manage and deploy project related tags.
+• Installed and administered Tomcat repository to deploy the artifacts generated by Maven and to store the
+dependent jars which are used during the build.
+• Mentor Business Areas on Subversion Branching, Merging strategies concepts.
+• Resolved update, merge and password authentication issues in Jenkins and Jira.
+• Involved in implementing Tool Suite (Jenkins) and deployed the built into JBoss application server.
+• Setting up continuous integration and formal builds using Jenkins with Maven and Tomcat repository.
+•  Installed  and  configured  Confluence  as  the  enterprise  wiki  to  document  development  and  change
+management procedures.
+• Involved partially in deploying WARs/EARs (backend) through Apache Tomcat Application Server console.
+• Used Shell script to configure the Apache Tomcat application server in all the environments
+• Support Lead developers with Configuration Management issues.
+• Worked for Creating the Software Configuration Management Plan.
+• Managed all the bugs and changes into a production environment using the Jira tracking tool
+• Managed the entire release communication and Release co-ordination during the Project roll-out
+• Involved in estimating the resources required for the project based on the requirements.
+
+Environment: JIRA, SVN, GIT, Apache ANT, Maven, jerkins, Anthill pro, Apache Tomcat, Shell Script, Unix/
+Linux, Windows, JBoss
+
+Release Engineer
+Virtusa  -  Hyderabad, Andhra Pradesh - June 2008 to December 2010
+
+Responsibilities:
+• Participated in the release cycle of the product which involves environments like Development INT, QA and
+Production
+
+•  Developed  and  implemented  Software  Configuration  Management  strategies  for  various  applications
+according to the agile process
+• Managed the IBM Clear Case for few applications by creating Release branches, Development branches
+thus ensuring the integrity of Trunk
+• Installed and Administered Build Forge CI for ANT Builds
+• Implemented LDAP authentication for Jenkins.
+• Experience in User Management for Build Forge CI.
+• Worked in agile modelled software development life cycle.
+• Participated in weekly release meetings with Technology, stakeholders to identify and mitigate potential risks
+associated with the monthly releases.
+• Developed build scripts using ANT as the build tool for the creation of (WAR files) build artifacts.
+• Involved in troubleshooting the automation of Installing and configuring JAVA applications in the test and
+production environments.
+• Built and Deployed java source code into application servers in an Agile continuous integration environment.
+• Maintained the Shell and Perl scripts for the automation purposes.
+• Deployed the archives like war files into the Web Sphere Application Servers.
+• Involved in editing the existing ANT build files in case of project requirement changes.
+• Responsible for the development and maintenance of processes and associated scripts/tools for automated
+build, testing and deployment of the products to various developments.
+• Jenkins is used as a continuous integration tool for build and deployment of JAVA code.
+• Used Clear Quest as deployment issue tracking tool.
+
+Environment: Development INT, QA and Production, IBM Clear Case, Build Forge, LDAP, JAVA applications,
+Shell and Perl, Web Sphere, ANT build files and Clear Quest
+
+EDUCATION
+
+Bachelors of Technology in Electronics and Communications
+JNTU - Hyderabad, Andhra Pradesh
+
+ADDITIONAL INFORMATION
+
+Operating Systems: Windows […] UNIX, LINUX, RHEL
+Source control tools: Subversion, Clear case, GIT and Perforce
+Build Tools: ANT, MAVEN
+CI Tools: Hudson, Jenkins, AnthillPro, and Build Forge
+Repositories: Nexus, Artifactory
+CM Tools: Chef and Puppet
+Languages: C, C++, Perl scripting, Shell scripting, Python, SQL, Java/J2EE
+Tracking tools: JIRA, Remedy, Clearquest, Bugzilla
+Web servers: WebLogic, WebSphere, Apache Tomcat, JBOSS
+Databases: Oracle, SQL SERVER, MYSQL, DB2
+Other Tools: ITG, IntelliJ IDEA, DB Visualizer, Aqua Studio
+
+

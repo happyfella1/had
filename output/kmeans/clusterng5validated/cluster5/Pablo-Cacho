@@ -1,0 +1,98 @@
+Pablo Cacho
+
+R&D Software Engineer - Engility Corporation
+
+North Wales, PA - Email me on Indeed: indeed.com/r/Pablo-Cacho/f2886b3d716b5d32
+
+To secure a position with an employer utilizing my strong embedded engineering background, organizational
+skills, and commitment to succeed in a challenging and fast paced engineering environment.
+Authorized to work in the US for any employer
+
+WORK EXPERIENCE
+
+Embedded Software Engineer
+Intel Corporation  -  King of Prussia, PA - May 2014 to Present
+
+Responsibilities
+Intel Omni-Path High Performance Computing Fabric
+• Firmware lead on a joint project with Cray for the Argonne National Laboratory Aurora Supercomputer. This
+project consists of creating the Board Support Package (BSP) for a Freescale ARM processor running Yocto
+Embedded Linux. Tasks for this project include U-Boot support code, and Linux Device Tree file generation.
+This  project  also  requires  user-space  tools  for  board  validation,  interfacing  with  the  SPI  interface  to  the
+management FPGAs, and developing interfaces for communicating with the switch ASICs over I2C.
+• Developed ARM microcontroller firmware for the Host Fabric Interface PCIe card that performs management
+functions over SMBUS. Tasks for this project include a PLDM implementation over SMBUS and patches to
+the Linux kernel that added variable offset functionality to the bit-bang I2C controller.
+• Developed VxWorks device drivers for a Cypress USB to I2C bridge.
+• Worked closely with hardware teams during schematic design and board layouts for the single board switch
+and the enterprise-level switch offering insight on software/hardware interface feasibility.
+• Member of tiger-team for initial switch ASIC power-on. During this time we systematically powered on the
+ASIC beginning at board level voltage regulator programming all the way up to bringing node links up and
+passing packets.
+
+R&D Software Engineer
+Engility Corporation  -  Horsham, PA - April 2010 to Present
+
+NAVAIR Anti-Submarine Warfare (ASW) PMA-264/PMA-290
+• Responsible for the simulation and performance analysis of acoustic signal processing routines. Analysis and
+performance tests are performed in MATLAB and in a Linux environment using C++ and Intel's IPP library.
+•  Part  of  a  research  team  investigating  novel  signal  detection  techniques  for  passive  and  active  sonar.
+Research  tasks  include  mathematical  derivation  of  algorithms  and  performance  bounds.  Monte  Carlo
+simulations of the algorithms are performed for the derivation of Receiver Operating Characteristic (ROC)
+curves. Additional tasks include the development of C++ based ambient noise estimation algorithms of oceanic
+environments.
+• Quality Assurance (QA) Lead on two products being delivered to the NAVAIR fleet. QA tasks are composed
+of test plans, test procedures, and testing to validate the functionality of the product. QA project also includes
+the development of a Linux based Object Oriented C++ automated test suite. The test suite communicates via
+a Linux Middleware wrapper to a Common Interface that allows for message passing (subscription/publishing)
+between applications.
+•  Project  responsibilities  also  include  the  system  administration  and  security  audits  of  a  Linux/Windows
+network.
+
+E-MIDDAS Wireless Vital Signs Sensor
+• Responsible for design of the 3rd generation E-MIDDAS medical sensor suite prototype.
+• Design tasks include sensor specifications, firmware development, and circuit design.
+•  Development  of  firmware  in  C  for  interfacing  and  controlling  sensors,  timing  for  data  acquisition,  data
+manipulation, and bi-directional wireless transmission of sensor data via Bluetooth.
+• Responsible for all phases of hardware development. Phases include schematic design, part selection, and
+Printed Circuit Board (PCB) layout and routing.
+• Recent tasks include the design of Electrocardiogram (ECG) signal processing routines for noise reduction
+and parameter estimation. Noise reduction algorithms include adaptive filters such as Least Mean Square
+(LMS), Least Squares, and Recursive Least Squares (RLS). Parameter estimation algorithms include matched
+filter designs for detecting the QRS waveform that allow for the calculation of the RR Interval. A Kalman filter
+is currently under investigation for state estimation of the heart rate.
+• Design of a novel wireless pulse-oximeter sensor consisting of LED timing, signal acquisition, digital filtering,
+and parameter estimation.
+•  Development  of  a  Windows  Graphical  User  Interface  (GUI)  for  debugging  Bluetooth  communications.
+Interfaces for accessing the hardware device and parsing device messages written in C++ and C#.
+• Generate enterprise level documentation that describes the functional aspects of the E-MIDDAS project.
+• Direct the work of technical support staff to conduct testing.
+
+Test Engineer Intern
+Lockheed Martin Advanced Technologies Laboratory  -  Cherry Hill, NJ - March 2008 to November 2008
+
+Worked  in  the  Distributed  Operations  (DisOPS)  division  of  ATL  as  part  of  a  development  team  testing  a
+handheld communications device for real-time mission updates destined for military use.
+• Responsible for system functionality and usability testing in an embedded environment.
+• Responsible for regression testing to ensure compatibility through the software design cycle.
+• Adherence to quality assurance through bug discovery and documentation.
+• Performed integration tests to guarantee successful end-user functionality.
+• Composed and edited technical documentation for DisOPS handheld device.
+
+EDUCATION
+
+Bachelor of Science in Electrical Engineering
+Temple University - Philadelphia, PA
+May 2009
+
+ADDITIONAL INFORMATION
+
+SKILLS
+• Strong knowledge of software development, digital signal processing fundamentals, MIMO radar systems,
+acoustic  signal  processing,  adaptive  filters,  image  processing,  telecommunications  engineering,  speech
+processing, and embedded systems development.
+• Solid programming skills in C, C++, C#, Verilog, and MATLAB.
+• Extensive software knowledge: MATLAB, Linux, Intel IPP, and IAR Studio.
+• Hardware experience: TI Bluetooth Low Energy (BLE), ARM, FPGA, and PIC.
+
+

@@ -1,0 +1,194 @@
+Murali Rachakonda
+
+Senior Software Engineer - EBAY Enterprise Marketing Solutions
+
+Royersford, PA - Email me on Indeed: indeed.com/r/Murali-Rachakonda/555decb1f7fbdacb
+
+Energetic Software Engineer with 13+ years of professional experience working in Software Development Life
+Cycle (SDLC) with Specialization in Database Design/Development.
+
+•  Around  13+  Years  of  experience  in  developing,  designing  and  supporting  applications  for  Banking  &
+Financials, Retails & Travel & Hospitality and E-Commerce clients
+• Worked on complete Software Development Life Cycle of the project starting from requirement gathering,
+designing, development, production rollout and post production support
+•  Worked  on  different  version  of  Oracle  Database  Oracle  […]  and  experience  working  in  Oracle  RAC
+environment
+• Worked 4+ years in the Data Warehouse environment supporting Multi TB of data
+• Well versed with ETL Design methodologies, ETL/ELT, PUSH-PULL Strategies etc
+• Worked on BI system for 1+ years using OBIEE/Hyperion Brio
+• Team player and experience working with the different teams within the organization like Project Managers/
+Client Managers and external clients/vendor
+• Experience in reporting and providing project status reports to Senior Management/Director, Communicating
+with the clients
+• Strong technical background and excellent interpersonal skills with an ability to interact with individuals at
+all levels.
+• Friendly and cooperative attitude in a team environment and self-driven on independent projects
+• Positive attitude and willingness to new tools
+
+Technical Skill Summary
+Database:-
+•  Proficient  in  Designing  Data  Models  ,  Design  Database  process,  Perform  Normalization  of  Tables  and
+Developing Database Programs using SQL & PL/SQL
+• Proficient in writing SQL Queries using SQL Functions, Analytic Functions
+•  Creating  and  Maintaining  Oracle  Objects  like  Tables/Index/Views/Materialized  View/Index/Packages/
+Procedure/Function
+• Writing Data Migration Scripts to update huge volume of data ( For example 50 million records in 30 minutes)
+• Performance tuning using Query optimization ,Oracle Hints, Analyzing AWR report, Oracle Profiler, TKPROF,
+Creating and Managing Oracle Partition tables and well versed with various performance tuning techniques
+•  Worked  on  Data  Modelling  tools  like  ERWIN/POWER  DESIGNER.  Designed  models  using  forward  and
+reverse engineering
+• Experience working with OLTP and OLAP application design
+• Loading Huge amounts and different formats of data using SQL*Loader
+
+Data Warehouse:-
+• 4+ Years of experience in working and supporting 5TB Enterprise Data Warehouse environment
+• Proficient in Designing Datamart from the inception, Translating Business Requirement into Conceptual and
+Logical data models; Design/Develop ETL process to load the data mart
+• Dimensional Modeling , Slowly Changing Dimensions
+• Working knowledge of ETL tools like Talend/Informatica
+Big Data:-
+• Proficient in executing shell commands on HDFS for loading files into HDFS
+
+• Writing less complex MapReduce Jobs using Java
+• Writing Sqoop scripts to import/export files between HDFS/Database
+• Writing SQL using HivQL
+• Knowledge of best practices and tuning Map/Reduce jobs
+• Developing Spark Application using pyspark
+• Working knowledge of Kafka/Flume and proficient using on Cloudera VM
+
+Other Tools:-
+• Worked on various tools like Toad/PL-SQL Developer
+• Job Scheduling tools like Autosys/Control-M
+
+Non-Technical Skill Summary
+• Create project specific documents like Technical Design Specification/ Unit Test Plan/UAT Plan/QA Plan
+• Creating Work Breakdown Structure to track and manage deliverables
+• Conducting and leading internal cross trainings as part of team building and share knowledge on various
+technical and functional skills
+• Well versed in working in Microsoft tools MS Word/Excel and Creating VISIO diagrams
+Willing to relocate: Anywhere
+Sponsorship required to work in the US
+
+WORK EXPERIENCE
+
+Senior Software Engineer
+EBAY Enterprise Marketing Solutions - March 2012 to Present
+
+*  Design,  Develop  and  Support  Email  Service  Platform  which  is  used  for  Creating  Campaign  Audience  ,
+Customer Segmentation and Customer Analytics Solutions
+* As lead manage Email Database for successfully loading daily data from different data sources like Enterprise
+Data Warehouse, Clients CRM Provider , Social Media Engagement and Adhoc files provided by the clients
+* Participate in the discovery call with Customer and Client Service Manager to gather Business Requirement
+and Finalize scope of the project
+* Provide estimation of the project/change request and Create Technical/Functional Specifications (HLD/LLD),
+Create Visio Diagrams for complex project.
+*  Develop  interface  with  the  external  system  like  CRM  and  3rd  party  ESP  (Email  Service  Provider  like
+Responsys/Epsilon etc) to exchange feeds. Study Source system and design mapping/data model
+* Design and Develop data migration scripts for massive updates 50milion of records as part of migration or
+product fixes
+* Worked as Control-M admin of our team and Manage Release management efforts: Code migration , Job
+setup in the Control M
+* Loading and Studying real time transactional events (open/clicks etc) and creating reports on campaign ROIs
+based on customer actions
+* Provide Analytic solutions for the clients on Customer Segmentation , Purchase Behavior Analysis, Top N
+products viewed vs Top N products purchased
+* Work with different departments within the organization to provide metrics on Various Marketing KPIs and
+Campaign Performance and Analyze ROI on campaigns, A/B Control Group analysis
+* Enhance existing in house ETL which is developed using Oracle PL/SQL to load data from different sources
+like Enterprise Data Warehouse, Clients CRM Provider , Social Media Engagement into EMAIL Database
+* Provide Database ( Design/Development) solution for Maintaining CRM application of the clients
+*  Design  and  Develop  Software  Programs  (  using  Oracle  PL/SQL)  for  Creating  Campaign,  Customer
+Segmentation , ETL Processes, Supporting CRM application of the clients.
+
+* Coordinate with the DBA and design effective Space management for new projects/adhoc task and data
+migration efforts
+* Data Analysis using SQL to provide Customer Insight, Derive KPI for Marketing and Campaign Performance,
+Customer Queries and debug production issues
+* Solve performance issues in production environment and tuning long running processes
+* Mentoring and conducting training sessions for junior developers with best practices and helping in solving
+any technical changes they are facing
+*  Conducted  POC  on  Big  Data  ,  Hadoop  Ecosystem  on  Cloudera  Virtual  Machine;  Worked  on  HDFS/
+MapReduce Job in Java, Sqoop, Hive Queries and Spark using pyspark
+* Export/Import tables/files between MySQL and HDFS
+* Writing pyspark script to perform operations like reading file from HDFS and storing back on HDFS
+
+Technologies: Oracle 11g SQL, PLSQL
+
+Technical Lead
+Cognizant Technology Solutions - April 2008 to March 2012
+
+Project 1
+* Maintain Multi-Terabyte Enterprise Data Warehouse environment as Technical Lead/Onsite Coordinator
+*  Well  versed  with  EDW  Design  methodology  Snow  Flakes/Star  Schema,  Slowly  Changing  Dimensions,
+Normalization, PUSH-PULL Strategies and ETL/ETL/
+* Design Data Model of the existing Data Warehouse by Reverse Engineering using Power Designer tool.
+* Perform gap analysis in the existing EDW Design and provide recommendation and best practices to enhance
+the EDW.
+* Develop, Modify and Enhance existing ETL processes as to implement new Business rules, re-design process
+to improve ETL load time.
+* Design and Develop ETL Process using Oracle PL/SQL, C++, Pro*C, Perl and SQL Loader
+* Design PII Encryption methodology using Oracle Encryption API
+* Develop Migration Script to update huge volume ( 60 Million) of data in Production
+* Develop interface to share files from external marketing vendors like MRM/Edialog etc
+* Develop Summary tables and BI Solution using Hyperion Brio
+* POC on OBIEE by converting existing reports to OBIEE and design new Dashboard
+
+Project 2
+* Worked a Project Manager and Architect to design new Data Mart (Fleet Hub) from the inception.
+* New data mart was one of the strategic goal of the client for providing near to real time (NRT) fleet availability
+and managing fleet utilization effectively
+* Gather Business requirement of the new data mart from different stakeholders , in order to design efficient
+data model ( using Power Designer) which solves reporting needs of the all the business groups
+* Designed ETL processes, Database objects, Job Flow and Dependencies in order to load data into new Data
+Mart efficiently and effectively
+* Implemented Type 2 SCD as per the business need to track the history.
+* Lead the development effort and mentor the team
+* Prepare all project related documents Design and Technical Specs, UTS and UAT plan
+* Designed Implementation plan , Testing strategy and developed UAT Plan and coordinated with the different
+stakeholder
+*  Perform  project  management  activities  like  Managed  Scope,  Prepared  Issues  logs  to  manage  inter-
+dependencies between different departments
+* Provide project status to project sponsor, client manager and other stakeholders
+
+Technologies: Oracle 11g SQL, PLSQL, Perl, Shell Scripting Hyperion Brio
+
+Senior Software Engineer
+Computer Science Corporation - June 2006 to February 2008
+
+* Support Telecom Billing and Medication Application of leading Telecom Provide in the world
+* Application were written in C, Perl and PL/SQL
+* Develop and Enhancement of existing system by updating and writing new code in C and PL/SQL
+* Worked on Autosys for job scheduling and wrote shell scripts to scheduling jobs in the Autosys
+
+Technologies: Oracle 10g, Autosys , Perl and C
+
+Assistant System Engineer
+Tata Consultancy Services - March 2003 to May 2006
+
+Project 1
+*  Worked  on  a  project  which  involves  Designing  automated  Credit  Workflow  Approval  Management  for
+Deutsche Bank UK
+* Design and Develop Complex Pro*C batch programs and interfaces
+* Wrote complex query in SQL for huge calculation and with the SLA to run in 30 Sec for the largest counterparty
+Project 2
+* Support and Enhancement of Complex and High visible application of Deutsche Bank Risk Engine
+* Heavy coding in PL/SQL and SQL
+* Develop and Administer Control-M Job scheduler
+* Load and Process huge amount of data from different Rating Agencies S&P, Moody etc
+* Develop programs to study the Risk Analysis based on external factors like Interest Rate, Exchange Rate etc
+* Develope Shell Scripts for writing wrapper Job to schedule in Control-M and for processing log files to create
+an automated job failure report.
+
+Project 3
+* Support and Enhancement of existing applications of Deutsche Bank like Commercial Banking/Trading and
+Credit Risk Management System.
+* Design and Develop interface in PRO*C to ingest feeds from various trading systems accross
+* Designed and Developed Complex Batch programs to calculate Tenor based on Maturity Profile
+* Work on Change Requests as part of enhancement.
+* Developed C++ program to calculate breach trades and sends automate email
+* Prepare project Documents like UTC, UTS , PRN etc
+* Developed XML parser in C
+
+Technologies: Oracle 10g, Pro*C, C++, PL/SQL , Control-M
+
+

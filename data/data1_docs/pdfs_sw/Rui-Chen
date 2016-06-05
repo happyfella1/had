@@ -1,0 +1,206 @@
+Rui Chen
+
+Sr. Software Engineer - Lifeshield/DirecTV
+
+- Email me on Indeed: indeed.com/r/Rui-Chen/0582e82fd82d307d
+
+WORK EXPERIENCE
+
+Sr. Software Engineer
+Lifeshield/DirecTV  -  Langhorne, PA - March 2014 to Present
+
+Langhorne, PA March 2014 - Till Present
+Projects: DTV Integration
+Role: Sr. Software Engineer
+Description:
+Lifeshield, a DirecTV company, is a home security equipment and service provider. The DTV integration project
+aims to integrate with DirecTV orders thru different SOAP services, like optin, get-profile, create order, cancel
+order,  register  devices,  and  etc.  Apart  from  the  integration  services,  the  periodically  running  jobs,  like  file
+processing and status updates, are also running to support the business.
+Responsibilities:
+• Involved in the system analysis and design with the team.
+• Developed SOAP service consumers and REST service consumers.
+• Heavily used Camel to integrate the data flows.
+• Used OSGi container to integrate the compoennts.
+• Designed the operational tracking table and email notifications for supporting the business.
+• Design Spring MVC pages for non-technical people to manage the application.
+• Used SoapUI to perform the data driven testing. Unit Testing with JUnit and Mockito.
+• Partially responsible for the periodic/on-demand production deployment.
+• Wrote python scripts to generate test data and analyze the logs.
+Environment:
+Scrum,  Java  8,  Spring  4,  JDBC,  JPA(Hibernate),  JMS(ActiveMQ),  Spring  MVC,  JSP,  HTML,  CSS,  Spring
+Email, Apache Camel, Apache CXF, WSDL, Apache Felix/Karaf, SoapUI, logback, JUnit, Mockito, Maven,
+SQL Server.
+
+Sr. Software Engineer
+Pearson VUE, Bala  -  Cynwyd, PA, US - July 2013 to February 2014
+
+Description:
+Pearson  VUE  as  leading  testing  service  provider  tried  to  provide  better  user  experience  with  integrating
+the testee certification with badge backpack vendors. This RTEN project is tried to integrate the credential
+information with external badge vendor via REST Service.
+Responsibilities:
+• Involved in the analysis and design with the team.
+• Architect the REST service API on the credential side.
+• Performed the schema design to track the data flow.
+• Used freemarker template to do the pojo to json payload transformation.
+• Used SoapUI to perform the data driven testing. Unit Testing with JUnit and Mockito.
+• Actively participated in code review and used Cobertura to do coverage-guided testing.
+Environment:
+Scrum, Spring, Hibernate, JMS(JBoss Messaging), Apache Camel, REST/JSON, XML, XStreams, Apache
+CXF, Jackson, SoapUI, JUnit, Mockito, SVN, Ant/Ivy, JBoss, SQL Server, Jenkins.
+
+Sr. Software Engineer
+Scottrade Philadelphia  -  Philadelphia, PA - July 2012 to July 2013
+
+Description:
+Scottrade Philadelphia as a national wide pioneering trading service provider and broker, Scottrade provides
+the most professional trading platform in equity trading in different trading frequency. The order processing
+system is using the cutting edge technologies to deal with the billions of data every day. The project adds
+some analysis functions to the existing system including improvements of the UI and enhancing the application
+efficiency.
+Responsibilities:
+• Involved in analysis and design based on the requirement documents.
+• Used Spring IoC to manage the beans.
+• Used Hibernate to perform ORM and persist the objects with HQL queries.
+• Performed Unit Testing, Integration Testing with JUnit and Mockito.
+• Used Toad to design the SQL queries and perform query optimizations.
+• Actively participated in code review and used Sonar to ensure code quality.
+
+Environment:
+Scrum, Spring MVC, Spring, Spring Security, LDAP, Hibernate, REST, JSON, Jackson, iText, Toad, Oracle
+11g, Tomcat, JUnit, Mockito, STS, Maven, JIRA, Confluence, Sonar, Jenkins
+
+Sr. Java Developer
+PNC Bank, Pittsburg, PA - December 2010 to June 2012
+
+Descriptions:
+PNC Bank is one of the leading financial institutions nationwide; it provides retail banking, investment services,
+and  asset  managements.  Order  management  system  in  PNC  Bank  for  equity  trading  provides  the  broker
+service  for  investors,  including  institutional  investors  and  personal  investors.  The  project  is  focused  on
+refactoring and enhancing the existing order management system with various new technologies. Including
+order  processing  execution  improvement,  optimization  the  efficiency,  adding  new  functions  to  the  user
+interface.
+Responsibilities:
+• Followed Scrum flow, participated in the design, development and testing of the system.
+•  Engaged  in  code  maintenance  and  enhancements  by  adding  Java  Management  Extensions  (JMX)
+instrumentation to the financial applications to provide for both local and remote monitoring.
+• Made code enhancements to existing GUI and created new GUI using JFC/Swing. The GUIs consist mostly
+of tables that are used in data presentation to clients.
+• Provided ongoing support in the analysis and troubleshooting of production issues which are tracked through
+JIRA.
+• Performed usability testing for the application using JUnit and Mockito.
+Environment:
+
+Java/J2EE Developer
+Charles Schwab Investment  -  Miami, FL - November 2009 to November 2010
+
+Description:
+Fixed income trading is the largest trading market in US. Charles Schwab provides the advanced support to the
+fixed income trading. It has a fixed income trading platform with the complete functions. The varying scale and
+the amount of large institutional investors gave rise to the demand of system modification. The project is on the
+platform improvement, such as technology upgrading, execution enhancement and security improvements.
+Responsibilities:
+• Involved of designing class diagrams and sequence diagrams with StarUML.
+
+• Consumed fee calculation, customer account service, auditing service, and performed data connectivity and
+routing with Apache Camel.
+• Exposed the business logic as web services with Apache CXF, JAX-WS.
+• Performed inbound and outbound message handling against XSD.
+• Leverage the data access with stored procedures, functions, and views.
+• Performed unit testing and SIT, and used SoapUI to perform functional testing.
+• Debug and fix the system problems during the design and testing.
+Environment:
+Spring, J2EE, EJB 3, JDBC, HTML/CSS/JS, Ajax, Spring MVC, Apache Camel, WebLogic, Oracle 10g, JAX-
+WS, SOAP, Apache CXF, XML, JAXB, JMX, SoapUI, Log4j, JUnit, SVN, Maven, Eclipse
+
+Software Engineer
+China Jianyin Securities Investment Company - June 2008 to August 2009
+
+Description:
+China  Jianyin  Securities  Investment  Company  is  derived  from  China  Construction  Bank,  responsible  for
+handling the non-banking asset management. The module provides support for front office on execution of
+domestic equity investment, and etc.
+Responsibilities:
+• Adapted system for new requirements by re-engineering product lookups, reporting, and etc.
+• Wrote a new reporting GUI in Swing which provides trades a realtime view in the inventory.
+• Designed and developed a fast rule-based message handling & routing system.
+• Performed several profile guided optimizations using YouKit.
+Environment:
+Sun  JDK  6,  Swing,  STEP(FIX  protocol),  EJB  3,  JDBC,  WebLogic  9.1,  Oracle  10g,  YouKit,  JMS,  JUnit,
+EasyMock, Maven, CVS, Eclipse
+
+Java Developer
+Putong Development Bank  -  上海市 - June 2007 to May 2008
+Description:
+Putong Development Bank is one of the major retail banks in Shanghai, which provides checking, saving,
+personal loan services, and etc. The project was refactoring the existing online banking system, adding new
+deposit services, provide client view for managing the balance, and generate customer invoice and more.
+Responsibilities:
+• Implement the functionalities specified in the software specifications.
+• Designed required JSP pages, and aggregated via Tiles.
+• Used Struts 2 to leverage the MVC pattern, and performed both client side and server side validations with
+Struts 2 validators.
+• Used JDBC in the data access layer, leverage the access with views, stored procedures.
+• Generate customer invoice document with iText. Send acknowledge information via JavaMail.
+• Developed test cases with JUnit.
+• Built and packaged the application using Apache Ant scripts and deployed the application in Tomcat 5 servlet
+container.
+Environment:
+Java 6, JSP, JavaScript, Struts 2, JDBC, SQL, Tomcat 5, MySQL 5, iText, JUnit, Log4j, Ant, CVS, Eclipse
+
+Swing - March 2003 to May 2003
+
+x, JDBC, Oracle 11g, Maven, Log4j, JMS, Camel, JMX, JIRA, JUnit, Mockito, Hudson
+
+ADDITIONAL INFORMATION
+
+• Results-driven Java Software Engineer with overall 8+ year experience in design, development, testing, and
+production support of multi-tier enterprise applications that support day-to-day business operations.
+• Extensive experience with object oriented analysis and design.
+• Extensive experience in using J2SE and J2EE technologies, and popular frameworks like Spring, Hibernate,
+and etc.
+• Good understanding and experience with GoF design patterns and core J2EE patterns.
+• Experience with SOA and EDA architecture and experience with integrating web services via SOAP/REST,
+Messaging (JMS, STOMP), and serialization frameworks (Thrift).
+• Experience with Agile-Scrum model. Followed TDD to deliver high quality code. Used Sonar plugins like
+Findbugs and PMD to perform the code quality checks.
+• Experience with Scala tech stack to develop side projects.
+• Experience with NoSQLs, like MongoDB, Redis.
+• Experience with Amazon Web Services.
+• Capable of taking multi-tasking responsibility and drive projects successfully during all phases of SDLC.
+• Excellent communication, interpersonal skills and able to work as a team player as well as an individual
+
+TECHNICAL SKILLS
+Java Stack JDK, Java EE, Spring, Hibernate, JMS, JPA, slf4j, JUnit, Mockito
+
+Spring  Stack  Spring  IoC,  Spring  MVC,  Spring  Security,  Spring  JDBC,  Spring  JPA,  Spring  Email,  Spring
+Integration, Spring Batch
+
+Web Technologies
+HTML, CSS, JSP, XML, XPath, XSD, JavaScript, JSON, Ajax, jQuery
+
+EAI Apache Camel, Apache Felix/Karaf, ServiceMix, Spring Integration, Spring Batch, MQ Series, Tibco RV,
+ActiveMQ, RabbitMQ, Quartz
+
+Serialization Protocol Buffers, Thrift, MessagePack
+
+Web Services Apache CXF, JAX-WS, SOAP, WSDL, JAX-RS, WS-*
+
+Languages C/C++, C#, Java, Scala, Python, SQL, PL/SQL, T-SQL
+
+Web/Application Servers Tomcat, Jetty, WAS, WebLogic
+
+IDEs Intellij IDEA, Eclipse, Sublime Text
+
+RDBMS Derby, H2, SQLite, Oracle, MySQL, MSSQL
+
+DB Tools Toad, Workbench, SSMS
+
+NoSQL Hadoop, HBase, MongoDB, Redis, Neo4j
+
+OS Windows, Linux, Unix
+
+Others AWS, SoapUI, Ant/Ivy, Maven, Hudson/Jenkins, Sonar, SVN, Git, StarUML, UMLet
+
+

@@ -1,0 +1,9 @@
+# put you inputDir in hadoop before running below steps
+# after doing all the steps below results are present in clustering6.csv
+# consider tfidf, cosinesimilarity and ngrams for kmeans clustering
+
+
+1) mahout seqdirectory -i inputDir -o tot1
+2) mahout seq2sparse -i tot1  -o vectot -ng 2 -wt TFIDF
+3) mahout kmeans -i vectot/tfidf-vectors -c vecinit/part-ramdomSeed -o kmeanstot -x 100 -cd 0.0001 --distanceMeasure org.apache.mahout.common.distance.CosineDistanceMeasure -ow -cl -xm mapreduce -k 6
+4) mahout clusterdump --input kmeanstot/clusters-17-final/ --output clusterng6.csv --pointsDir kmeanstot/clusteredPoints -of CSV

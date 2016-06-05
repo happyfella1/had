@@ -1,0 +1,194 @@
+David Amadio
+
+Network/ VMware and Windows Architect (Consultant) - Merrill Lynch
+
+Sewell, NJ - Email me on Indeed: indeed.com/r/David-Amadio/72656270e014843b
+
+Motivated  hardworking  individual  seeking  a  position  as  a  Sr.  Windows  and  VMware  Engineer  /  System
+Analyst that utilizes my unique mix of VMWARE VSPHERE skills, in-depth Microsoft server knowledge, LAN
+administration skills and Internet application experience.
+Web Page: http://home.comcast.net/~davidamadio/
+
+WORK EXPERIENCE
+
+BladeLogic Opeations Engineer
+Bank of America Merrill Lynch  -  Hopewell, NJ - January 2014 to Present
+
+Responsibilities
+BladeLogic  Operations  Engineer  Maintaining  the  Linux  environment  and  application  for  BMC  BladeLogic
+(8.3.170),  building  severs,  installing  BladeLogic  updates,  managing  the  console,  creating  roles,  managing
+RBACAdmin, building scripts in jobs and depot, Oracle SQL Query, scheduling jobs, fixing agents, updating
+ACLs. Supporting the console install and the Citrix environment for remote users.
+
+Accomplishments
+Upgraded  environment  from  8.3  to  8.3.170,  Supporting  100k  servers  in  environment  one  of  the  biggest
+BMC BladeLogic environments, managing weekly releases/system updates, support of hardware, SAN and
+volumes. 
+
+Skills Used
+Red Hat Linux, Oracle SQL, BMC BladeLogic, Scripting
+
+Network/ VMware and Windows Architect (Consultant)
+Merrill Lynch  -  Hopewell, NJ - April 2011 to Present
+
+VMware specialist building VM servers on 4.1 ESX servers W2K3 & W2K8.
+*  Key  VMware  Team  lead  on  the  Data  Center  Consolidation  Project.  The  Goal  to  virtualized  hundreds  of
+Physical Servers to Virtual Machines across the eight Virtual Centers in the Environment
+* P2V using converter tool to create VM servers from the physical server.
+* Create templates in Virtual Center to create standard server builds.
+* Responsible for installing all supporting applications on VM servers: SQL 2005 & 2008, TFS, Visual Studios
+2005 & 2010, CA SiteMinder (registering with Policy Server and creating realms), SQL Reporting Services,
+Cognos, Shadow Direct, etc..
+* Bring up VM on power outages, Blade Servers BL460 & BL680, Manage Virtual Connect and ILO.
+* Install IIS 6.0 & 7.0 on Windows Servers, test IIS and resolve any IIS issues.
+* Complete projects as required: P2V conversion of 400 servers, shut down and remove decommissioned
+servers, make changes in Virtual Center, move VM to correct data-store and ESX host.
+* Manage the ESX4.1 Environment includes the use of RVtools, VeamProducts and Powercli for reporting
+and building ESX servers. Additionally automate functions such as V2V, Vmotion, Svmotion, Clusters and
+Datastores.
+
+Senior Web Administrator of Production Web Sites - Consultant
+Comcast Cable  -  Philadelphia, PA - January 2011 to April 2011
+
+Web Site Administrator/Systems Engineer for production and non-production web sites at Comcast.
+* Install production web site updates for Comcast.com, DTA web site, etc on W2K3 IIS6.0.
+* Manage projects for web site servers: Update MS Security Patches, SQL Server Updates and Patches, and
+IIS6.0 Configuration Changes.
+* Deploy SQL Database updates via VB scripts.
+* Manage DNS updates and firewall changes for web applications.
+* Trouble shoot web site failure issues.
+
+Senior Web Administrator / Systems Engineer - Associate Vice President
+Merrill Lynch  -  Hopewell, NJ - November 2005 to January 2011
+
+Web Site Administrator/Systems Engineer for production and non-production web sites in Merrill's Banking
+Division.
+*  Working  on  IIS  6.0  on  Windows  2003  servers  installing  and  trouble  shooting  web  sites  setting  up  Host
+Headers, Server Certificates, SSL 443, MMC & Certificate Store, DNS, Virtual Directories, FTP, .net versioning,
+Service Extensions, IIS, Setting up Firewall Access through different ports (80, 443, 1414, etc..).
+*  Closely  working  with  the  developers  installing  &  using:  Visual  Studio,  Oracle,  SQL  Server  2000,  Crystal
+Reports,  SQL  Reporting  Tool,  ODBC  Settings  &  Drives,  Cognos,  MS  Access,  MQ  Client,  Shadow  Direct
+(mainframe  connectivity),  CA  Big  Fix,  NetIQ,  IIS,  SSL  Certificates,  Legato  Backup,  NetBackup,  FTP,  CA
+Unicenter DSM Explorer, Autosys, .Net Framework (machine.config), Visual Basic Scripting, CA SiteMinder,
+DNS, MS Clustering Services, NetScaler (Load Balancing), HP BL460 Servers, and VM Ware Servers ESX
+& GSX.
+* In addition I'm responsible for building, configuring and maintaining the servers for the Banking Division.
+Some are Cluster servers for SQL and other applications that require more fault tolerance using Windows
+Cluster Administration to set-up drives, shares, and other cluster dependent resources. In addition, I do SA
+work on the server setting up groups, shares, access rights, and installing MSI packages.
+* The bulk of the hardware consists of HP Compaq blade servers, with some IBM, and Dell equipment. All
+running with mirrored disk and connected to the SAN (PowerPath). With ILO connections to the HP servers.
+* I also take care of the disaster recovery for Banking, updating all of the applications in D&R making sure
+they are available in case of an emergency.
+* I have done a number of major projects for Banking: converting users to Thomson One from ILX (includes:
+testing, creating the install package, deployment, documentation, negotiating pricing, and training), UNICA
+install and configuration, SAS Windows Install, Mapping out of environments and application flows with Visio
+diagrams, and was part of one of the largest application roll-outs in the history of Bank of America working on
+the integrating ML's rapid check clearing process through its ATM machines.
+* Heavy into documentation for all kinds of process doing run-books for applications needing to be installed
+into production including Visio diagrams and mapping out environments.
+
+Senior Technology Specialist
+Towers Perrin  -  Philadelphia, PA - March 1998 to October 2005
+
+Tier two support responsible for keeping web sites up and trouble shooting IIS 5.0 & 6.0, D-COMM, Load
+Balancing, .Net Framework , WebLogic and Certificates.
+* Web application deployments/upgrades (Safe Source, Site Server, DCOM, MSI) and monitoring with NetIQ,
+Tea Leaf, Site Minder and Mercury Topaz.
+* Network Administrator for Active Directory and the Novell environment.
+* Conversion of Novell boxes to Windows 2000 Advanced Server.
+*  My  work  on  servers  encompasses:  installing,  trouble-shooting,  operating  systems  upgrades,  hardware
+replacements, maintenance, virus protection and tape backups (Arcserve Windows NT, 2000, 2003 & Novell).
+* Personally responsible for installing and building/supporting over 400 (Windows NT, 2000, 2003 & Novell)
+servers in offices across the country and building some with VMWARE.
+
+* I have experience installing Oracle, SQL 7.0, SSL Certs and People Soft onto a number of servers.
+* Responsible for corporate wide standards implementation/roll-out of: ISS security patches, virus protection,
+tape backup (hardware/software), desktop build, and server upgrades.
+*  Have  experience  with  many  types  of  server  hardware.  Current  server  hardware  standards  are  Compaq
+Proliant raid 5 and IBM NetServers.
+* I have managed a number of large projects for Towers Perrin: Private IP 10.x, Novell upgrade to eDir 5.1,
+pcAnywhere updates, SAN - Storage Area Network for our Oracle database, Virus protection for all Novell
+& Windows servers, Xerox Printers attached to the LAN, Disaster recovery coordinator and group manger,
+and several server application upgrades.Administrator /support for 3rd party and in-house applications with
+Oracle, SQL, IIS 6.0 and Web Logic.
+* On a routine basis I complete upgrades to applications and supporting software across multiple platforms:
+Unix, Novell, MS Windows NT/2000/2003.
+*  I  have  worked  with  and  have  experience  with  the  following  applications  and  hardware:  Windows  2000
+Servers,  Active  Directory,  Windows  NT,  Novell  4.1x  /5.1/eDir,  Database  Design,  UNIX.  HTML,  Microsoft
+Access, Clarion, Basic, Pascal, COBOL, C, dBASE, Visual Basic, WebLogic, IIS, Tea Leaf, NetIQ, Network
+Associates Server Sensor, Citix Medaframe, Lotus Notes, Lotus 1-2-3, WordPerfect, Windows, Excel, Word,
+Visio, pcANYWHERE, McAfee, HP JetAdmin, COMPAQ Insight Manager, ARCserve NT & Novell. Compaq
+SAN Storage Works, CISCO Switches, Xylan Switches, 3-COM Hubs (Token Ring, Ethernet, RMON), CSU/
+DSU,  Compaq  file  servers  Raid  5,  Compaq/ADIC  40/80  DLT  Tap  Libraries,  Super  DLT,  Modems,  Phone
+Systems.
+
+Manager of Information Systems
+CFM Technologies, Inc - July 1997 to March 1998
+
+PA
+* Coordinated four computer systems professionals to support 450-computer user base.
+* In charge of company WAN consisting of: routers, hubs, fiber, and laser links.
+* Including the building of and installation of: Novell, Windows NT and Unix file servers. Including all telecom
+links into and out of the company.
+* Worked to better the company by instituting CFM's first Intranet, and by reducing CFM's budget by $100k
+based on phone bill and computer system price reductions.
+
+Director of MIS
+Concorde Inc - September 1994 to July 1997
+
+PA
+* Computer systems programmer setting up databases with communication link-ups to track employee drug
+testing.
+*  Worked  on  contracts  for  CONRAIL,  S.E.P.T.A.,  D.O.T.,  and  the  D.O.I.  Providing  these  companies  with
+testing  results  in  24hrs  and  all  the  proper  paper  work  via  fax  automatically  sent  out  thorough  our  LAN
+system.Developed database that received electronic downloads of drug results via phone modem on a daily
+basis. This system was completely automated, scripts were made to automatically dial up the lab and down-
+load the results. The system took a raw ASCII file delimited by special characters and converted it to match the
+specifications of the database. This program also included the use of dBASE and Clipper for some automation
+processes.
+*  Developed  a  program  to  automatically  transfer  our  billing  to  a  COBOL  format  for  customers  with  these
+systems, to speed up payment and to automate customer data-input. In addition have completed C++ programs
+for menus and for complexcalculations.
+
+Expediting Manager/Operations LAN Manager
+Universal Process Equipment - July 1989 to September 1994
+
+NJ
+* Designed company wide database to organize customer order flow and to coordinate the efforts of various
+departments. Providing the company with a means of tracking: finances, cost accounting, and timeliness of
+shipments.Novell Network Administrator for over five years on a 100 user network.
+* Purchased and installed Novell Network including wiring and the installation of work-stations.
+*  On  committee  to  set-up  AS400  to  connect  LAN  systems  and  to  convert  IBM  system  36  data  to  new
+mainframe.
+* Secondary position was managing the expediting of domestic sales. This included scheduling all work in the
+shop and acting as manger when the Shop Manager was not present.
+* I was also responsible for managing the Customer Service Department and the Operations Department when
+either manager was absent. Being expediter my experiences included setting up the transportation of this
+equipment to domestic sites as well as international sites. Some of these shipments were priced well over a
+hundred thousand dollars.
+* I worked out pricing with freight forwarding companies and trucking companies for these shipments. Shipping
+chemical equipment from the Netherlands to Australia.
+
+EDUCATION
+
+Learning Tree International
+November 2009
+
+Associate
+Computer Learning Center - Philadelphia, PA
+May 1994
+
+C.I.C. in Computer Science
+Millersville University - Millersville, PA
+August 1989
+
+ADDITIONAL INFORMATION
+
+Skills
+
+MS Active Directory, Arcserve CA, Autosys, Bigfix, Certificate Authority, HP Compaq Servers, IIS 6.0, MS
+Visual Studios, Novell Directory services, Windows Administration, SQL Server, Visual Basic Scripting, Visual
+Source Safe, Weblogic, Windows 2003 Server, NetScaler, 3DNS, CA Unicenter DSM Explorer
+
+

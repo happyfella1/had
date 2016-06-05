@@ -1,0 +1,118 @@
+Ralph Marrone
+
+Senior Software Engineer - Accenture
+
+Collegeville, PA - Email me on Indeed: indeed.com/r/Ralph-Marrone/a02388d283ee5ce6
+
+An  experienced  and  self-motivated  professional  with  extensive  application  and  database  development.
+Capable of creative and productive work in a variety of business settings. Expertise includes full software
+lifecycle development and strong cross-disciplined experience in software development, infrastructure and
+operations.
+
+TECHNICAL BACKGROUND
+
+WORK EXPERIENCE
+
+Senior Software Engineer
+Accenture - January 2011 to Present
+
+Senior software engineer for a leading procurement outsourcing and servicing firm.
+
+• Lead Oracle developer for the GDM team specializing in database application performance. Leveraged the
+Oracle Explain Plan and tkprof utilities to identify and refactor inefficient SQL, as well as, PL/SQL packaged
+procedures and functions. In some cases have reduced run times from over 10 hours to under 10 minutes.
+• Oracle Apex front-end development and Oracle PL/SQL back-end development for the BCOS and Radix
+systems.
+• Implemented the Release Management procedure that has run smoothly and efficiently with zero installation
+issues.
+• Prototyped the ability to make REST web service calls from an Apex application.
+• Prototyped the Apex front-end file search application to provide Radix users the capability to select multiple
+file attachments from the database to be bundled into one zip file.
+
+Consultant
+Pfizer - February 2008 to January 2011
+
+Responsible for development and maintenance of the Oracle-based backend processes for the FieldConnect
+sales force support application.
+
+• Developed the SQL reports to verify the data migration from Legacy Wyeth's FieldConnect system to Pfizer's
+Atlas Sales Management system. Leveraged Composite Software Studio for this task.
+• Interacted with the business analysts to develop the requirements for the downstream data feeds.
+• Developed and tested Oracle PL/SQL scripts and packages to generate data feeds for internal and external
+downstream systems.
+• Tech lead on the project to store all of US Commercial's source code in CVS. Entailed working with many
+groups to identify and resolve issues.
+
+Senior Application Developer
+VWR International - April 1999 to February 2008
+
+Responsible  for  development  and  maintenance  of  Oracle  backend  processes  that  support  the  selling  and
+distribution of science products.
+
+• Re-engineered the HPUX Production Environment to support the Password Security Model. This greatly
+eased the promotion of code from development to QA to Production.
+• Designed and implemented backend processes employing the following technologies: Perl, Oracle PL/SQL,
+UNIX KSH, Java, XSLT, and ANT.
+•  Developed  Perl  modules  to  interface  to  Maestro  jobs,  via  ovtrap  and  snmpnotify,  to  OpenView  to  notify
+Operations  of  system/application  errors.  Developed  the  Management  Information  Base  (MIB)  numbering
+scheme for the Maestro jobs. This provided Operations with the ability to map Maestro jobs to MIBs; thereby,
+easing Operations' ability to identify and rectify production problems.
+• Re-factored the way VWR faxes Purchase Orders and Order Acknowledgments. The technologies involved
+were: Perl, jetforms, RightFax, and Oracle.
+• Developed a Perl based utility that monitors all Oracle listeners. It automatically restarts the listeners that are
+down, as well as, e-mailing the DBA on-call.
+• Developed a Perl based utility to bounce all Oracle databases and their corresponding applications. This
+greatly eases host maintenance and ensures that the appropriate applications are up when the databases
+are started.
+
+Client Server Developer
+First USA - February 1998 to April 1999
+
+Upgraded and maintained the UNIX KSH and Perl scripts and Oracle PL/SQL Stored Procedures, Packages
+and  SQL*Plus  scripts  that  drive  the  bank-end  report  generator  of  the  daily  credit  card  activation  process.
+Designed and implemented the Pro*C program that uses array processing and ODS calls to cross-reference
+Oracle data and Sybase data to generate a credit card/telecomm vendor file.
+• Major accomplishment: Reduced daily Oracle table load time from 8 hours to less than 30 minutes.
+
+Senior Software Application Engineer
+Lockheed Martin Corporation - February 1985 to February 1998
+
+Designed and implemented C/Solaris applications, with embedded SQL, to support LOCKHEED MARTIN's
+Requirements Management System. Applications run on both the DB2 and Sybase platforms.
+•  Designed  and  implemented  C/QNX  applications  supporting  the  GUI,  and  C/QNX/SQL  processes  that
+communicate  with  the  FSM100  Real-Time  Control  System.  Processes  performed  statistical  analysis,  data
+reduction, system alarm notification, and report generation. Provided leadership role in system integration
+• Designed and implemented C/UNIX interrupt service routines and applications for the FAA DBRITE Serial
+Interface  program,  a  68020  based,  multiprocessing,  real-time,  embedded  system.  Applications  translated
+ASR9 radar data into a suite of aircraft and weather symbol descriptors for display on the Air Traffic Controller's
+display. Developed the algorithm used by the hardware to display the aircraft and weather symbols. Received
+an Exemplary Action Award for this work.
+• Designed and implemented C/UNIX data analysis applications to support system level performance testing
+of the FAA Mode S program, a 68020 based, multiprocessing, real-time, fault tolerant, embedded system.
+Applications performed data reduction and analysis on the test results thereby speeding up the system level
+testing schedule. Designed and implemented stubs and drivers to isolate tasking bottlenecks. Received two
+Exemplary Action Awards for this work.
+• Designed and implemented SLAM simulation models depicting mail flow throughout postal facilities to identify
+throughput and bottleneck conditions.
+• Designed and implemented C/XENIX front-end programs to process and reduce ZIP+4 National Directory
+data for downloading to the USPS MLR/OCR. Received an Exemplary Action Award for this work.
+
+Prior Experience
+• Whalen Associates, Inc (1983 to 1984): Consultant.
+• Sperry Computer Systems (1980 to 1983): Network Support
+
+EDUCATION
+
+B.Sc. in Mathematics
+Drexel University
+1980
+
+ADDITIONAL INFORMATION
+
+Operating Systems: UNIX, Linux, Windows […]
+Languages: Oracle PL/SQL, SQL*Plus, Perl, UNIX Korn Shell, awk, C, SSH, PGP,
+make, ANT, Java, Javascript, XSLT, Windows Interface Language
+Databases: Oracle 8i, 9i, 10g, 11g
+Software/Tools: Agile Development, Groovy, Oracle Apex, CVS, Toad, SVN, CVS
+
+

@@ -1,0 +1,305 @@
+Rithvik Paladugu
+
+Devops Engineer
+
+Wilmington, DE - Email me on Indeed: indeed.com/r/Rithvik-Paladugu/820293e064bec5aa
+
+• Software professional with 8+ years of experience in various domains like Finance, Banking and Insurance
+sectors.
+•  Software  professional  with  8+years  of  experience  in  various  Version  Management,  Build,  Continuous
+Integration and Quality Assurance tools in UNIX and Windows environment.
+• Created SCM Process, policies and procedures to follow Development and SQA team to Release or Deploy
+highest quality product for the enterprise.
+• Extensive experience in using Build and continuous integration tools like, ANT, Maven, Jenkins, Hudson,Chef
+and Bamboo.
+• Installed and configured various VM tools like CVS, SVN, GIT, TFS 2005 SP1 and TFS 2008.
+• Installed and configured various build tools like ANT and MAVEN.
+• Installed and configured various continuous integration tools like Udeploy, Bamboo, Jenkins, Hudson and
+TFS.
+• Integrated CI tools with issue tracking and code review tools like Bamboo with JIRA and FishEye/Crucible.
+• Coordinated different teams across the globe to deploy to different builds to different environments on parallel
+development for multiple projects.
+• Trained all developers and CM team on best practices and new features of the tool.
+• Extensive experience in setting up baselines, branching, merging, periodic back ups of the source code and
+automation processes using shell scripts as well as Perl scripting
+• Basic experience in Python, JavaScript and Ruby
+• Experienced in Agile and waterfall methodologies and SDLCprocess.
+• Worked on cross-platforms (Windows-Unix) with CVS and Subversion.
+• Migrated CVS Version Management to Subversion.
+• Worked on UNIX Shell scripting for build and release automations.
+• Good knowledge in different web technologies.
+• Capability to maintain calm in handling pressurized situation with excellent attitude towards team work ,Quick
+problem resolver.
+• Expert in writing and gathering the functional requirements ,excellent in communication skills,Management&
+Analytical skills apart from that also posses the ability to work independentely with a little or no supervison
+required.
+Willing to relocate: Anywhere
+
+WORK EXPERIENCE
+
+Devops Engineer
+Capital One  -  Wilmington, DE - January 2014 to January 2016
+
+Responsibilities:
+
+• Successful Administrating theUdeploy by creating required QA and DEV servers.
+• Successfully maintaining all the servers (DEV, QA )with the required code with help of Udeploy in a timely
+manner for regression testing and smoke and UAT.
+• Studied the current build and release process and automated the process using shell scripts.
+• Configured new processes in Udeploy for application specific requirement.
+• Assigning team roles and properties in Udeploy.
+
+• Deployed various versions of the application to the Tomcat (Linux boxes) servers.
+• Deployed various versions of the application to apache webserver and debugging the discrepancies in the
+httpd Conf (proxy configuration).
+• Configured RSA to the servers.
+• Configured Blue stripe to the server.
+• Manual provisioning of the AWS instances for both QA and DEV (manual changes are done in the server
+on the basis of what application requires).
+• Assisted in Provisioning of Apache and Tomcat in Udeploy on the basis of versioning matrix.
+•  Implemented  chef  delivery  pipeline  (verify,  Build,  acceptance,  union,  rehearsal,  delivered)  across  the
+organization.
+• Supporting all feature teams for any deployment issues on ETA basis and worked with developers to debug
+the root cause of the issues and successfully resolving them.
+• Support development engineers with Configuration Management issues.
+• Supporting all features teams for any build issues and debugging them.
+• Creation and setup of new environments such as development, testing and production
+• Creating Automated build process by using Jenkins CI tool.
+• Implemented Jenkins for user management with active directory.
+• Worked on Jenkins to build the automation of single click deployments to DEV environment into the AWS
+cloud.
+• Implemented chef identity plugin in Jenkins to automatically create the required AWS stack.
+• Worked on checking the various HTTP Response for REST API by using GET, PUSH methods with the help
+of Postman and Advanced Rest client.
+• Worked on bootstrapping the node from chef server to chef client.
+•  Worked  on  chef  IT  tool  for  building  out  the  environment's  like  DEV,  QA  automatically  to  minimize  the
+troubleshoot efforts.
+• Worked on Bootstrapping the node(chef client) with chef server by using knife bootstrap
+• Written various recipes and uploaded them by using chef-apply, chef-client
+• Authenticated the chef server to chef node in chef client run process
+• Uploaded various cookbooks for automating the run-time of AWS instances during the weekend
+• worked closely on production deployments with OPS to make sure all the tasks required for the production
+deployments are captured and automate them using chef
+• For better environment management configured environments, roles, Databags in Chef
+• Used Foodcritic, Rubocopto avoid common cookbook errors and chefspec for Unit testing of cookbooks.
+• Created Customized Environments for DEV and QA teams, responsible for maintaining
+all the environments till pre-prod. Worked with the QA team and executed multiple
+Mock build before release.
+• Worked in creation of various Production back up environments like GREEN AND BLUE Environments.
+• Worked in using various AWS storage services like S3, EBS.
+• Worked on scaling AWS instance vertically by attaching the EBS with high volume
+• Extracted the required files in Database and stored in Buckets in S3.
+• Configured & validated the Nuxeo content in all tomcat servers.
+• Worked closely with EAPI developers and EAPI Environments team to debug the root cause for the failure
+of the desired EAPI calls for the applications.
+• Worked on configuring various EAPI services in the tomcat servers.
+•  Worked  on  various  Adhoc  requests  for  example  deploying  various  builds  and  necessary  configuration
+changes that bring the application up.
+• Worked on installing feature toggle in tomcat application server.
+• Worked on installing hysterix dashboard in the tomcat application server.
+
+• Worked closely with development teams to understand the necessity of the features to be toggled on or off
+in the servers and helped them toggling the features that are required for testing purpose.
+•  Worked  on  HP  service  virtualization  server,  by  changing  the  RTM  end  points  with  the  necessary  mock
+servers.
+• Worked on resolving Hazlecast configuration issues in Hazlecast instance.
+
+Environment: RHELLinux, Java, Git, Ant, Maven, Jenkins, Udeploy and Tomcat, Chef, Aws
+
+Devops Engineer
+AIG Insurance  -  Jersey City, NJ - January 2013 to January 2014
+
+Responsibilities:
+
+Administration of Jirra
+• Administrated Visual Subversion.
+• Consolidated and migrated the scattered source code across multiple repositories to single repository in
+visual SVN.
+• Installed and configured Atlassian products like Bamboo, JIRA, Confluence and FishEye/Crucible to support
+agile SLDC methodology.
+• Installed and configured Bamboo Continuous Integration server on Linux.
+• Installed and Configured Bamboo remote build agents to support the projects.
+• Automated the builds using Bamboo CI server.
+• Automated deployment of builds to different environments using Bamboo.
+• Implemented Continuous Build and Continuous Delivery Process using Bamboo CI server.
+• Installed and configured repository monitoring and code review tool FishEye/Crucible.
+• Integrated Bamboo, JIRA and FishEye/Crucible.
+• Deployed applications to JBoss Application Server.
+
+Release Engineer
+• Created SCM Audit Plan and was the Key role in doing SCM Audit.
+• Installed Smart CVS Professional and imported the Projects.
+• Generated the useful Reports for conducting SCM verification and Audit process by using Smart CVS.
+• Exported Project / Release Component Reports to Microsoft Excel.
+• Identified all the configuration items that are different between the Releases by Smart CVS.
+• Wrote Scripts to automate the process of consolidating the appropriate APIs for every Release.
+• Used Eclipse to connect to Central CVS repository and SVN Repository server.
+• Implemented Serena Dimensions for web portal project.
+• Created System Test / Performance Test environments and Maintained Environment Upgrades.
+• Active role in preparing documents like SCM New User guides and SCM verification.
+• Coordinated the Development Team, QC and Application Support in Deploying the Code to the right System
+Test Environment using AnthillPro Tool.
+• Used Ant & Maven as Build tool.
+• Used Cruise Control to automate the Build process.
+• Configured the Applications and projects using Maven.
+• Configured Artifactory to store the Build Artifacts and Reports.
+• Prepared Migration logs for every release and maintained the data accuracy.
+• Planned the Release schedules by identifying the Testing Environment and confirming the Current Code
+Level.
+• Used Putty to connect to Linux from windows.
+
+•  Maintained  Defect  Fix  Deployments  and  documented  the  deployed  files  in  the  appropriate  Environment
+Migration log.
+• Created Branches, Tags for each release and particular environments.
+• Merged the branches after the Code Freeze.
+• Created the Deployment notes along with the Local SCM team and released the Deployment instructions
+to Application Support.
+• Create/Edit the server specific / Config files for all deployments to different Environments
+• Conducted Sanity Tests to verify the right Builds.
+• Packaged the Software using Packaging Tools like MSI, Install Shield.
+• Automated the regular Activities Using Shell Scripts.
+• Maintained Off shore team and trained the team on CVS.
+• Ensuring the success of the Release from E2E perspective
+• Tracking the plan/milestones to closure and ensuring that all the activities detailed in the plan are completed
+on time.
+• Preparing the Implementation Schedules for GO-LIVE with all Pre , GO and POST LVE TASKS.
+• Communicating all the responsible parties for the right dependencies
+• Creating CRs and PRs using VANTIVE tool after getting approvals from CCB, RM.
+• Make sure the OIGs and IDPs are documented properly in the right time.
+• Chairing the Release Management calls and preparing minutes for the same.
+• Preparing the report required during the go- no go call.
+• Creating the Roll Out / Back Out Plans at the time of deployments.
+• Facilitating UAT with Business Users.
+• Chairing the Go Live deployment call.
+• Explores to understand the Customer needs and proactively delivers the best solution.
+
+Environment: Sun Solaris, UNIX, CVS, PVCS, Java, Eclipse, Ant, Maven, IBM Web sphere Application Server
+(WAS) , Subversion, Perl, Linux, Smart CVS, WSAD, RAD , Linux, Microsoft .net , Vantive, MS-Excel, Quality
+Center & Oracle, Java, JBoss Developer Studio, JBoss Application Server, , Bamboo, JIRA and FishEye/
+Crucible.
+
+Build Engineer
+Barclays  -  New York, NY - October 2010 to December 2012
+
+Responsibilities:
+• Maintained source code repository in subversion and PVCS.
+• Installed and configured Jenkins.
+• Successfully administrated Subversion andJenkins.
+• Automated deployment of builds to different environments using Jenkins.
+• Work closely with Business analysts and Project managers to meet release and build schedule deadlines.
+• Created Continuous Build Process using Jenkins.
+•  Suggested  and  implemented  the  process  of  automated  builds  and  auto  deployments,  for  fast  paced
+applications.
+• Studied the current build and release process and automated the process using Jenkins
+• Debugged Build failures and worked with developers and QA people to resolve the related issues.
+• Perform various builds for the QA, and Production Environments.
+• Deployment of application to the Web Server and Application Server.
+• Managed builds and made necessary changes to Ant build scripts for Java/ Websphere based applications.
+• Support development engineers with Configuration Management issues and assist my seniors and Project
+Leaders in technical issues.
+• Creation and setup of new environments/branches such as development, testing and production.
+
+• Documented release, builds and source control processes and plans.
+• Worked closely with development team and SQA team for product releases.
+• Worked on POC of building private cloud and also migrating the web applications to cloud environment.
+
+Environment:  Sun  Solaris,  UNIX,  Java,  Eclipse,  Subversion,  Ant,  Jenkins,  Web  logic  and  Tomcat  Apache
+Application Server
+
+Build Engineer
+LexisNexis  -  Dayton, OH - September 2007 to September 2010
+
+Responsibilities:
+
+Deployment / Installation Engineer
+LexisNexis - 2008 to 2008
+
+2005 SP1 & TFS 2008):
+
+• Installation of Team Foundation Server for File & Serve project.
+• Configuration of TFS as per the user needs.
+• User administration - user creation, providing permissions, etc
+•  Branch  maintenance  -  creation  of  new  branches,  merge  of  branches  into  main  trunk  after  release  to
+production.
+• Providing training to Dev and QA teams as needed.
+
+Administration of SVN/SFEE:
+• Installation of Subversion (SVN) and Source Forge Enterprise Edition (SFEE) for CourtLink project.
+• Configuration of SFEE/SVN as per the user needs.
+• Creation of new projects on SFEE
+• User administration - user creation, providing permissions, etc
+•  Branch  maintenance  -  creation  of  new  branches,  merge  of  branches  into  main  trunk  after  release  to
+production.
+• Providing training to Dev and QA teams as needed.
+
+Build Management:
+• Responsible for creating a new branch on TFS for every release. Inform the development team about new
+branch details.
+• Responsible for creating new build type using TFS Team Build for every branch. Make sure that new build
+is working fine and send note to developers about new build.
+• Using build tools like ANT / MAVEN / MAKE / TFS Team Build / MS Build to build the code and convert the
+plain code into executables like DLLs, MSI packages, EXEs, JAR, WAR, EAR, etc.
+• Build the source code using TFS Team Build when developers are done with development using various
+languages  like  VB  .NET,  C#,  C++  for  File  &  Serve  project  &  and  using  Maven  to  build  the  Java,  J2EE
+applications for CourtLink project.
+• Coordinate with development team if there are any compilation errors in the build. Make sure the code gets
+build successfully.
+• Manually create/edit the server specific configuration files for deployments to various environments.
+• Conduct Sanity tests to verify the build artifacts.
+• Build Automation - automating the existing manual build process using tools like Cruise control and Hudson.
+
+Deployment / Installation Engineer:
+
+• Deploy the build artifacts to various environments like Dev, QA and Stage. Deploy the MSI packages to
+Microsoft IIS web servers in File & Serve project and WAR/EAR to IBM WebSphere application servers in
+CourtLink project.
+• Send notification emails to Project Teams about application down time and new deployment. Mention the list
+of work items / tasks deployed in this build.
+• Maintain the QA and Stage environments to make sure they have right versions of the build artifacts.
+• Migration of build artifacts across various environments as per the release schedule.
+• Make sure the availability of the environments to QA and Business teams for testing as per the plan.
+•  Prepare  the  deployment  instructions  for  Operations  team  to  deploy  the  build  artifacts  to  Production
+environment.
+• Deployment Automation - Automating the deployment process using the scripting languages like shell and
+batch scripting
+
+Release Management:
+• Have been playing a vital role in all the phases of software development life cycle (SDLC).
+• Responsible for creating the release plan.
+• Make sure that the project release is on schedule as per the release plan.
+• Coordinate with Dev, QA and Operations teams to make sure development, builds/deployments and QA
+testing are on track.
+• Make sure to get sign-off from QA and Business teams to plan for the production deployment.
+• Preparation of production deployment plan. Also, walkthrough of the deployment plan with Dev, QA and Ops
+teams.
+•  Monitor  the  production  deployment  process  and  make  sure  that  the  deployment  happens  as  per  the
+deployment plan.
+• Coordinate with QA and Business teams for production check-out.
+• Get a final Go/No-Go from QA and Business teams.
+• Send release notes to responsible parties.
+
+Environment: W2k/NT, Windows 2003, TFS 2005 and 2008, C#, .NET, ANT, WebSphere App Server, Java,
+SQL server
+
+EDUCATION
+
+Bachelors in Electronics and Communication Engineering
+JNTU
+
+ADDITIONAL INFORMATION
+
+TechnicalSkills
+SCM Tools
+CVS, Subversion, PVCS,GIT, TFS 2005 and 2008, ANT, Maven, Udeploy, Hudson, Jenkins, Bamboo, Chef,
+JIRA, FishEye/Crucible and Confluence, version one ,postman, Advanced Rest client, Quality center
+
+Operating Systems UNIX,SUN Solaris, Linux (red hat), Windows […]
+Database Oracle 9i/ 8i/7.3, SQL Server […] MySQL 4.0
+Languages C/C++, Java, SQL, PL/SQL, VB .NET, JavaScript
+Scripting Languages Cloud Technologies Shell Scripting, VB Script, Perl, Python, Ruby Amazon web services
+EC2, EBS, RDS, S3
+Web Technologies HTML, DHTML, XML, SOAP, REST.
+
+Application Server IBM Web Sphere, WEB Logic Server and Tomcat.
+
+

@@ -1,0 +1,257 @@
+Sohan ram
+
+Sr. Quality Engineer /ETL Tester - Barclays Bank
+
+Wilmington, DE - Email me on Indeed: indeed.com/r/Sohan-ram/374986c79dc65747
+
+• Highly Skilled Professional 7+ years of IT experience in Testing Data Warehouse and Business Intelligence
+tools and Web based applications.
+• Expertise in understanding Business Requirements, Functional Requirements, decomposing into HLD's and
+ETL Specifications into Test Cases for positive and negative test conditions.
+• Well versed with various types Software Development methodologies- Waterfall, Agile, Kanban, RUP, and
+Iterative.
+• Extensive experience in reviewing Business Requirement Documents, Software Requirement Documents
+and preparing Test Cases, Test scripts and Execution.
+• Experience in working with Data Warehouse and Datamart using Data Stage and Informatica PowerCenter.
+• Huge experience in testing Front end applications as well as customer websites.
+• Good experience as SOAP Web Services Tester, in testing web services via SOAP UI.
+• Experience in testing complex mappings using various transformations available in Mappings.
+• Manually performed Back-End testing by writing SQL queries and validating the database using Complex
+SQL Joins and Functions.
+• Extensively involved in Backend Database testing using ORACLE, MS SQL, DB2, PL/SQL.
+•  Extensive  experience  in  Oracle  Back  end  (server-side)  PL/SQL  Packages,  Stored  Procedures,  Indexes,
+Functions & Triggers using SQL Developer and Toad development tools.
+• Extensive experience with Job scheduling tools Control-M, Autosys and Tidal.
+• Experience with star and snowflake schema, dimensional data modeling, Fact and dimensional tables, Slowly
+Changing dimensions.
+• Huge Experience on working with Data replication, Data retention and ILM process and Partition Extender
+jobs.
+• Experience in testing Business Report developed using MicroStrategy, Business Objects XIR2 & Cognos
+8 series.
+• Expertise in multiple testing techniques including Functional, Regression, Integration, system, performance,
+smoke, User acceptance testing, Black Box Testing, White Box testing, User Acceptance testing (UAT) and
+End to End testing.
+• Proficient working with Unix/Linux environments and writing UNIX shell scripts.
+• Expert in working with Test Director and Quality Center.
+•  Committed  team  player,  with  excellent  communication  skills  and  self-starter,  capable  of  working
+independently.
+Willing to relocate: Anywhere
+
+WORK EXPERIENCE
+
+Sr. Quality Engineer /ETL Tester
+Barclays Bank  -  Wilmington, DE - July 2013 to Present
+
+Extensively worked on identifying the test scenarios and creating the test strategy.
+•  Actively  participated  and  involved  in  each  phase  of  agile  methodology  from  Grooming  sessions  to
+Retrospective session.
+• Experience in relative estimation as well as the conservative man hour's estimation in Agile methodology.
+• Attended daily scrum stand up meetings and provide daily status of each stories.
+
+• Participated in design review meetings and code review meetings to understand the technical and functional
+systems overview.
+• Extensively worked on backend and frontend testing.
+• Expert in conditioning data from front end applications as well as mocking data in the input file.
+• Extensively worked with Datastage 9.1, 8.2 as the ETL tool.
+• Worked on Datastage Designer to verify and validate the Datastage jobs.
+• Extensively used Datastage Director to find the job logs and job performance.
+• Extensively worked on projects where files were received from vendors and loaded to staging and to the
+upper layers used for creating reports.
+• Extensively worked on creating mock files to test negative scenarios.
+• Huge experience on testing fixed length and variable length file to stage load process.
+• Huge experience on testing Data Replication jobs, Data Retention jobs and Partition Extender jobs.
+• Experience on testing Complete and Delta loads.
+• Huge experience on testing MicroStrategy Reports. Validated the underlying sql query, Report layout and the
+naming conventions against the requirement, Formatting Properties like alignment, scroll bar, decimal places
+etc, Export/ Print functionality.
+• Huge experience on verifying and validating the Control-M jobs.
+• Huge experience on testing Control-M job severity and priority, alerts notifications, scheduling and late run
+shouts.
+• Tested Web based application for Usability, Interface, Compatibility, performance and Securtiy.
+• Performed Functional testing of web applications using SOAP UI.
+• Involved in developing Automation Suites using SOAP UI for Functional and Regression and Load Testing.
+• Used HP Quality Center as the Test Management tool.
+• Extensively worked on Production tickets with adhoc builds.
+• Extensively used the UNIX commands to create and edit mock files.
+• Actively participated in Defect Triage Meeting, Risk Report Meetings and GO/No go meetings.
+• Actively worked and coordinated with the Off-Shore team.
+
+Environment: DataStage 9.1, 8.2, DataStage Director, DataStage Designer, MicroStrategy, Oracle 10g/ 11g,
+SOAP UI, TSYS, Customer Center Desktop, Control-M Enterprise Manager, HP Quality Center 10, TOAD,
+SQL Developer 3.2, SQL Plus, Ultra Edit, , Rally, Win SCP, Beyond Compare, Notepad++
+
+ETL Test Analyst - Test Lead
+CLARITY SOLUTION GROUP  -  Chicago, IL - December 2012 to June 2013
+
+Client: Ally Bank, Detroit, Michigan
+Clarity  is  a  data  analytics  firm  providing  expert  consulting  solutions  and  ongoing  support  with  an
+uncompromising focus on client success. The purpose of the project was to migrate the ETL jobs, with no
+business disruption, from the Production and Pre-production environments currently in Lewisville and Shady
+Oak to new data centers in Carrollton and San Antonio, TX.
+
+• Created Requirement traceability matrix.
+• Generated Test Plan and Test Strategy based on the business requirement.
+• Created test cases based on the test plan and uploaded to the test management tool.
+• Worked with Quality Center for testing activities. Created test cases and test sets.
+• Reported bugs and worked with developers to resolve defects.
+• Involved in Smoke, SIT, Retesting, Performance testing and Regression test.
+• Developed test cases to accomplish ETL data migration
+• Wrote data conversion and data migration scripts for ETL process
+• Worked with DataStage Director to do job inventory and view job status.
+
+• Used dsjob commands to get the list of compiled jobs in the project.
+• Used DataStage Director to verify jobs are running in GRID environment.
+• Experience with DataStage Designer to view jobs sources, transformations and target database and the
+scripts.
+• Experience working with the Parallel, Sequence and Server jobs in DataStage.
+• Worked with the OSH scripts in DataStage Director to view the SQL scripts used by jobs.
+• Performed functional testing for jobs that were converted from Server jobs to Parallel jobs.
+•  Understood  Data  Models,  Data  Schema,  ETL  and  created  extensive  store  procedures,  SQL  queries  to
+perform backend data warehousing testing
+• Extensively used SQL tools like SQL Developer and SQL Plus to run SQL queries and validate data in source,
+staging and data mart.
+• Analyzed the session logs and the audit tables to find the job elapsed time for staging and loading jobs.
+• Ensured data integrity and verified all data modifications and calculations during database migration using
+ETL tools
+• Extensively used UNIX commands to validate the Unix Script files and the parameter files.
+• Extensively used the diff command in UNIX to find difference between files.
+• Extensively used FC windows command to find the differences between tables.
+• Participated in daily stand up meetings, weekly status meetings with offsite teams and offshore teams.
+• Validated the Tidal jobs.
+• Involved in Defect Triage Meetings and determine the priority and severity of bugs.
+• Coordinated with the offsite and offshore teams and monitored junior test Analysts.
+
+Environment: DataStage 8.7, DataStage Director, DataStage Designer, Oracle 10g, HP Quality Center 10,
+SQL Developer 3.2, SQL Plus, Beyond Compare 3, dsjob command, Tidal.
+
+ETL Test Analyst
+UW HEALTH  -  Madison, WI - April 2012 to December 2012
+
+Claims DataMart- CDWH
+• Create Test plan documents, test scripts and test case documents and Traceability matrix.
+• Worked with Informatica Power Center and tested numerous mappings.
+• Created and executed test cases and test scripts based on test strategy and test plans based on ETL Mapping
+document.
+• Identified, documented additional data cleansing needs and consistent error patterns by modifying ETL code.
+• Worked with Control-M jobs. Validated the control-m jobs based on their design document.
+• Developed and executed the manual test cases and documented the bugs using Quality Center.
+• Analyzed the source data coming from Oracle, Flat Files, and MS Excel coordinated with data warehouse
+team in developing Dimensional Model.
+• Performed extensive backend Database testing using complex SQL queries.
+• Wrote complex SQL Joins, Unions and Nested Queries on various data tables for Data validation.
+• Performed Database validation using PL/SQL Functions, Cursors, Packages, Stored procedures.
+• Tested several stored procedures.
+• Tested mappings with the Design Documents and also performed testing for various sample data.
+• Maintained the results of test data and performed regression testing based on the result set.
+• Used Quality Center to store, schedule test cases and report bugs.
+• Tested Slowly Changing dimension methodology for accessing the full history of accounts and transaction
+information.
+• Wrote SQL queries to validate the business rules and data sources. Extensively used SQL Developer as
+Ad Hoc Query tool for Oracle.
+
+• Tested various mappings transformations like Filter, Router, Joiner, Sequence Generator and Aggregator
+and perform query overrides in Lookup transformation as and when required to improve the performance of
+the mappings.
+• Tested Cognos reports for verifying and validating the data.
+•  Tested  several  complex  reports  generated  by  Cognos  including  Dashboard,  Summary  Reports,  Master
+Detailed, Drill Down and Score Cards.
+• Effectively communicate testing activities and findings in oral and written formats.
+
+Environment: Control-M, Informatica Power Center 8.6.1, ETL, Oracle 10g, PL/SQL, Toad, Cognos 8.0 series,
+Windows XP/2003/2000, UNIX (HP-UX, Sun OS) and Linux servers, SQL, Quality Center 10, XML Files.
+
+DWH / ETL Tester
+Broad ridge Financial Solutions  -  Manhattan, NY - January 2009 to April 2012
+
+Responsibilities
+• Tested Complex ETL Mappings and Sessions based on business user requirements and business rules to
+load data from source flat files and RDBMS tables to target tables.
+• Experience in data analysis, data integration, conceptual data modeling or metadata creation.
+• Performed Business Analysis, Data Analysis and Dimensional Data Modeling
+• Created the test environment for Staging area, loading the Staging area with data from multiple sources.
+• Conducted source-system data analysis to understand current state, quality and availability of existing data.
+• Worked with Data Stage for Data Extraction, Transformation and Loading (ETL).
+• Tested all the Data Stage Parallel jobs when extract, transformation and loading of the data using Data Stage
+in the parallel processing mode
+• Extraction of test data from tables and loading of data into SQL tables.
+• Verify the source to target data movement and verify the target data by writing SQL queries
+• Written several complex SQL queries for validating Cognos Reports.
+• Worked with business team to test the reports developed in Cognos
+• Tested whether the reports developed in Cognos are as per company standards.
+• Used Quality Center to track and report system defects
+• Involved in testing the XML files and checked whether data is parsed and loaded to staging tables.
+• Tested several stored procedures.
+•  Tested  the  ETL  process  for  both  before  data  validation  and  after  data  validation  process.  Tested  the
+messages published by ETL tool and data loaded into various databases
+• Responsible for Data mapping testing by writing complex SQL Queries using WINSQL
+• Experience in creating UNIX scripts for file transfer and file manipulation.
+• Validating the data passed to downstream systems.
+• Involved in testing data mapping and conversion in a server based data warehouse.
+• Wrote the SQL queries on data staging tables and data warehouse tables to validate the data results.
+• Check the naming standards, data integrity and referential integrity.
+• Tested the database to check field size validation, check constraints, stored procedures and cross verifying
+the field size defined within the application with metadata.
+Environment: Oracle 10g, x Ascential Data Stage 7.5, SQL Server 2005, DTS Packages, Quality Center 9.0,
+PERL, Cognos Series 8.0, Unix IBM AIX 5.5, T- SQL, XML Files, XSLT, XML Spy 2010, SQL, PL/SQL, Stored
+Procedures, Shell Scripting, OLAP, IBM DB2, COBOL II, VSAM, JCL, Teradata V2R5
+
+QA Analyst/BI Tester
+Broad ridge Financial Solutions  -  Birmingham, AL - March 2009 to December 2009
+
+Analyzed  business  requirements,  system  requirements,  data  mapping  requirement  specifications,  and
+responsible for documenting functional requirements and supplementary requirements in Quality Center.
+
+• Created test data for testing specific Membership functionality.
+• Extraction of test data from tables and loading of data into SQL tables.
+• Tested the ETL Informatica mappings and other ETL Processes (Data Warehouse Testing)
+• Involved in extensive data validation using SQL queries and backend testing
+• Written several complex SQL queries for validating Cognos Reports.
+• Responsible for Data mapping testing by writing complex SQL Queries using WINSQL
+• Experience in creating UNIX scripts for file transfer and file manipulation.
+• Validating the data passed to downstream systems.
+• Involved in testing the XML files and checked whether data is parsed and loaded to staging tables.
+• Worked with business team to test the reports developed in Cognos.
+
+Environment: Quality center 9.0, SQL Server 2005, Informatica 7.1, Oracle, UNIX (K-Shell Script), Cognos,
+Windows 2000 Pro, Windows XP/2003, XML, Rapid SQL, PL/SQL, TOAD, Flat Files, XML Files, Autosys
+
+DWH Tester
+AETNA  -  Hartford, CT - September 2008 to March 2009
+
+Generated test cases based on the source to target mapping documents.
+• Created test data for positive and negative test scenarios.
+• Worked with ETL group for understating mappings for dimensions and facts.
+• Extensively used Informatica power center for extraction, transformation and loading process.
+• Optimizing/Tuning several complex SQL queries for better performance and efficiency.
+• Created various PL/SQL stored procedures for dropping and recreating indexes on target tables.
+• Worked on issues with migration from development to testing.
+• Tested a number of complex ETL mappings, Mapplets and reusable transformations for daily data loads.
+• Tested ad hoc and canned reports for Business objects.
+• Tested reports using Business Objects functionality like Queries, Slice and Dice, Drill down, @Functions,
+Formulae etc.
+• Tested graphical representation of reports such as Bar charts, Pie charts as per End user requirements.
+
+Environment: Oracle 9i, SQL, PL/SQL, Informatica 7.1, SQL Server 2000/2005, Stored Procedures, XML Unix
+Shell Scripting, Business Objects 6.5, Business Objects Enterprise XI R2 Professional, Windows XP/2003
+
+EDUCATION
+
+Tribhuwan University
+
+ADDITIONAL INFORMATION
+
+TECHNICAL SKILLS:
+
+• ETL Tools: Data Stage 9.1, 8.7, 7.5 and Informatica 6.1, 7.1, 8.1, 8.6.1
+• Reporting Tools: Micro Strategy, Business Objects 5.0/6.5/XI R4/R3/R2/R1 , Cognos 7.3/8.0 Series,
+• Databases: Oracle […] MS SQL Server […] DB2
+• Query Tools: Toad […] SQL Developer, SQL Query Analyzer, and SQL Plus
+• Job scheduling Tools: Control-M , Autosys, Tidal
+• Operating Systems: Windows 2000/NT/XP/Vista, UNIX (Linux, Sun Solaris, IBM AIX)
+• Scripting Languages: XML, HTML, Shell Scripting
+• Packages: MS-Office, Visual Studio. 2005
+• Modeling Tools: Star-Schema & Snowflake-FACT and Dimension Tables, Erwin 4.0, ER studio
+
+• Others: TSYS, CCD, Winscp, Beyond Compare, UltraEdit, File Zilla, XML Spy 2008 (UNIX scripts)
+
+

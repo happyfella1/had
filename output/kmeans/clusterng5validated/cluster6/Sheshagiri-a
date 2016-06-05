@@ -1,0 +1,310 @@
+Sheshagiri a
+
+Weblogic Administrator/Siteminder Engineer - PHH Corporation
+
+Mount Laurel, NJ - Email me on Indeed: indeed.com/r/Sheshagiri-a/80ee0fc975c23e65
+
+•  7+  years  of  experience  in  working  as  Oracle  WebLogic  […]  (11g)  administrator  in  Linux  and  Windows
+platforms.
+• Experience with installing, configuring, administering, implementing and performance tuning clustered SOA
+environments (11g).
+• Proficiency and experience in Oracle SOA Suite 11g (BPEL , OSB and BAM)
+• Install and configure servers, including: Apache 2.0 HTTP Server, SUN ONE 6.1 Web Server (iPlanet).
+• Installed, configured and administered IBM's Web Content Management (WCM) component in WebSphere
+Application 6.x/5.x environment.
+• Production support engineer providing 24/7 expert technical support and consultation for WebLogic, MQ
+Series Messaging, and SunOne web servers running on Solaris9/10 and RHEL4/5 operating systems
+• EAR, WAR, JAR Deployment - Stage, No-Stage, External Stage mode - Archive and Exploded Directory
+format.
+• Experience in large-scale SOA/EAI implementations using Oracle Fusion Middleware (Oracle JDeveloper,
+Oracle SOA Suite, Oracle OSB , AIA and Oracle Weblogic)
+• Implemented Unix Shell scripts, Perl scripts as part of activity to parse the log and identify any issues.
+• Configured and administered MQ V6, WMB V6, and WCM V6.1
+•  Expertise  in  the  Administration,  Installing,  Configuring  Web  Servers  like  Oracle  HTTP  Server,  Apache
+2.0/2.2.x, Sun One 6.1 Web Server (iPlanet) and Microsoft IIS Server.
+• Weblogic and Tomcat Administrator experience, with knowledge in clustering, JMS, Connection Pools, J2EE
+Deployments, Thread Dump Analysis.
+• Performed root cause analysis and suggested tuning methods for Server problems like Server Crashes,
+Hangs and Out of Memory issues in various JDKs like SUN JDK […] and BEA JROCKIT […]
+• Web Security configuration: LDAP Server, SSL Certificates, Firewalls, Proxy server and JMS Messages.
+• Expertise in migration and upgrading of WebLogic Server and updating JDK versions and installing patches
+for Weblogic server.
+• Experienced on capacity planning and performance tuning of J2EE applications and platforms, using Wily
+Introscope.
+
+• Good knowledge in Weblogic Verizon […]
+• Experienced with TCP/IP, UNIX, LAN, WAN Administration, Apache, WebLogic, Ethernet, Firewall, Java,
+UNIX Shell Scripting, Middleware, Web Server.
+• Experienced in configuring WebLogic servers in a Cluster solution for High Availability, Load balancing and
+fail over support.
+• Experienced in WLST, Python, shell scripting (bash) and ANT scripting to automate and monitor the WebLogic
+routine tasks. Linux (Red Hat) and Solaris experience.
+• Good knowledge of J2EE platform with experience in Designing Enterprise Applications using JAVA […]
+JSP1.2, Servlet 2.4, EJB 2.1, JDBC/ODBC, , JMS 1.2.
+• Expertise in Handling Code Releases and Deploying applications in Production.
+• Significant experience using HP OVO.
+• Application development involved developing large set of custom business functionalities using Oracle Fusion
+Middleware SOA Suite 11g.
+• Experienced in finding the Memory Leaks and adjusting the JVM Heap Sizes and GC Parameters.
+• Experienced in working with LDAP, SSO, CSS/GSS load balancing.
+
+•  Profound  knowledge  about  complete  Software  Development  Life  Cycle  (SDLC)  of  a  project  and  Object
+Oriented Concepts
+• Demonstrated ability to work both as an individual contributor and in a team environment.
+• Experience in Oracle web center Site, managing the users by granting the permissions.
+• Managing, troubleshooting the Application roles and permissions in web center site.
+• Versatile team player and team lead with excellent analytical, presentation and interpersonal skills with an
+aptitude to learn new technologies.
+Willing to relocate: Anywhere
+
+WORK EXPERIENCE
+
+Weblogic Administrator/Siteminder Engineer
+PHH Corporation  -  Mount Laurel, NJ - November 2015 to Present
+
+Responsibilities:
+• Designed and Scripted WebLogic Administration Scripts such as: Thread Dumps, Server auto restart script,
+Server startup/shutdown script, code deployment scripts and Log rotation scripts.
+• Part of full-fledged end-to-end WebLogic upgrade from WebLogic 8.1 to WebLogic 10.3.
+• Performed Subversion Repository Migration from Windows to Linux.Handled all aspects of WebLogic Server
+from  Installation  and  Configuration  to  Monitoring,  Troubleshooting,  Tuning  and  Application  Deployment  in
+various environments viz. DEV, QA, PROD QA, STRESS, PROD DR and PROD.
+• As Part of Data Center move from NJ to Atlanta implemented new architecture for WebLogic Integration
+Server.Installed and Integrated WebLogic with Proxy servers (Apache) and Authentication policy servers (Site
+minder 5.5 and 6.0).Involved in Siteminder server upgrade. Created new web instances for the User and Policy
+Stores on Red Hat Directory Server 6.x version.Installed SiteMinder 6.0 SP5 and implemented SSO across
+multiple domains and Lines-of-business. Created policies, realms, rules, responses to protect the applications
+and validate the users to work under SSO environment. Enabled the Single Sign on across multiple cookie
+domains
+• Configured and administered JDBC, JMS, JNDI, objects in Weblogic Server 8.1 and 10.x.
+• Involved in documentation of environment.Deployed the applications on multiple Weblogic Server instances
+and maintained Load balancing, high availability and Fail over for the servers.Monitored performance using
+Wily Introscope. Tuned JVM Parameters on WebLogic Application Servers for improving performance and
+troubleshooting. Configured and Monitored JDBC Connection Pool, JMS Queues and JMS Messaging Bridge.
+• Used config.xml file wizard extensively to create and manage WebLogic domains.Used WLST to get run-
+time parameters. Generated and analyzed Heap dump and Thread dump.Monitored WebLogic performance
+using WilyIntroscope.
+
+• Configured and setup Secure Sockets Layers (SSL) for data encryption and client authentication.
+• Worked on Project- EOL (Upgrade plan for weblogic servers from 8.1 to 11g)
+• Worked from scratch for gathering server list (servers including windows and Linux) for weblogic servers,
+webservers, siteminder servers, tibco servers, etc.
+•  Provided  grouping  for  servers  to  be  upgraded  together  (17  groups).  Performed  POC  for  few  of  the
+domains.Successfully carried out weblogic upgrade 8.1 to11g in the POC stage.
+•  Performed  migration  and  Upgradation  tasks  like  upgrading  WebLogic  server  8.x  to  WebLogic  11.xand
+updating JDK's and installing service packs and patches for WebLogic Server.
+• Worked on writing Scripts to handle complex automation / administration tasks using Shell scripting, python
+Scripting and WLST.
+•  Used  Configuration  wizard  and  WLST  scripts  to  create  and  manage  Weblogic  domains.Written
+python  scripting  for  creation  of  domain,  start/stop  admin  server,  cluster,  managed  servers,  JDBC,  JMS,
+boot.properties, deploy files.
+
+• Involved in application migration from older server environments to newer server environments providing
+high availability and accessibility.
+• Successfully decommissioned older applications and servers from all test and production environments.
+Environments:  JDK  1.4/1.5/1.6/1.7/1.8,  JRockit,  J2EE,  JMS,  BEAWebLogic8.1,  Oracle  11g,  SiteMinder
+5.5/6.0, WLST, Sun One 6.0(iplanet), Apache HTTP server 2.2 , RedHatLinux 5, Python, Shell scripting, Linux
+5.5/6, Wily Introscope, Windows 2007, EJB, JSP, Servlets, XML, MS Office, OpenSSL, Secure SSH, Winscp,
+XMing.
+
+WebLogic Administrator / Portal
+DATCP  -  Madison, WI - August 2014 to October 2015
+
+Responsibilities:
+• Performed WebLogic Server administration tasks such as installing, configuring, monitoring and performance
+tuning.
+• Performed J2EE application deployment and administration including JAR, WAR, and EAR files.
+• Created Managed Servers in a Cluster with round-robin algorithm for Load Balancing.
+• Deployed the applications on multiple WebLogic Servers and maintained Load balancing, high availability
+and Fail over functionality.
+• Worked with the Portal team to integrate Info View into an Oracle WebLogicPortlet.
+• Workedon web application and portal development on a large Oracle data warehouse, and administration
+of a middle tier application server.
+• Upgraded all the current CQ5.5 instances to AEM 5.6.1.
+• Worked on the issues like Disable Targeting and JQuery Versioning which usually arise when upgrading
+from CQ5.5 to AEM 5.6.1.
+• Build new Jenkins Jobs for the new AEM instances.
+• Created a new repository for new AEM instances.
+• Configured Replication and Dispatcher Flush in the AEM.
+• Developed CQ Templates and Components in the AEM instances.
+• Configured Security authenticators, managed security realms, users and groups.
+• Involved in Performance tuning of WebLogic server with respect to heap, threads and connection pools.
+
+• Involved in Migration of WebLogic server 10.3.0 to WebLogic 10.3.5.
+• Implementing and supporting applications load balancing using F5.
+•  Created  PERL/UNIX  scripts  for  processing  the  incoming  feeds  and  generating  feeds/reports  for  the
+downstream applications
+• Troubleshoot WebLogic Server connection pooling and connection manager with Oracle, DB2.
+• Installed and configured Apache and JBOSS Web Server.
+• Troubleshoot F5 ASM 'blocks' and create exception or impose rules by coordinating with the application team
+and security team.
+• Configured and administered of JDBC, JMS, JNDI, and SNMP in WebLogic Server 10.x.
+• Developed scripts for automatic startup and shutdown of Admin Server and Managed Servers.
+• Created Crontab scripts for timely running jobs.
+• Set up WebLogic domain with a single Server instance for developers on their windows machines.
+• Installed and administered BigIP F5 load balancers to provide uninterrupted service to customers.
+• Provided support for teams in activities such as Load testing, troubleshooting, and performance tuning.
+•  Performed  WebLogic  Portal  Administration  tasks  as  portal  management,  content  management  and  user
+management.
+Environment: Oracle WebLogic 8.x/10.3.x, WebLogic Portal 10.3.5, Tomcat 5.x/6.x, OSB 11g, SOA Suite 11g,
+Oracle 10g/11g, Solaris 10, LINUX 5/6, Perl Script, Sun ONE Directory Server 6, SunOne WebServer 6.0,
+Apache 2.2.x, Python, ANT, AEM 5.6.1, AWK, IIS, Netegrity SiteMinder Policy Server 5.5/6.0, LDAP.
+
+WebLogic/Fusion Middleware Administrator
+Centene Corporation  -  St. Louis, MO - April 2011 to August 2013
+
+Responsibilities:
+•  Install,  configure  and  administered  of  BEA  Web  Logic  Application  Server,  Web  Logic  Portal,  Web  Logic
+workshop in various environments
+• Used config wizard extensively to create and manage Web Logic domains
+• Provided 24/7 Support and on call schedule for Production support
+•  Expertise  in  installing  software,  configuring  the  systems  and  maintaining  WebLogic  Application  Server
+11g.Experienced  in  Performance  Tuning,  Load  Balancing  and  optimization  of  WebLogic  11g  Application
+Server.  Deployment  and  configuration  of  Oracle  SOA  Suite  12c  applications  to  different  environments.
+Deployment and configuration of Oracle SOA Suite 11g applications to different environments.
+•  Strong  WebLogic  server,  BPEL,  OSB  and  SOA  administration  skills,  troubleshooting  skills  of  WebLogic
+Server, BPEL, OSB.
+• Hands on experience with Oracle Access Manager (OAM), Oracle Identity
+• Management (OIM), OAAM, OEM in a web logic environment.
+• Monitoring hosts, servers, applications, domains, components, composites.
+• Testing & applying patches, updates & fixes for Oracle SOA and dependent WebLogic component on UNIX
+and Linux environments.
+• Working through problem identification, resolution and coordination with extended warranty and application
+development  support  groups.  Worked  as  single  point  of  contact  for  multiple  Portal/WCM  applications.
+Configure and administered of JDBC, JMS, JNDI, SNMP in Web Logic Server 8.3. Configure and administered
+of Web Logic server with Oracle9i database
+• Problems by monitoring server availability and analyzing resources. Installed and configured Apache Web
+server  and  integrated  with  Web  Logic  server.  Maintain  application  configuration  in  production  and  test
+environments (UAT/Staging/ORT/PreProd) with regular backups and for multiple release support
+• Configure Clustering EJB objects, jdbc connections and JMS connection factories
+•  Used  WLST  to  check  the  status  of  WLServers.  Creating  new  Perl  scripts  for  automation  and  XML
+generation purpose.Created and configured new users groups and Global Roles to authenticate. Configure
+and administered Connection pools for JDBC connections
+•  Deployed  applications  like  formats  of  WAR,  JAR,  EAR  and  Web-based/E-Commerce  in  Web  Logic
+8.3.Worked on WCM for portal servers to syndicate content from one environment to the other.
+• Resolved Portal performance related issues with regards to tuning and WCM configuration.
+•  Created  Web  Logic  Portal  domain  and  created  projects,  application  and  portal  application  in  Web  Logic
+workshop
+• Deployed applications on multiple Web Logic Server and maintained Load balancing, High Availability and
+Failover functionality
+•  Involved  in  doing  a  performance  benchmark  of  Apache/Web  Logic  server  by  using  Load  runner  and
+Application Manager
+• Configured SSL and provided Web Logic based security procedures
+• Configured and deployed applications in various work environments like Development, QA, and Production.
+Environment:  Web  Logic  Server  8.3/9.2,  MQ  Series,  IBM  Web  Content  Manager  7.0,  Solaris10,  Oracle9i,
+Apache, Sitescope, IBM Http Server, Remedy, Mercury7, IBM AIX Server, Web Services, LDAP, JDK 1.4.2,
+JSPs, EJBs and JMS.
+
+WebLogic/SOA Administrator
+FedEx Office - December 2009 to March 2011
+
+Responsibilities:
+• As a Weblogic Administrator, responsible for administration, configuration, and monitoring of BEA WebLogic
+9.2MP2 and 8.1sp6Application Server Environments on SUN Solaris 8/9/10 servers
+
+• Responsible in setup and configuring clustered solutions of WebLogic environments that include WL Server,
+WL Integration, WL Portal and Oracle Service Bus, for high availability, load balancing and fail over support
+•  Installation,  changing  the  configuration  settings,  building  and  deploying  services,  monitoring  in  BEA
+AquaLogic Service Bus
+• Used Oracle Service Bus as an SOA integration platform for managing interactions between heterogeneous
+services and ESB instances across the enterprise wide service network.
+•  Used  Oracle  SOA  components  extensively  including  Oracle  BPEL  process  manager,  Oracle  Enterprise
+Service Bus, Technology adapters and BPM human workflow and Business activity monitoring
+•  Extensive  experience  in  using  Oracle  Application  Integration  Architecture  Foundation  Packs  to  create
+business  processes  across  applications,  control  and  visibility  over  the  business  process  integrations  and
+strategic transformation
+• Involved in upgradingWebLogic Portal projects to version 9.2 from 8.1 including upgrading thread pools for
+forked portlets, command based and task upgrade
+• Integrated applications into WebLogic Portal including integrating struts applications, integrating Java Server
+Faces and integrating page flow
+• Configured and administered MQ V6, WMB V6, and WCM V6.1
+• Responsible for Configuration and Administration of Sun One and Apache Web Servers, including installation
+and configuration of WebLogic proxy Plug-ins to proxy load balanced requests for dynamic content to backend
+WebLogic Application Servers
+• Involved in migrating the WebLogic Server from version 8.1 sp6 to WebLogic 9.2 and JDK version from 1.4
+to JDK version 1.5
+• Expertise in developing Shell scripts (including sh, ksh, bash), Perl scripts to administrate and automate
+batch job scheduling including Server Start/Shutdown, backup and recovery processes.
+• Developed and maintain administrative guide
+• Responsible for installing SSL certificated on Apache and Sun One Web Servers
+•  Used  F5  Big-IP  hardware  Load  Balancers  to  increase  throughput,  performance,  availability  and  quick
+restoration of service. Involved in writing WLST Scripts to monitor the run time parameters of JVM Heaps,
+MBeans, Servlets, JDBC Connection Pools and JMS Connection Factories
+• Responsible for providing 24x7 on-calls Production supports
+• Responsible for configuring Wily Introscope to monitor the performance of WebLogic Application Servers
+• Involved in using tools like Jmeter and Grinder to monitor the Java Specific applications.
+• Assisted Performance testing teams to improve the overall performance of J2EE applications services on
+BEA WebLogic Application Server Platforms
+• Responsible for deploying various types of application packages including JAR, WAR, and EAR files
+• Responsible for implementing solutions with WebLogic for stand-alone and clustered environments using
+HTTP Plug-ins for Apache and SunOne Web Servers
+• Assisted development teams in activities such as load testing, troubleshooting and performance tuning of
+WebLogic Applications
+Environment: BEA WebLogic 8.1/9.2, SUN Solaris 8/9/10, JDK142_13, Apache Web Server 2.0, iPlanet Web
+Server  6.0,  Sun  One  Web  Server,  Perl  Script,  F5  Big-IP  Load  Balancers,  CVS,  Symantec,  Oracle  9i/10g,
+Oracle Service Bus (OSB), DNS, DHCP, Wily/CA Introscope 4.0/5.3.1/7.0, JMeter, Grinder
+
+Web Administrator
+Navayuga Infotech Pvt Ltd - February 2008 to November 2009
+
+Responsibilities:
+• Install and configure WebLogic Server 8.1 SP5/SP6 and 9.x.
+• Install and configure WebLogic Cluster environment using WebLogic Integration 8.1 SP4/SP5.
+• Administration and monitoring of WebLogic admin and managed servers.
+• Installed, Configured and Administered JBOSS 4.0, Integrated Apache with JBOSS using Apache plug-in.
+
+• Provided support in installation of VeriSign SSL certificates using KEYTOOL.
+•  Wrote  Shell  scripts  for  automating  WebLogic  administrational  processes  like  thread  dumps;  automated
+application deployments and start-up/shut-down scripts
+• Create JDBC Connection pools and Data Sources for various JDBC Pools.
+• Develop UNIX scripts for application building and deployment.
+• Package, build, integrate and deploy enterprise J2EE applications on WebLogic server that involves EAR,
+WAR and JAR.
+• Extensively involved in Building and Deploying J2EE Applications.
+•  Tune  various  WebLogic  performance  parameters  to  make  the  application  highly  scalable  and  thereby
+improving the overall system performance.
+•  Install,  configure  and  administered  BEA  WebLogic  in  clustered  and  non-clustered  environments,  deploy
+the J2EE applications onto the WebLogic-managed servers, monitor the servers, and troubleshoot problems,
+provide resolutions to issues.
+• Work with the System administrators, Testers and DBA's for pre-installation planning (hardware configuration,
+memory, disk space, kernel parameters, network connectivity etc.)
+• Experience with SVN Version Control, creating Repositories, maintaining Versions, Creating and maintaining
+Tags and Branches.
+• Experience with TEDI (Transformation Engine & Data Integration)
+•  Configure  TEDI  Connection  Pool  for  integrating  and  transferring  the  data  from  MorVision  Database  to
+Flagship Database.
+Environment:  WebLogic  Integration  8.1  SP4/SP5/SP6,  WebLogic  Server  8.x,  Tomcat,  JBoss  4.0,  Oracle
+8.X/9.X/10X, DB2, Windows 2000 Server/Professional, RedHat Linux ES3.0, Sun Solaris, XML, JMS, LDAP,
+SVN, Rational Clear Quest, Apache Web Server.
+
+EDUCATION
+
+Bachelor of Technology in Technology
+JNTU
+2007
+
+ADDITIONAL INFORMATION
+
+TECHNICAL SKILLS:
+Operating Systems: Red Hat Enterprise Linux 4.x/5.x/6.x, Solaris 8/9/10, SUSE Linux, AIX, Windows […]
+ApplicationServers:
+Oracle WebLogic […] Oracle SOA Suite 11g, OSB 11g, OEM 11g, WebLogic Portal 10I.3.5,IBM Web Sphere
+6.x, Tomcat5.x,6.x, Jboss 4.x
+
+Web Servers: Apache Web Server 2.x/2.2.x, SunOne 6.1, IIS
+J2EETechnologies:  JSP,  Servlets,  EJB,  Web  Services  (Apache  Axis  2),  Hibernate,  SOAP,  WSDL,  HTML,
+JDBC, JNDI, XML, XSL, JMS, IBM MQ JAXP, JAXB, Java Script.
+Languages: Java, C, C++, PERL, J2EE, JavaScript, PL/SQL, SQL, HTML, UML
+Databases&DBTools: Oracle 10g, MS SQL Server 2005, TOAD, SQL Navigator, SQL Plus, MS Access
+Tools/Utilities: Cute FTP, Jprobe, Ant, XMLSpy, Jenkins, Oracle WCP, JConsole, IBM Tivoli, Site scope, Wily
+Introscope.
+Protocols: T3, T3S, Http, Https, Ftp, SOAP, LDAP, RMI/IIOP and TCP/IP.
+
+General Tools:
+
+TOAD, SQL Developer, JDeveloper, Team Foundation Server(TFS), Tortoise SVN, Mercury IT Governance,
+Mercury  Quality  Center,  JIRA,  Share  Point,  Project  Time,  Change  Request  Team  Track,  IBM  Maximo,
+ServiceNow, File Zilla, WINSCP, Putty, ESP, MS Project Std., MS Visio, MS Office, CA Clarity PPM, Release
+Management.
+
+

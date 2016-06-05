@@ -1,0 +1,124 @@
+Chaitanya Bhargava
+
+Electrical Engineer - Olive Labs Philadelphia
+
+Philadelphia, PA - Email me on Indeed: indeed.com/r/Chaitanya-Bhargava/6ccc9f0f44dc3b0e
+
+WORK EXPERIENCE
+
+Electrical Engineer
+Olive Labs Philadelphia  -  Philadelphia, PA - February 2014 to Present
+
+Aid in the development of our functional electrical, help out in the design and tuning of sensors, electrical
+components selection, and layout of future printed circuit boards.
+
+Teaching Assistant
+Dept of Mechanical Engg and Applied Mechanics University of Pennsylvania - August 2013 to December
+2013
+
+Repair the erroneous PUMA 260 robot, including redesigning its amp board, debugging the electrical issues
+and reconfiguring its gains.
+Also designed PCBs for use in the course and held regular TA hours to help out students.
+
+Little Prince - September 2013 to November 2013
+
+Designed "The Fox". A multi-legged tapping robot as part of a musical performance featuring Grace Kelly on
+Jazz and a number of other
+robotic instruments.
+• Made a new wireless Zigbee module to work with the college custom M4 micro-controller for the performing
+robots
+
+Member of team placed
+Machine Learning University of Pennsylvania - September 2013 to November 2013
+
+5 /50 in the course achieving minimum error in predictions of restaurant ratings, given yelp data. Implemented
+th
+
+a combination of methods like SVM, logistic regression, Naïve Bayes etc.
+
+Research Assistant, Modlab
+University of Pennsylvania - July 2013 to August 2013
+
+Calculated the inverse kinematics of a six dof robotic arm as a part of the Persona tele-presence robot project
+and designed a controller for its arm, the mast and the screen pan and tilt.
+
+Transformer, University of Pennsylvania - March 2013 to May 2013
+
+Worked in a team of 4 to design the circuitry for a 4 legged car-to-puma transforming robot.
+• The joints were actuated using a mechanism similar to the 4 bar linkage with wire and drum for transmission
+in the PHANTOM haptic
+device and positions feedback was done using mechanical encoders.
+Robockey 2012 University of Pennsylvania Fall 2012
+• Designed a team of 3 mobile robots to play hockey in a 230cm by 120cm field, completely wirelessly. The
+localization of the robots was
+done using Modules used in the Nintendo Wii Remote (mWii IR Blob Tracker).
+
+• Programmed ATMEGA32U4 micro-controller in C using Flip to flash it. This was also connected to an RF
+wireless module for wirelessly
+giving the play, half-time, goal etc. commands.
+
+Made a peripheral for the university custom micro-controller
+University of Pennsylvania - March 2013 to March 2013
+
+Spring 2013
+• Designed a laser range finder based on the OVM 7690 camera cube module using the STM32F373CC,
+without storing the whole image and completing calculation within the external interrupts for the max value.
+Microcontroller Peripheral (mVoice), University of Pennsylvania Spring 2013
+• Made a peripheral for the university custom micro-controller, the M4 using the ADMP 441 to record audio
+data via Philips i2s interface.
+
+(PID controller Self Balancing robot), University of Pennsylvania
+The Acrobat - September 2012 to November 2012
+
+Worked in a group of 4 to design a robot capable of balancing itself on 2 wheels. The inertial reading of the
+robot was taken using a 9
+degree of freedom IMU peripheral to the micro-controller. The readings of gyroscope and accelerometer were
+taken passed through a
+low pass filter and a PID controller was used to keep it stable at zero configurations.
+CREDENTIALS/ACTIVITIES
+
+Captain
+College Soccer Team New Delhi  -  New Delhi, Delhi - September 2011 to May 2012
+
+Lead the college team to numerous inter college events. Won first prize at many events as a member of the
+team.
+• Organized a street soccer event within the college.
+
+Organizer  -  New Delhi, Delhi - March 2012 to March 2012
+
+March 2012
+• Worked in a team to successfully organize a three day inter-college debate with participation from over 20
+colleges.
+
+Intern
+Mahindra Navistar Automotives Limited Pune - June 2011 to July 2011
+
+Worked in the CAE department understanding the role of Finite Element Analysis in the industry and the tools
+used to implement it.
+Worked in Hyperworks 10, an industry level analysis tool with Radioss as solver. Completed a case study on
+the Durability Analysis of an
+Air Tank mounting bracket in a 3.3L Mining Tipper.
+TECHNICAL SKILLS
+•  Mechanical  Engineering  Software:  SolidWorks,  Catia,  Hyperworks,  Abaqus  CAE,  Eagle  6.4.0,  Comsol
+Multiphysics.
+• Programming Languages: C, C++, Matlab
+• Microcontroller Communication: Visual Studio, Flip, Terminal for Windows, Matlab, Linux Commands
+•  Workshop  Tools:  LPKF  ProtoMat  S62,  Laser  cutter,  Lathe,  Milling  Machine,  Radial  Drills,  Belt  Sander,
+Grinder, Power Hacksaw
+ROBOTICS PROJECTS
+
+EDUCATION
+
+Bachelor of Engineering in Mechanical Engineering
+University of Delhi, Delhi College of Engineering New Delhi - Delhi, Delhi
+June 2012
+
+Master of Science in Mechanical Engineering
+University of Pennsylvania, School of Engineering and Applied Science Philadelphia - Philadelphia, PA
+April 2000
+
+LINKS
+
+http://www.seas.upenn.edu/~cbhar
+
+

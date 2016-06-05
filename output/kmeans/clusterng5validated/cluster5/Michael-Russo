@@ -1,0 +1,222 @@
+Michael Russo
+
+Embedded Systems Engineer
+
+Philadelphia, PA - Email me on Indeed: indeed.com/r/Michael-Russo/2f244047242658ec
+
+Embedded Systems/Software/MCSE/CCNA
+
+Experience (over 10 years) working in LAN/WAN & embedded systems for military, federal government and
+commercial domains. The past four years I have researched and developed embedded systems for commercial
+and military products. Produced documentation to sufficiently identify product requirements, feasibility and
+testing.  Engineered  embedded  firmware  meeting  design  reliability,  functional  and  quality  requirements.
+Assembled  with  senior  engineers  and  team  members  to  analyze  data  and  characterize  critical  elements,
+determining product operation and modifications. I also designed, implemented, and maintained classified and
+unclassified LAN/WAN networks while in the Marine Corps, as a Marine, and at the Pentagon, as a contractor,
+supporting the efforts after September 11th, 2001. 
+
+• Embedded System software design
+• Firmware development in C and assembly language with multiple MCU families and toolchains
+• IEC 62304 PEMS software life cycle process and document creation
+• Marine Corps Sergeant
+• Secured top secret clearance
+• Bachelors of Science Computer Engineering
+• MCSE NT […] & CCNA
+Authorized to work in the US for any employer
+
+WORK EXPERIENCE
+
+Electrical Engineer II
+Dorman Products  -  Colmar, PA - September 2015 to March 2016
+
+•  Led  product  development  meetings  conceiving  automotive  product  that  programs  vehicle  modules  with
+information downloaded from the internet. Consulted with field application engineers (FAE) and contractors
+• Researched contractors product, identified capabilities that can be implemented into our product operation.
+Consulted  with  contractors  confirming  capabilities  that  match  our  product  operation  and  resolutions  to
+limitations
+• Developed embedded firmware with recommended STM32 development tools, testing capabilities of firmware
+drivers and simulated operation of product
+• Reverse engineered automotive manufacturer programming processes then develop "C" applications that
+generate identical programming process for vehicle modules and key fobs
+• Engineered software architecture via logged automotive manufacturer HS-CAN and SW-CAN data
+
+Firmware/Software Engineer
+Action Manufacturing Company  -  Bristol, PA - September 2014 to September 2015
+
+• Developed MSP430 assembly code for Hydra 70 Rocket system. Analyzed existing embedded firmware to
+verify software requirements were met, modifying software as required
+• Defined test procedures reflecting product requirements. Executed tests, then calculated production capability
+of results. Test results were interpreted, pinpointing instabilities and game planned how product and production
+requirements will be met
+
+•  Defined  software  requirements  and  product  operation  of  production  machine,  met  regularly  with  senior
+engineer to verify stakeholder requirements are met and documents are clearly understood
+• Developed Java application for production machine that commanded embedded system operations, stored
+results, indicated to operator test status, production results and production calculations
+• Led meetings with contractor to review requirements, develop production machine embedded software and
+Modbus communication, then tested developed software met requirements
+
+Embedded Systems Software Engineer
+Globus Medical  -  Audubon, PA - May 2013 to March 2014
+
+Product Development/Research
+• Developed embedded firmware and Bluetooth Low Energy (BLE) custom profile for open loop spinal cord
+stimulator medical product
+•  Researched  BLE  protocol,  confirming  with  Bluetooth  Special  Interest  Group  (SIG)  capabilities  that  meet
+product  requirements  and  resolutions  to  its  limitations.  Consulted  with  Bluetooth  SIG  and  qualified  testing
+facilities the authorized usage of BLE intellectual property, qualification and compliance testing
+• Defined embedded software requirements, software architecture, and failure mode effects analysis
+• Led meetings to review complex system design, progress, issues, IEC 62304 PEMS software life cycle and
+requirements documents, improving overall understanding of system functionality
+• Verified BLE and SPI data communication & timing using oscilloscope/logic analyzer, characterizing outputs
+of the digital hardware
+• Presented current state of the product's development to the entire department, representing the group in a
+professional manner and fielding all related questions
+• Defined timeline of tasks, recorded completion and current progress relative to product goals, identifying task
+dependencies and priority
+
+Software Engineer
+Teletronics Technology Corp  -  Newtown, PA - January 2013 to May 2013
+
+• Developed Wireshark dissector plugins within embedded Linux environment to interpret proprietary Data
+Acquisition System (DAS) communication protocol, verifying protocol operation
+• Executed tests demonstrating usability of dissector plugins, met with peers about usage of dissectors to
+improve API functionality and layout while they test/verify communication protocol
+• Familiar with embedded Linux kernel & file system configuration and deployment via virtual machine
+• Developed, within embedded Linux environment, SSD drive partitioning utility used in DAS product to store
+logged information
+
+Independent Research Student
+Drexel University  -  Philadelphia, PA - April 2012 to December 2012
+
+•  Defined  requirements  of  independent  study  contracts  with  professor,  lead  meetings  explaining  progress,
+constraints and requirements met
+• Researched AIRAT2 micro-mouse robot hardware and software functionalities
+• Documented the detailed operation of all hardware, software, their relationship to the robot's operations and
+intended operation of AIRAT2 micro-mouse robot
+• Defined software requirements to maneuver robot through a maze
+• Developed 'C' application maneuvering micro-mouse robot, demonstrating use of interrupts, timers, registers,
+ROM, RAM, and ADC
+• Defined procedures for follow-on students to create IAR Workbench project, program AIRAT2 micro-mouse
+robot and the uses of required additional reference documentation
+
+Embedded Engineer Internship
+OTW Technology  -  Warminster, PA - November 2011 to September 2012
+
+• Verified MSP430 assembly language source code used in over 10000 production military PCBs, reworking
+program flow, Interrupt Service Routines(ISR) and low power operations to meet software requirements
+•  Verified  B.O.M  components  for  production  and  prototype  PCBs  before  being  sent  to  manufacturer,  then
+validated delivered prototype PCB's match SPICE model
+• Researched technologies to improve project/lab communication and project design, examined alternatives
+of design with current market hardware, identifying where it is immediately effective
+• Defined environmental test procedures that reflects product requirements. Executed tests, recorded results
+characterizing digital outputs of Microchip MCU
+• Researched OS X Lion server for small office. Identified capabilities that met office requirements
+• Implemented OS X Lion client/server test environment demonstrating capabilities that positively impact office
+workflow and communication
+
+Drexel University CO-OP
+Keystone Foods  -  West Conshohocken, PA - September 2009 to March 2010
+
+• Developed DOS scripts automating Symantec Ghost clone and capture of laptop configurations through the
+network and bootable USB
+•  Documented  details  of  software  architecture  so  team  can  alter  scripts  as  needed.  Cloned  laptop
+configurations were outlined incorporating resolutions to repetitive problems
+• Defined user workplace requirements, selected laptops, replacement hardware, and specific peripherals
+• Strengthened Zimbra mail filter through regular expressions, blocking SPAM targeting end-users
+
+Systems Administrator
+Senet International - March 2004 to December 2004
+
+(Occupational Safety & Health Administration [OSHA] Network Operations Center)
+
+• Administrator of 150 site Windows Enterprise Network based in Washington D.C. with over 5,000 Windows
+XP client and 150 server systems throughout Continental U.S. and U.S. territories
+•  Designed  Enterprise  Active  Directory  2003  upgrade  with  team  after  analyzing  existing  Windows  NT  4.0
+architecture. Defined Windows 2003 server and backup strategy requirements. Interpreted requirements to
+specify suitable software tools for National Office system administrators and remote sites
+• Engineered deployment of system upgrade implemented suitable resolutions to detectable future concerns.
+Documented process for rapid deployment and site integration
+• Resolved National Office and subordinate site backup strategy related issues through communication with
+site administrators and use of remote administrative tools
+
+Systems Administrator
+Computer Sciences Corporation - October 2001 to March 2004
+
+(Navy Annex, Pentagon, Quantico, Site-R)
+
+• Secured top secret clearance
+• Executed expansion of classified system after events of September 11, 2001 including expansion of Windows
+NT 4.0 architecture, Cisco switch/router network, and Exchange 5.5. Engineered backup/disaster recovery
+strategy using Veritas BackupExec for local site and remote sites to Scalar tape library and network-attached
+storage devices. Configured Cisco switches, implementing VLANs
+• Defined requirements for Windows NT 4.0 system policies and client/server security. Implemented client/
+server security configuration and automated NT 4.0/2000 server/client cloning process
+• Resolved system issues at Pentagon and remote sites, analyzing issue to detect future concerns
+• Cooperated regularly with commanding generals at Pentagon and remote sites to resolve related issues and
+define/implement user requirements
+
+Network Operations Manager (Sergeant)
+United States Marine Corps  -  Washington, DC - April 2000 to September 2001
+
+Washington, DC)
+Network Operations Manager (Sergeant)
+• Defined methodologies of the network operations center and Marine Barracks LAN, including procedures
+for software installation, selection and routine operations. Designed and implemented training program for
+experienced users to assist in reporting and troubleshooting end user problems
+• Led team through project completion and resolution of system issues
+• Led meetings with different departments to pinpoint system-related conflicts
+• Promoted selected Marine Barracks' activities; gave tours to visiting dignitaries, created pleasant environment
+for visitors
+• Improved user telephone service by adjusting call accounting system, audix system, basic call management
+system and configurations of Definity switch based on analysis of collected user concerns
+
+Deployed Network Administrator (Corporal)
+3rd Marine Division Headquarters Battalion Communication Company - May 1998 to April 2000
+
+• Secured secret clearance
+•  Completed  Corporal's  leadership  course,  developed  motivational  techniques,  communication  and
+management skills for use within a small unit
+• Led inspections verifying readiness of junior Marines for upcoming operations and their general order. Led
+junior Marines in fitness training and formation movements building confidence in the unit and instilling habits
+of precision
+• Defined procedures to implement Windows NT 4.0 servers, Exchange 5.5, X.400, DNS, CAT-5 cable, and
+Cisco routers. These were later used for training junior Marines
+• Executed training operations in remote areas of the general Pacific, implemented classified and unclassified
+computer networks used for war-time simulation
+• Planned and executed Cisco router infrastructures given a Class C IP network for multiple classified and
+unclassified deployed computer systems
+
+EDUCATION
+
+Bachelor of Science in Computer Engineering
+Drexel University - Philadelphia, PA
+December 2012
+
+MILITARY SERVICE
+
+Service Country: US
+Branch: United States Marine Corps
+Rank: Sergeant
+September 1997 to September 2001
+
+Commendations:
+HONORS AND AWARDS:1998 Certificate of Commendation1999 Certificate of Commendation2000 Medal of
+Good Conduct2001 Marine Corps magazine In the Spotlight
+
+ADDITIONAL INFORMATION
+
+COMPUTER SKILLS:
+
+Hardware
+Microchip PIC18Fxxxx, AtMel 8051, TI MSP430xxxx, CC254x, STM8, STM32, Arduino Uno, ADIC Scalar,
+Analog  Devices  AD7828  &  ADXL330,  Tektronix  TDS  3034B,  Zarlink  […]  […]  […]  Tenney  TU-JR,  Hakko
+703B 907 807, TENMA Thermometer […] Tandberg, Beagle I2C/SPI Protocol Analyzer, Agilent Technologies
+InfiniiVision DSO6014A, Agilent Technologies Oscilloscope DSO1014A
+Software
+C/C++, JAVA, Unix, Assembly, Pic Basic Pro, Bash, VIM, Eclipse IDE, Subversion, IAR Workbench, MPLAB
+IDE, Raisonance, Wireshark, DOS Scripting, Arduino, Keil uVision, STM32CubeMX, Abrites. Vehicle Spy 3,
+Ubuntu, Redhat, MATLAB, Cadence PSpice, BTool, Filemaker Pro, VM Ware, Parallels Desktop, Dame Ware,
+Altiris, NetIQ DRA/DMA
+
+

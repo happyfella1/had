@@ -1,0 +1,515 @@
+Siddharth B
+
+Senior .NET Software Engineer
+
+- Email me on Indeed: indeed.com/r/Siddharth-B/1c80f5e86a6fce1d
+
+Willing to relocate: Anywhere
+
+WORK EXPERIENCE
+
+Senior .NET Software Engineer
+TD Bank  -  Mount Laurel, NJ - September 2015 to March 2016
+
+Project- RAROC Web App
+
+RAROC stands for Risk Adjusted Return On Capital; RAROC web app gives decision makers the ability to
+compare the returns on different investments of TD bank customers with varying risk levels. RAROC was
+popularized by Bankers Trust in the 1980's; it can be defined as an adjustment to the simple return on an
+investment that accounts for the element of risk.
+Environment::  VS2013  Professional,  C#,  .NET  framework  4.5,  ASP.NET  MVC-5,  Razor  views,  Linq,
+ADO.NET,
+Entity Framework, EDMX, MS-Unity DI/IOC, Windows services, WCF, Web API, Jquery, JavaScript, JSON,
+AJAX, AngularJS, HTML, CSS, XML, NUnit, TFS, Agile, TDD, MS Excel Libraries, TSQL, and MS SQL server
+2012.
+
+• Participated in business analysis meetings with project manager, business analysts and users.
+• Developed using MVC views, and partial views with UI elements.
+• Developed C#, TSQL, JavaScript and AngularJS code for developing a dynamic application.
+• Developed controller methods, service methods, data access using Entity Frame work, Linq and TSQL.
+• Developed C# ADO.NET code, and exception handling.
+• Used TSQL queries, functions and stored procedures for business logic
+• Implemented C# based Microsoft Excel for risk calculations.
+• Developing, changing and updating EDMX.
+• Developed C#, XML and JSON based WCF services and Web API services.
+• Developed dynamic UI using HTML, CSS, Angular JS, Jquery, JavaScript and AJAX techniques.
+• Bug fixing and testing.
+• TDD, and agile sessions every day in the morning.
+• Developed Unit tests.
+
+Senior .NET software consultant
+Bank of Tokyo - Mitsubishi UFJ (MUFJ), Jersey City - August 2014 to August 2015
+
+Project: Party Cross Reference system - PCR
+
+PCR is web based MVC .NET application software used by various banking departments at Bank Of Tokyo-
+Mitsubishi
+UFJ. Key goal of PCR is to enable cross-banking between their Union Bank and Bank of Tokyo Mitsubishi
+UFJ. To realize
+this  goal  the  client  needed  to  have  an  accurate  and  readily  accessible  repository  of  customers  or  parties
+engaged with
+
+CIB,  UB,  HAQ,  US  Credit  Risk,  and  other  MUFJ  Americas  entities.  PCR  solves  current  process  of  cross
+reference
+capability at MUFJ in a manner which is currently inefficient, inconsistent and which results in various business
+groups
+maintaining separate cross reference information for the particular segment of customers each entity at MUFJ
+is
+interested. PCR also involved improving data quality, data accessibility, process efficiency, and regulatory
+compliance.
+
+Environment:: VS2013 Professional, C#, .NET framework 4.5.5, ASP.NET MVC-5, Entity Framework, Razor
+views, Linq, EDMX, MS-Unity DI/IOC, Windows services, WCF, Web API, JQuery, JavaScript, AJAX, Kendo
+UI -
+Grid, Treeviews, Dropdown lists, Charts, AngularJS, HTML, CSS, XML, NUnit, TFS, Agile, TDD, TSQL, and
+MS
+SQL server 2014.
+• Developed various views and UI elements based on business requirement documents.
+• Developed using MVC views, and partial views.
+• Developed controller methods, service methods, data access using Entity Frame work, Linq and TSQL.
+• Developing, changing and updating EDMX.
+• Database development and changes using EDMX, stored procedures and TSQL functions.
+• Developed dynamic UI using Kendo UI, Angular JS, JQuery, JavaScript and AJAX techniques.
+• Implemented Kendo UI controls like grid view, tree view, date, and list box
+• Implemented UI using Angular JS modules, expressions, controllers and filters.
+• Developed UI using Kendo UI grids, tree view, drop down lists, and date picker controls.
+• Developed UI using HTML, and CSS.
+• Implemented WCF and Web API Services.
+• Bug fixing and testing.
+• Developed Unit tests.
+
+2
+Phone: 8152937851
+Email ID: bsiddharth3@gmail.com
+
+• Test driven development agile methodologies regular scrum meetings.
+• Deployments of PCR application to UAT, and SIT environments.
+
+Senior .NET software consultant
+HSBC  -  New York, NY - June 2013 to July 2014
+
+Project: Treasury Credit System (TCS) and DFA Tracker
+
+Treasury Credit System (TCS) is application software used by investment banking and other related groups at
+HSBC for calculating investment risk levels for their customers. DFA Tracker is a new application developed
+to track HSBC's
+customer compliance for Dodd Frank Wall Street reforms and consumer protection act. HSBC Europe version
+of the software is called EMIR tracker.
+
+Environment: VS2008/VS2010, C#, .NET framework 3.5/4.0, ASP.NET, Entity Framework, MVC, Razor views,
+Linq to SQL, DBML, Windows services, JQuery, Javascript, Trident-JqGrid, HTML, CSS, XML, NUnit, IBM
+RTC,
+
+Log4net, kanban, Agile, TDD, CA incident tracker, TSQL, MS SQL server 2008 and Sybase ASE15.
+
+• Working with development team manager, vice president of technology, business analysts, developers,
+offshore QA team.
+• Developing business requirements using business analysis documents and working with business analysts.
+• Developing new functional enhancements and implementing change requests
+• Developed MVC pattern models, views and controller using Linq and DBML datacontext for DFA Tracker
+application.
+• Fixing bugs based on incident and CA bug tracker.
+• Developed new web pages, business logic layer and database development.
+• Developing and updating database model DBML.
+• Test driven development using NUnit.
+• Application feature enhancements development for existing modules.
+• Developed complete enhancement of TCS to their CDW3 compliance. Involved changing the complete Menu
+view of the application using HTML, CSS and JQuery.
+• Developed UI using Javascript, HTML, CSS, JQuery, JqGrid, C#, VS2008/2010, Linq-to-SQL, and .NET
+framework 3.5/4.0.
+•  Database  updates  using  SQL  scripts/stored  procedures  for  new  business  requirements  using  Linq  data
+model
+files DBML.
+• Regular scrum sessions, conference calls and meeting with onshore / offshore teams.
+• Test driven development agile methodologies.
+
+Senior .NET Developer
+JP Morgan Chase  -  Jersey City, NJ - April 2012 to April 2013
+
+Project: ITSM Change Management
+
+ITSM  Change  Management  is  a  JPMC  companywide  Intranet  application  for  tracking  changes  to  their
+applications,
+hardware and working environment. Any change to working environment has to meet certain risk analysis
+and be
+approved using ITSM application before implementation. The project involved re-architecture and refactoring
+the code,
+enhancements and defect fixing. I worked on 'Approval Rules' module of the application which is part of the
+enhancement,
+refactoring the code to new architecture and bug fixing.
+
+Environment: VS2010, C#, .NET framework 4.0, ASP.NET, MVC3 Razor, Entity Framework, Code first, Peta
+POCO, Devart dotConnet for Oracle, Oracle Queues, Windows services, Linq to entities, Structure Map, DoI/
+IOC,
+JQuery, Javascript, MVVM, Knockout, NUnit, Moq, TDD, Oracle 10g, TOAD, SQL Developer, Subversion,
+Tortoise
+SVN, CruiseControl.NET, HP Quality center, log4net, splunk, ReSharper, TopShelf, SquishIT, Yahoo YSlow.
+
+Responsibilities:
+• Worked with vice president of development, vice president of technology, business analysts, developers,
+offshore and QA team. And gathering business requirements.
+• Developed views (MVC3 Razor pages - client side), view models (MVC3 data along with separate BLL -
+server side) and controllers (MVC3 C# classes for presenting view models to views) also using WCF services.
+
+• Created MVC3 'Areas' in the project and routing experience with Global.aspx.
+• Application feature enhancements development for existing modules.
+• Developed complete 'Approval Rules' module of the ITSM Change application using Javascript, HTML,
+JQuery, and Knockout, C #, VS2010 and .NET framework MVC3.
+
+3
+Phone: 8152937851
+Email ID: bsiddharth3@gmail.com
+
+• 'Approval Rules' module involved Creating/Editing/Saving a new approval rule with validation user entered
+data on views(MVC3) with dynamic UI using Javascript, HTML, JQuery, Knockout, C#, VS2010, Linq, EFW-
+Devart and .NET framework.
+• Created and coded MVC3 based 'Areas' for approval rules module with views, view-models and controllers
+using C#, Razor engine, HTML, Javascript and .NET framework in VS2010.
+• Entity and database update changes for new business requirements using Devart and Peta POCO.
+• Application re-architecture discussions meetings and design.
+• Code refactoring for better manageability.
+• Developer and Business meetings and calls.
+• Discussing specifications and functionality issues with Business Analyst.
+• Unit and Moq test development using NUnit and Moq frameworks.
+• Application performance for improved loading using tools like Squisit and YSlow tools.
+• Fixing bugs and defects after QA regression testing using C#, VS2010 and .NET framework.
+• Working with offshore teams in India, Ireland, Ohio and Huston.
+• Working with testers on bug issues and fixing bugs.
+• Bug tracking and resolving using HP Quality center.
+• Code deployment from Dev to IST environments with scripts.
+• Windows and web services maintenance.
+• Continuous and force code builds with Cruisecontrol.net
+• Leading release engineering team involved managing and coordinating ITSMC application/code releases to
+different environments IST, UAT and productions.
+
+Sr.NET Developer
+All Sector Technology Group  -  New York, NY - August 2011 to March 2012
+
+Project: SendTrac Version-2 and Version-3
+
+All  Sector  Technology  Group  offers  the  SendTrac®  Administration  and  Case  Management  Systems,  both
+delivered through a secure web-based portal. Our SendTrac® Administration System is designed to provide
+automated
+support  for  many  of  the  administrative  processes  performed  by  staff  and  includes  automated  workflow
+processes for purchasing, human resources, facilities, and information technology related tasks.
+
+Environment:  VS2010,  VB/C#,  .NET  framework  4.0,  ASP.NET,  ADO.NET,  Entity  Data  Model  (Entity
+Framework)
+- EDMX, Microsoft Enterprise Library, Visual Studio Team System .NET 2008, SQL Server 2005, and SQL
+Server
+
+Sr .NET Developer
+Consolidated Edison Inc  -  New York, NY - December 2010 to May 2011
+
+Yard Time Monitoring System, YTMS
+
+Consolidated Edison for short ConEdison is a utility company that supplies power to New York City and other
+parts of New York State. ConEdison has many yards or vehicle garages throughout New York City from where
+its
+employees take company vehicles for field work every day. The employees enter and exit times are captured.
+For
+improving the employee performance Yard Time Monitoring System an Intranet based web application was
+designed for ConEdison executives and managers. I was involved in design, SDLC, database design, SSIS
+packages design for data from external sources, ASP.NET application development and unit testing.
+
+Environment:  VB/C#.NET,  ASP.NET,  ADO.NET,  Visual  Studio  Team  System  .NET  2008,  SQL  Server
+2005, .NET
+framework 3.5 and SQL Server 2008 R2, SQL Server Management Studio, SQL Server Business Intelligence
+Development  Studio,  SSIS  packages,  Telerik  2011and  Rad  controls  like  dropdown  list,  checkboxes,
+raddatepicker,
+radtimepicker, radchart controls, Javascript, HTML, Microsoft Team Foundation server, SDLC, and CA Erwin.
+
+Responsibilities:
+• Worked directly with the stakeholders and users for gathering requirements, design and develop solutions.
+• Worked with manager and technical lead for project vision and scope document.
+• ConEdison SDLC process. Solution architecture, use cases, scope definition for data, conceptual data
+model and data architecture.
+• UML, Use case sequence diagram, state diagram, and use case specifications.
+• Define solution architecture and technology implementation specifications.
+• Logical data architecture and logical data model. SOX checklist documentation.
+• Design detailed user interface and revise detailed system design. Including setting up DEV environment.
+• SQL server database physical design and creation.
+• SSIS package development for data load from external sources to staging and base tables.
+• Data validation and cleanup routines. Create routines for Populate base and look up tables
+• Develop business logic and computation routines for reporting. Populating reporting tables.
+• Review and refine database, SSIS and user stored procedures.
+• ASP.NET pages, report pages, and dashboard pages development.
+• .NET classes development including DAL, BLL, Charting wrapper class and helper objects.
+• Application administration sections and maintenance pages.
+• Visual Studio 2008, TFS, .NET 3.5 frameworks, ASP.NET, ADO.NET, and Telerik controls.
+• Administration settings and maintenance forms development.
+• Exception report pages and Excel .xls format export functionality.
+• Dashboards, Scorecards, Charting, and drill down report development.
+• Unit test scripts, User acceptance test documentation, user guide and helpdesk documentation and team
+review.
+• Quality of service document creation.
+
+Sr.NET Developer
+Sanofi - June 2009 to September 2010
+
+Process Engineering Reporting
+
+Genzyme Corporation is a biotechnology company with drug manufacturing facilities. Acquired by Sanofi in
+2011.
+
+Drug manufacturing and purification involves lot of processes, data collection under controlled environment
+for FDA
+approval of the drugs. Data collection for various processes and batches of drugs is an ongoing process at
+process
+engineering department. Worked on their web based systems for automating the data reporting and intranet
+publishing of the reports for user using Microsoft and various RDBMS systems
+
+Environment: VB6.0, VB/C#.Net, ASP.Net 2.0/3.5, win forms, ADO.Net, Visual Studio.NET2005/2008, SQL
+Server
+2000/2005, ORACLE10g, TOAD 8.6, PL/SQL, AJAX, WPF, WCF, SOA, Dundas charts, Silverlight, XML web
+services, CSS, XSLT, UML, XAML, JavaScript and HTML, MOSS 2007 and VSS.
+Responsibilities:
+• Worked closely with client/users in gathering and analyzing requirements and providing solutions that meet
+the client's requirements based on business processes.
+
+5
+Phone: 8152937851
+Email ID: bsiddharth3@gmail.com
+
+• Conducted walk through meetings and brainstorming sessions with other members of the team.
+Actively involved in designing use cases and preparing design documents (UML) for Standard
+Performance Metrics (SPM).
+•  Worked  with  knowledge  transfer  and  demonstrating  technical  concepts  to  manufacturing  managers  and
+project analysts.
+• Worked with scheduling project tasks and tracking work progress by using Excel based project
+tracker.
+• Involved in coding and testing reporting application in .NET Framework3.5 technology using ASP.NET
+3.5 and Windows forms with Visual Studio 2008 and VB.NET / C#.NET as code behind.
+• WCF services were used for communication between applications using SOAP / Json based messages and
+XML.
+• Extensively worked with creating and consuming Oracle Stored procedures, functions and views in
+Oracle 10g PL/SQL used in web application.
+• Master pages were used with site Navigation to provide consistent design all over the application. And User
+Interface Designed using intuitive design principal.
+• Worked with Microsoft expression blend tool to create rich 3D based graphics in web and desktop
+applications.
+• Worked with WPF features to create rich interface using Layout, Data Binding, documents and text.
+• AJAX Extensions are used to provide rich user interface of web application.
+• Extensively worked with Silverlight tools to provide rich graphic user interface.
+• Worked with Silverlight to create business apps with .NET RIA services for data access.
+• Extensively used JavaScript for client side validations.
+• XML Web Services were developed and used effectively in this project.
+• Extensively worked with Windows Forms to develop extractors, Reconcilers and updater.
+• Worked with Scheduling Windows applications on the server and created error log files for tracking.
+• Involved in deploying web applications on the IIS web server.
+• Extensively worked with data validation using MS Access 2005.
+• NUnit testing and regression/Integration testing is performed to test the effectiveness and efficiency of web
+application.
+
+Sr.NET Developer
+
+Vanu Inc  -  MA - September 2007 to May 2009
+
+Call Software and Reports
+
+Vanu  Inc  is  a  mobile  phone  infrastructure  company  developing  GSM  and  CDMA  software  switches  using
+innovative
+technologies. Call reporting system is used for reporting various aspects of mobile phone calls like number of
+calls in a network or on a tower, call quality and trace routing the call paths for various call connection issues.
+
+Environment:  VB.NET,  C#.Net,  Agile  Development,  ASP.Net,  .NET  Framework2.0/3.0,  ADO.Net,  Data
+Application
+blocks, win forms, Visual Studio.NET 2005, SQL Server 2000/2005, UML, Cognos8.0, CrystalReports10,
+ORACLE9i, CSS, XSLT, SSRS, UML, JavaScript , AJAX and HTML
+
+Responsibilities:
+• Worked closely with clients in gathering and analyzing requirements and providing solutions that meet the
+client's requirements. Conducted walk through meetings and brainstorming sessions with other members of
+the team and the Project Manager.
+• Migrated VB6.0 call report application to .NET framework 2.0 using visual studio2005 and VB.NET as code
+behind.
+• Developed code for some customers using .NET framework3.5 using visual studio 2008 with C#.NET.
+• Designed and Developed Database for the new Web application in SQL Server 2005, PostgreSQL and
+Oracle 9i.
+• Designed the new Database structure and migrated from SQL Server 2000 to SQL Server 2005.
+• Created several stored procedures, triggers, Views, Functions using MS T-SQL, SQL Server 2005.
+• Created reports using Cognos and automated scripts to validate the integrity of the data based on end user
+needs. Performed trouble shooting for Cognos applications by user requests.
+• Master pages were used to provide consistent design all over the application.
+• Cascading Style Sheets (CSS) were extensively used all over the application to provide rich user
+interface.
+• Designed and developed reports by using Crystal Reports Bundled Version for .NET.
+• Extensively worked with AJAX controls to provide rich user interface.
+
+6
+Phone: 8152937851
+Email ID: bsiddharth3@gmail.com
+
+•  Form  Based  authentication  was  implemented  to  allow  different  types  of  users  with  different  roles  and
+permissions. Used ASP Menu Control to provide the functionality using Menus as user controls, and were
+used all over the application.
+• Web Services using XML and SOAP were effectively used in this project.
+• Wrote stored procedures and created functions in oracle 9i Using PL/SQL and consumed in the application.
+• Extensively worked with SQL Server Reporting Services (SSRS) in designing reports.
+• Created DTS Packages for Data Transfer. Worked on Windows forms to generate reports and used grid
+view control and other tools. Asynchronous processing and background processing using .NET
+Multithreading.
+• Extensively used Grid view for the Data display and gave the flexibility for the users to select rows using
+JavaScript. Grid view drill down is implemented to see the available slots for each installer.
+• Each page was thoroughly validated before closing the page and saving the data to the database
+• Enterprise library Data Application Blocks were used for data querying, and storage.
+
+• Wireshark, Ethereal, Tcp dump, process monitor, protocol and network analysis for performance.
+
+R2, SQL Server Management Studio, Linq
+SQL and Linq to Object - 2008 to 2008
+
+Silverlight, Javascript, JQuery,
+Knockout, MVVM, MVC, Tibco work flow, HTML, Microsoft Team Foundation server, IBM Clearquest, and
+SDLC.
+
+Responsibilities:
+• Worked with project manager, technical lead and other developers for their SendTracV2 version 2.0 product
+enhance and product improvement. Also worked on product development of their SendTractV3 version 3.0.
+• Developing various forms, ASPX, and HTM pages for SendTracV2 and SendTracV3.
+• Developed and coded various MVC3 framework based Views/pages (client side) using HTML, Razor engine,
+Javascript, JQuery and Knockout.
+• Created MVC3 'Areas' in the project and routing experience with Global.aspx.
+• Created Razor views, Models with properties and controllers for directing to data to various views and service
+methods in MVC3 framework.
+• Developed and coded various reusable partial-views/user controls using HTML, Razor engine, Javascript,
+JQuery and Knockout.
+• Developed and coded various corresponding view-models and controllers for views and vice-versa using C#
+classes and .NET framework4.0 on Visual Studio 2010. This is mostly server side of the application.Ik
+• Product enhancements for SendTracV2 and SendTracV3.
+• Changing Entity framework model edmx file. Creating and updating EDMX file with new entities and changes
+to database to reflect the new changes in EDMX.
+• Converting existing aspx based forms from their Forcon forms engine to lightweight modified MVC3 htm
+based
+forms using JQuery, Javascript, VB/C# classes.
+• Bug tracking using IBM Clear quest software.
+• Working with their QA team in fixing bugs and improving the SendTracV2 and SendTracV3 product.
+• Creating new stored procedures in SQL 2005 and SQL 2008 databases for their development and test
+environments.
+
+4
+Phone: 8152937851
+Email ID: bsiddharth3@gmail.com
+
+NET Developer
+Eclinicalworks LLC  -  MA - March 2005 to August 2007
+
+Patient Records and Practice Management software
+
+Eclinicalworks is an electronic medical records software development company. Developed on various aspects
+Eclinicalworks
+EMR  software  development  like  patient  records,  medical  device  data  collection  feature,  appointment
+scheduling, and patient
+portal parts of the software.
+
+Environment:  VB.NET,  VB6.0,  VBA,  ASP.NET,  ADO  .NET,  XML,  XSLT,  Agile  Development,  Java  script,
+HTML, CSS, Excel,
+SQL Server 2000, Oracle, Microsoft Visual SourceSafe
+
+Responsibilities:
+• Involved in designing, implementing, and testing the product.
+•  Designed  and  implemented  the  Patient  records  and  Practice  management  parts  of  the  application.  This
+component was
+responsible for providing role-based security and access to the various components in the application.
+• Designed and implemented the Core components for the application, which included a data access layer
+and an error
+logging component.
+• Designed and implemented the patient record system used for keeping patient data and track of patient's
+health information.
+•  Designed  and  implemented  Cryptographic  services  to  be  used  by  components  in  the  application  for
+encrypting, and decrypting data.
+• Login process was all driven by different user controls. Designed web forms using VB.NET using Themes.
+• Developed web services using XML and SOAP.
+• Worked with JavaScript objects and functions for validations on client side.
+• Wrote stored procedures in Oracle using PL/SQL and effectively used in web site.
+• CSS were used to provide rich user interface. Implemented database using SQL Server 2000.
+• Wrote SQL Stored procedures and database triggers which made extensive use of XML.
+• Implemented various web user controls and also worked with the Internet Explorer Tree view controls.
+
+CPT with New Mexico State Environment Department, Las Cruces, NM, Aug2004-Jan2005
+Full time Job search after Y2K (.Com burst) Sept2000-Aug2001
+
+EDUCATION
+
+Master of Science in Electrical Engineering
+New Mexico State University
+May 2005
+
+Bachelor of Engineering in Computer Science and Engineering
+University of Madras - Chennai, Tamil Nadu
+June 2000
+
+SKILLS
+
+C# (6 years), MVC (4 years), Entity Framework (3 years), .NET (9 years), Javascript (5 years), Jquery (3
+years), KendoUI (1 year), DoI IoC (2 years), WCF (2 years), Web API (1 year), Nhibernate (1 year), TSQL
+(5 years), MS SQL Server (5 years), Oracle 10G (2 years), HTML CSS (5 years), Bootstrap (2 years), NUnit
+testing (3 years), SDLC (5 years), VB.NET (3 years), Angular JS (1 year), MongoDB (Less than 1 year)
+
+ADDITIONAL INFORMATION
+
+TECHNICAL SUMMARY:
+
+• 10 years of experience in software design, development, testing and deployment .NET applications, Client/
+server,
+Web applications with proficiency in Object-Oriented analysis and design. Overall IT experience is around
+10years.
+
+• Experience in evaluating business processes and transforming into technical requirements.
+• Experience in developing Win forms, web forms based applications using ASP.NET, Visual Studio […]
+[…] VB.Net, C#, ADO.Net, Entity framework, Silverlight, MVC3, WCF, TOAD-6.0/ 8.6/9.0,
+Oracle9i/10g and SQL Server.
+• Experience in Developing and Customizing XML Web Services using C# and VB.NET.
+• Worked extensively on HTML Controls, Server Controls, User Controls, Web Controls and third party controls.
+• Experience is SDLC, OO designing using UML tools Erwin and Visio.
+• Experience is implementing and using agile development methodologies.
+• Extensively worked with win forms using grid view control and report viewer.
+• Excellent knowledge of PL/SQL, SQL Server […] T-SQL, stored procedures, functions,
+triggers, views, joins and experience working with various Databases. Designing and Developing Databases.
+• Mobile development experience using Windows 8 mobile Javascript, HTML5 and C# apps.
+• Experience in Multi-tier and SOA architecture development using components and classes.
+• Worked with scheduling project tasks and tracking the work progress.
+• Release engineering experience with software deployments to IST, UAT, and production environments.
+• Self motivated fast learner, excellent communication, presentation and writing skills.
+• Quality conscious programmer with excellent problem solving and troubleshooting capabilities.
+• Provided guidance to team members by performing code reviews, design reviews and support activities.
+• Experience with offshore and multiple team co-ordination with knowledge transfer experience.
+• Experience in Telecommunications/Wireless, Financial, Banking and Technology organizational domains.
+
+TECHNICAL SKILLS:
+
+Programming Languages: VB.NET, C#, and C
+Platforms: […] Microsoft .NET Framework […]
+ADO.NET
+Web Technologies: Web forms, ASP.NET, MVC, XML, XSLT, Silverlight, JSON, and SOAP
+Server side Programming: C#, VB.NET, WCF, SOA, Web API, RESTful services, TPL, MSMQ, […]
+Window Programming: Windows forms, VB.NET, C#.NET, WPF, MVVM/MVP and Windows Forms
+Client side Programming: HTML5, DHTML, JavaScript, AJAX, Jquery, AngularJS, Kendo UI, Knockout,
+Xpath, and CSS
+CMS: Microsoft SharePoint Server 2007, Windows SharePoint Service, (WSS) and
+MOSS
+Databases: RDBMS, MySQL, PostgreSQL, Microsoft SQL server, SSIS, SSRS, Linq, PL/SQL,
+and Oracle 9i/10g. NoSQL - MongoDB.
+
+Operating Systems: Windows, Debian and Red hat Linux
+Tools: TOAD, SQL*Plus, CVS/SVN, Turtoise, Subversion, TFS, Serena Dimensions,
+Windows Workflow(WF), Telerik-Rad Controls, Visio, MS-Office 2007, VBA, UML,
+FxCop, Fiddler, Authorize.Net, NUnit, Moq, TDD, DDD, Google Wallet and
+Wireshark.
+DOI / IC Tools: nHibernate, Ninject, StructureMap and Microsoft Unity.
+Reporting Tools: Telerik Charting, Crystal Reports.NET, SQL Reporting Services, and Dundas
+charts
+
+Development Skills: SDLC, deployments (UAT/IST), debug, testing and Software releases.
+Cloud Computing: Windows Azure, Amazon Web Services (AWS) & Google-API-.net-client
+development.
+
+Other Skills: Effective communication both oral and written, accountable, goal Oriented, Team
+work and reliable software development
+
+1
+SIDDHARTH B
+Phone: […]
+Email ID: bsiddharth3@gmail.com
+
+

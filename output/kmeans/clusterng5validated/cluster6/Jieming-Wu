@@ -1,0 +1,78 @@
+Jieming Wu
+
+Software Engineer
+
+Moorestown, NJ - Email me on Indeed: indeed.com/r/Jieming-Wu/23fd4d6b0ef63a93
+
+Seeking an opportunity in a computer science related field.
+Willing to relocate
+Authorized to work in the US for any employer
+
+WORK EXPERIENCE
+
+Software Engineer
+Financial Software Systems  -  Horsham, PA - July 2008 to November 2015
+
+Developed .NET based products of financial trading systems by using AGILE methodologies. The products
+apply to various financial instruments (e.g. Foreign Exchange, FX Derivatives, Money Markets, Fixed Income,
+Equities, etc.), and include front-office (e.g. Trade Capture), middle-office (e.g. Limits Management, Position
+Management) and back-office (e.g. Accounting, Confirmation, Payment, Funding/Clearing Workflow) activities.
+
+〓 New Development: Collaborated in SCRUM teams to deliver new projects through the entire product cycle.
+• Analyzed and frequently communicated with client services or product owner for project requirements and
+scopes;
+•  Designed  with  consideration  of  scalability,  documented  and  executed  new  functionalities  in  the  existing
+architecture to meet the requirements;
+• Provided documentation on new/revised functionalities, as well as any updated delivery information;
+• Negotiated and determined time estimates and work schedule; 
+• Managed meetings to identify data model updates and changes, including SQL scripts, stored procedures,
+triggers, functions etc.; Updated data model in ERWIN; Documented database design;
+• Assisted as SQL administrator;
+•  Participated  in  quality  assurance  testing  plans,  including  unit  testing,  integration  testing  and  automation
+testing; 
+• Provided overall coding and implementation based upon project requirements within the targeted schedule; 
+• Performed internal/acceptance testing; 
+
+Latest projects:
+• Front-office: Added TEMPLATE capacity in Strategy Option form. Users could create multiple templates (in
+XML)  with  preferred  strategy  types,  option  legs,  as  well  as  other  properties.  This  functionality  significantly
+improved the effectiveness of capturing Strategy Options.
+• Middle-office: 
+- Added a new calculation model of LER for trade’s gain and loss in Limit Browser.
+- Verified and enhanced Average Rate Option gain and loss calculation.
+• Back-office:
+- Migrated and transformed old SWIFT processing programs from C code to .NET framework as a Windows
+Service.  The  Service  program  provided  confirmation  SWIFT  messages,  payment  SWIFT  messages  and
+cancellation SWIFT messages.
+- Produced highly customizable accounting reports by using DevExpress reporting controls.
+
+〓 Software Maintenance:
+
+• Provided new releases with product improvements;
+• Improved products to meet client requirements as functional enhancements;
+• Performed product modifications to comply with changes in software environment, such as third party control
+upgrades;
+• Committed to achieving software reliabilities, robustness and stabilities.
+
+Network Designer
+Shanghai Cheerful Horn Technologies Co., Ltd  -  上海市 - July 1999 to September 2000
+Helped design network systems and provide technical support for customers.
+
+EDUCATION
+
+MS in Computer Science
+West Virginia University
+August 2001 to December 2003
+
+BS in Industrial and Management Engineering
+Shanghai University - 上海市
+1995 to 1999
+
+SKILLS
+
+.NET framework, C/C++/C# programming, Visual Studio, DevExpress Controls, WCF, Relational Database
+Design, SQL Queries, T-SQL, ERWIN, MSSQL Server, SSMS, SSRS, PL/SQL, SQL*Plus, Team
+Foundation Server, Visual Source Safe, Software Engineering Document, XML, HTML, CSS, JavaScript,
+ASP.NET, ADO.NET, MVC, IIS, Windows/UNIX (7 years)
+
+

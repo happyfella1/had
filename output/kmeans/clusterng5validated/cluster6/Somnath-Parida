@@ -1,0 +1,212 @@
+Somnath Parida
+
+Senior Test Automation Engineer - CapitalOne 360
+
+Wilmington, DE - Email me on Indeed: indeed.com/r/Somnath-Parida/1b6d91a9eb23bcea
+
+Willing to relocate: Anywhere
+Sponsorship required to work in the US
+
+WORK EXPERIENCE
+
+Senior Test Automation Engineer
+CapitalOne 360  -  Wilmington, DE - June 2014 to Present
+
+Project: EASE
+This project aims at building a Single Page Application using AngularJS which will have all the different Line
+of businesses and products integrated and accessible from the same page and provide seamless navigation
+between different systems with the same look and feel, enhancing the User Experience. This project uses
+ATDD (Acceptance Test Driver Development) software development lifecycle.
+
+Tools  &  Softwares  used:  AngularJS,  Java,  Cucumber-JVM,  Junit,  Cucumber-Ruby,  Protractor-Jasmine-
+Cucumber.js, Gherkin, UFT HP Service Test, Soap UI Pro, RubyMine, Webstorm Intellij, Selenium Webdriver,
+SVN Tortoise, Git Hub, QC ALM, NoSQL MongoDB, Sauce Labs, Postman.
+
+Responsibilities:
+●  Created  different  Test  Automation  Frameworks  as  Proof  of  Concept  for  Web  UI  and  Middleware
+(Orchestration)  Rest  Services  Layer  using  different  tools  like  Cucumber-JVM,  Cucumber-Ruby  with  Page
+objects  and  WATIR,  Protractor-Cucumber.js,  UFT  HP  Service  Test  and  SOAP  UI  Pro  (finally  sticking  to
+Cucumber-JVM).
+● Reviewing and grooming user stories along with the Product Owner, BSA and the Scrum Team.
+● Assisting PO and BSA to create Gherkin scenarios as part of user story's Acceptance criteria which becomes
+the base for creating the ATDD Automation test scripts.
+● Creating Feature files and Step definitions (test scripts), page objects, utility classes and methods using
+Cucumber, Java, Selenium WebDriver and Junit.
+● Checking in automation scripts in GitHub, reviewing and merging pull requests from other team members,
+facilitating automated Smoke and Regression testing on CI build using Jenkins.
+● Running Manual and automated E2E tests for Web UI and Middleware (Orchestration) Rest Services Layer.
+● Performing Manual and Automated Device testing (Mobile/Tablets) using Sauce Labs.
+● Performing Customer Activity logging (audit logging) using NoSQL MongoDB.
+● Analyzing the SureFire and Jenkins test result reports and debugging/fixing in case of any code issue.
+● Reporting and capturing the defects in Jira and following up with the developers to fix the same.
+● Resource on boarding and knowledge transition to new resources.
+
+Automation Test Lead
+Tata Consultancy Services Ltd  -  Newark, DE - November 2011 to June 2014
+
+This  is  a  web  based  application  being  build  using  a  three  tier  architecture  using  Agile  Methodologies  of
+software development to provide a quality software product to cater to the latest requirements of the 'Office
+of the Comptroller of the Currency' for JPMorgan Chase Bank. It includes intense rules and validations based
+capturing of data for Customer Verification, Product and Country due diligence, Ownership capturing, Related
+party due diligence and screening, due diligence for direct and indirect association with OFAC countries.
+
+Tools  &  Softwares  used:  Cucumber,  Gherkin,  Java,  Selenium  WebDriver,  Junit,  Eclipse,  GitHub,  SQL
+Developer, QC ALM, Jira, SOAP UI Pro, Oracle.
+Responsibilities:
+● Grooming the automation stories to understand the automation requirements.
+● Creating the Cucumber feature files with the required Gherkin scenarios and reviewing the same with the
+team.
+● Creating the step definitions and test classes to run the Cucumber features using Selenium Webdriver,
+Java and Junit.
+●  Creating  Utility  classes,  reusable  methods  and  page  objects  (using  Page  Factory)  for  code  reusability,
+maintainability and simplicity.
+● Refactoring and debugging the test script issues using break points.
+● Checking in automation scripts in GitHub, reviewing and merging pull requests from other team members,
+facilitating automated CI Regression testing using Jenkins jobs.
+● Analyzing the maven SureFire test reports and validating the validity of the failures.
+● Creating Test Suite and Test Cases in Soap UI Pro for testing the Rest Service calls.
+● Execution of Integration and Regression Test Scripts in Quality Center.
+● Promptly logging and reporting the bugs found during testing to the developers by capturing them in Jira
+and assigning to the respective developer.
+● Making sure that the definition of 'Done' is met for all the stories and the sprint.
+● Resource on boarding and knowledge transition to new resources.
+
+ETL QA Lead
+JP Morgan Chase Bank - May 2011 to October 2011
+
+Project: Cards Data Warehouse Remodeling (Data Migration using Informatica)
+This is a Data Warehouse Remodeling project wherein the existing system which used Abinito & Tivoli for
+data  extraction,  transformation  and  loading  is  being  replaced  by  Informatica  Power  Center  and  ControlM.
+The  project's  scope  also  includes  a  complete  remodeling  of  the  existing  Data  Warehouse  with  the  re-
+implementation of Data Modeling, Staging, Integration and Semantic layers.
+The project also includes automation of the process using QTP and Performance testing using Load Runner.
+Tools  &  Softwares  used:  Informatica  Power  Center,  ControlM,  Teradata,  QC  ALM,  SQL,  Abinitio,  Tivoli,
+WinSCP, Unix, Perl Script, Putty, QTP.
+
+Responsibilities:
+● Coordinating and managing a team of six testers located onshore and offshore.
+● Arranging review sessions from the BAs, SMEs and data modelers for different applications so that the team
+has proper understanding of the requirements and scope.
+● Creating Test Plan and Test Strategy and reviewing the same with the Client.
+● Making a note of the Impediments faced by the team and addressing the same with the help of the project
+management team.
+● Reviewing and verifying the technical specification document, SQL DDLs, DMLs.
+● Creating test scenarios and test cases for SOR staging, Integration and Semantic Layers in Test Plan and
+Test lab in Quality Center ALM.
+● Reviewing the test scenarios prepared by other team members.
+● Running the test scenario review with the client and taking signoff on the same.
+● Assigning testing tasks within the team members and tracking the progress on individual tasks
+● Deploying the Informatica label and ControlM XMLs in the QA environment.
+● Creating test data using ABInitio and maintaining the test files and test data in the UNIX server.
+● Verifying the Informatica Mapings, Maplets, Transformations and Workflows.
+● Verifying the ControlM XMLs and ordering the jobs to run the workflows.
+
+● Running SQL Queries on Teradata database and verifying if the data is loaded to the respective target
+tables and with the expected transformation.
+● Creating and Executing automation scripts using Perl Script and raising defects for the issues found.
+● Making sure that all the failed test cases are linked to the respective defects.
+● Reviewing the defects raised by the team and following up on the critical defects with the development team.
+● Provide daily status to the management team and weekly status to the Client for the project.
+● Reviewing the Test Sprint status with client and getting signoff on the closure of the same.
+
+Test Lead
+Jira, Informatica Power Center - October 2010 to April 2011
+
+Tools  &  Softwares  used:  QC  ALM,  Jira,  Informatica  Power  Center  (ETL),  ControlM,  Unix,  SQL,  Teradata,
+Winscp, Abinitio, Tivoli, Oracle.
+
+Responsibilities:
+• Understand and analyze demands (requirements), follow up with business analysts and subject matter expert
+team for any clarification, if required.
+• Creation and Review of test conditions based on requirements, and getting sign-off on test conditions from
+respective business analyst.
+• Preparation of test scripts for Staging layer, Integration layer and Semantic layer.
+• Preparing test data using the SQL DMLs present in the existing system which uses Abinitio.
+• Analyzing the test environment readiness, Scheduling the ControlM jobs and monitoring the ETL workflows
+using Informatica Workflow Monitor.
+• Checking the Error logs in case of workflow failures and performing first level of debugging.
+• Querying the source database/files and the target database to validate if the data transformation is done as
+per the requirement.
+• Execution of System Test and Regression Test Scripts using a customized automation tool build with Unix
+Shell Scripting and validating if the data written in the target is as per the required transformation.
+• Verifying if the Request-Response and Publish-Subscribe distribution XML messages are properly generated
+with the correct data.
+• Tracking defects in Jira, retesting defect once fixed and following up on them till closure.
+• Maintain and update the regression test pack as per new functionality/changes released.
+• Resource on boarding and knowledge transition to new resources.
+
+Nexus Application Management
+Siemens Information Systems Ltd - May 2007 to September 2010
+
+Tools & Softwares used: QC, Jira, Unix, SQL, Oracle.
+
+Roles & Responsibilities: Test Lead
+● Co-ordinate with the Business Analysts and developers and do the Impact analysis.
+● Design/Review the Test Cases for Integration testing, System testing and User Acceptance testing (ITL /
+ATS).
+● Creation of test coverage matrix based on requirements, and walk through on high level business scenarios
+covered to client.
+● Creation of Traceability Matrix for the assurance of complete coverage of system requirements.
+● Execution of Integration Test and System Test Scripts.
+● Find and analyze the defects, prepare the defect report in defect tracking tool and assign it to developer.
+● Follow up with the developers and retest and close the fixed bugs.
+● Run the Automated Regression test pack using QTP 9.0 and raise regression bugs if any.
+Project: Accessibility Test Lab
+
+Client: SAP Labs, India
+Tools & Softwares used: QC, SAP Tutor, Jaws, Sap R3.
+Roles & Responsibilities: Tester
+● Testing and standardizing the basic Web Dynpro, SAP GUI and Net Weaver UI elements
+● Perform integration testing once the individual elements are integrated together.
+● Work closely with Web Dynpro, SAP GUI, Adobe and Net Weaver developers and provide inputs to enhance
+the accessibility feature of the individual elements.
+● Work with JAWS (Job Access with Speech) tool to Test the elements/applications/portals/PDF forms.
+
+QC
+Siemens Information Systems Ltd - August 2006 to April 2007
+
+Jira, Unix, SQL, Oracle, MS Excel, MS Word.
+Roles & Responsibilities: Tester
+● Analyze the Scope document and Design the Test Cases for Integration testing, Regression testing and
+User Acceptance testing (ITL / ATS).
+● Monitor and control test environment setup with the help of infrastructure and development team.
+● Planning resource utilization and task distribution in test team
+● Execution of System & Integration Test and Regression Test Scripts.
+● Find and analyze the defects, prepare the defect report in defect tracking tool and assign it to developer.
+
+Software Tester
+Convergys  -  IN - May 2006 to August 2006
+
+Reviewing the Functional Specification document.
+● Creating Test scenarios and test cases based on the functional specification document.
+● Executing the test cases and report bugs for the defects found while testing.
+● Reporting the daily status to the Test lead.
+
+Software Engineer
+Sakar Solutions  -  IN - August 2004 to April 2006
+
+Developing an intermediate layer between the UI and the database using Java.
+● Writing utility classes and functions, fixing build issues.
+● Writing unit tests for the written code.
+● Debugging and fixing code issues.
+● Code review team member's code.
+● Provided development status reports to the team lead on a daily basis.
+
+EDUCATION
+
+Post Graduate Diploma in Business Administration
+Welingkar Institute of Management Research and Development - Mumbai, Maharashtra
+
+Bachelor's in Electronics
+Pune University - Pune, Maharashtra
+
+SKILLS
+
+Cucumber (3 years), Java (3 years), JUnit (3 years), Selenium (3 years), Git (2 years), SQL (4 years),
+SoapUI (2 years)
+
+ADDITIONAL INFORMATION
+
+I'm currently on H1B visa and can work on C2C.
+
+

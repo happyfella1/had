@@ -1,0 +1,134 @@
+John Wieners
+
+Lead Electronics Engineer, extensive experience in Medical Devices, In-Vitro
+Diagnostics and Automation
+
+Morrisville, PA - Email me on Indeed: indeed.com/r/John-Wieners/7ce4bc078c18525d
+
+Dedicated electronics engineer with a strong background 
+in team management, circuit design, layout and testing. 
+Experience in motion control, digital and analog design, 
+and imaging systems.
+
+Core Competencies:
+* Team Management 
+* Circuit Design & Layout
+* Motion Control/Automation 
+* Embedded Systems
+* Medical Device Regulations 
+* Design for Manufacturing
+* Design for Serviceability 
+* LabVIEW Programming
+* Imaging Systems 
+* Project Management
+* Touch Screen Interfaces 
+* ESD Testing & Debugging
+
+WORK EXPERIENCE
+
+Principal Engineer, Electronics
+Abbott Point of Care - In Vitro Imaging Systems  -  Princeton, NJ - April 2009 to Present
+
+Led a team of six engineers to develop the electronics for an imaging-based hematology instrument capable
+of  performing  a  Complete  Blood  Count  (CBC)  in  a  Point  of  Care  environment.  Worked  closely  with  other
+disciplines, including Mechanical, Software and Optics Engineers, Quality, Regulatory, Marketing and Program
+Management.
+
+Projects & Experience:
+
+Electrical Engineering Department Management
+* Managed department tasks and priorities for a team of six engineers with experience levels ranging from
+Associate to Principal Engineer.
+*  Selected  suppliers  for  electronic  components,  including  circuit  boards,  custom  cable  assemblies,  single
+board computers, and LCD screens.
+* Worked with program management and other engineering groups on project planning and scheduling.
+* Collaborated with the Materials, Quality and Regulatory departments to audit vendors, perform verification,
+create processes, and identify regulatory requirements.
+*  Built  the  Electrical  Engineering  department  infrastructure,  including  setting  up  the  electronics  lab  and
+selecting all tools, equipment and development software for the department.
+
+Desktop Hematology Instrument
+
+* Led the Electrical Engineering department to develop all electronics throughout the system, including circuit
+board design, touch screen interface and single board computer integration.
+* Developed a communication architecture that allowed control of all sensors and actuators throughout the
+system via a simple I2C bus.
+* Designed the power architecture of the system, integrating it with the power state machine of the embedded
+Intel single board computer.
+* Identified devices used for operator identification, such as barcode readers and RFID readers.
+
+Instrument Control Circuitry
+* Developed circuits to perform tasks related to motion control, data acquisition and microscope illumination.
+* Worked with Hardware and Software Engineers to develop algorithms for motion control and blood sample
+preparation.
+
+SATA Camera Design
+* Managed the development of a single-board camera that could communicate with a PC via a standard SATA
+interface. 
+* Developed system requirements, such as camera throughput, on-board image processing and cost.
+* Worked with contractors to develop the camera, and coordinated with the Embedded Software and Optics
+teams on testing and system integration.
+
+Associate Member, Technical Staff
+Sarnoff Corporation/SRI International  -  Princeton, NJ - April 2007 to April 2009
+
+Developed cameras, test systems and support electronics for CCD and CMOS imagers. Used FPGAs, high
+speed drivers, and DC bias circuits to generate precision timing signals. Digitized high-speed video signals
+using correlated double sampling to minimize noise.
+
+Projects:
+
+CCD Camera Design
+* Developed a single-board camera to drive an 8k CCD line array for customers to use as an evaluation board
+and reference design.
+* Tested and debugged the system, including updating the FPGA design and soft-core processor firmware.
+* Led the fabrication and testing effort for the first run of production boards.
+
+CMOS Test System Design
+* Designed adapter boards to interface with existing test-bed electronics in order to test new CMOS sensors.
+* Developed timing schemes and test methods for CMOS sensors.
+
+Iris Recognition System
+* Developed system electronics to capture an iris image and transfer it to a computer for image processing.
+* Designed circuit for controlling infrared LED’s used for subject illumination.
+
+Electronics Engineer
+Siemens Diagnostics  -  Flanders, NJ - February 2003 to April 2007
+
+Developed electronics for an automated in-vitro diagnostic system for use in large blood testing laboratories.
+This was done with distributed microcontrollers controlling over eighty motors and associated sensors and
+actuators. 
+
+Projects:
+
+Motion Control Circuitry
+* Developed circuit boards from circuit concept to production documentation and bill of materials.
+* Design for manufacturability and identify manufacturing test methods and requirements.
+* Wrote software for microcontroller to verify design.
+
+Image Processing System
+*  Investigated  feasibility  of  using  image  processing  in  order  to  identify  patient  blood  samples  and  gather
+information about test tubes (i.e. height, diameter, cap presence).
+* Led interdepartmental team to determine requirements for a production version of the system based on
+customer needs, system cost, and physical layout.
+
+I2C Network for Reset Control
+* Implemented an I2C network to control the reset signals of approximately forty microcontrollers from a master
+control PC.
+*  Simplified  cable  routing  and  reduced  system  cost  by  reducing  the  number  of  conductors,  overall  cable
+diameter, number of circuit boards and total cable length.
+
+EDUCATION
+
+Bachelors of Science in Computer Engineering
+Rochester Institute of Technology - Rochester, NY
+1997 to 2002
+
+SKILLS
+
+Technical Experience:, Imaging Systems, Digital/Analog Design, Bus Communication, Data Acquisition,
+Motion Control, FPGA Design, ***, Programming Experience:, LabVIEW, C/C++, Java, Embedded Systems,
+Assembly Language, LabWindows/CVI, ***, Software Experience:, Mentor DxDesigner, Orcad Capture,
+Mentor PADS, Altera Quartus II, Microsoft Office, MasterControl
+
+

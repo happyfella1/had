@@ -1,0 +1,391 @@
+Anowar Islam
+
+Sr. Cloud Engineer
+
+- Email me on Indeed: indeed.com/r/Anowar-Islam/92d08f1ec5ce3ee9
+
+•  10+  years  of  experience  as  a  Senior  Cloud  Engineer,  designing,  developing,  deploying  and  supporting
+software applications in the areas of Cloud, Web and Mobile.
+• Extensive Programming experience in Java, Python, SQL, Javascript, Ruby and ObjectiveC.
+•  Experience  as  DevOps  Engineer  in  automating,  building,  deploying  and  releasing  of  code  from  one
+environment to another.
+• Experience in microservices and SOA.
+• Extensive experience in building and maintaining REST APIs.
+• Developed and deployed multiple Android and iOS application from scratch.
+• Exposed to all aspects of software development life cycle and understand underlying principles and best
+practices of software development in Agile, Scrum and Waterfall methodologies.
+• In-depth understanding of the principles and best practices of SCM including code compilation, packaging,
+deployment, release methodology and application configurations
+• Experience in using version controller tools like SVN and GIT
+• Practiced Test Driven Development (TDD) in Agile Development Environment.
+• Followed XP (Extreme Programming) methodologies like Pair Programming, Iterative Planning.
+• Team player with excellent interpersonal skills, self-motivated, dedicated and understanding the demands of
+24/7 system maintenance and has good customer support experience.
+•  Experience  in  Amazon  AWS  Cloud  Infrastructure  EC2,  S3,  SQS,  AWS  Lambda,  Security,  IAM,  VPC
+Networking, EBS.
+• Experience in setting up bringing up private cloud using openVZ and Proxmox in datacenter.
+• Experience with Varnish reverse proxy
+• Experience in OpenStack Integration and development in Rackspace.
+• Experience with architecting, building, deploying, and scaling Docker applications.
+• Experience with infrastructure configuration management and automation using Chef.
+• Experience with continuous delivery and continuous deployment using GOCD and Jenkins for continuous
+integration and for End-to-End automation for all build and deployments
+• Hands on experience in various application servers like Tomcat, nGinx, Apache.
+• Practiced development to ensure automated test efforts are tightly integrated with the build system and in
+fixing the error while doing the deployment and building.
+• Experience working and building REST APIs for ElasticSearch and SOLR.
+• Excellent experience in documenting and automating the build and release process.
+• Conduct systems design, feasibility and cost studies and recommend cost-effective cloud solutions such as
+Amazon Web Services.
+• Experience in using bug tracking systems like Rally, JIRA.
+• Proficient in tracing complex build problems, release issues and environment issues in amulti-component
+environment
+• Extensively used build utilities like Maven, ANT and Gradle for building of jar, war, bar and ear files.
+• Expertise in troubleshooting the problems generated while building, deploying and also in production support.
+• Have experience in Google Cloud Compute Platform for deploying and managing applications.
+• Closely worked with development, QA and other teams to ensure automated test efforts are tightly integrated
+with the build system and in fixing the error while doing the deployment and building.
+• Designed data models in Cassandra, MongoDB, MySQL, Oracle and Liquibase.
+• Developed customized solutions developing Graph Model, Time Series Model in Cassandra
+
+• Experience developing highly-scalable, distributed core business application for bank, implementing Event
+based CQRS (Command Query Responsibility Segregation) pattern using Axon Framework and Spring boot.
+• Experience developing Spring Batch Jobs for data processing on Hadoop Clusters
+• Written Gatling test fixtures for load testing APIs.
+• Experience of JPA, Hibernate.
+• Developed customized error architecture for microservices that can be easily maintained and scale.
+• Developed a customized reference data solution for adding third party reference checks into any services.
+• Worked on creating a financial agnostic processor to plugin any third party solutions like FDR, TSys.
+• Experience in Web Architecture and developing Web Application from scratch.
+• Extensive experience in NodeJS, AngularJS, ReactJS, JQuery.
+• Followed TDD and experience writing test using JUnit, Jasmine and rSpecs.
+• Experience in Web Architecture and developing multiple application from scratch.
+• Experience in MVC, MVP architecture.
+
+WORK EXPERIENCE
+
+Sr. Cloud Engineer
+Barclaycard  -  Wilmington, DE - March 2015 to April 2016
+
+Responsibilities:
+•  Part  of  the  agile  team  that  involved  development  and  devOps  teams  for  multiple  simultaneous  software
+releases.
+• Used Subversion as source code repositories.
+• Managed SVN repositories for branching, merging, and tagging.
+• Developed Shell/Python Scripts for automation purpose.
+• Implemented multi-tier application provisioning in OpenStack cloud, integrating it with Chef.
+• Responsible for designing and deploying best SCM processes and procedures.
+• Worked as a developer to debug software and system problems.
+• Created scripts in ruby which integrated with Rackspace API to control instance operations.
+• Deployed GOCD, GOCD dashboard for configuration management to existing infrastructure.
+• Used GOCD to automate Configuration management.
+• Used Chef to manage Web Applications, Config Files, Data Base, Commands, Users
+Mount Points, Packages.
+• Maintained and coordinated environment configuration, controls, code integrity, and code conflict resolution.
+• Used AGILE method to develop a build and also Maven as a build tool.
+•  Using  Chef  and  OpenStack  allowed  me  to  reduce  costs  for  the  department  and  eliminate  unwarranted
+resources. Automated provisioning of cloud infrastructure with Chef.
+• Replaced existing manual deployment and management processes with Chef and OpenStack across 2 prime
+product platform.
+• Imported and managed multiple corporate applications into SVN code management repo.
+• Managed in-house artifactory for repository management
+•  Created  and  maintained  documentation  on  confluence  for  build  and  release  processes  and  application
+configuration to comply with audit requirements and Industry best practices.
+• Managed GIT and SVN as Source Control Systems
+• Created Pre-operation and Post-operation triggers in Appian.
+• Developed scripts using PERL, BASH and BATCH files for Automation of Activities and builds.
+• Provided level one support for build troubleshooting and production issues.
+• Responsible for the EBFs (Emergency Bug Fixes) to push them to different environments and monitor their
+status.
+• Performed merges for each build from Development Branch to Integration Branch.
+
+• Created the Release Management plan with the implementation schedule.
+• Conducted Sanity Testing to verify for the right build is deployed.
+• 24/7 on call supports for emergency site maintenance and immediate build and install requests.
+• Worked with the automated scripts for the Build and Deployment of the applications.
+• Responsible for Build and Install Schedules using Unix Cron jobs.
+•  Maintained  configuration  files  for  each  application  for  the  purposes  of  build  and  install  on  different
+environments.
+• Involved in writing parent pom files to establish the code quality tools integration.
+• Installing, configuring and administering Jenkins CI tool on Linux machines.
+•  Coordinate/assist  developers  with  establishing  and  applying  appropriate  branching,  labeling/naming
+conventions using GIT source control.
+• Analyze and resolve conflicts related to merging of source code for GIT.
+• Implemented the setup for Master slave architecture to improve the Performance of Jenkins.
+• Used Jenkins for Continuous Integration and deployment into Tomcat Application Server.
+• Deployed Java/J2EE applications to Application servers in an agile continuous integration environment and
+also automated the whole process.
+• Installed and Configured the Nexus repository manager for sharing the artifacts within the company.
+• Supported and developed tools for integration, automated testing and release management.
+• Verified if the methods used to create and recreate software builds are consistent and repeatable.
+• Involved in Research of the project application architecture to support/resolve build, compile, and test issues/
+problems.
+• Releasing code to testing regions or staging areas according to the schedule published.
+• Possessing strong knowledge in Ant and Maven build tools and implementing it with Jenkins, Anthill Pro
+and Build Forge.
+
+Environment and Technologies: Java, Ruby, Maven, Chef, Docker, Linux, OpenStack, Shell Scripts, Python,
+Tomcat, SCM, GIT, GOCD, Rally, Oracle, MongoDB, TDD, Agile Development
+
+DevOps Engineer
+ContactMyDoc  -  Montgomeryville, PA - November 2013 to March 2015
+
+Responsibilities:
+• Designing and implementing for fully automated server build management, monitoring and deployment
+• Identified the AWS services for the application cloud migration.
+• Developed AWS Cloud Formation template for application provisioning on AWS.
+• Leveraged AWS Java SDK to place parts store orders into AWS SQS, This will reduce the downtime of the
+site due to Back End MainFrame System unavailability.
+• Developed micro services for GE Appliances parts Availability.
+• Developed Dockerfile to build Docker image.
+• Configured application in Jenkins to build and deploy in AWS by Using DevOps Technologies.
+• Responsible for design and maintenance of the Subversion/GIT, Stash Repositories, views, and the access
+control strategies.
+•  Coordinate/assist  developers  with  establishing  and  applying  appropriate  branching,  labeling/naming
+conventions using GIT source control.
+• Used ANT and Python scripts to automate the Build and deployment process. Used maven for few modules.
+•  DevOps  for  load  balanced  environments  &  Multi-regional  server  environments  (AWS  Regional  nodes
+managed via Chef Roles and Attributes)
+• Monitoring each service deployment, and validating the services across all environments.
+
+• Deployed J2EE applications to Application servers in an Agile continuous integration environment and also
+automated the whole process. Build scripts using ANT and MAVEN build tools in Jenkins, Sonar to move from
+one environment to other environments.
+• Involved in build and deploying SCA modules in IBM Web sphere Process server.
+• Worked on Java/J2ee deployments in web sphere.
+• Written Shell scripts to apply the Integration label to all the files, which needs manual labelling of files.
+• Deployed Puppet, Puppet Dashboard and PuppetDB for configuration management to existing infrastructure.
+• Owner of Jenkins, GitHub, Puppet, Artifactory, and all internal build systems for the core development team
+on an enterprise-level Java-based cloud orchestration/automation tool.
+• Strictly enforced ITIL process while pushing builds and deployments to prod and pre-prod environments.
+• Used to write an install script in Ruby using all of the extra helper functions from Chef
+• Configured the user's accounts for Continuous Integration - Jenkins, Nexus and Sonar.
+•  Gathered  all  the  stakeholder  approvals,  necessary  signoffs  while  acting  as  a  release  manager  for  two
+development teams.
+• Prepared Migration logs for every release and maintained the data accuracy.
+•  Maintained  Defect  Fix  Deployments  and  documented  the  deployed  files  in  the  appropriate  Environment
+Migration log.
+• Working with Change Order with current release and implement them in the Production.
+• Created Branches, Tags for each release and particular environments.
+• Merged the branches after the Code Freeze.
+• Created the Deployment notes along with the Local SCM team and released the Deployment instructions
+to Application Support.
+
+Environment:  Java,  Eclipse,  Chef,  Ant,  Maven,  Jenkins,  GIT,  Subversion,  WebSphere  Application  Server
+(WAS), Apache, PERL, BASH, Unix, Python
+
+DevOps Developer
+Venplex Inc  -  San Jose, CA - January 2011 to November 2013
+
+Project #1: AppUtils (Venplex, Inc)
+• Description: A python based cloud services platform with support for NoSQL, graph databases, text search,
+& mobile frameworks. AppUtils enables the rapid development of highly scalable Internet solutions.
+• Link: http://www.venplex.com
+• Developed AWS Cloud Formation template for application provisioning on AWS.
+• Leveraged AWS Java SDK to place parts store orders into AWS SQS, This will reduce the downtime of the
+site due to Back End MainFrame System unavailability.
+• Developed micro services for GE Appliances parts Availability.
+• Developed Dockerfile to build Docker image.
+• Configured application in Jenkins to build and deploy in AWS.
+•  Developed  a  in-house  scalable  graphDB  extending  Cassandra  to  be  used  by  all  the  application  for
+development.
+• Extended the graphDB to accommodate time-series model inspired from Kafka
+• Extended time-series to implement queues for messaging.
+• Developed autocomplete suggestion API using Redis
+• Developed recency API using Bloom filter
+• Developed the Elastic Search server,
+• Developed python API for SOLR
+• Other Responsibilities: Job profile includes scheduling jobs for group members, overseeing deadlines and
+deliverable on time.
+
+• Technology Used: Python, Cassandra, MySQL, Elastic Search, SOLR, Redis, Nutch, NodeJS, Java, nginx,
+Apache WebServer, AWS, Memcached, Proxmox.
+
+Project #2: Online Noticeboard (Venplex, Inc)
+• Description: Online noticeboard is a comprehensive solution for a simple, private, free way to reach everyone
+in a group how they each prefer, and know they got your message. Subscribers get messages how they each
+prefer: email, text, the iOS/Android application, or any internet connection.
+• Architected the application in the platforms web, iOS and Android.
+• Implemented the website with AngularJS, Grunt, Bower for publisher.
+• Designed and developed the iOS and Android application.
+• Other Responsibilities: Job profile includes scheduling jobs for group members, overseeing deadlines and
+deliverable on time.
+•  Technology  Used:  AWS,  Python,  Mako,  AngularJS,  Grunt,  Bower,  Cassandra,  Graph  Database,  Elastic
+Search, Redis, HTML, HTML5, CSS, CSS3.
+
+Environment: Python, Cassandra, MySQL, Elastic Search, SOLR, Redis, Nutch, NodeJS, Java, nginx, Apache
+WebServer, AWS, Memcached, Proxmox, GIT, Subversion, Jenkins, Linux, Shell Scripts, Apache Web Server.
+
+Software Engineer
+NETES Lab, IIT  -  Guwahati, Assam - September 2007 to December 2011
+
+Responsibilities:
+• Performed software configuration/release management activities for three different Java applications.
+• Developed three education tools for the Computer Networking Concepts viz., ALOHA, CSMA and CSMA-CD.
+• Worked on Remote Learning Project.
+• Worked on the low power module development in Cver Compiler
+•  Designed  and  implemented  Continuous  Integration  process  using  tools  like  Hudson  with  approval  from
+development and other affected teams.
+• Defined processes to build and deliver software baselines for internal as well as external customers.
+• Converted old builds using MAKE to ANT and XML for doing Java build
+• Created and maintained built wrapper scripts using PERL.
+• Maintained and executed build scripts by coordinating with development and QA teams.
+• Responsible in doing build and deploying on different environments simultaneously.
+• Enforced development policies using Subversion hooks and other metadata.
+• Attend forum for management of release weekly meetings.
+• Monitor progression of releases and keep them on track for delivery on planned release date.
+• Submit request for implementation to various groups who participate in release.
+• Assemble Release Kit and complete all paperwork, including implementation/back out plans.
+• Turnover documentation monitors status of actual production turnover.
+
+Environment: Java, Ant, Hudson, Weblogic, Subversion, Shell & Perl scripting.
+
+Principal Software Engineer
+Bonaven Software  -  Hyderabad, Andhra Pradesh - September 2008 to January 2011
+
+Project #1: ClipConnections
+• Description: ClipConnections, is a media application with a vision is to create a personal assistant to the vast
+resources of video available online. This is the place where you can keep your videos you are interested in as
+clip marks and share or watch it at your leisure. You can club different clips from various sources and make
+playlists. The videos can be clipped into small "play segments".
+• Link: https://www.clipconnections.com
+
+• iOS App: https://itunes.apple.com/US/app/id819296099
+• Android App: https://play.google.com/store/apps/details?id=com.venplex.clipconnections.android
+• Facebook App: https://apps.facebook.com/clipconnections
+• Architected, Designed and Developed on all the platforms Web, Android, iOS and ServerSide.
+• Used jQote for client side templating, Facebook Graph API Integration,
+• Implemented business logic using youtube, dailymotion and vimeo api.
+• Improved the UI/X to increase the user activity 2.5 from 1.3 in 6 weeks
+• Driven the marketing with 3 marketers, to improve audience reach on Facebook and Twitter from initial ~
+500 users to ~150000 users.
+• Reduced the feed generation time from ~900ms to ~250ms, on load of ~30000 users/day by implementing
+various technique like demand loading, automatic video quality change with network connections, caching of
+results, falling back to old data from login and then bringing in new data.
+• Other Responsibilities: Job profile includes scheduling jobs for group members, overseeing deadlines and
+deliverable on time.
+• Technology Used: Python, Mako, Ember JS, Cassandra, Graph Database, Elastic Search, Bloom filters,
+Redis, HTML, HTML5, CSS, CSS3.
+
+Project #2: GainBin
+• Description: Gainbin is a exclusive Facebook platform application, which act as friendly shopping marketplace
+where you can take help of your friends to sell stuff quicker and in a painless way. Buyers can also discover
+trustable sellers and share, follow shopping trends among friends.
+• Link: https://apps.facebook.com/gainbin
+• Architected the Social Market Place application.
+• Using EmberJS framework architected the client side work in MVC.
+• Facebook Graph API Integration to provide various way to post and reach the user to promote individual
+product.
+• Developed the server side API services for all application needs,
+• Used Elastic Search for product search functionality
+• Completely Designed and Developed the platform.
+• Other Responsibilities: Job profile includes managing a team of 3 members in project lead role. Additional
+responsibilities include code reviewing, mentoring and collaborating with different stakeholders such as UX,
+UI and development teams.
+• Technology Used: Python, Mako, Ember JS, Cassandra, Graph Database, Elastic Search, Redis, HTML,
+HTML5, CSS, CSS3.
+
+Project #3: Digoba - Stock Market Assistant
+• Description: Digoba is a android based mobile application that allows user to keep in touch with the markets
+and manage your stock lists and portfolios. It also allows user to compare specific stock price history with that
+of market indices & facilitates the user to share the financial info across his social network.
+• Link: https://play.google.com/store/apps/details?id=com.venplex.digoba.usa.android
+• Implemented real-time stock quotes and details from Google Finance & Yahoo finance
+• Developed insights into global markets trading activity wrt portfolio
+• Developed historical stock price comparison with indexes and stocks for Historical Price Comparison
+•  Implemented  50DMA  infographics  and  easy  live  scrolling  of  stock  prices  and  news  related  to  interested
+stocks.
+• Implemented portfolio tracking with shares and cost
+• Implemented multiple portfolios with comprehensive company/Stock news from major news sources and
+twitter.
+• Save and access users portfolios from multiple devices by syncing portfolios in the cloud
+
+• Implemented Charts for various data with all multitouch functions like "pinch to zoom"
+• Social Actions integration (Share via G+, FB, Email etc.)
+• Designed and developed API services for all Digoba needs.
+• Other Responsibilities: Job profile also included scheduling jobs for group members, overseeing deadlines
+and deliverable on time.
+• Technology Used: Java, Android, Python, Cassandra, Graph Database, SQLite.
+
+Project #4: Dhanalaxmi - Gold and Jewelry Manager
+
+• Description: Dhanalaxmi is a android based cloud application that allows user a comprehensive coverage
+and full control, it brings live spot prices for gold, silver and other metals, along with critical market information
+to your fingertips. It also allows user to keep track of jewelry & bullion gold holdings. The application also helps
+user to keep track of the Gold News Feed
+• Link: https://play.google.com/store/apps/details?id=com.venplex.digoba.dhanalakshmi.android
+• Developed Asset Organizer and Calculator, with OCR for painless data entry.
+• Developed support for 176 currencies, whereby prices can be displayed in any of the supported currencies.
+Exchange rate for the selected currency is constantly updated together with the precious metal prices.
+• Developed various charts, like 30 days, 60 days, 6 months, 1 year, 1 year technical, 2 years technical, 5
+years, 5 years technical, 8 years technical, 10 years, 10 years technical, Annual demand, Annual supply, ETF's
+physical holdings etc.
+• Implemented Price Alarm whereby the application alerts you when your target prices are reached. A must-
+have feature for any trader
+• Developed the support APIs, for the application.
+• Social Actions integration (Share via G+, FB, Email etc.)
+• Other Responsibilities: Job profile also includes scheduling jobs for group members, overseeing deadlines
+and deliverable on time.
+• Technology Used: Java, Android, Python, Cassandra, Graph Database, SQLite.
+
+Project #5: Dateleaf - Private Social Network (Venplex, Inc)
+•  Description:  Dateleaf  is  social  networking  website  using  latest  Web  2.0  technologies.  Dateleaf  facilitates
+users in creating and sharing private, public networks. Networks can be shared, made public or protected.
+Each network can as private or as public as user wants it to be.
+• Link: http://www.dateleaf.com
+• Developed Message module, sending message to your friends in dateleaf. Can send media (audio, video,
+links, documents), which are readily available on the message thread itself. Can forward message to other
+friends.
+• Developed the NewsFeed module, for user to go through the activities in their network and friends. User can
+import there Facebook and Twitter feed to manage all in one place.
+• Developed the Networks module, where user can set there privacy per network, time-based privacy, can
+have password protected networks. Dateleaf also have hidden networks.
+• Developed Friends and Invites module, for sending and receiving friend requests, accepting etc have been
+done. Import contacts' using Yahoo and Gmail is done.
+• Developed Calendars as groups module, capability to organize calendars as a group. The user preferences
+are stored as JSON at server. Available to the user as 'Calendar Settings'.
+• AJAX Wrappers in MAKO: AJAX wrappers for server code are done in MAKO (a Python web templating
+language). Did comments API, cal-invites, cal-requests, and events 2.0, an enhanced version of events. Doing
+e-invites, sharing e-invites online through a link, comments for e-invites. AJAX API for Dateleaf walls (consists
+of status messages about calendar events, user recent activities, sharing and subscribing. The walls info is
+controlled based on user permissions)
+
+• Testing: Developed unit testing app to test JSON API. The unit testing of JSON API was automated. YUI
+testing was used to this app. YUI assertions are used to test the JSON API requests.
+• Release Engineering: Worked on friends' application. Sending and receiving friend requests, accepting etc
+have been done. Import contacts' using Yahoo and Gmail is done.
+
+Environment: Subversion, Ant, Jenkins, AWS, AJAX, JSON, JavaScript, Object Oriented JavaScript, JQuery,
+Mako, Python, HTML, HTML5, CSS, CSS3 and YUI, Google Contacts API Yahoo Contacts API, Youtube API,
+Twitter API, Facebook API, Flickr API, OOCSS, Modernzr, Yepnope and jQote templates.
+
+EDUCATION
+
+BS in Computer Science and Engineering
+National Institute of Technology - Silchar, Assam
+
+ADDITIONAL INFORMATION
+
+TECHNICAL SKILLS:
+
+Programing Language Java, Python, JavaScript, Ruby, ObjectiveC, Swift
+Web Technologies AngularJS, ReactJS, jQuery, JSP, Servlets, XML, JSON, HTML5, CSS3, LESS, SCSS
+Web Framework Spring, Django, Flask, NodeJS, Axon Framework
+Web Services REST, SOAP
+Web Servers Tomcat, nGinx, Apache Http, JBoss
+Search Technologies ElasticSearch, SOLR, Nutch
+RDBMS Oracle, MYSQL, H2
+NOSQL Cassandra, MongoDb, CouchDB, Redis, memcacheD
+Queues ActiveMQ, Kafka, RabbitMQ, Websphere MQ
+Versioning SVN, GIT, PVCS, hg
+Bug Tracking Rally, JIRA, Mingle
+CI/CD GOCD, Jenkins
+Build Tools Maven, Gradle, ANT
+Scripting Perl scripting, Shell scripting, Python, Perl
+Configuration Technologies Chef, Docker, Puppet
+Cloud technologies Amazon EC2, OpenStack, Chef, KVM, Docker
+Project Management Agile Methodology, JIRA and SDLC
+
+Operating Systems Linux (RHEL, Ubuntu), OSX, Windows
+
+
