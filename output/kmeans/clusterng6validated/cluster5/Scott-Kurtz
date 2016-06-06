@@ -1,0 +1,270 @@
+Scott Kurtz
+
+DSP Software Engineer
+
+Mount Laurel, NJ - Email me on Indeed: indeed.com/r/Scott-Kurtz/0d2e2370ba4e6247
+
+To work in the field of Digital Signal Processing and/or embedded software development.
+Authorized to work in the US for any employer
+
+WORK EXPERIENCE
+
+Senior Engineer
+DSP Soundware  -  Medford, NJ - 2014 to Present
+
+• Designed, simulated, and implemented (in software) the following algorithms:
+o Acoustic Echo Canceller
+o Single Microphone Noise Reduction
+o Dereverberation
+o Acoustic Beamforming
+o Spatial Audio Mixer
+o Active Noise Cancellation
+•  Developed  a  low-overhead  C-based  framework  and  methodology  that  encompasses  the  following
+functionality:
+o Object instantiation
+o Memory management including leak and stray write detection, and a software stack
+o Diagnostic test points
+
+Co-Founder, VP of Engineering (hands-on)
+Adaptive Digital Technologies  -  Plymouth Meeting, PA - 1997 to 2014
+
+• Developed a rich DSP software product line for Voice-Over-IP and voice communication
+• Designed, simulated, and implemented numerous algorithms, including:
+o An acoustic echo canceller that, according to one customer, achieved the same performance found in high-
+end Polycom conference speakerphones
+o A G.168 line echo canceller that was certified by AT&T’s voice quality test lab
+o Tone detection, generation, Caller ID modems, High Density Voice Conferencing, Automatic Gain Control,
+Voice Activity Detection, Noise Reduction
+• Architected a low-overhead, highly configurable VoIP software framework, optimized for use on Digital Signal
+Processors
+• Developed and implemented a software-based Voice-Over-IP Engine that runs under iOS, Android (native),
+PC/Windows and Linux, and ARM/Linux.
+• Handled technical sales and proposal writing
+
+DSP Software Engineering
+InterDigital Communications Corporation  -  King of Prussia, PA - June 1986 to December 1997
+
+• Developed baseband modem and embedded control software for wireless local loop subscriber and base
+station. The technology in InterDigital’s system encompassed groundbreaking technology and was, in fact, the
+predecessor to the 3G mobile communications standards.
+• Worked on RF modem design, speech compression, waveform coding, telecom systems engineering, and
+embedded software development. By being involved in so many aspects of the system, I became a de-facto
+systems engineer in the process.
+
+Member, Engineering Staff
+Radio Corporation of America (RCA), Government Communications System Division  -  Camden,
+NJ - 1983 to 1986
+
+• Developed and implemented a Low Probability of Intercept (LPI) modem whose claim to fame is that it could
+successfully transmit in the HF radio band at transmit levels that were so low that they could not be detected
+above the background noise. 
+• Demonstrated transmission over a distance of 300 miles using 2 watts of transmit power using sky-wave
+transmission.
+
+EDUCATION
+
+MSEE in Digital Signal Processing, Communication, Information Theory
+Drexel University
+1992
+
+BSEE
+Lehigh University
+1983
+
+SKILLS
+
+Electrical Engineering (10+ years), DSP Software (10+ years), Algorithm Development (10+ years), TI DSP
+(10+ years), C/C++ (10+ years), Embedded Software (10+ years), iOS Software Development (1 year),
+Android Software Development (1 year), Embedded Linux Software Development (1 year), Simulation (10+
+years), MATLAB (1 year), SVN (1 year), Simulation (10+ years), Assembly Language (10+ years), Eclipse (4
+years), Java (1 year), Windows MFC (5 years)
+
+LINKS
+
+https://www.youtube.com/watch?v=2NCYis0Jdhk
+
+PATENTS
+
+Method  and  apparatus  for  compressing  and  transmitting  ultra  high  speed  data
+(#8,503,372)
+http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO
+%2Fsearch-
+bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=8,503,372.PN.&OS=PN/8,503,372&RS=PN/8,503,372
+October 2006
+Voiceband compression techniques are employed in order to enable an RF telecommunications base station to
+accommodate data signals of high speed voiceband modems and FAX machines. An Ultra-High Speed Codec
+supports voiceband modem and FAX transmissions up to 14.4 kb/s and operates using four 16-phase RF slots.
+Because these codecs transmit information over several RF slots which can be contiguous, the slots within
+RF communication channels are dynamically allocated. The Dynamic Time slot/Bandwidth Allocation feature
+detects and monitors the data transmission and forms a data channel from the necessary number of slots.
+
+Modularly clustered radiophone system (#7,245,596)
+
+http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO
+%2Fsearch-
+bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=7,245,596.PN.&OS=PN/7,245,596&RS=PN/7,245,596
+July 2002
+A subscriber cluster unit for a wireless telecommunication system provides a wireless interface with a base
+station  for  a  plurality  of  subscriber  units.  The  cluster  unit  has  a  plurality  of  frequency  agile  modems  for
+processing wireless communications with the base station and a plurality of subscriber line circuits, each for
+providing a telecommunication connection with a subscriber unit. A control processor assigns a modem for
+each communication between the base station and a selected subscriber unit which is coupled to one of the line
+circuits and associates that line circuit with the assigned modem for that communication. Thus, a subscriber
+unit coupled with any of the line circuits can communicate with the base station via any of the modems.
+
+Method for base station compressing and transmitting high speed data (#7,126,934 )
+http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO
+%2Fsearch-adv.htm&r=4&f=G&l=50&d=PTXT&p=1&S1=((Scott.INNM.+AND+Kurtz.INNM.)+AND
++data.ABTX.)&OS=IN/Scott+AND+IN/Kurtz+AND+ABST/data&RS=((IN/Scott+AND+IN/Kurtz)+AND+ABST/
+data)
+March 2002
+Two related voiceband compression techniques are employed in order to enable an RF telecommunications
+base  station  to  accommodate  data  signals  of  high  speed  voiceband  modems  and  FAX  machines.  A  High
+Speed Codec enables the base station to pass voiceband modem and FAX transmissions at up to 9.6 kb/s.
+An Ultra-High Speed Codec supports voiceband modem and FAX transmissions up to 14.4 kb/s. The High
+Speed Codec operates using three 16-phase RF slots or four 8-phase RF slots, and the Ultra-High Speed
+Codec operates using four 16-phase RF slots. Because these codecs transmit information over several RF
+slots which can be contiguous, the slots within RF communication channels are dynamically allocated. The
+Dynamic Time slot/Bandwidth Allocation feature detects and monitors the data transmission and forms a data
+channel from the necessary number of slots.
+
+Plural  subscriber  system  utilizing  synchronized  timeslots  on  a  single  frequency
+(#7,106,819 )
+http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO
+%2Fsearch-
+bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=7,106,819.PN.&OS=PN/7,106,819&RS=PN/7,106,819
+July 1999
+A wireless digital telephone system containing at least one emulated base station plus one or more subscriber
+stations,  the  emulated  base  station  comprising  a  station  similar  to  the  subscriber  station  but  having  the
+capability of initiating a synchronization process whereby it is enabled to assign time slots to the subscriber
+station within the frame pattern of an amplitude signal by means of monitoring for positive edges in the signal.
+
+Base station for compressing and transmitting high speed data (#7,061,885)
+http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO
+%2Fsearch-
+bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=7,061,885.PN.&OS=PN/7,061,885&RS=PN/7,061,885
+Two related voiceband compression techniques are employed in order to enable an RF telecommunications
+base  station  to  accommodate  data  signals  of  high  speed  voiceband  modems  and  FAX  machines.  A  High
+Speed Codec enables the base station to pass voiceband modem and FAX transmissions at up to 9.6 kb/s.
+An Ultra-High Speed Codec supports voiceband modem and FAX transmissions up to 14.4 kb/s. The High
+Speed Codec operates using three 16-phase RF slots or four 8-phase RF slots, and the Ultra-High Speed
+Codec operates using four 16-phase RF slots. Because these codecs transmit information over several RF
+slots which can be contiguous, the slots within RF communication channels are dynamically allocated. The
+
+Dynamic Time slot/Bandwidth Allocation feature detects and monitors the data transmission and forms a data
+channel from the necessary number of slots.
+
+Tone detection (#6,914,979 )
+http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO
+%2Fsearch-
+bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=6,914,979.PN.&OS=PN/6,914,979&RS=PN/6,914,979
+April 2001
+A DFT is used to compute the magnitude and phase of the frequencies desired to be detected in a frame
+of sampled data by performing 2 dot products for each such frequency. The two dot products are calculated
+using the samples in the frame and an equal number of equally spaced cosine and sine coefficients for each
+frequency to be detected.
+
+Subscriber unit for compressing and transmitting high speed data (#6,888,815 )
+http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO
+%2Fsearch-
+bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=6,888,815.PN.&OS=PN/6,888,815&RS=PN/6,888,815
+March 2002
+Two related voiceband compression techniques are employed in order to enable an RF subscriber unit to
+accommodate  data  signals  of  high  speed  voiceband  modems  and  FAX  machines.  A  High  Speed  Codec
+enables the subscriber unit to pass voiceband modem and FAX transmissions at up to 9.6 kb/s. An Ultra-High
+Speed Codec supports voiceband modem and FAX transmissions up to 14.4 kb/s. The High Speed Codec
+operates using three 16-phase RF slots or four 8-phase RF slots, and the Ultra-High Speed Codec operates
+using four 16-phase RF slots. Because these codecs transmit information over several RF slots which can be
+contiguous, the slots within RF communication channels are dynamically allocated. The Dynamic Time slot/
+Bandwidth Allocation feature detects and monitors the data transmission and forms a data channel from the
+necessary number of slots.
+
+Echo Canceller (#6,766,021 )
+http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO
+%2Fsearch-
+bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=6,766,021.PN.&OS=PN/6,766,021&RS=PN/6,766,021
+March 2001
+A method of echo cancellation for a signal transmission system in which the size of the step used to adapt
+filter coefficients is adjusted in accordance with the echo delay and in which stationary signals are avoided by
+determining when the mean and variance of coefficients obtained from a second order linear predictive coding
+analysis of successive far end samples exceed preset thresholds.
+
+Base Station Emulator (#6,711,223)
+http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO
+%2Fsearch-
+bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=6,711,223.PN.&OS=PN/6,711,223&RS=PN/6,711,223
+February 2001
+A wireless digital telephone system containing at least one emulated base station plus one or more subscriber
+stations,  the  emulated  base  station  comprising  a  station  similar  to  the  subscriber  station  but  having  the
+capability of initiating a synchronization process whereby it is enabled to assign time slots to the subscriber
+station within the frame pattern of an amplitude signal by means of monitoring for positive edges in the signal.
+
+Method for subscriber unit compressing and transmitting high speed data (#6,574,207 )
+
+http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO
+%2Fsearch-
+bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=6,574,207.PN.&OS=PN/6,574,207&RS=PN/6,574,207
+March 2002
+Two related voiceband compression techniques are employed in order to enable an RF telecommunications
+subscriber unit to accommodate data signals of high speed voiceband modems and FAX machines. A High
+Speed Codec enables the subscriber unit to pass voiceband modem and FAX transmissions at up to 9.6 kb/
+s. An Ultra-High Speed Codec supports voiceband modem and FAX transmissions up to 14.4 kb/s. The High
+Speed Codec operates using three 16-phase RF slots or four 8-phase RF slots, and the Ultra-High Speed
+Codec operates using four 16-phase RF slots. Because these codecs transmit information over several RF
+slots which can be contiguous, the slots within RF communication channels are dynamically allocated. The
+Dynamic Time slot/Bandwidth Allocation feature detects and monitors the data transmission and forms a data
+channel from the necessary number of slots.
+
+Method and apparatus for compressing and transmitting high speed data (#6,526,383)
+http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO
+%2Fsearch-
+bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=6,526,383.PN.&OS=PN/6,526,383&RS=PN/6,526,383
+May 2000
+Two related voiceband compression techniques are employed in order to enable an RF telecommunications
+system to accommodate data signals of high speed voiceband modems and FAX machines. A High Speed
+Codec enables the telecommunications system to pass voiceband modem and FAX transmissions at up to
+9.6 kb/s. An Ultra-High Speed Codec supports voiceband modem and FAX transmissions up to 14.4 kb/s. The
+High Speed Codec operates using three 16-phase RF slots or four 8-phase RF slots, and the Ultra-High Speed
+Codec operates using four 16-phase RF slots. Because these codecs transmit information over several RF
+slots which can be contiguous, the slots within RF communication channels are dynamically allocated. The
+Dynamic Timeslot/Bandwidth Allocation feature detects and monitors the data transmission and forms a data
+channel from the necessary number of slots.
+
+Communication signal compression system and method (#5,072,308)
+http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO
+%2Fsearch-
+bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=5,072,308.PN.&OS=PN/5,072,308&RS=PN/5,072,308
+November 1990
+A  telecommunication  system  and  method  for  communicating  communication  signals  between  various
+stations over a selected carrier medium. An improved encoder and method is provided for compressing a
+communication signal into a selectively formatted encoded signal to facilitate its transmission over the selected
+carrier  medium.  The  method  is  particularly  useful  for  encoding  fax  and  modem  data  signals  which  do  not
+exhibit the harmonics of a voice signal. A decoder and method for reconstruction of the encoded signal are
+also provided.
+
+PUBLICATIONS
+
+All Bits are not Created Equal
+http://eecatalog.com/blog/2015/10/06/all-bits-are-not-created-equal/
+October 6, 2015
+This article brings together concepts in probability, information theory, and data compression in an intuitive
+way.
+
+The Slow Extinction of a Brilliant Invention - The Analog Telephone
+
+http://eecatalog.com/atca/2015/08/27/the-slow-extinction-of-a-brilliant-invention%E2%80%94the-analog-
+telephone/
+August 27, 2015
+This article discusses the simple but brilliant ideas that went into the design of the analog telephony network.
+We, as engineers, can all learn something by looking taking a look back.
+
+ADDITIONAL INFORMATION
+
+Skills
+Digital Signal Processing, algorithm design and simulation, systems engineering, C, C++, Objective C, Java,
+MATLAB,
+TI  C6000  and  C5000  assembly  language,  Windows,  Linux,  Android,  and  iOS  programming,  PVCS,  SVN,
+Pascal,
+FORTRAN, intel 8051 assembly language, Word, Excel, Powerpoint, Access. Excellent writing skills.
+
+

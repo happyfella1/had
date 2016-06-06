@@ -1,0 +1,275 @@
+Jun Wu
+
+Sr. Staff Electrical Engineer
+
+Bryn Mawr, PA - Email me on Indeed: indeed.com/r/Jun-Wu/71c2edfdd17d9453
+
+Detail oriented Sr./Lead Hardware Design Engineer with 20+ years of experience in board level design and
+test, 15 years of experience in FPGA/PLD design, 3 years of experience in IC/ASIC verification/validation test,
+1 year of experience in ASIC design and test, and 5 years of experience in firmware development.
+
+Industrial  experiences  included:  Telecommunications,  Wireless,  Avionics,  Satellite  Communications,
+Semiconductors, Personal Computers (PC) and peripheral devices, Point of Sales systems (POS Terminals),
+FPGA/ASIC/IC  design,  verification/validation  and  test  systems,  embedded  microprocessor  systems,  DSP
+systems, and Automatic Measurement and Control Instruments, etc.
+
+Extensive electronic circuit/microprocessor-based/FPGA-based design and test skills:
+1. RTL/Gate level: FPGA/PLD design, implementation, and test. ASIC verification/validation.
+2.  Board  level:  Intel  Architecture  CPU  based  motherboard  and  I/O  devices,  from  x86  series  up  to  P6
+architecture CPU; Microprocessor-based complex circuit board/embedded system design and test included
+Allwinner's A23 (ARM Cortex A7), Freescale's iMX53 (ARM Cortex-A8)/iMX6 (ARM Cortex-A9) applications
+processors,  PowerPC  […]  communication  processors,  QorIQ  […]  baseband  processors;  TI's  TMS320Cxx
+series  DSP,  Bluetooth  SoC;  Atmel's  ZigBee  SoC;  8051  series,  HC12  (9S12)  series  micro-controllers  and
+single chip computers; PMC's WinPath3, Cavium's CN5650 network processors; Gigabit Ethernet (1G/10G),
+SATA (3 Gbps), Mass Storage interfaces, HDTV video conversion and transmission (1.485 Gbps), Analog/
+Digital Video decoder and conversions, Graphic processors, LCD display and touch screens, MIPI CSI/DSI,
+PCI/PCI-Express Bus (2.5~5 Gbps), Serial communication interfaces including USB, I2C, SPI, […] […] Mil-
+Std-1553. DC/DC Power distribution, and high-speed A/D, D/A converter. Signal Integrity, EMI/ESD and safety
+protection.
+3. Firmware development: Assembly languages, and C programming.
+4.  CAD  tools  for  schematic  capture  and  PCB  layout:  Altium,  PCAD,  Mentor  Graphics,  PADS/PowerPCB,
+Cadence Allegro /OrCAD, Allegro Sigrity SI
+5. EDA tools for RTL/Gate level design and simulations: Verilog HDL and VHDL for logic design. ModelSim for
+simulations. Synplicity's Synplify for logic synthesis. Altera's Quartus-II, Xilinx's ISE/Vivado, and Actel's Libero
+IDE for FPGA place and route. Mathworks for DSP applications
+6. OS: Microsoft Windows 95/98, […] Some Unix and Linux.
+7.  Other  software:  MS  Word,  Excel,  PowerPoint,  Project,  Visio,  &  SourceSafe.  CVS,  Seapine  Software's
+Surround, DOORS, DocuShare, FileMaker, and Agile. TimingDesigner.
+
+WORK EXPERIENCE
+
+Sr. Staff Electrical Engineer
+MOTOLORA MOBILITY/ARRIS  -  Horsham, PA - 2013 to 2016
+
+Designed and developed video headend products (switched video service delivery systems): involved in FPGA
+design, board level design, production and customer support. Designed with Freescale's P4080 baseband
+processor, Cavium's CN5650, PMC's WinPath3 network processors, DDR3 SDRAM, Altera's FPGA Stratix-IV/
+Cyclone-IV, Xilinx's FPGA Virtex-6/Kintex-7, 1G/10G Ethernet, PCI Express, JESD204B, and high speed DAC
+
+Selected Accomplishments:
+
+• EQAM board MPEG streams MUX FPGA upgraded from 192 channels to 256 channels. (FPGA: Altera's
+Stratix-IV)
+• Low Cost EQAM board RF-DAC interface FPGA development. (FPGA: Xilinx's Kintex-7)
+• G.Fast board PCB layout signal integrity analysis using Cadence's Allegro Sigrity 2015.
+•  APEX3000  (Broadband  EQAM  System)  Host  Processor  board  Glue  Logic  FPGA  improvement  and
+troubleshooting. (Microprocessor: P4080, FPGA: Altera's Cyclone-IV, IDT's PCIe Switch)
+•  APEX3000  support:  MegaRaptor  FPGA  (Xilinx's  Virtex-6,  RF-DAC  interface)  programming  issues
+troubleshooting, BERT FPGA (Altera's Stratix-IV) rebuilt for BER testing, and PCIe issues troubleshooting.
+• APEX1000 support: MPEG transport streams MUX FPGA debugging (Altera's Stratix-II FPGA)
+•  ARRIS  product  support  -  testing,  troubleshooting,  production/customer  support  included:  MSP2800
+(Broadband  Multimedia  System),  BEQ6000/6000A/6200  (Broadband  EQAM  System),  BMR  (Broadband
+Multimedia  Router);  MSP2000  (Broadband  EQAM  System)  test  system  setup  for  new  version  of  software
+testing (HP/Dell servers Linux installation and setup)
+Jun Wu
+
+(Other works)
+•  Wireless  security  camera  design:  used  Atmel's  ATmega128RFA1/256RFR2  ZigBee  SoC,  OmniVision's
+CMOS camera sensor, PIR motion sensor.
+•  Wireless  security  system/home  automation  gateway  design:  used  Allwinner's  A23  embedded  processor,
+DDR3  SDRAM,  SMSC's  LAN9500  USB/Ethernet  controller,  SD  memory  interface,  ATmega128RFA1/R2
+ZigBee SoC.
+• Electric Scooter/motorcycle remote controller and smart-wristband integrated design: Used EV1527 encoder,
+TI's CC2541 Bluetooth SoC.
+
+Sr./Lead Hardware Design Engineer
+INNOVATIVE SOLUTIONS & SUPPORT INC  -  Exton, PA - 2002 to 2013
+
+Designed and developed Flat Panel Display products in Avionics from conceptual definition to final production.
+Created  project  proposals/design  schemes,  provided  estimation  of  project  schedule  and  cost,  performed
+digital  circuit  design  mostly  with  analog  and/or  mixed  circuits,  captured  schematic,  guided  PCB  layout,
+host  design  reviews,  brought-up  prototype  test  and  debug,  designed  FPGA/customized  chips  mostly  with
+Verilog HDL, generated documentations (requirement specifications, ICD, test plan & results report, version
+description, BOM, and processor address mapping), conducted troubleshooting for all engineering projects as
+required, worked with and assisted other team members, coordinated activities of outside technical consultants
+and inside administrative staff on special projects, sourced components for production and costs reduction
+purposes, designed to be compliant with DO-254, DO-160, and/or MIL-STD-810 standards, or other standards
+as required.
+
+Selected Accomplishments:
+• Multiple channels video capturing and processing boards and FPGA design from concept design to final
+production,
+(Boeing's Project: Aerial Refueling Operation Control and Display Unit, AROCDU)
+Designed with: Xilinx's Virtex-II FPGA (x 8 chips), Spartan-IIE FPGA (1 chip), and Spartan-3E FPGA (1 chip),
+Fairchild's 80x80 LVDS Cross-Point Switch customized chip for video switching, FIFO memory, SDRAM, and
+Motorola's 68HC12 embedded micro-controller, 8.4" and 18.1" AMLCD display panels and touch screen.
+• HDTV (SMPTE292M) to DVI, and DVI to HDTV (SMPTE292M) video conversion boards and FPGA design
+for video transmission use, from concept design to final production.
+(Boeing's Project: Aerial Refueling Operation Control and Display Unit, AROCDU)
+Designed with: Xilinx's Spartan-IIE FPGA, NS's SMPTE292M SerDes chips, cable equalizer IC, and SDRAM
+
+• FPGA design for Engine Analog Conversion from concept design to final production. (Used in multiple cockpit
+display projects). Designed with Xilinx's Spartan-3 FPGA
+• Video capability mezzanine cards and customized FPGA design from concept design to final production.
+(Used  in  multiple  cockpit  display  projects).  Designed  with:  Analog  Devices'  and  Philips'  front  end  video
+decoders/deserializer, Xilinx Virtex-II and Spartan-3 FPGA for video processing compliant with VIP (Video
+Interface Port) Standard 2.0
+• Electronic Flight Bag (EFB) server board design from concept design to final production. (Used in multiple
+cockpit  display  projects).  Designed  with:  PowerPC8245  microprocessor,  SDRAM,  Flash  PROM,  NVRAM,
+Ethernet Controller IC, and SD memory card controller
+•  Flat  Panel  Display  combo  board  design  from  concept  to  final  production.  (Used  in  multiple  cockpit
+display projects). Deigned with: dual PowerPC8245 microprocessors, multiple Ethernet controllers, ATI's M9
+embedded graphics controller, Xilinx's Spartan-3 FPGA for video integrity checking, SDRAM, Flash PROM,
+NVRAM,  multiple  RS-232/422  interfaces,  multiple  ARINC-429  interfaces,  dual  ARINC-708  interfaces,  and
+discrete inputs/outputs
+•  Flat  Panel  Display  EFB  &  FMS  (Flight  Management  System)  combo  board  design  from  concept  to  final
+production. Designed with: dual PowerPC8245 processors, multiple Ethernet controllers, IDE/ATA interface
+for CompactFlash module, USB host controller for USB Flash Drive, SDRAM, Flash PROM, NVRAM, multiple
+RS-232/422 interfaces, GPS synchronous inputs, discrete inputs/outputs. (Used in multiple cockpit display
+projects)
+• Micro-controller MC9S12 baseline C program software for FMA MALO code design, after emulation tested,
+hand over to software engineer for finalization.
+• New Flat Panel Display combo board design from concept to final production. Designed with: PowerPC8245 &
+PowerPC8377 microprocessors, ATI's M96 graphics processor (PCI Express I/F), multiple Ethernet controllers,
+multiple RS232/422 interfaces, new FPGA design using Xilinx's Spartan-3 FPGA for video integrity checking,
+ARINC-429 decoding/encoding, ARINC-708 (MIL-STD-1553) decoding, ARINC-568 decoding, PWM signal
+generation,  LED  driver  circuits,  and  Spartan-3  FPGA  for  video  capture.  (Used  in  multiple  cockpit  display
+projects)
+• Button/Switch encoder board and CPLD design with UART interface for data output. (Used in multiple cockpit
+display projects)
+
+Jun Wu
+
+• Digital Input/Output Processing board design, used PowerPC8245 microprocessor, SDRAM, Flash PROM,
+NVRAM,  multiple  Ethernet  controllers,  multi-channel  Arinc-429,  Arinc-708,  Arinc-568,  RS-232/422,  and
+discrete I/O.
+• Standby Flight Display combo board and LCD interface board design. Used Freescale's iMX53 multimedia
+processor, 4.7" LCD display panel, DDR3 SDRAM, Flash PROM, USB interface. (Eclipse project)
+• AROCDU-II combo board design. Used PowerPC8377 microprocessor, ATI's M9 graphics processor, and
+MC9S12 micro-controller, DDR2 SDRAM, Flash PROM, NVRAM, Gigabit Ethernet, SATA Solid State Drive,
+Arinc-429, RS-485/422, discrete I/O, and Xilinx Spart-3 FPGA for Video capture and overlay display. (Boeing
+project, 2nd generation AROCDU)
+• DCPU control channel combo board digital circuit design and FPGA design, using MPC8377, DDR2 SDRAM,
+multi channel Gigabit Ethernet, SATA SSD, multi channel RS-422/485 for board level design, using Xilinx
+Spartan-3 FPGA XC3S2000-4FG676I for expanded peripheral I/O design including multi-channel ARINC-429
+receiver and transmitter, multi-channel SPI master for interfacing with external A/D and D/A converters, serial
+to conversion, and discrete inputs and outputs. (Pilatus project)
+• FPGA design for expanded peripheral I/O interfaces for i.MX53 embedded processor, using Actel's ProASIC3
+FPGA device for implementation of SPI master, ARINC-429 receiver/transmitter, discrete I/O, etc. (Eclipse
+project)
+
+• New combo board design, using Freescale's P2020 dual core microprocessor, PCI Express ATI M96 graphic
+controller, Gigabit Ethernet interfaces, SATA interface SSD chips, Wi-Fi module, DDR3 SDRAM, FPGA device
+XC3S2000 for processor I/O expansion, XC3S1000 for video capture overlay display, etc. (For multiple projects
+use)
+• Designed video capability card and FPGA with MIPI CSI for i.MX6 application processor, support analog
+camera input, analog/digital video inputs. FPGA device: Actel's ProASIC3 flash family FPGA A3P250. (Delta
+project)
+• PCI Express interface FPGA design for i.MX6 application processor for peripheral functions expansion and
+video integrity, included ARINC-708 interface functions (4x RX), ARINC-429 interface functions (32x RX/ 16x
+TX), PWM functions (x7), video integrity checking function, and local registers, FIFOs, dual-port RAM. FPGA
+device: Xilinx's Spartan-6 FPGA XC6SLX150T-3FG484I. (Delta project)
+
+Hardware Engineer
+HUGHES NETWORK SYSTEMS  -  Germantown, MD - 2001 to 2002
+
+Designed and developed baseband digital subsystems in satellite modems included board design and FPGA
+design.
+Responsibilities included digital portions of board level design and test, component selection, interface timing
+analysis, FPGA coding, simulation, and implementation test, monitoring PCB layout, working with production
+department  to  bring  up  prototype,  creating  test  plan  document.  Working  with  IF/RF  engineers,  software
+engineers, and ASIC designers on the platform integration test without Modem ASIC (pre-silicon test), and
+with Modem ASIC (post-silicon DVT). Managing laboratory assets such as Oscilloscope, Logic Analyzer, and
+Bit Error Rate (BER) Test Set.
+
+Selected Accomplishments:
+• Involved in pre-silicon platform design and test (Xilinx's Virtex II FPGA XC2V1000, Motorola's PowerPC405
+embedded microprocessor, high speed external SRAM, A/D, and D/A.)
+• Involved in post-silicon (Modem ASIC DVT) platform design and test (Xilinx's Virtex II FPGA XC2V3000,
+Motorola's PowerPC405 embedded microprocessor, Modem ASIC, high speed A/D, D/A).
+• FPGA coding, simulation, and implementation for BER test.
+
+Senior Hardware Engineer
+PHILIPS ELECTRONICS SINGAPORE PTE LTD  -  Singapore - 1999 to 2001
+
+Designed and developed USB related products (silicon IC) from concept to mass production, and customer
+support.
+
+Selected Accomplishments:
+• ISP1161 Single Chip USB Host & Device Controller development from concept design to volume production.
+Created product objective specification which was finally used as product datasheet, used Altera's EP20K400
+FPGA and CPLD, and SRAM to create VHDL validation platform and performed validation test (pre-silicon test),
+completed silicon IC (post silicon) reference design board design, verification test, and user guide, developed
+firmware for hardware initialization test and debug, generated application notes for interfacing with various
+processors, performed EMI/EMC/ESD test, provided technical support to customer's product design-in issues
+and troubleshooting.
+Jun Wu
+
+Senior/R&D Engineer (Hardware), Project Leader/Team Leader
+GES SINGAPORE PTE LTD  -  Singapore - 1995 to 1999
+
+Design and development of Point of Sales (POS) systems, Personal Computers (PC) and peripheral devices
+from  specification  definition,  component  selection,  CPLD  logic  design  and  test  for  POS  functions  (finally
+
+converted to ASIC), all-in-one motherboard (included network controller and graphic processor) and peripheral
+device controller cards schematic design and capture, PCB layout monitoring, BOM preparation, prototype
+test and debugging, manufacturing support, EMI/EMC/ESD issues, and FCC compliance tests included CE,
+UL, CSA, TUV, and IEC.
+
+Selected Accomplishments:
+• 386/486/586/GXm/Celeron CPU based POS systems design and volume production
+(OEM project, design all-in-one motherboard, and some peripheral device controller cards)
+• POS function ASIC design and used in POS terminal products
+•  Portable  MiniPOS  terminal  design  and  volume  production  (used  AMD's  ELAN  SC300/400  embedded
+processor, 5.7" LCD display module and touch screen.)
+•  Portable  industrial  flat  panel  PC  design  and  production  (used  AMD's  ELAN  SC300  embedded
+microprocessor, 5.7" LCD display module and touch screen.)
+• Standalone flat panel PC design and production (used Cyrix' MediaGXm CPU - Pentium MMX compatible,
+12.1" TFT or DSTN LCD display module and touch screen.)
+• LCD POS terminal design and production (used Cyrix' MediaGXm -Pentium MMX compatible, 12.1" TFT or
+DSTN LCD display module and touch screen.)
+• Completed Intel's Pentium MMX CPU based home entertainment PC prototype design and passed DVT
+• Completed Intel's Pentium MMX CPU based internet set-top-box PC prototype design and passed DVT
+• Completed Intel's Pentium II MMX CPU based LCD PC prototype design and passed DVT (with 15.1" TFT
+LCD)
+• Conducted Intel's Pentium MMX CPU-based POS terminals design and ran volume production (ODM project)
+•  Conducted  Intel's  Pentium  MMX  CPU-based  multimedia  LCD  POS  terminals  design  and  ran  volume
+production (ODM project, with 12.1" LCD display and touch screen, and DVD player.)
+• Conducted 12.1" and 15.4" LCD monitors design and development.
+
+Field Application Engineer - EPLD/FPGA design support for customers
+GES SINGAPORE PTE LTD  -  Nanjing, CN - August 1995 to November 1995
+
+MIE), Nanjing, China 08/1995-11/1995
+
+Field Application Engineer - EPLD/FPGA design support for customers
+
+Design Engineer - Design and development of temperature and PH panel meter
+GES SINGAPORE PTE LTD  -  上海市 - May 1995 to August 1995
+
+R&D Engineer
+NANJING SIMULATION TECHNIQUE RESEARCH INSTITUTE  -  Nanjing, CN - May 1992 to May 1995
+
+Real-time 3D graphic generating system of vehicle emulator (multiple TMS320C25 DSP chips, FPGA/EPLD
+and PC. Firmware development using Assembly and C language)
+
+Research Assistant
+- April 1989 to May 1992
+
+Research on an algorithm of vibration control, "Computer Aided Modeling on Vibration Control System
+
+R&D Engineer
+THE PROCESS MEASUREMENT AND CONTROL RESEARCH INSTITUTE, Zhunyi  -  CN - August
+1983 to August 1986
+
+Design and development of micro-controller based industrial process measurement and control instruments
+
+Selected Accomplishments:
+
+Jun Wu
+
+• Completed the micro-controller based workpiece diameter automatic measuring instrument (Z80)
+• Renovation of CNC machine using microprocessor (M68xx)
+• The automatic measuring and control system in precision grinding
+
+EDUCATION
+
+Master of Science
+National University of Defense Technology - Changsha, CN
+1989
+
+Bachelor of Science
+National University of Defense Technology - Changsha, CN
+1983
+
+

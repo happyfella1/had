@@ -1,0 +1,98 @@
+Ross Adjei
+
+Software Engineer - Java, Python, DevOps, Data Analytics
+
+Lansdale, PA - Email me on Indeed: indeed.com/r/Ross-Adjei/66a53ccf29c76396
+
+Authorized to work in the US for any employer
+
+WORK EXPERIENCE
+
+Software Engineer / DevOps
+Northrop Grumman  -  Conshohocken, PA - 2014 to Present
+
+Served as member of Global Command & Control Joint team to develop Java/J2EE application that enhances
+situational awareness through intelligence data, and analysis. Participated in all aspects of software life cycle
+using Agile/Scrum software development methodologies.
+Accomplishments include:
+● Develop and maintain REST service with spring boot; deploy with docker image
+●  Create  a  docker  image  (a  self-contained  capability  package)  that  enables  more  flexibility,  independent
+delivery, and deployment to target users. 
+●  Automate  repetitive  tasks  such  as  the  installation/configuration  of  applications  and  services,  patch
+management, and deployments on Linux (RHEL/CentOS) with Shell Scripts. 
+● Implement custom scripting solutions to improve operational efficiencies with Python. 
+● Develop Linux RPMs, & Solaris Packages with Maven. 
+● Participate in design workshops, code reviews/optimization, mentor Junior developers. 
+● Use Jenkins for integration testing, JIRA for defect/bug tracking, & Git/Bitbucket to manage and share git
+repositories.
+
+Data Scientist
+Northrop Grumman  -  Conshocken, PA - 2013 to 2014
+
+Responsibilities
+Worked in support of analytics initiatives for R&D program (i.e Sandbox), which repeatedly demonstrated how
+analytics can provide adaptive solutions to some of the most significant challenges in the military domain.
+Accomplishments include:
+● Supported the Research & Development of data analytics system, collected and analyzed data.
+● Used Pandas DataFrame to read in, clean, process, and visualized data and models with Matplotlib.
+● Used Scikit Learn APIs for simple statistical data analysis; data extraction, & computation.
+
+XQuery / Java Developer
+Northrop Grumman  -  Conshohocken, PA - 2008 to 2013
+
+Led a team of 4 to develop a high-throughput search engine (i.e. Enterprise Help System). Designed and
+developed XQuery library modules that leveraged structured and unstructured data integrated. 
+Accomplishments include:
+● Developed Help System with Java OOP, XQuery Library Modules, jQuery and NoSQL/XML Databases such
+as MarkLogic, & BaseX for Intelligence Analyst. Manage projects with Maven.
+● Designed and developed various XML Schemas used by the Enterprise Help System application. 
+● Implemented XML conversion tool with XQuery (transforms large legacy DTD based XML docs to XSD
+based XML docs) to help cut down the company’s cost.
+
+Software Engineer
+
+MedRisk Inc  -  King of Prussia, PA - 2005 to 2008
+
+Worked with a team to develop a Claim Expert system for the workers compensation industry.
+Accomplishments include:
+● Implemented Electronic Funds Transfer system. 
+● Developed stored procedures (select, updates, insert, indexes) for enhancing performance for data access
+with MS SQL Server with Java OOP.
+● Led the implementation of code reviews that detected programming errors early in the development process,
+accelerating product go-to-market time.
+●  Automated  previously  manual,  time-consuming  processes  to  drive  gains  in  data  tracking/accuracy,  and
+profitability.
+
+EDUCATION
+
+MS in Information Systems
+Drexel University - Philadelphia, PA
+September 2011 to June 2013
+
+Bachelor's in Computer Science
+Cheyney University of PA - Cheyney, PA
+2000 to 2004
+
+ADDITIONAL INFORMATION
+
+PERSONAL DEVELOPMENT
+DevOps & Big Data
+● Ansible configuration management tool for automation.
+● Python & Scala (beginner) for data analytics
+
+TECHNICAL EXPERTISE
+Languages: Java, Python, Ansible, XQuery, XML, XSD, XHTML, CSS, JSON, JavaScript, Maven
+Frameworks: Spring Framework, Spring Boot, Apache Hadoop/Spark, Apache Struts
+Concepts: OOA/OOD/OOP (UML, Design Patterns/Principles, Refactoring)
+Software: Eclipse IDE, PyCharm (for Python), Oxygen XML Editor
+NoSQL/DBs: MarkLogic Server, BaseX, Hibernate, Oracle, MS SQL Server, MySQL, Sybase
+Platforms: Linux (RedHat, CentOS, Fedora, & Ubuntu), Unix/Solaris, Virtual Machines, Windows
+App Servers: JBoss, Tomcat, Weblogic
+Other: Git/Bitbucket, Docker, SVN, JIRA/Confluence, Jenkins, Crucible, Maven Repo Manager (Sonatype 
+Nexus, Artifactory)
+
+CERTIFICATIONS & OTHER
+- Earned Linux Certifications - LPIC-1, LPIC-2
+- Obtained Active Dod Top Secret Security Clearance
+
+

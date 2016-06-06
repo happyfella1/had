@@ -1,3 +1,5 @@
+# Add shellscript for all the four steps below
+
 # put you inputDir in hadoop before running below steps
 # after doing all the steps below results are present in clustering6.csv
 # consider tfidf, cosinesimilarity and ngrams for kmeans clustering

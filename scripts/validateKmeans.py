@@ -1,6 +1,6 @@
 import os
 
-clustersCsv = "output/kmeans/clusterng5.csv"
+clustersCsv = "output/kmeans/clusterng6.csv"
 data = "data/data1_pdfs"
 
 projectPath = os.path.dirname(os.path.dirname(os.path.realpath(__file__)))

@@ -1,0 +1,12 @@
+# Here make sure you use tf vector instead of tfidf vector
+
+mahout seqdirectory -i clusterng5validated/cluster1 -o clusterng5-LDA/cluster1/sequenced
+
+hadoop -ls clusterng5-LDA/cluster1
+
+mahout seq2sparse -i clusterng5-LDA/cluster1/sequenced -o clusterng5-LDA/cluster1/sparsed -ow --maxDFPercent 85 --namedVector --weight tf -seq
+
+
+mahout rowid -i clusterng5-LDA/cluster1/sparsed/tf-vectors -o clusterng5-LDA/cluster1/matrix
+
+mahout cvb -i clusterng5-LDA/cluster1/matrix/matrix -o clusterng5-LDA/cluster1/topics_result -k 10 -ow -x 10 -dict clusterng5-LDA/cluster1/sparsed/dictionary.file-0 -dt clusterng5-LDA/cluster1/test-lda-topics -mt clusterng5-LDA/cluster1/test-lda-modeli

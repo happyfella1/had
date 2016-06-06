@@ -1,0 +1,228 @@
+Venkata P
+
+Senior Software Lead Engineer - ING Direct / Capital One
+
+Wilmington, DE - Email me on Indeed: indeed.com/r/Venkata-P/046da0ddd26fa67d
+
+Microsoft technology professional with more than 9+ years of software development experience with global
+clients using Agile based test driven development methodologies for enterprise software applications. Seeking
+a position to facilitate project management, software analysis, designing, development and deployment using
+cutting edge Microsoft technologies and utilizing my software life cycle experience, I have extensive experience
+in business process analysis/modeling, business requirements gathering, database design and development
+of Web Based, Window Based and Client/Server applications with Domain knowledge of financial services
+
+• Extensive hands on experience in core .Net (3.5/4 and 4.5) technologies like ASP. NET, WebForms and
+WinForms,  WCF,  Xml  Web  Services,  SOAP,  LINQ,  MSMQ,  ADO.net,  Reflection,  Window  Event  Model
+delegates using C#
+•  Extensive  experience  in  .NET  Framework  1.1,  2.0,  3.5  involved  in  C#,  ASP.NET,  ADO.NET  and  Web
+Services.
+• Hands on experience developing WCF services on .Net 3.5 and XML Web Services with .Net 2.0 providing
+secure SOA integration with in enterprise applications.
+• Expertise in .Net with good experience in front-end database programming using ADO.Net and ODBC.
+• Expertise in Database Programming and Development using MS SQL Server […]
+• Experience in source control and version control (Perforce, SVN, AHP (Anthill pro) MS Visual Source Safe
+and TFS)
+• Extensive knowledge of Database Design, Database Programming and Normalization using SQL Server.
+•  Experience  in  MS  SQL  Server  configuration,  performance  tuning,  client/server  connectivity,  query
+optimization, back-up/recovery
+• Experienced in SQL, Triggers, Views, User Defined Functions and Stored Procedures
+• Intricate understanding of modeling business requirement into software architectures using Object Oriented
+(OOAD) methodologies, design patters for developing reusable code and class libraries.
+• Possess excellent knowledge in OOP concepts
+• Experienced in client site software development, bug fixing and customizing.
+• Experienced in Analysis, Designing, Programming and Coding techniques, Testing and Implementation.
+• Extensive experience in SCRUM and Agile methodologies using Version One.
+• Exposure in Requirement Analysis, Architecture & Design Documentation, Reviews, System Development,
+System Testing, System Implementation, User Documentation.
+•  Hands  on  experience  in  using  test  driven  development  using  NUnit,  NCover  and  Typemock  for  creating
+automated unit test cases.
+• Hand on experience creating test suites for SOAP services testing using SOAPUI
+• ASP.NET (UI pages, Web Services, Data binding to Business Logic Layers, Data Access Layers and Master
+Pages)
+• Expert in triaging issues and providing solutions in production environments with a quick turnaround
+• Hand on experience ATDD test suites using spec flow and selenium web driver API's
+Willing to relocate: Anywhere
+
+WORK EXPERIENCE
+
+Senior Software Lead Engineer
+ING Direct / Capital One  -  DE - February 2012 to Present
+
+Project: Empower
+
+Description
+Opus is a capital one's home loan origination system which is a web based origination application and a client-
+server fulfillment system and both are leveraged by WCF services. Fulfillment system is built upon Empower
+LOS product with the ability to customize according to the needs. Empower is a state-of-the-art enterprise wide
+loan origination system (LOS) that provides functionality for every facet of the origination process.
+
+Responsibilities:
+• Attending pre grooming meetings, architecting the retail solutions to the requirement, providing guidance to
+Product Owners regarding Solution capabilities, providing alternate solutions to business users.
+• Attending defect calls with vendors on the status of the Bugs / fixes and changing business decisions.
+• Developing WCF services which acts as a middleware through which front end applications interact with the
+functionalities of empower.
+• Developing workflows using Workflow foundation to leverage the front end process on each navigation
+• Developing functionalities to the system that is built upon empower product and to customize out of box
+capabilities of Empower.Net product and to extend the system by adding new feature which were non-existent
+in the system.
+• Analysis of Requirements, Designing of solution, Interaction with system architects in finalizing the design
+approach, peer reviews, external peer reviews, technical design documentation, development and unit testing
+of application.
+• Good Experience with Query Analyzer and Enterprise Manager
+• Export and Import data using XML
+• Involved in custom LTV (Loan to Value) calculations and underwriting signing authority.
+• Working on Focus tickets (Production Issues)
+• Updated project plan using Microsoft Project and followed agile methodology.
+• Participated and lead code review sessions and .Net meetings.
+• Writing Test Cases and Technical Specifications documents.
+• Used type mock Test driven framework to write test cases in .Net framework.
+• Worked on functional testing using SOAPUI
+
+Environment: MVC Framework, .NET Framework, ASP.NET, C#, Visual Studio.NET 2010, ADO.NET, WCF,
+Infragistics, SQL Server 2008, Oracle 11, Ajax 2.0, IIS 6.5, SOAPUI, MS Visio, Tortoise SVN, Anthill Pro (AHP)
+XML, XAML.
+
+Senior Software Engineer
+JP Morgan Chase  -  DE - December 2009 to January 2012
+
+Project: Planning Tool and Build Tool
+
+Description
+JP Morgan Chase has several Intranet applications to help manage work. Planning tool is an application used
+by marketing department in Card Services. This tool helps to reduce manual work and manages departmental
+works across various teams. In Acquisition and Portfolio, pricing is calculated based on the Offer that marketing
+team has provided to the end users in the form of INTERNET, OSAM and Direct Mail. Marketer's targets will
+be calculated based on the partner offers and the component code for all spend and get module.
+
+Responsibilities:
+• Designed Business Logic Layer, Presentation Layer, Data Access Layer using VB, C# and ADO.NET as per
+the Project Specifications and implemented 3-Tier Architecture.
+
+• Performance tuning for database indexes, store procedures, functions and views
+• Worked in setting up technical standards, including coding standards, tools, or platforms, so as to advance
+business goals
+• Enhanced pricing information tool called as Build tool which was built in Winforms
+• Created project plan using Microsoft Project and followed agile methodology.
+•  Extensively  worked  in  Database  Programming  and  Development  using  MS  SQL  Server  2005  and  good
+Experience in SQL, Triggers, Views, User Defined Functions and Stored Procedures
+• Migrated SAS 9.2 applications to TERADATA from ORACLE data source.
+• Written shell script to automate (Cron) Oracle Jobs
+• Using SSIS packages build packages made up of tasks that can move data around from place to place and
+alter it on the way.
+•  We  have  built  internal  marketing  search  portal  application  using  MVC  architecture  (SEO)  search  engine
+friendly
+• Using NOPI excel object use to create excel output from a dataset.
+
+Environment: .NET Framework 3.5/4.0, ASP.NET 3.5, C#, Visual Studio.NET 2008/2010, ADO.NET, ORACLE,
+SQL  Server  2005,  SSIS,  SSRS,  TERADATA,  SAS  9.2,  UNIX  (Shell  Script),  JavaScript,  Ajax  2.0,  Internet
+Information Services 5.0/6.0, Windows Sever 2003, MS Visio, Tortoise SVN, XML.
+
+Senior Software Engineer
+McGraw-hill, NY - March 2009 to December 2009
+
+Project: Platt's and JDPower
+
+Platt's,  a  division  of  The  McGraw-Hill  Companies  (NYSE:  MHP),  MHC  is  one  among  the  global  provider
+of  energy  and  commodities  information.  With  a  century  of  business  experience,  Platt's  serves  customers
+across more than 150 countries. Business Center JD Power code will be managed by the interwoven suite of
+application including Team Suite, Open Deploy, and Media Bin. This will allow the research team to efficiently
+publish information to the website and remove technology out of the workflow.
+
+Responsibilities:
+•  Involved  in  gathering  and  analyzing  the  Business  Requirements  and  developing  System  Requirement
+Specification (SRS) document.
+• Documented standards, guideline, and strategic plans to develop .NET based software system.
+• Created project plan using Microsoft Project and followed the agile methodology.
+•  Designed  the  architecture  of  a  large  SQL  Server  database  as  data  center  backend  for  high  volume
+transactions.
+• Developed complex reports with its dataset using SQL Server Reporting Services (SSRS)
+• Consuming the WCF service in the windows application to run the financial credit information for Ecommerce
+gen2 application.
+• Enhanced existing Web services and Window service for the Supplier File watcher service.
+
+Environment: .NET Framework 1.1/2.0/3.5, ASP.NET 1.1/2.0/3.5, C#.NET, Visual Studio.NET 2005 and 2008,
+WCF, ADO.NET, SQL Server 2000/2005, JavaScript, Ajax 2.0, Internet Information Services 5.0/6.0, Windows
+Sever 2003, MS Visio, Tortoise SVN/TFS, XML, MS Project, OOP/OOA
+
+Senior Software Developer
+Kaplan Higher Education, FL - April 2008 to January 2009
+
+Project: Orion / OEC
+
+Kaplan Inc., provider of educational services for individuals, schools and businesses. Orion application is to
+be used by Online and Residential school personnel involved in managing student files as well as the Imaging
+Services department. Orion also helps to integrate and automate the scheduling for online enrollment center
+site builder to allow the creation and management of rules and rule components to be utilized.
+
+Responsibilities:
+• Involved in documentation of system flow and functional diagrams using MS Visio and created use cases,
+Activity Diagram, Sequence Diagram, and Class Diagrams using UML and designed the system based on
+OOP/OOA.
+• Created project plan using Microsoft Project and followed the Waterfall Model.
+• Developed complex reports with its dataset using SQL Server Reporting Services (SSRS)
+• Modifying the OLAP leverages existing data from a relational schema to the ETL process using SSAS (SQL
+Server Analysis Services)
+• Gathering the requirements and developing an ETL solution that implements replication for change data
+capture and SQL Server Integration Services (SSIS) for Extract, Transform and Load (ETL) activities
+• Consuming Window service in the windows application to run the student credit information,
+• Configuring the document library and Content management along with customize web parts using Windows
+SharePoint Service 3.0
+• Enhanced existing Web services and Window service for the lead flow automation.
+
+Environment: .NET Framework 3.5, ASP.NET 3.5, C#.NET, Visual Studio.NET 2008, WCF, ADO.NET, LINQ,
+WSS 3.0, SQL Server 2005, JavaScript, Ajax
+
+Senior Developer
+Brigade Corporation Inc  -  Mount Prospect, IL - January 2006 to December 2007
+
+Mount Prospect, IL Jan '06-Dec' 07
+Work Location: Begumpet, Andhra Pradesh, INDIA and Mount Prospect, IL, USA
+Role: Senior Developer
+Project: Brigade Human Resources Information System
+
+Brigade HRIS (Human Resources Information System) is a system that helps in effectively manage employee
+life  cycle  at  Brigade  beginning  with  the  recruitment,  compensation,  reimbursement,  appraisal  and  internal
+movements. HRIS caters to many needs of a BPO company such as automatic attendance marking, record
+transactions / calls done by agents for all types of projects and productivity reports, etc.
+
+Responsibilities:
+•  Involved  in  gathering  and  analyzing  the  Business  Requirements  and  developing  System  Requirement
+Specification (SRS) document.
+• Involved in documentation of system flow and functional diagrams using MS Visio and created use cases,
+Activity Diagram, Sequence Diagram, Class Diagrams using UML and designed the system based on OOP/
+OOA.
+• Designed the Stored Procedures and SQL Queries for processing the functionalities.
+•  Designed  Business  Logic  Layer  and  the  Data  Access  Layer  using  C#  and  ADO.NET  as  per  the  Project
+Specifications and implemented 3-Tier Architecture.
+• Designed data model using Erwin and normalization and developed Database with SQL Server 2000.
+• Designed Presentation Layer (UI) using ASP.NET 1.1/2.0 and C# with Visual Studio 2003/2005.
+• Web form's input validation using the ASP.NET Input Validation Controls and dynamic features using Ajax
+1.0 and JavaScript.
+• High level customizing reporting view to the business data using Crystal Reports.
+
+Environment:  .NET  Framework  1.1/2.0,  ASP3.0,  ASP.NET  1.1/2.0,  C#.NET,  Visual  Studio.NET  2005,
+ADO.NET,  SQL  Server  2005,  JavaScript,  Ajax  1.0,  Internet  Information  Services  5.0/6.0,  Windows  Sever
+2000/2003, MS Visio, Crystal Reports, XML..
+
+EDUCATION
+
+Bachelor of Engineering in Computer Science & Information Technology
+JNTU
+
+ADDITIONAL INFORMATION
+
+PROFESSIONAL SKILLS
+
+Programming Languages: C# […] VB.NET, C, JAVA, VB 6.0
+Operating Systems: Windows Server NT […] Windows Vista/XP/2000, UNIX, MS-DOS
+Web Technologies: ASP.NET, ASP, HTML, DHTML, CSS, AJAX, XSLT,
+XSD, XML, Web Services, WCF, WPF and XAML
+Web/ Application Severs: Internet Information Services […]
+IDE Tools: Visual Studio […]
+Databases: SQL Server […] ORACLE 11g/10g, MySQL, SSIS, SSRS
+Scripting Languages: JavaScript, JQuery, VBScript
+Reporting Tools: Crystal Report […] Microsoft SQL Server Reporting Services (SSRS)
+Version Control: Tortoise SVN, VSS, AHP (Anthill Pro), TFS (Team Foundation Server […]
+
+

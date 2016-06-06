@@ -1,0 +1,241 @@
+Jimmy George
+
+Sr. Software Engineer - Educational Testing Services
+
+Ambler, PA - Email me on Indeed: indeed.com/r/Jimmy-George/86998cce484414ad
+
+WORK EXPERIENCE
+
+Sr. Software Engineer
+Educational Testing Services  -  Ewing, NJ - September 2014 to Present
+
+Project Description: California Assessment of Student Performance and Progress
+The Test Operations Management System (TOMS) is a secure site which captures performance and progress
+of  California  students.  Unlisted  Resource  module  allows  Test  Site  Coordinators  to  identify  a  student's
+instructional support that a pupil regularly uses in a classroom for instruction and/or assessment that has not
+been previously identified as a universal tool, designated support or accommodation.
+Responsibilities:
+• UI development using JavaScript, JQuery, Apache Freemarker , HTM5, CSS3
+• Development in Spring-MVC
+• Hibernate for Object relational mapping with Postgres database
+• Mapping of data objects using annotation and xml
+• Reference data creation for roles and features
+• Report generation in CSV file
+• Followed Agile software methodology
+
+Project Description: eREG
+This project provides unified experience to the candidate's registration for tests across multiple ETS testing
+programs. A broad range of self-serve features would be available to the customer such as registering for
+a test, viewing scores, ordering score reports, purchasing materials, submitting artifacts or documents. This
+also provides shopping cart experience to the customers for ordering tests, test related services and test prep
+materials
+Responsibilities:
+• Development in Spring Frameworks
+• Development using Hibernate for Object relational mapping with Oracle database
+• Development using Kendo UI , Javascript, JQuery, HTM5, CSS3
+• Integration with google maps to display TestCenter search results using JSON data
+• Participated in project planning sessions with business analysts and code review with team members to
+analyze business IT requirements and translated business requirements into working model
+• Followed Agile software methodology
+Technologies used: Java 1.7, Spring 3.0, Postgres, Oracle 10g, Eclipse Helios, Hibernate 3.0, Maven, Jenkins,
+JUnit, HTML5, Kendo UI, Velocity template, CSS3, JQuery, AJAX, JavaScript, JIRA, Tomcat 6.0, Maven
+
+Sr. Systems Analyst
+Maersk - August 2013 to August 2014
+
+Project Description: MyMaerskline.com
+My MaerskLine project is to deliver a new website to conduct online transactions which will replace the existing
+Maersk ecommerce website www.maerskline.com.
+The MyML project grew out of the X-Leap project, and much of the solution design dates back to the X-Leap
+project. The X-Leap project tried to both create a compelling customer facing business-to-business web site
+and to expose all ML business process on an Enterprise Service Bus (ESB)
+
+Responsibilities:
+• Development in Java/J2EE using Java 1.6, REST Webservices and Play framework
+• Development in front-end using JQuery, Javascript, HTML5, CSS3, Twitter Bootstarp
+• Mentor team members in necessary software used for project
+• Participated in project planning sessions with business analysts and team members to analyze business IT
+requirements and translated business requirements into working model
+• Followed Agile software methodology
+• Worked in Unix environment using Oracle virtual box
+Contributions: Helped with training new team members and assisted them in learning the system. Being a
+member of the fast moving project I am successful at providing deliverables in time and also mentoring other
+team members.
+Technologies used: Java 1.6, Spring 3.0, Eclipse Helios, Maven, JUnit, HTML5, JQuery, AJAX, JavaScript,
+Oracle VirtualBox, JIRA, Tomcat 6.0
+
+Sr. Java UI Developer
+Vanguard Group  -  Malvern, PA - September 2012 to December 2012
+
+Project Description: Global Literature Catalogue
+This enterprise solution was built for maintaining PDFs such as investment product information (fact sheets,
+prospectus, annual and semiannual reports), thought leadership, and client services materials. The Caribbean
+website was enabled to retrieve the fund PDF documents for users.
+Responsibilities:
+• Development in Java/J2EE using Spring 2.5.6, Spring-MVC, JSP, Java 1.6, Tomcat 6.0, Oracle 10g
+• Development in RESTEASY webservices
+• Development in Java-UI using YUI, JQuery, Javascript, HTML
+• Providing advanced level system analysis, design, development and implementation of UI applications for
+web based software
+• Translate technical specifications and design models into code and elevate the code into the development,
+test and production environments within the project schedule
+•  Participate  in  design  code  and  test  inspections  thought  out  the  life  cycle  to  identify  issues  and  ensure
+methodology compliance
+• Followed Agile software methodology
+Contributions: Being a quick learner I was able to successfully implement enabling of Caribbean website with
+high quality and minimal defects in a short period.
+Technologies used: Java SE 1.6, SpringSource Tool Server, Maven, JUnit, JQuery, HTML5, CSS3, JavaScript,
+Oracle, Spring 3.0, JQuery, YUI, Agile
+
+Sr. Software Engineer
+NAVTEQ/Nokia  -  Burlington, MA - March 2012 to September 2012
+
+Project Description: NAVTEQ is the leading global provider of maps, traffic and location data (digital location
+content) enabling navigation, location-based services and mobile advertising around the world. Recently Nokia
+acquired NAVTEQ.
+Worked on CampaignManagementSystem project, which creates advertisements that gets displayed in GPS ,
+Web Browser and Smartphone devices.
+Responsibilities:
+• Providing technical expertise for middle tier technologies using Java/J2EE and Hibernate
+• Research, prototype, document and automate the deployment of a common infrastructure for an enterprise
+service orientated architecture using Spring MVC framework, RESTEasy, Maven and Tomcat.
+•  Working  with  software  configuration  management,  deployment,  and  continuous  integration  tools  using
+Maven, TeamCity, Hudson and Puppet.
+
+• Monitoring performance of application using JMX and working with active directory and directory access
+protocols, naming services.
+•  Proving  the  robustness,  scalability  and  ability  to  support  very  large  transactions  of  various  middle  tier
+solutions.
+• Performing investigation and root cause analysis and solutions for performance or functional issues with any
+of our middle tier tools or services.
+• Following documented software development process and contribute to process improvements.
+• Mentoring less experienced team members on technical matters.
+• Working with other departments and teams to achieve cross-functional goals to satisfy customer expectations
+• Development in Java /J2EE, Spring-MVC, Hibernate, JQuery, AJAX and RESTEasy
+• Used Zookeeper for failover
+• Used Cron job to run the process at every hour
+• Project was on Agile with daily stand-ups and updating task/stories in JIRA
+Contributions: Learned the processes within a short time and provided assistance to other team members.
+Played a key role in the successful deployment of CampaignManagementSystem project and won several
+accolades from team members and senior officials.
+Technologies used: Java 1.6, Spring 3.0, Servlet, RAD 7, Maven, JUnit, HTML, JQuery, AJAX, JavaScript,
+MS SQL, JIRA, Tomcat 6.0, FreeMarker, Hudson
+
+Sr. Software Engineer
+Upani Consultants, Philadelphia  -  Malvern, PA - March 2011 to February 2012
+
+Project Description: NAVTEQ is the leading global provider of maps, traffic and location data (digital location
+content) enabling navigation, location-based services and mobile advertising around the world.
+OPR Place Id project is to update Navteq's storefront with unique Id from Nokia's storefront.
+CMS Web project is to create Advertiser, Affiliate and Storefront to create a campaign.
+Responsibilities:
+• Development in Java /J2EE, Spring-MVC, Hibernate, JQuery, AJAX and RESTEasy
+• Used Zookeeper for failover
+• JMX bean to monitor the process in Prod
+• Used Cron job to run the process at every hour
+• Project was on Agile with daily stand-ups and updating task/stories in JIRA
+Contributions: Being a part of the Prod support team I was able to analyze and resolve Prod issues efficiently.
+Started keeping log of the reported Prod issues and encouraged team members to do the same which has
+been a big helpful resource for newly joining team members.
+Technologies used: Java 1.6, Spring 3.0, Servlet, RAD 7, Ant, JUnit, HTML, JQuery, AJAX, JavaScript, MS
+SQL
+
+IT Analyst
+TATA Consultancy Services  -  New York, NY - December 2010 to March 2011
+
+Project  Description:  SideDoor.com  is  an  e-commerce  application  provided  by  American  Express,  which  is
+designed to generate sales by promoting valuable, relevant offers that customer will pass on to their own
+community of friends and family. There are deals specific to local markets which are passed to the registered
+customers through e-mail.
+Responsibilities:
+• Integrating payment gateway using webservice to charge a transaction
+• Development in Java , Struts, Spring and Hibernate for customer module
+• Designing e-mail template using HTML & CSS for registered customers
+Contributions: Successfully designed and implemented the project in time exceeding client expectations and
+was appreciated by senior managers.
+
+Technologies used: Java 1.5, Struts, Spring, Hibernate, Java Mail, JSP, RAD 7, Ant, JUnit, HTML, JavaScript,
+MySQL.
+
+IT Analyst
+TATA Consultancy Services  -  Pittsburgh, PA - July 2010 to December 2010
+
+Project Description: PNC is one of the top treasury management providers in US which can manage working
+capital  more  effectively  and  transition  the  receivables,  payables,  investments  and  information  reporting
+activities. PINACLE®, treasury management tool of PNC, provides secure, one-stop access to all of their online
+Treasury Management services.
+Responsibilities:
+• Worked on PNC's standalone project to detect Fraud entry in ACH batch submitted by various clients.
+• Worked on production defects in PINACLE, a treasury management system.
+Contributions: Was able to successfully implement the fraud detection product in time with good quality.
+Technologies used: Java 1.5, Spring-MVC, Spring-JDBC, iBATIS, Java Mail, JSP, RAD 7, Ant, Java Beans,
+JUnit, Mockito, HTML, JavaScript, Oracle 10g, MSSQL.
+
+IT Analyst
+TATA Consultancy Services  -  Malvern, PA - July 2007 to June 2010
+
+Project Description: Vanguard is a leading investment banker in the United States of America which provides
+various investment options to personal and institutional investors and 401k.
+The purpose of this project is to enhance the existing personal investment options like Automatic Investment
+Plan, Automatic Exchange Service and Automatic Withdrawal plan to start on the day user selected.
+Responsibilities:
+• Worked on enhancing user experience of Mutual fund screener
+• Developed ETF search in Mutual Fund screener
+• Developed Mail Channel project by calling RSA-Verid webservice.
+• Developed UI in JSF 1.2 by declaring managed beans in faces-config.xml and navigation rule.
+• Used managed bean to interact with SOAP webservice
+•  As  Rapid  Response  Team  member  worked  on  various  enhancement  projects  which  was  on  agile
+methodology
+• Worked single handedly on different investment options to give greater flexibility for the user to select the
+day the options starts, existing system allowed to select the month and defaulted to first day of the month
+• Worked on production defects to solve funds related issues
+•  Worked  on  enhancement  projects  to  display  US  Treasury  auction  calendar  on  Vanguard  website  from
+Reuter's data
+• Worked on Client Experience internal module to record each client activity
+• Web enabled VRUBusiness hours to track business hours and holidays of various business units of Vanguard
+• Followed Agile software methodology
+Contributions: Was able to fix the defects assigned early and helped team members to fix their defects. As a
+member of rapid response team, enhancement projects were completed on time and moved to production.
+Technologies used: Java SE 1.5, JSP, Servlets, JSF, RAD 7, JTest, JUnit, JProbe, Lotus Notes, Spring 2.5,
+Java Beans, Java script, HTML/CSS.
+
+Asst. Systems Engineer
+TATA Consultancy Services - June 2005 to June 2007
+
+Project Description: Travel Impressions Ltd. is a wholly-owned subsidiary of American Express Travel Related
+Services Company, Inc. The company provides vacation booking search engine through their websites which
+enables the customer to book the vacation which includes Air, Hotel and Car. The web site increases the
+profitability  by  direct  sale,  reducing  man-hours,  providing  appeal  or  ease  in  selling  products  through  E-
+
+Commerce to Travel Impression's customers, and reducing human errors. The below mentioned websites
+were developed by Travel Impressions.
+➢ www.americanexpressvacations.com
+➢ www.uv-latin.com
+➢ www.travelimpressions.com
+Responsibilities:
+• Worked on task allocation to team members and monitoring team work to ensure good quality delivery to
+the client
+• Prepared Proof of Concept and mentored team members to use Apache Axis Web Service
+• Did Impact Analysis of the requirements and estimated the same
+• Prepared Business System Analysis Design Report [BSADR] for the requirements
+• Used Apache Axis Web Service to integrate with Single Sign On and Membership Rewards Points along
+with travel benefits
+• Ensured implementation of Quality processes during all the stages
+• Was responsible for the project delivery and testing the deliverables in the Testing environment
+• Deployed the applications in WebSphere Application Server in testing environment
+• Documented training manuals and worked on making team presentations
+Contributions: Handled integration of Membership Rewards points using Apache web service along with Single
+Sign on. Has been always the top performer in the team and has won several appreciations from senior officials
+and team members.
+Technologies used: Java, JSP, Servlets, WSAD, Apache Axis web service, Oracle 8, WebSphere Application
+Server, IBM Http Server, Lotus Notes.
+
+EDUCATION
+
+Certification in Sun Certified Java Professional
+Bharathidasan University - Tiruchchirappalli, Tamil Nadu
+
+Bachelors in Mathematics
+Mahatma Gandhi University - Kottayam, Kerala
+
+

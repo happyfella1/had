@@ -1,0 +1,337 @@
+Richard Dobrowolski
+
+Senior Network Engineer - The Computer Merchant, LTD
+
+Glenolden, PA - Email me on Indeed: indeed.com/r/Richard-Dobrowolski/54fc33222b36433d
+
+WORK EXPERIENCE
+
+Senior Network Engineer
+The Computer Merchant, LTD - March 2014 to Present
+
+Client: CSC/AT&T
+
+• Engaged as a Senior Network Engineer W-2 contractor for the Network Services Team at the CSC Newark,
+Delaware Data Center supporting 42 clients.
+• Completed network service requests for Cisco ASA firewalls and F5 LTM load balancers.
+• Installed and configured Cisco ASR 1000 router and 3750 switch at Sunguard to support CSC SAN disaster
+recovery network at Sunguard.
+•  Designed  and  configured  multiple  Nexus  (7000,  5000  and  2000)  scenarios  to  support  EMC  Avamar
+connectivity,
+• Performed multiple Nexus 2000 FEX configurations.
+• Supported multiple client disaster recovery tests and pre-tests.
+• Performed Nexus 5000, 1000 and Brocade ICX switch code upgrades.
+• Configured and installed CSC internal Brocade ICX switches to support EMC Avamar connectivity.
+• Performed necessary routing changes to support redundant 10 Gb WAN connection between CSC data
+centers.
+• Follow necessary change procedures to support install, power and configure equipment in the data center.
+• Attended CSC and client change meetings on a weekly basis.
+• Attended client project meetings on a weekly basis.
+• Generated monthly Riverbed Stealhead reports.
+
+Senior NOC Engineer
+The Judge Group - May 2012 to December 2013
+
+Client: The Vanguard Group
+
+• Engaged as a Senior NOC Engineer W-2 contractor for the Network Operations Telcom Team.
+• Completed network service requests for Cisco ASA firewalls and F5 LTM load balancers.
+•  Completed  network  service  requests  for  sniffer  traces  on  Cisco  and  Brocade  switches  which  included
+configuring the Apcon device and the associated Infinistream device for the packet capture.
+• Analyze the packet captures via Infinistream and Wireshark then forward the findings to the appropriate tier
+3 group.
+• Run and analyze Concord eHealth reports to troubleshoot network performance issue.
+• Monitor Omnibus traps, journal the traps as necessary, troubleshoot and update the shift turnover.
+• Monitor HP Openview NMM traps and monitor as necessary.
+• Monitor NOC ticket queue and troubleshoot as necessary.
+• Monitor and troubleshoot the ATT MPLS network.
+• Monitor and troubleshoot the Vanguard OPSF network consisting of Cisco Nexus 7000 & 5000 devices, Cisco
+6509 & 3750 switches and Brocade MLX & FCX devices.
+• Configure DHCP snooping on Brocade FCX and Cisco 3750 switches.
+• Open vendor tickets with Cisco, Brocade, ATT, F5, Aruba & Bluecat and work with vendor to resolution.
+
+• Troubleshoot network performance and connectivity issues through the F5 load balancers.
+• Troubleshoot connectivity issues through the Cisco ASA firewalls.
+• Troubleshoot DNS and DHCP issues via Bluecat Proteus.
+• Troubleshoot Wireless issue via Aruba Airwave.
+• Troubleshoot Wireless issues via the Aruba 3200 controller CLI.
+• Represent the NOC on various crisis conference calls.
+
+Senior Network Engineer
+TEK Systems - November 2010 to May 2012
+
+Client: Mars
+
+• Engaged as a Senior Network Engineer W-2 contractor for the Data Center LAN Team.
+• Design, deploy and configure Cisco Nexus 7000, 5000 and 2000 kit as necessary.
+• Perform NX-OS code upgrades on Nexus 7000s and Nexus 5000s in the Exton Data Center.
+• Review the current code on the Cisco 6509, 6509-E, 3750, 4948 & ACE (20 & 30) modules in both data
+centers. Find the latest Cisco Safe Harbor code for the devices, review Cisco bug reports, review Cisco field
+notices and make code upgrade recommendations.
+•  Plan  and  implement  ISX  site  cutover  to  BT.  Included  updating  ACL  distribute  list,  configuring  routed
+Etherchannels and VLAN changes for data and voice.
+• Design and implement server ILO management Cisco switch network design for Exton data center including
+Cisco 4948 and 2950G switches.
+• Design and configure Cisco 3750 stack switch with LACP routed EtherChannels to support Exton data center
+disaster recovery test.
+• Design and implement Solarwinds Network Performance Monitor and Netflow Traffic Analyzer in Exton Data
+Center to monitor Nexus, IOS and CatOS kit in both the Exton and Mt. Olive Data Centers. This project included
+making the necessary SNMP and Netflow configuration changes to all the Cisco devices in both data centers,
+and importing the devices into Solarwinds.
+• Followed Cisco device decommission process which included sending work orders to DCM and the Network
+Management team to remove cabling, power, device, Spectrum monitoring and eHealth monitoring. Remove
+the device from the Magic CMDB (required change request), mark the device as spare in the DCLAN inventory,
+remove the QIP entry (required work order), remove the device from the Raritan console switch configuration,
+mark the Raritan port as spare in the Raritan spreadsheet and remove the device from Solarwinds NPM &
+NTA. Device adds were the reverse process.
+• Standardize and implement SNMP, NTP, DNS and TACACS configurations across Cisco IOS and Cisco
+Nexus kit in both the Exton and Mount Olive data centers. These changes also included ACL changes on
+each device.
+• Standardize and implement interface descriptions across Cisco IOS, Cisco Nexus and Cisco CatOS kit in
+both the Exton and Mount Olive data centers.
+• Design and deploy VLANs as necessary including HSRP.
+• Maintain IP address allocation through QIP.
+• Inventory Exton data center kit and update the necessary documentation.
+• Respond to team work orders and troubleshoot as necessary.
+• Work with Network Management team on Spectrum and eHealth enhancements.
+
+Senior Network Engineer
+TEK Systems - March 2010 to October 2010
+
+Client: Comcast
+
+• Engaged as a Senior Network Engineer W-2 contractor for the Network Engineering Team.
+
+• Work on change management requests for new server installs in four data centers. This includes allocating
+IP addresses, VLAN assignments, switch port assignments and creating the Cisco switch configurations for
+each request.
+• Create and deploy VLANs as necessary.
+• Maintain switch port allocation documents and audit switch port allocation.
+• Troubleshoot new server deployments as necessary.
+• Maintain IP address allocation through QIP, and request production, management and backup subnets and
+VLANs as necessary.
+
+Senior Network Performance Engineer
+Alphanumeric Systems - February 2008 to January 2010
+
+Client: Glaxo Smith Kline
+
+• Engaged as a Senior Network Performance Engineer W-2 contractor for the Network Awareness Team too
+backfill a Senior Network Performance Engineer who was moved to a new project.
+• Troubleshoot network performance issues through F5 load balancers.
+• Work with other team members to arrive at appropriate F5 load balancer settings for various applications.
+• Troubleshoot performance issues through the GSK EIGRP and BGP routed network.
+• Respond to client SSM requests and Remedy tickets with regards to application and network performance
+issues.
+• Troubleshoot Cisco MPLS WAN network as related to application and network performance issues.
+•  Add  or  modify  Packeteer  PacketShaper  traffic  classes  to  meet  client  needs.  This  would  include  design,
+change control submission, implementation and reporting.
+•  Generate  PacketShaper  and  Report  Center  reports  to  identify  which  traffic  classes  were  consuming  the
+majority of the site bandwidth and take corrective actions.
+• Generate Mazu traffic reports for various sites to determine who the top talkers were and report back to the
+client for further action.
+• Generate Concord eHealth reports to determine MPLS link performance and escalate as necessary.
+• Generate Lynx Netcahe reports to determine top Internet users and Internet sites that may be affecting client
+site performance.
+• Arrange, perform and analyze WireShark remote and local captures.
+• Work with application teams to deploy the Opnet ACE agents on various servers in preparation for remote
+packet captures.
+• Execute, analyze and report on various ACE captures.
+• Worked on a project with other team members to point Cisco Netflow and PacketShaper FDR traffic to the
+Mazu data collectors for a centralized traffic reporting solution.
+
+Senior Network Performance Engineer
+Deloitte & Touche LLP - March 2005 to February 2008
+
+•  Senior  Network  Performance  Engineer  tasked  with  n-tier  and  client  server  application  performance
+engagements.
+• Troubleshoot network performance issues through the Deloitte EIGRP router network.
+• Troubleshoot remote site performance issues through the Deloitte MPLS network.
+• Utilized CompuWare Application Vantage, Network General Sniffer and the Packetstorm network simulator
+tools too identify the following anomalies.
+• Found a 536 byte TCP maximum segment size (MSS) issue while testing a client server application. Path
+MTU discovery is off by default on ISA 2004 servers. Path MTU discovery was enabled on all ISA 2004 servers
+firm wide.
+
+• Found excessive TCP retransmissions during download from UK datacenter to Toronto client. Found an
+asymmetric routing issue between the UK and Toronto.
+• Tested multiple n-tier applications from Chicago to the Glen Mills, PA datacenter, and found a three second
+packet flight time Chicago to the Glen Mills, PA datacenter. Two Nortel switches that connect to the two Cisco
+VPN routers were set to auto for the speed and duplex settings. The speed and duplex settings were hard
+coded and the packet flight time improved to 30 milliseconds.
+• Found client authentication choosing non-optimal authentication paths. Escalated the issue to the AD team
+for resolution.
+• Found Windows 2000 servers using default TCP window settings of 17KB. Recommendation sent to the
+application teams to change the setting to 64KB.
+• Worked with a Database Performance Engineer and found a ten second wait time between the SQL database
+server and the Share Point application servers. Escalated the wait time issue to the application team who then
+resolved the Share Point code issue.
+•  ERoom  clients  reporting  excessive  upload  time.  Ran  CompuWare  traces  and  found  170  separate  SSL
+connections built and terminated serially for every 32KB of payload uploaded. The issue was escalated to the
+application team who resolved the issue with the next code release.
+• Found Windows XP clients sending a payload of 8KB between acknowledgements and not utilizing the full
+64KB TCP window. Worked with the server and application performance engineers and found a registry setting
+that can override the 8KB default setting and change to 64KB to utilize the full TCP window. The registry
+change increased upload speed by 600%.
+• Worked with Architecture and Data Center teams to arrive at optimal F5 Big IP TCP settings which were
+implemented firm wide.
+• Worked with team members to identify duplicated SQL procedure calls in numerous applications and escalate
+as necessary.
+• Identified numerous HTTP errors in multiple applications and escalated to the application teams for resolution.
+• Tested TCP window scaling in our lab and reported findings to the Architecture team.
+• Simulated satellite VPN connectivity in our lab from West Africa and reported findings to the Architecture
+team.
+• Ran baseline single transaction tests for numerous application upgrades and compared to the prior application
+version. Reported finding to the application teams.
+
+Senior Network Engineer
+The ACI Group - November 2004 to February 2005
+
+Client: Transcontinental Direct
+
+• Engaged as a Senior Network Engineer W-2 contractor for the Network Team too backfill an open position.
+• Tasked with network projects, network security projects and daily network support.
+• Designed, installed and configured multiple VLANs to support print operations at various sites.
+• Converted multiple subnets too the new corporate IP addressing scheme.
+• Designed, installed and configured Cisco 4506 and 3550 Layer 2 switch hardware to support building moves.
+• Migrated 90+ clients off of 3COM, Intel and Nortel hardware on to Cisco 4506 and 3550 Layer 3 switches.
+• Designed and configured Cisco hardware and migrated four sites to the new Frame Relay WAN.
+•  Planed  and  configured  Cisco  PIX  515  Firewalls,  CheckPoint  Firewall-1,  Cisco  3030  &  3000  VPN
+Concentrators and various router & switches to support IPSec VPN tunnel print tests for multiple clients. All
+the client tests varied including VPN tunnels, Internet access, dedicated circuits and Cisco 3640 router NAT
+configuration changes.
+• Responsible for planning and configuring all OSPF, EIGRP and static route changes on all company routers
+and Layer 3 switches.
+
+• Network consisted of Cisco 6509's with MFSC's, Cisco 4506 & 3550 Layer 3 switches. Cisco 3640, 2600,
+2500 & 831 routers, various (Intel, 3COM & Nortel) hubs & switches, Cisco (3005 & 3030) VPN Concentrators,
+Cisco PIX 515 Firewalls and CheckPoint Firewall-1.
+
+Senior Network Engineer
+Ajilon - April 2002 to October 2004
+
+Client: MBNA America
+
+• Engaged as a Senior Network Engineer W-2 contractor for the MBNA Command Center for Tier 2 and Tier 3
+support in a network consisting of over 500 routers and switches in a OSPF/BGP-4/RIP routing environment.
+• The Network consists of Cisco, Nortel and Cabletron hardware. Cisco hardware includes routers (75xx, 72xx,
+26xx & 25xx) and switches (6509 through 1900's). Nortel BN, BCN and ARN routers. Cisco IGX ATM network
+connects all sites via Cylink encryptors connected to ADC T3 muxes.
+• Provide Tier 1 support on SONET Verizon MAN.
+• Implement scheduled configuration changes on Cisco, Nortel and Cabletron equipment.
+• Implement QIP changes as necessary.
+• Used HP OpenView, CiscoWorks 2000, Solarwinds, Concord Network Helath, nGenius to control Net Scout
+Probes  (ATM,  FDDI,  Ethernet  &  Toke  Ring)  and  Network  Associates  Sniffers  (Ethernet,  Gigabit  Ethernet,
+Token Ring & FDDI) to monitor and troubleshoot network issues.
+• Provide Tier 1 support for Check Point Firewalls.
+• Maintain network documentation.
+
+Senior Network Consultant
+Main Line Contract Services - November 2001 to March 2002
+
+Client: SPX
+
+•  Engaged  as  a  Senior  Network  Consultant  W-2  contractor  for  the  Network  Team  to  provide  network
+engineering and project management tasks.
+• SPX is a holding company that acquired another holding company called UDI. The acquisition added 20
+business units and 120+ sites to SPX.
+• Preformed tasks including project management, planning, coordinating site turn up with business units and
+site IT staff, ordering telco services (T-1, Frame Relay PVCs, ISDN Bri & ISDN Pri), generating quotes for
+backup solutions, ordering Cisco and Nortel hardware from the VAR, configuring Cisco routers (2600, 2500 &
+4000), configuring Nortel ARN routers, configuring Nortel Connectivity 100 VPN Appliances for IPSec tunnels,
+troubleshooting  installations,  implementing  new  IP  address  scheme  and  migrating  business  units  over  to
+corporate DNS/DHCP services via Nortel NetID.
+
+Network Management Engineer
+Thrupoint - September 2001 to November 2001
+
+Client: ACH, MBNA, Provident Mutual and Sunoco
+
+• Installed and configured CiscoWorks 2000 and Net Scout nGenius software on multiple network management
+engagements.
+•  Installed  and  configured  Nortel  Passport  6400  Manager,  Cisco  QoS  Policy  Manager  and  Cisco  Voice
+Manager.
+• Trained clients on the above tools.
+
+Senior Network Consultant
+Netigy - December 1999 to September 2001
+
+Clients: Aehter Systems, Chemical Week, Comcast, Corio, Davies Turner, Digex, E-Sylan. Light Guide, Merk-
+Medco, NCO, SBC, Sprint, Sylvan, Synopsis, Togus and WABC.
+
+•  Involved  in  network  consulting  and  project  management  on  multiple  network  infrastructure  and  network
+management engagements.
+• Installed and configured HP OpenView NNM and CiscoWorks 2000 on multiple engagements. Trained clients
+on HP OpenView and CiscoWorks 2000.
+• Designed and implemented an IP addressing scheme, as well as various switched and routed solutions for
+clients.
+• Assisted with pre-sales by attending multiple sales calls, writing SOWs and proposals.
+• Mentored several junior consultants on infrastructure and network management topics.
+
+Internetworking Consultant
+RPM Consulting/EB Networks - December 1998 to November 1999
+
+Client: PSE&G Nuclear Business Unit
+
+• Worked on Year 2000 project assessing and testing the following Unix platforms: AIX 3.2(5) on RISC 6000
+550L & R20 servers, HP-UX 10.20 on HP 9000 C110 & C160 workstations, Solaris 2.6 on Sun Ultra2 & Sparc5
+workstations and DEC Utlrix 4.4 on Digital Aphastation 200.
+• Completed Year 2000 assessment for 70 other devices including IBM, Cisco, HP, DEC, Bay Networks and
+Storagetek.
+• Assisted with NT Year 2000 server and workstation upgrades.
+• Designed and implemented Fast EtherChannel between Cisco 5500 switches.
+• Designed and implemented HSRP between Cisco 7513 routers.
+• Installed and configured Cisco 2600 routers and 2900XL switches in multiple campus locations.
+• Supported NOC with Tier 3 problem resolution for Bay Networks 5000 hubs (FDDI, Ethernet & Token Ring),
+Synoptics 3000 & 3030 hubs (Ethernet & Token Ring) and EIGRP routing issues.
+
+Network System Engineer
+International Network Services - February 1998 to November 1998
+
+Client: Smith Kline Beecham Pharmaceuticals
+
+• Worked on Year 2000 compliance network management project which included program plan, development,
+assessment and testing for the following: HP-UX 10.20, HP OpenView NNM, CiscoWorks, CiscoView, Optivity,
+DEC ClearVisn, Nervecenter, Network Health and Etherpage.
+• Implemented test network management system on a HP 900S715/100 running HP-UX 10.20.
+• Designed and installed a test network to prepare for the network management Year 2000 testing.
+• Obtained the licenses and patches to build the test network management platform for the software listed
+above.
+• Documented the project in multiple product books; including test plan, validation and test results.
+
+Network Engineer
+JP Morgan Services, Inc. / CSC - December 1985 to February 1998
+
+• Worked on the Network Management Team from July 1996 to February 1998.
+• Worked as a Team Lead in the Customer Assitance Center from July 1993 to July 1996.
+• Worked on the Tech Control Team as a Datacomm Engineer from December 1985 until July 1993.
+• JP Morgan outsourced 33% of IT to CSC during July 1996.
+
+Shift Supervisor
+Electronic Data Systems - October 1984 to December 1985
+
+Client: Naval Aviation Supply Office
+
+•  Responsible  for  first  shift  computer  and  network  operations  in  an  IBM  3081,  4381,  MVS  and  3705
+environments. Directed the daily activities of six computer operators.
+• Involved in planning for an upgrade to IBM 3090 MVS/XA system and an IBM 3725 FEP.
+• Completed extensive system and network training.
+
+Console Operator
+Fidelity Mutual Insurance Company - November 1983 to October 1984
+
+Controlled second shift batch throughput on an IBM 4341 MVS system. Function as shift supervisor in absence
+of the supervisor. Assisted in the tape and pint areas as needed.
+
+Computer Operator
+International Business Machines - May 1980 to November 1983
+
+Worked in the following datacenter areas on a two week rotation: print, tape, batch master consoles, production
+master consoles, wideband and System 38.
+
+EDUCATION
+
+Associates in Computer Science
+Delaware County College
+
+

@@ -1,0 +1,263 @@
+Jana Sdet
+
+Sr. SDET/Automation Engineer - United Health group
+
+- Email me on Indeed: indeed.com/r/Jana-Sdet/1f5ca608c5ae7923
+
+•  A  Microsoft  certified  professional  with  over  8  years  of  Total  IT  experience  in.Net  Development,Quality
+Assurance in Manual Testing, Automated Testing, Database Testing on Web bases application and Client/
+Server based applications.
+• Exposure to all stages of SDLC (Software Development Life Cycle), Software Test Life Cycle (STLC) and
+software development methodologies such as Agile, V Model and Waterfall.
+• Well versed with Quick Test professional (QTP) to support test automation using potential features like Data
+Driven Tests, Check points, regular expressions and functions.
+• Experience in working with open source tools Selenium (Selenium IDE, Selenium RC, and Selenium Web
+Driver), JUnit,Eclipse and preparation of automation test framework.
+• Expertise in both manual and automation testing of Web services.
+• Designed and developed Automation Frameworks like Keyword Driven, Hybrid driven and BDD
+• Developed Scenarios, Features and Step definitions using Cucumber and developed a BDD framework.
+• Experience in Building Microsoft.Net/C# automation Scripts by using NUNIT unit testing framework and good
+expertise in using Annotations
+• Worked on front end web application development that involved HTML, DHTML, XHTML, XML, and CSS.
+• Experience in developing inCore java programming using OOPS concepts.
+• Expertise in Design and Development of User Interfaces, User Controls and Custom Controls using ASP.NET
+and C#.NET.
+• Experience in developing applications using ASP.NET Web Forms.
+• Experienced in developing and consuming Web services/ WCF
+• Good Expertise in Schedule jobs via Jenkins (Continuous Delivery) and Continuous Integrationfor automating
+the build and deploy processes allowing significant increase in test automation.Monitoring the jobs scheduled
+jobs
+• Expertise in exporting JUNIT scripts from Selenium IDE to Eclipse JUNIT Test Suites, Creating new JUNIT
+test cases, modifying the selenese scripts and writing test suites using JUNIT.
+• Good Experience in unit testing/White box testing the code developed by the developers
+• Experience in developing and understanding of HTML, XML, CSS and Good Experience inJQuery, Java
+script
+• Good Experience in using Configuration management tools like Sub Version, Team Foundation Server (TFS),
+GitHub, and Build management tools like MAVEN.
+• Worked very closely with the Devops team in Agile methodology for deploying and building the Automation
+Scripts inContinuous integration
+• Worked extensively on Agile Projects and hands on experience in creating task for sprint in Rally and attended
+Sprint Planning, Scrums, Sprint Review meetings.
+• Experience in working with Test Management/Bug Tracking tools like HPALM/Quality Center/Rally/JIRA, to
+track test execution progress and prioritize bug fixes..
+• Good knowledge on designing and executing Automated Tests for Data Driven Testing.
+• Experience in developing manual and automated Test scripts and test cases based on the client provided
+BRD, FRS and SRS.
+• Extensive experience on SOAP and REST web services testing.
+• Good experience in Web Services testing using SOAPUI, XML, & WSDL. Providing required input data to
+request XML & get the required data from response XML & use the response data from other request XML
+using SOAPUI.
+• Knowledge on networking protocols (TCP/P Protocol suite) such as TCP, UDP, FTP, SSL and HTTP.
+
+• Expertise in Functional, Integration and System testing (software testing).
+• Expertise in writing SQL Queries, SQL *PLUS, PLSQL stored procedures for databases like Oracle, MySQL,
+DB2 on UNIX as well as Windows platforms.
+• Proficient in executing test scripts both manually and using Quality Center.
+• Proficient performing different kinds of testing like Smoke, Sanity, Functional, GUI, Backend, White Box,
+Parallel Testing, Integration Testing, Regression Testing & UAT.
+• Experience in defect tracking system and bug life cycle using Test Director, HP Quality Center.
+• Strong exposure testing applications on different browsers - IE 6.0, 7.0, Firefox, Safari 3x.
+• Experienced in facilitating User Acceptance Testing for go-live.
+• Good Analytical and Communication Skills and ability to work independently with minimal supervision and
+perform as part of a team. Ability to work under competing deadlines.
+
+WORK EXPERIENCE
+
+Sr. SDET/Automation Engineer
+United Health group  -  Norristown, PA - September 2014 to Present
+
+A  health  system  is  a  specialty  provider  of  innovative  medical  cost  management  solutions  for  the  workers'
+compensation industry. Its comprehensive products include a leading Pharmacy Benefit Management (PBM)
+Program, expert Clinical Review Services and a revolutionary Ancillary Benefits Management (ABM) solution
+for prospectively managing ancillary medical services.
+
+Roles &Responsibilities
+
+• Coordinated with Project Managers, Development Team, Business Analysts, and End-Users for better quality
+testing. Worked closely with business team to understand the Requirement Document in creating Test Plan.
+• Performed functional, regression and UAT Testing extensively used SeleniumWeb driver.
+• Automated Testcases and Steps by using concepts Overloaded Function, Variable, Array (single and multi-
+dimensional) and conditional logic to make script more logical and Debug Java Script.
+• Used TestNG Parameter, TestNG.xml and Data Provider (Method and ITest Context.) for parameterization.
+• Used Selenium automation (Test NG) to different type of browsers to perform Cross Browser Testing.
+•  Used  J2EE  for  the  implementation  of  script  on  Eclipse.  TestNG  and  Junit  annotation  are  using  for  the
+implementation.
+• Maintained Automation scripts and responsible for code check-ins intoGitHub
+• Prepared PL/SQL scripts to verify the database updates, inserts and deletes of the records
+• Involved in PEGA application testing.
+• Used Java Script to code the test cases in Selenium tool and also process strong knowledge on the same
+•  Used  ANT  and  MAVEN  to  build  and  run  the  Selenium  automation  framework.  Once  the  script  got  over,
+framework used to send the automation reports over email
+• Customize and maintain the test data in Automation Regression Framework (ARF).
+• Created checkpoints and synchronization points in the application to deal with timing problems.
+• Analyzing and developed test script, test cases and performed Manual and Automation Testing like Positive
+Testing and Negative Testing.
+• Mapped all the Requirements with the Test Cases using Requirement traceability matrix.
+•  Performed  Black  Box  Testing,  UAT  Testing  and  extensively  used  Selenium  for  Regression,  Smoke,
+Functional Testing and data driven testing using excel file in Selenium.
+• Involved in the Quality Assurance Analysis and Testing Information System.
+• Performed the application compatibility in the Versions of Chrome, Mozilla fire fox, and Safari and Internet
+Explorer browsers using Selenium.
+• Defects were tracked, reviewed, analyzed and compared using HP Quality Center/ALM.
+
+• Used an Agile model of development life cycle (SCRUM). Gained Knowledge on technical and Automation
+script development skills (Selenium, Ruby) and used frameworks, design approaches, and various effective
+implementation techniques.
+• Actively involved in performing functionality, Configuration, unit and integration tests for modules developed
+in Oracle 11i.
+• Involved in testing the Contracts Migrated from legacy systems to Oracle11i.
+• Data Defined and Manipulate (DDL/DML) using SQL Queries in MYSQL
+• SQL Queries writing to extract the data and define data to perform E2E testing.
+• Experienced in Testing Web based applications and also worked in SOAP testing. Json, Rest.
+
+Environment:  Selenium  Web  driver,  GitHub,  XML,  HTML,  Jenkins,  CSS  HP  QC/ALM,  GUI,  Jira,  Hybrid
+framework, Agile, SQL, MYSQL, MYSQL Workbench,
+
+Sr. Automation Engineer
+Verizon WirelessOctober  -  Basking Ridge, NJ - 2012 to September 2014
+
+An automated data collection service of knowledge base resources. Here sites are grouped by locations and
+relevance. This enables the user to readily search for needed data at a single window and saves lot of time.
+The automation tool helps in live search and also searches on scraped data stored in our database for some
+of the sites
+
+Roles & Responsibilities
+•  Analyzed  the  system  requirements  and  developed  detailed  test  plans  and  test  cases  and  provided
+the  documentation.  Collaborated  with  product  management  teams  in  an  agile  environment  to  develop  a
+comprehensive set of tests for web-based applications.
+• Studied and analyzed the Functional Requirements Specifications and System Design Specifications and
+interacted with developers for changes in requirements if any.
+• Developing Test plan of the application as per technical specifications.
+• Involved in writing Unit and Regression Test cases for the Product.
+• Involved in setting up the automation framework using Selenium Web Driver, TestNG.
+• Used XPath and DOM to work with dynamic and static objects in Selenium.
+• Configured Selenium WebDriver, TestNG and created selenium automation scripts in java.
+•  Developed  Automation  framework  both  Data  driven  and  Hybrid  using  Selenium  WebDriver  in  Java  and
+performing unit testing by using TestNG.
+• Creating and maintaining various databases using SQL Server 2005/2000.
+• Prepared manual test cases for service appointment creation, modification and deletion
+• Involved in scripting the Test cases for ACH payments, ACH Templates.
+• Created automated test scripts for validating the nightly product builds and regression testing.
+• Maintained Defects using Defect Tracking System in Quality Center.
+• Participated in various meetings and discussed Enhancement and Modification Request issues.
+•  Performed  all  test  assignments  to  ensure  the  application  meets  business  requirements  and  client
+expectations.
+• Interacted with developers & various members of project team to discuss and resolve defects and to determine
+their priorities.
+• Summarize test results in formula test analysis reports according to the documentation standards.
+
+Environment: Java, J2EE, JSF, Selenium WebDriver, TestNG, SQL, Quality Center, Jenkins, SVN, Windows
+XP, MS Access and MS Excel.
+
+Software Design Engineer in Test
+Wal-Mart  -  Bentonville, AR - September 2011 to August 2012
+
+Project Overview:
+Walmart Enterprise Master Item Application: EMI is a web- based application that facilitates the suppliers to
+upload their product information for further approval from the Retailers. EMI is a next gen application that
+replaces online item file (OIF), the legacy system. With EMI we maintain huge set of data with low cost and
+no downtime.
+
+Roles & Responsibilities:
+• Elicited requirements from business to determine functional specifications leading to concrete implementation
+requirements.
+• Served as a liaison between business, application team and technical team
+• Reviewed the requirements and use case diagrams to write Test Cases/ Test plan that would test various
+scenarios.
+• Used Keyword driven, Page Object Model, Data Driven using CSV, CSS Selectors as a part of Framework.
+• Created a Hybrid framework using .Net, C# and NUnit.
+• Helped Automation engineers in writing the code and solved technical issues
+• Used Visual studio to develop the Automation Scripts
+• Experience in parallel testing using SeleniumWebDriver.
+• Worked on Agile (Scrum) project methodology.
+• Perform Selenium automation using Selenium Web Driver and Selenium IDE
+• Test the web modules flow and improve the script performance using Seleniumfind elements.
+• Tested Service Oriented Architecture application using Soap UI.
+•  Served  as  functional  SME  for  DB2  migration  project  providing  recommendations  for  improvement  and
+technical expertise alongside project life cycle resulting in the delivery of projects on time.
+•  Performed  Integration  and  Regression  tests  to  check  compatibility  of  new  functionality  with  the  existing
+functionalities of the application.
+• Extensively used SeleniumAPIs such as Take Screenshot for Capturing Failed test cases , Select for selecting
+multiple values from list, Action for various key and mouse event, By with different Locators(xpath, CSS, id,
+Link text).
+• Wrote SQL queries extensively, queried database and generated test reports.
+• Performed Defect Tracking & Management in Rally.
+• Supported production install and served as point person for project issues in the capacity of a Lead Analyst.
+• Designed and developed WCF Web Services and configured our WCF Services with appropriate endpoints
+for consuming them in the web application
+• Used JQuery, ASP.NET AJAX toolkit controls and CSS to enhance the performance and richness to the
+user interface.
+• Involved in Unit Testing the code and provided the feedback to the developers
+
+Software Engineer (.Net Developer)
+Confluence  -  Chennai, Tamil Nadu - July 2007 to August 2011
+
+NUNIT, C#,.Net Advanced Rest Client, Fiddler, Selenium WebDriver, DB2, Windows XP, MS Access and MS
+Excel.AS, JQuery, ASP.NET AJAX
+Commerce Bank July 2007 - August 2011
+Chennai, India
+Software Engineer (.Net Developer)
+This is a banking application, which involves transmission and transaction of Financial Information through
+Electronic  Data  Interchange  under  a  highly  secure  environment.  This  system  enables  account  holders  to
+perform basic banking operations like Balance Enquiry, Online Bill Payments, and Fund Transfer between the
+existing accounts etc., via Internet.
+
+Basically this project is developed as an intranet application, which will be used by the bank employees at
+different bank locations and an Internet version, which can be used by the account holders who has got the
+online access authorization. Different modules I was involved in were Client's management, current accounts
+management, bank checks management, correspondence management, cash, accounting, loan management,
+deposits and remote banking
+Roles & Responsibilities:
+
+• Involved in adding enhancement to the application according new business rules.
+• Involved in gathering the requirements.
+• Involved in designing web application using ASP.NET.
+• Played a major role as Analyst.
+• Monitor all running clients' applications and update them through callback.
+• Connect and retrieve data from the database and feed the client application.
+• Receive data from the client application, validate business rules and update the database.
+• Process all the messaging transactions.
+• Run scheduled jobs.
+• Create and Send Reports.
+• Communicate with the service to retrieved and show data to the user.
+• Send data to the service so it can be validated and saved to the database.
+• Developed back-end in C# using Entity Framework and LINQ to Entities
+• Involved in Daily meetings and status calls.
+• Worked on all layers of the application.
+• Developed Win Forms for the desktop applications.
+• Involved in Unit Testing.
+• Used Team Foundation Server (TFS) for source control, and data collection
+• Created the SSRS Reports which can be used in the reports module using report viewer
+• Working with Entity Framework to access the data from SQL Server 2010
+• Developed N-Tier Application with UI, Business and Data Access layers using C#, Web Services, WPF,
+WCF, Prism 2.x/3.0, MVVM pattern
+• Worked a lot on validations for the entire application.
+• Involved in front end designing using Dev Express
+• Used SSRS for Reporting and Integration service.
+• Coordinating with teams that are present in remote locations.
+
+Environments: .Net 4.5 framework, C#, ASP.NET, Entity Framework, ADO.NET, Stored Procedures, Visual
+Studio 2008, WCF, SQL Server 2008, TFS, IIS 7.0, SSRS, SQL Jobs.
+
+EDUCATION
+
+Bachelors in Computer Science
+SRM University-TN
+
+ADDITIONAL INFORMATION
+
+TECHNICAL SKILLS
+
+Platforms Windows 8/7/Vista/XP,UNIX
+Programming HTML, CSS, XML, JAVA, JavaScript#, JSP, SQL, Web services, Soap
+Database MS Access, Oracle, SQL Plus, DB
+
+Bug Tracking JIRA, Bugzilla, QC, CA Rally
+Web/Technologies HTML, XML, CSS, Xpath, Firebug, Java, J2EE, , Jenkins (CI)
+Tool  Selenium  WebDriver  ,TestNG,  Selenium  IDE,  HP  QTP  11.0,Quality  Center/  ALM  11,  Load  Runner,
+Jmeter, Junit
+Browsers MS Internet Explorer, Mozilla Firefox, Chrome, Safari, Opera.
+Build Tool Ant, Maven
+Reporting Tools Crystal Report, SSRS
+
+

@@ -1,0 +1,224 @@
+Sukant Sahoo
+
+Consultant/Software Engineer - Wipro Technology
+
+Bellmawr, NJ - Email me on Indeed: indeed.com/r/Sukant-Sahoo/28bca46c54fb38f5
+
+An  experienced  Software  Engineer  with  more  than  9.5+  years  of  experience  in  the  IT  industry  spanning
+across Embedded Technology, Entertainment and Mobile device domain. Possess proven record of design
+and development expertise in C/C++ programming with focused on embedded domain.
+
+• Extensive experience in the analysis, design, developing and debugging of embedded software with more
+focused on middleware and lower level development on Linux platform.
+•  Experience  in  creating  Embedded  Linux  distribution  using  open  Embedded  and  Yocto  and  Linux  debian
+package management using Opkg embedded device package manger.
+•  Extensive  working  experience  in  Linux  internals  (Multithreading,  IPC,  socket  programming  and  Driver
+development) in C/C++.
+• Extensive experience in cable and STB development with RDK.
+• Extensive experience in network (Client and Server programming using TCP/IP and UDP) and distribution
+processing in a multi-threading environment.
+• Experience in GNU build systems Autotools and Automake.
+• Extensive working experience in mobile middleware and app development in various platform (android, brew,
+BMP).
+• Experience advanced C++ concept Object Orient Design and STL.
+• Strong experience in debugging the memory related issues (Memory leak, crash, segmentation faults etc.)
+in embedded system and also implementing various memory management in program.
+• Hands on experience in agile methodologies of software development life cycle.
+• Able to work effectively with other people at all levels in a fast-paced environment.
+• Quick learner of necessary skills to perform tasks that require timely execution.
+Willing to relocate: Anywhere
+Authorized to work in the US for any employer
+
+WORK EXPERIENCE
+
+Consultant/Software Engineer
+Wipro Technology  -  Philadelphia, PA - September 2014 to Present
+
+Client: Comcast / Philadelphia, PA Sept 2014 - Till Date
+Project: XID Platform development.
+Role: Consultant/Software Engineer
+This project is all about development of the platform known as XID which includes the general set of technology
+from both the Comcast Xi and the Comcast HD DTA. The XID is expected to operate as an HD uDTA when
+loaded with appropriate DTA code and as a Xi client when loaded with Xi code.
+• Setting up the yocto based build platform for the project
+• Writing bitbake recipe for integrating various components in the project build platform.
+• Interface the vendors for product requirements and making them deliverable.
+• Customize the build platform to minimize the Linux rootfs.
+•  Understanding  of  the  tr69client  for  remote  management  of  the  device  and  auto  configuration  and  its
+interaction.
+• Implementation of SOC interface apis to get the Broadcom SOCs data for diagnostic purpose using tr69
+client using C++ and STL.
+
+• Responsible for implementing various memory management in code using Smart pointer, memory pool etc
+using C++.
+• Debugging various memory leak and crash Issue across the platform.
+Environment: C/C++, Embedded Linux, GDB, Yocto, Minicom, valgrind, python, Grrit, Git, TR69.
+
+Consultant/Software Engineer
+L & T Infotech  -  Lawrenceville, GA - August 2012 to August 2014
+
+CISCO / Lawrenceville, GA Aug 2012 - Aug 2014
+Project: Verizon Media Server Development (STB)
+Role: Consultant/Software Engineer
+Media server is a powerful next generation set up box built on Linux Platform. It has 6 tuners and 1 tb of hard
+drive. It connects to 5 companion IP based boxes called as client and lets user to record and view up to six
+different TV shows or movie at the same time with no limitation or restriction. It runs on top of Broadcom chip
+set. The whole things work over IP and MoCA, which runs over the existing coax cable in house. The UI on
+media server and client is based on HTML5.
+• Worked on Developing the code download module for Media gate way (The code download module supports
+the update of platform code image in monolithic form as well as software/firmware in package format)
+• Implemented the Debian package management using opkg (creating, installing, upgrade, downgrade, un
+installing) in Media gate way using code download module.
+• Implemented the mechanism to authenticate all debian package downloaded using code download
+• Wrote C based xml security library based on libxml2 and openssl to authenticate the digital signature of
+campaign file in DSMCC carousal
+• Compiling and integrating open sources components.
+• Worked on the DSMCC filter library responsible for joining the multicast and Implemented the UDP socket
+in C multicast joining and receiving the data from download server.
+• Writing init run level script to run the process at boot up.
+• Added the USB hot plug support to update the firmware through USB device.
+• Working on Debugging and troubleshooting customer reported issues at various locations.
+Environment: C/C++, UML, Linux, Minicom, valgrind. Code collaborator, Git, RTC, Wire Shark, Tcpdump, shell
+scripts, python, openssl.
+
+Consultant/Software Engineer
+L & T Infotech  -  Lawrenceville, GA - February 2012 to August 2012
+
+Client: CISCO / Lawrenceville, GA Feb 2012 - Aug 2012
+Project: RTN Platform 3rd party apps integration (STB).
+Role: Consultant/Software Engineer
+This project is all about integeration of variuos 3rd party applications to existing set up box stack. This involves
+implementation changes in the middleware and driver level.
+• Understaning of existing STB architecure and preparing the design docs to support the integeration efforts
+• Worked on integeration of VOD application.
+• Involved in fixing the issues related to Vod authorization and differntitaing channels.
+• worked on integeration of Mosic , Upsell and search application.
+• Prepared UML sequence diagram for various call flows using BOUML.
+• Perform code review, unit testing and integration testing for application readiness.
+Environment: C++, UML, STL, Linux, Minicom, valgrind. Code collaborator, Git.
+
+Consultant/Software Engineer
+L & T Infotech  -  Dallas, TX - October 2011 to January 2012
+
+Client: CISCO / Dallas/TX Oct 2011 - Jan 2012
+
+Project: ICS porting to Cisco Zydeco Media Phone
+Role: Consultant/Software Engineer
+This project is all about of Ice Cream porting on Cisco zydeco media phone and Dual independent Display
+support.
+• Understanding of the Android ICS architecture.
+• Prepare the design docs and API call sequence using BOUML.
+• Worked in Surface flinger/ Gralloc and Hardware composer modules to add Support for dual independent
+display.
+• worked on debugging various middle ware issues.
+Environment: C++, android, ADB, DDMS, MAT, TraceView, Eclipse, BOUML.
+
+Consultant/Software Engineer
+L & T Infotech - June 2011 to September 2011
+
+Client: SAMSUNG / South Korea June 2011 - Sept 2011
+Project: Ginger Bread Samsung Galaxy Porting(SPHD700)
+Role: Consultant/Software Engineer
+This project is all about of porting of the Samsung Galaxy device running in android Froyo to Ginger Bread.
+• Understanding of the Android GB architecture.
+•  Worked  in  Stage  freight,  Surface  flinger  and  other  middleware  components  issues  debugging  and
+troubleshooting issues reported during porting efforts.
+Environment: C++, android, ADB, DDMS, MAT, TraceView, Eclipse.
+
+Consultant/Software Engineer
+L & T Infotech - December 2010 to May 2011
+
+This  is  project  is  all  about  the  first  nexus  device  launched  by  Google  and  Samsung  with  Android  Ginger
+Bread running on it. The works involves testing, debugging and trouble shooting to make the device ready
+for deployment.
+• Debugging and trouble shooting middleware issues.
+• Involved in performance profiling and and also resolving memory corruption issues.
+Environment: C++, android, ADB, DDMS, MAT.
+
+Member Technical Staff
+L & T Infotech  -  San Diego, CA - January 2010 to November 2010
+
+This project is all about development of the Qualcomm Mediaflo technology used to transmit the audio video
+and data to portable device like Personal Television (PTV) and other hand held devices. This technology is
+called FLO TV.
+• Involved is preparing the design for TSC content player middleware side running on Brew platform.
+• Development of the media player extension to support the play back of Time shifted content using Media
+Flo UI.
+• Development of the TSC player UI (scrubber, scrub controller) in C++.
+• Implemented the dragging, Tapping and hold on scrubber TSC player in C++.
+Environment: C++, STL, Brew, QPST, QXDM, Brewlogger, Perforce, Visual studio.
+
+Member Technical Staff
+HCL Tech  -  San Diego, CA - May 2008 to November 2009
+
+This project is all about the development of the Music on Demand (MOD) application on brew Platform.
+This product is consist of three different modules V cast , player engine and Library.
+• Involved in the development of the library and play module in C/c++.
+• Added background Music support for the application.
+
+• Porting of the application to different Brew enabled devices.
+• Worked on the v cast catalogue module and implemented Socket
+• Bug fixing and trouble shooting customer reported issues.
+
+Environment: C/C++, Brew, visual studio, QPST, QXDM.
+
+Member Technical Staff
+HCL Tech  -  Noida, Uttar Pradesh - March 2007 to April 2008
+
+This Project is composition of eight related, but distinct applications including Album viewer, Image Picker,
+Audio Picker, Video Picker, Voice Notes, Camera, Camcorder and Media Player. These BREW applications
+tightly integrate with BREW OS interface layer.
+• Implementation and coding of various features in album viewer, Audio Picker, file manager module in C.
+• Testing various functionalities, debugging, trouble shooting issues reported y test team.
+• Implemented the Media player module in C and brew platform.
+
+Environment: C, Brew, QPST, QXDM, Perforce.
+
+Software Engineer
+Instance Software Solutions  -  Bangalore, Karnataka - May 2006 to January 2007
+
+The  driver  was  developed  for  embedded  systems  on  proprietary  RTOS  like  Vx-Works.  The  serial  driver
+provides  interface  for  serial  communication  between  host  and  target  systems.  I/O  data  is  transferred  and
+received on serial port in interrupt-mode. Since the driver functions are installed in RTOS IO -systems, the
+applications program sends and receives data from serial port using RTOS I/O system calls.
+
+• Involved in writing the driver for the UART and all I/O functionality in C and Vxworks Platform.
+
+Environment: C, Linux, VxWorks, and GDB
+
+Trainee Engineer
+Instance Software Solutions  -  Bangalore, Karnataka - October 2005 to April 2006
+
+This product was developed in two phases. One was for finding the shortest path between two nodes and other
+was for message passing. If two mobile networks want to communicate with each other, but they are not within
+the range of each other then they take help of another network between them which is within the range of both.
+• Finding shortest distance between nodes using D-castra algorithm in C.
+• Involved in implementing message passing and achieve multithreading in C and Linux.
+Environment: C, Linux, GDB
+
+EDUCATION
+
+Bachelors in Electronics and Telecommunication & Engineering
+Biju Patnaik University of Technology Rourkela - Raurkela, Orissa
+2005
+
+SKILLS
+
+Software Development (9 years), C++ (6 years), C (5 years), Linux (4 years), Mobile android/Brew (4 years),
+Set Up Box (4 years), multi-threadind/Multi process (2 years)
+
+ADDITIONAL INFORMATION
+
+TECHNICAL SKILLS:
+
+Languages: C, C++
+Operating System: Embedded Linux, android, Brew, Vxworks (RTOS)
+Debugging Tools: Valgrind, GDB, visual Studio, add2line, wireshark, tcpdump, QPST, QXDM, ADB, DDMS,
+logcat, Memory analyzer Tool (MAT).
+Standards / Protocols: TCP/IP, UDP, SNMP, and IGMP, TR69, HTTP
+Database: MySql, Sqlite3.
+GNU Tools: Automake, Autoconf
+Version Control Tools: GIT, Perforce, SVN, Clearcase.
+Tracking Tools: Jira, Rally, and Bugzilla.
+
+

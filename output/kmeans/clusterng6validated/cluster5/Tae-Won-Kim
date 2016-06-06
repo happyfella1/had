@@ -1,0 +1,272 @@
+Tae-Won Kim
+
+Langhorne, PA - Email me on Indeed: indeed.com/r/Tae-Won-Kim/2c90d40f178d4415
+
+• Over 3+ years of Object-Oriented development experience including C#, Java and C++.
+• Over 3+ years of experience in information technology with professional skills in analysis, development
+and implementation of Windows and web-based applications.
+• Recent intensive project experience in WinForms and WPF development including front designing and
+back programming in Microsoft Visual Studio 2010.
+• Solid experience in developing applications using Eclipse, Netbeans, Microsoft Visual Studio .Net,
+ASP.Net, C#, ReSharper, and Visual Leak Detector.
+• Interpretation and design of various UML diagrams (sequence, class, activity, and user case) with various
+tools such as Open office, Visio and Rational Rose.
+• Strong front-end web applications with AJAX (DOM, XML, Google Code).
+• Experience in RDBMS such as MS SQL Server 2008, Oracle 9i/10g, MS Access, and PL/SQL.
+• Developing experience on Windows Server 2008/XP Professional / Vista / Windows 7, and LINUX
+environments.
+• Sufficient knowledge of software development process: Waterfall, Agile modeling (with XP), RUP and
+SCRUM.
+• Expertise for common design patterns: Singleton, Factory, Abstract Factory, Pooling, MVC, and
+MVVM.
+• Intensive compatibility testing among firmware, SDK and Windows OS.
+• Editing experience on SDK API specifications, installation manuals, and redistribution guide documents.
+• Great experience for business trips outside the United States (Mexico, Netherlands, and Saudi Arabia).
+• Great Communication skills with teams and customers all over the world.
+• Bilingual in Korean and English.
+• Proactive, self-motivated, and self-learner.
+
+WORK EXPERIENCE
+
+Software Engineer
+Iris ID Systems Inc  -  Cranbury, NJ - June 2011 to Present
+
+Cranbury, New Jersey
+Project: Demo Application June 2011 - Present
+Role: Software Engineer
+Description: This project is to develop an iris enrollment and recognition solution using USB-based & TCP/IP
+based iris capture devices (http://www.irisid.com). The main purpose is to demonstrate how to enroll user
+information and recognize for Sales and partners.
+Responsibilities
+• Applied the MVC architecture to the interface in C#.
+• Created WinForms and customized User Controls for UI.
+• Used COM object APIs in multiple SDKs.
+• Used SQLite v1.0.79 for database and executed queries.
+• Saved settings data to XML using serialization.
+• Handled multi-threading for automatic enrollment and voice messages from iris capture devices.
+• Implemented image processing: convert from RAW to BMP/JPG and crop captured images in C#.
+• Built and deployed the project (MS InstallShield 2012).
+• Delivered to Mitsubishi, Color ID, Dartagnan, Integralis, and many partners all over the world.
+
+• Used Elementool (http://www.elementool.com) to report bugs and features.
+• Communicated with Sales and partners, and implemented their requests.
+• Used IBM Rational ClearCase for version control of files.
+*Demonstrated in the following events: ASIS International 2011 & 2012, ISC West 2012,
+
+Software Engineer
+Iris ID Systems Inc  -  Cranbury, NJ - October 2011 to March 2012
+
+Description: This project is to develop an iris enrollment and recognition solution using USB-based iris capture
+device. IrisEnroll TD100 communicates with a database server (http://www.irisid.com).
+Responsibilities
+• Applied the MVC architecture to the interface in C#.
+• Created WinForms and customized User Controls for UI.
+• Used COM object APIs in multiple SDKs.
+• Saved settings data to XML using serialization.
+• Encoded/Decoded GUID using ASCII85 algorithm (open source).
+• Handled multi-threading with Timer control for continuous recognition.
+• Implemented image processing: convert from RAW to BMP/JPG and crop captured images in C#.
+• Built and deployed the project (MS InstallShield 2012).
+• Used Elementool (http://www.elementool.com) to report bugs and features.
+• Communicated with Sales and Tech Support Group, and implemented their requests.
+• Used IBM Rational ClearCase for version control of files.
+*Demonstrated IrisEnroll TD100 in the following events: ASIS International 2012, ISC West 2012,
+The Biometric Consortium Conference 2012.
+
+Software Engineer
+Iris ID Systems Inc  -  Cranbury, NJ - July 2011 to November 2011
+
+Description:  This  project  is  to  develop  an  easy  and  extremely  accurate  solution  for  iris  enrollment  and
+recognition
+using TCP/IP based iris capture device. INSiDE LIte IS communicates with a database server
+(http://www.irisid.com). It serves the public safety/corrections market.
+Responsibilities
+• Applied the MVC architecture to the interface in C#.
+• Created WinForms and customized User Controls for UI.
+• Used COM object APIs in multiple SDKs.
+• Saved settings data to XML using serialization.
+• Implemented image processing: convert from RAW to BMP/JPG and crop captured images in C#.
+• Built and deployed the project.
+• Edited the user manual.
+• Delivered to York county prison, Kalamazoo county jail, and Lancaster county prison.
+• Used Elementool (http://www.elementool.com) to report bugs and features.
+• Communicated with Sales and Tech Support Group, and implemented their requests.
+• Used IBM Rational ClearCase for version control of files.
+
+Software Developer
+iCRco Inc  -  Torrance, CA - December 2010 to April 2011
+
+Description:  This  project  is  to  develop  medical  image  acquisition  software  with  enhanced  workflow  and
+performance. Captera's touch screen capable interface is simple to navigate and provides sophisticated image
+processing tool (http://www.icrcompany.com).
+Responsibilities
+
+• Created data classes and display classes in C#.
+• Created WPF Forms, Custom Controls and User Controls using XAML language for UI.
+• Used the MVVM architecture and Converter property for data binding.
+• Localized strings for global audience using resource (.resx) files.
+• Built and deployed the project.
+• Used FogBugz (http://www.fogcreek.com/fogbugz/) to report bugs and features.
+• Communicated with customers and application specialists, and implemented their requests.
+• Used P4V (Perforce Visual Client) for version control of files.
+
+Software Developer
+iCRco Inc  -  Torrance, CA - October 2010 to December 2010
+
+Torrance, California
+Project: Printer Configuration Interface for Clarity Viewer October 2010 - December 2010
+Role: Software Developer
+Description: This project is to develop a JAVA interface of the management tool for Clarity Viewer. The
+application automatically creates (edits or deletes) a configured file that specifies the needed attributes for
+a target
+printer based on the DICOM conformance statement (http://www.icrcompany.com).
+Responsibilities
+• Applied the MVC architecture to the interface.
+• Designed UI using Netbeans.
+• Used SAX and DOM XML schemes to read/write XML files on the local directory and the server.
+• Created a HttpServlet to communicate between the client and the server.
+• Added log levels into codes for tracking log files and debugging.
+• Built the project in Hudson (http://www.hudson-ci.org) and deployed to the Linux server and the
+Windows server.
+• Used FogBugz to report bugs and features.
+• Used CVS built in Netbeans for version control of files.
+• Wrote the software specification document and the software test document.
+
+Software Engineer
+Tempe Korean Presbyterian Church  -  Chandler, AZ - November 2009 to October 2010
+
+Chandler, Arizona
+Project: Membership Management System November 2009 - October 2010
+Role: Software Engineer
+Description:  This  project  is  to  develop  a  web  application  for  a  membership  management  system.  The
+application
+manages profiles of church members, searches member profiles and shows places of residence.
+Responsibilities
+• Designed modules using MS Visio.
+• Designed database using MS SQL Server 2008.
+• Created data access layer using C# and ASP.NET.
+• Used the MVC concept for application maintenance with NHibernate.
+• Used ADO.NET technology to communicate with database
+• Implemented SQL Queries and Stored Procedures for data access (CRUD).
+• Designed client-side scripts using JavaScript.
+• Improved front-end interfaces with AJAX controls.
+• Used Cascading Style Sheets (CSS).
+• Performed ASP.NET Unit Testing.
+
+• Used SVN Server and CVS for version control of files.
+
+Research Assistant
+Arizona State University  -  Tempe, AZ - September 2008 to September 2009
+
+Tempe, Arizona
+Project: Korean Honorification in Answer Set Programming September 2008 - September 2009
+Role: Research Assistant
+Description: This project is to develop a tutoring system for foreigners to learn Korean honorifics. The system
+provides with proper speech levels between the speaker and the listener, based on social factors such as
+gender, age,
+intimacy, formality, social rank and kinship.
+Responsibilities
+• Built an answer set programming knowledge base for six speech levels in Korean honorification using
+AnsProlog in Emacs of RedHat Enterprise Linux 4 and Real VNC 4.1.
+• Designed file data access for the cross-platform development between AnsProlog and Java.
+• Implemented user interfaces in the state of the art Java GUI.
+• Used SVN for version control of files.
+
+Research Assistant
+Arizona State University  -  Tempe, AZ - January 2008 to July 2009
+
+Tempe, Arizona
+Project: Answer Set Programming Based Event Calculus Reasoner ECASP January 2008 - July 2009
+Role: Research Assistant
+Description: This project is to develop the ECASP system that turns an event calculus description based on the
+first-order logic into a logic program with stable model semantics, so that we are able to compute event calculus
+reasoning with answer set solvers.
+Responsibilities
+• Developed the ECASP system using C++ in Emacs of RedHat Enterprise Linux 4 and Real VNC 4.1.
+• Developed the format-output system that turns output from answer set solvers to a more readable format.
+• Created logic program encodings of domain independent axioms using AnsProlog.
+• Compared with the performance of other existing systems using Linux shell scripts with the time
+command.
+• Used CVS for version control of files.
+*ECASP System: An implementation of the Event Calculus as Answer Set Programming, available at http://
+reasoning.eas.asu.edu/ecasp/.
+
+Teaching Assistant & Grader
+Arizona State University  -  Tempe, AZ - January 2007 to May 2009
+
+January 2007 - May 2009
+Responsibilities
+• Taught data structure concepts of object-oriented programming with Java.
+• Taught Java GUI programming (SWING and AWT)
+• Tested and debugged program assignments.
+• Graded homework assignments, quizzes, and exams.
+
+Software Developer
+Arizona State University  -  Tempe, AZ - February 2006 to May 2006
+
+Tempe, Arizona
+Class: Advanced Database Concepts
+
+Class Project: Dirt Devil Carpet Cleaning Enterprise February 2006 - May 2006
+Role: Software Developer
+Description: This project is to develop a web database application that manages information of a professional
+carpet
+cleaning store such as clients and invoices including prices, the initial date and the due date for the performed
+tasks.
+Responsibilities
+• Designed UML Class Diagram and Website Flow diagram in MS Visio
+• Designed Relational Schema and Referential Integrity Constraints in MS Publisher.
+• Designed database using MS SQL Server 2005.
+• Created data access layer using C# and ASP.NET.
+• Used ADO.NET technology to communicate with database
+• Implemented SQL queries for data access.
+• Used CVS for version control of files.
+
+Software Engineer
+Iris ID Systems Inc  -  Riyadh - June 2012
+
+Riyadh, Saudi Arabia (Business trip)
+Project: Integration for Traveler Biometric Identification System May 31 - June 14, 2012
+Role: Software Engineer
+Description:  This  project  is  to  support  the  Saudi  government  to  integrate  the  new  iris  capture  devices  to
+Traveler
+Biometric Identification System.
+Responsibilities
+• Gave a presentation to show new features of the new iris capture device for the government committee
+members.
+• Implemented Java Native Interface for iris camera control APIs using Maven.
+• Implemented face image capture as well as iris image capture for the new iris capture device in the customer's
+application (Eclipse Ganymede 3.4.2) considering old iris capture device.
+• Built, deployed and tested the project with Saudi engineers in the development site.
+
+EDUCATION
+
+Master of Science in Computer Science
+Arizona State University - Tempe, AZ
+August 2006 to December 2009
+
+Bachelor of Science in Computer Science
+Arizona State University - Tempe, AZ
+August 2002 to May 2006
+
+ADDITIONAL INFORMATION
+
+TECHNICAL SKILLS
+
+Programming Languages C#.NET(3.5, 4.0), JAVA, C++, C, AnsProlog
+
+Web Technologies AJAX, JavaScript, HTML, CSS,
+
+XML Technologies XML, XSL, XPATH, DOM, SAX
+
+Databases MS SQL Server 2008, MS Access, Oracle 9i/10g, PL/SQL, MySQL 5.0
+
+Web servers IIS 6.0/7.0, Apache Web Server 2.0, JBoss Web Server
+
+Operating Systems 2008/XP/Vista/Windows 7, LINUX
+
+IDE MS Visual Studio (2005, 2008, 2010), Eclipse 3.4.2, Netbeans 6.9.1
+
+Modeling Tools UML, Rational Rose 7, MS Visio
+
+

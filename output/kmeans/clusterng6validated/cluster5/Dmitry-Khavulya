@@ -1,0 +1,185 @@
+Dmitry Khavulya
+
+Firmware Engineer - Orbcomm, Department of Embedded Systems
+
+Tabernacle, NJ - Email me on Indeed: indeed.com/r/Dmitry-Khavulya/1367176acac2d31e
+
+Energetic and enthusiastic engineer with a focus on embedded systems and digital signal processing (DSP).
+Over 5 years of professional experience in hardware and software development across multiple industries
+including Satellite M2M, defense and medical device. Adept at solving complex problems and quickly defining
+practical solutions. Skilled at rapid prototype development. Strong innovation, research & analytic abilities. 
+
+Areas of expertise include:
+♦ Critical Software ♦µProcessor Architecture ♦ M2M
+♦ C/C++ ♦Analog and Digital Electronics ♦ Wireless
+♦ RTOS ♦DSP ♦ Satcom
+Willing to relocate: Anywhere
+Authorized to work in the US for any employer
+
+WORK EXPERIENCE
+
+Firmware Engineer
+Orbcomm, Department of Embedded Systems  -  Rochelle Park, NJ - August 2014 to Present
+
+Responsibilities
+o Project management:
+* Instrumental in strengthening Orbcomm’s OEM relationship with Carrier by spearheading the on-time design
+and delivery of features essential for successful field trial launches in North America and Europe
+* Design and write GSM protocol specifications for advanced communications between telematics devices
+and Web applications
+* Supervise development of PC engineering tools to support data extraction and automated file management
+* Coordinate engineering team for software integration and manage software release for production
+* Review Protocols submitted by strategic client partner (Carrier Engineering) and advise Orbcomm IT on front-
+end development
+o Software Development:
+* Develop C/C++ software for ARM9 based telematics devices
+*  Create  features  for  advanced  Over  the  Air  (OTA)  functionality  using  Satellite  &  GSM  networks  for  the
+Carrier Transicold OEM program; features include remote firmware upgrades, data downloads & configuration
+management 
+*  Integrate  client  M2M  protocols  into  Orbcomm  telematics  products  allowing  2-way  serial  communications
+between client microcontrollers and Orbcomm telematics products
+* Define methodology for sending commands over ORBCOMM OG1 and OG2 low orbit satellite network
+*  Build  software  to  integrate  new  Skywave  IDP  modem  into  existing  telematics  product  line  to  allow  M2M
+communications over the Inmarsat network
+* Design and implemented a multithreaded PC based simulator to mimic a multi-processor control system to
+assist in validating telematics devices.
+* Identify and address inefficiencies in established alarm handling procedures.
+
+Embedded Systems Engineer
+General Dynamics Land Systems  -  Sterling Heights, MI - March 2014 to June 2014
+
+Designed and developed CAN/SCI supported BOOTLOADER prototype for MC9S12 family of processors in
+C and CPU 12 assembly. Setup a test environment for testing BOOTLOADER CAN and Serial functionality.
+• Key Responsibilities:
+◦ Software Development:
+* Developed interrupt driven CAN BOOTLOADER software to support application software downloads via CAN
+or SCI interface
+* Development software in a Linux environment
+* Developed a RAM executable FLASHLOADER C module for writing application program data to FLASH
+* Developed j1939 Data Link layer specific CAN driver
+* Implemented a Data Link layer transport protocol as defined in J1939-21 for sending ASCII SRecord data
+over the CAN bus
+* Developed a module for converting SRecord ASCII data to binary data
+* Implemented serial protocol for sending SRecord data over SCI interface
+* Wrote test DOWNLOADER software using CAPL and CANalyzer
+◦ Documentation:
+* Defined software requirements specifications for BOOTLOADER software
+*  Defined  interface  requirements  specifications  for  performing  software  downloads  via  CAN  and  RS-232
+interfaces
+* Developed state machine diagrams
+
+Embedded Systems Engineer
+Abbott Laboratories  -  Princeton, NJ - January 2013 to January 2014
+
+Developed a new software based method for performing thermal calibration of blood analyzers resulting in
+a calibration accuracy increase, heating precision improvement, excess hardware reduction, and component
+testing  simplification.  Presented  prototype  design  specifications  to  R&D  for  buy-in  and  adoption  by  the
+production team.
+• Key Responsibilities:
+◦ Software development:
+* Developed C/C++ embedded software on ARM cortex M3 processor to perform thermal calibration on I-
+STAT blood analyzers
+* Designed and implemented PID based thermal control algorithms
+* Developed Serial communication protocol between I-STAT analyzers and Kiethley 2700 Digital Multimeter
+over RS-232 interface
+*  Used  uCOS  III  to  implement  a  multitask  design  for  enhancing  communication  synchronization  between
+multiple thermal sensors, actuators, and external hardware components in C/C++
+* Developed software to automate thermal calibration testing and perform statistical analysis on test data
+* Designed, developed and implemented prototype menu-driven thermal calibration and verification software
+to address calibration error in current method
+◦ Documentation:
+* Defined thermal calibration software requirements
+* Wrote thermal calibration unit test plans
+* Wrote thermal calibration software design documents
+◦ Software validation: Project lead for in-house custom calibration software validation; project lead for off-the-
+shelf software validation
+◦ System testing: Wrote protocols for thermal calibration testing; perform statistical analysis on test data
+
+Research Engineer
+UMDNJ, Department of Pathology and Laboratory Medicine  -  Piscataway, NJ - September 2011 to
+December 2012
+
+Built  devices  to  measure  mechanical  properties  of  biomaterials  using  IR  sensors  and  signal  processing
+techniques. Design included mechanical oscillators and infrared sensors. Implemented Fast Fourier Transform
+(FFT) algorithm to convert vibrational data to elastic moduli. This device provides a non-destructive real-time
+method to evaluate the mechanical properties of implantable medical devices prior to surgery.
+• Key Responsibilities:
+◦ Hardware development:
+*  Designed  and  developed  NEAR  INFRARED  (NIR)  optical  sensor  to  measure  displacement  of  collagen
+samples during self sustained vibration
+* Designed and developed mechanical oscillator to vibrate collagen samples at specified frequencies
+◦ Software development:
+• Developed MATLAB software to enable communication between optical sensor, mechanical oscillator and
+PC via Measurement Computing DAQ (USB-1208FS)
+• Designed data acquisition and signal processing algorithms using MATLAB
+•  Wrote  MATLAB  software  to  automate  dynamic  mechanical  testing  on  allograft  samples:  testing  included
+harmonic and impulse excitation analysis
+• Implemented MATLAB FFT and line fitting algorithms to extract elastic mechanical properties from test data
+• Used ANSYS to model dynamic mechanical properties of collagen
+• Developed image processing algorithms for identifying cellular debris in allograft histology using MATLAB
+
+Research Engineer
+Rutgers University  -  New Brunswick, NJ - July 2010 to June 2012
+
+Biomedical, and Drug Delivery Devices Lab, New Brunswick, NJ July 2010 - June 2012
+
+Built an auditory evoked potential sensor and integrate sensor with brain oximetry device to evaluate brain
+auditory  functions  during  hypoxic  and  eschemic  events.  Built  infrared  pulse  sensors  for  vascular  stiffness
+estimation
+• Key Responsibilities:
+◦ Hardware development:
+* Designed and built an EEG channel for non-invasive monitoring of electrical activity in the brain stem
+* Integrated EEG channel with a brain oximetry device.
+◦ Software development and signal processing:
+* Developed LabVIEW software for data acquisition using Measurement Computing DAQ (USB-1408FS)
+* Developed and implemented signal processing techniques including, ensemble averaging, discrete wavelet
+decomposition, and digital filtering, to extract Brainstem Auditory Evoked Potentials (BAEP) from EEGs using
+MATLAB
+◦ Additional responsibilities:
+* Designed experiments that utilized this device in evaluating brain stem functions under normal and abnormal
+breathing conditions.
+* Supervised 9 senior design students; mentor and train junior lab members
+* Teacher's Assistant (TA) for bioinstrumentation course
+
+EDUCATION
+
+M.S. in Biomedical Engineering
+Rutgers University, School of Engineering
+May 2012
+
+B.S. in Biomedical Engineering
+Rutgers University, School of Engineering
+May 2010
+
+SKILLS
+
+ARM (5 years), C/C++ (5 years), Linux (5 years), MC9S12 (5 years), MATLAB (5 years), CANalyzer,
+LabVIEW (5 years), IR Sensors (5 years), Unix (5 years), RTOS (5 years), POSIX (5 years)
+
+PUBLICATIONS
+
+ZnO  nanostructure-modified  QCM  for  dynamic  monitoring  of  cell  adhesion  and
+proliferation
+2012
+ZnO nanostructure-modified QCM for dynamic monitoring of cell adhesion and proliferation,
+Biosensors and Bioelectronics, 2012
+
+Rapid monitoring of brain auditory evoked potentials in spontaneous cerebral hypoxi
+2012
+Rapid  monitoring  of  brain  auditory  evoked  potentials  in  spontaneous  cerebral  hypoxia,  Bioengineering
+Conference (NEBEC), 2012 38th Annual Northeast
+
+ADDITIONAL INFORMATION
+
+SKILLS
+
+Languages: C/C++, MATLAB, LabVIEW, Java, ARM assembly, CPU 12 assembly
+OS: Windows, Mac OS X, Unix, Linux, uCOS-III, FreeRTOS 
+Hardware:  ARM,  MC9S12,  ATMEL,  IR  Sensors,  Thermal  circuits,  Analog  and  Digital  electronics,  JTAG,
+Kiethley 2700, MCC […] DAQ
+Interfaces and communication protocols: CAN, SCI, SPI, USB, TCP/IP
+Signal Processing: Data Acquisition, Spectral Analysis, Fourier Transform, Digital Filter Design, Wavelets,
+Principal Component Analysis
+Tools: IAR, Abacus, ANSYS, Cosmic tools, CANalyzer
+
+

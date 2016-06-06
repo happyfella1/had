@@ -1,0 +1,146 @@
+Louis Cardillo
+
+Network Infrastructure Engineer
+
+Upper Darby, PA - Email me on Indeed: indeed.com/r/Louis-Cardillo/89faf1ae20ad60f2
+
+• Primary skills are with routing and switching
+
+• Secondary skills are with Windows desktop & Serer OS XP, W7, W8.1 and Server 2012 OS, firewalling,
+VPNs and basic Wi-Fi wireless systems
+
+• Customer Support 30% of each day. Using Cisco Contact Center and Footprints Ticketing system.
+
+Routing & Switching: Experienced configuring and supporting Cisco routers, and switches.
+
+• Experienced configuring and integrating Cisco […] 3750 ISR routers, Cisco Catalyst 6509-e chassis with /
+Supervisor 720s & 32s.
+
+• L2 Ethernet frame switching & L3 IP packet switching.
+
+• Configure 802.3ad LACP port channeling, VTP, VLANs, 802.1d STP, 802.1q trunks, priority queuing, and
+ACL filters.
+
+• Managing router functions such as installing and configuring hardware modules.
+
+•  Managing  IOS  code  and  configuration  files,  upgrading  IOS,  moving  &  copying  IOS  &  configurations
+between NVRAM startup configurations, tftp servers and flash0 & flash1, configuring location of IOS boot and
+configuration files.
+
+•  Skilled  at  troubleshooting  router  and  switch  hardware,  misconfigured  startup  configurations  filtering  and
+securing access via ACLs, external connectivity, spanning tree, Priority Queuing, VLANS and Trunks.
+
+• Experienced configuring Authentication, Authorization & Accounting (AAA) using TACACS, Radius, AD, for
+SSH, Telnet and HTTPS
+
+Routing  Protocols:  Experienced  with  BGP,  iBGP,  OSPF,  EIGRP  and  RIP  II  install,  configure,  test  and
+operational support. Know Redistribution, Distribution Lists, and Standard & Extended ACLs, Route Maps,
+HSRP, etc.
+
+•  BGP:  States(IDLE,  CONNECT,  ACTIVE,  OPENSENT,  OPENCONFIRM,  ESSTABLISH)Experienced
+configuring  Attributes  (ORIGIN,AS-PATH,AS-PATH,NEXT  HOP,LOCAL  PREFERENCE,  WEIGHT,MED,
+AUTOMIC, AGGREGATOR,COMMUNITY) Route Aggregation, Confederations and Route Reflectors, Prefix
+lists and more. Understand processes such as Peer Session Establishment, Path Selection, Prepending AS
+path lengths, etc. COST Based routing.
+
+•  OSPF:  States(DOWN,  ATTEMPT,  INIT,  2-WAY,  EXTART,LOADING,FULL)Significant  experience  with
+processes such as establishment of Neighbors & Adjacencies, DR & BDR election, ABRs, Stubby, NSSA,
+Totally Stubby Areas, Virtual interfaces, LSDB, LSA 1-7.
+
+• EIGRP: Experienced configuring with design and configuration options i.e. determining Successors, Feasible
+Successors and Drothers, Metrics Based Routing, Adjusting Metrics.
+
+• MPLS: Familiar with basic Multi-Protocol Label Switching, MPLS, TAG Switching, MPLS - RSVP, RSVP-TE,
+LDP, LSR, LER and VPNv4 basics of Multi and Unicast routing MPLS
+
+Cisco ASA 5500 Firewalling and IPS Configure ASA 5500 firewalls with NAT, NAT-T, PAT, TCP/IP & IP/UDP
+TCP & UDP port filters. Extended ACLs, Route Map, Match Lists, Sub Interfaces, Security Levels, VLANS, IP
+Subnets, 802.1q Trunks, DMZs, Segment Security Levels, VLANs & IP networks
+IPS (AIP-SSM)
+
+•  Protection:  Protects  against  malware,  phishing,  spyware,  worms,  zero-day  attacks  and  DoS,  etc.)  using
+several services such as deep packet inspection, irregular or suspicious TCP protocol usage, abnormally high
+bandwidth, anomalies and more.
+
+• VPN Remote Access: RA and site-to-site VPNs using encrypted tunnels using SSL or IPSec. ISAKMP &
+Crypto Map policies.
+
+• VPN Site to Site: Configure Site-to-site VPN encrypted tunnels using IPSec.
+
+• VPN Configurations: Configure VPNs using Pre-Shared Keys, 3DES encryption, ISAKMP Policies, Local IP
+Pools (remote access), Crypto Policies, Crypto Maps & Transform Sets, Tunnel groups, Authentication using
+Local ASA, TACACS+ user groups, Radius or AD.
+
+Windows  Desktop  &  Server  OS:  Some  experience  with  Server  2012.  Experienced  with  Desktop  XP,  W7,
+8.1. Knowledgeable of AD, users & user groups, DHCP, Can troubleshoot using Event logs, Task Manager,
+performance monitoring, diagnose and repair failed hardware, RAID configuration.
+
+Part Time Help Desk technical support: Spent 3 hours per day supporting user issues and questions entering
+through Footprints Ticketing system, emails, and through Cisco Call Center Customer Support line. Worked
+with customer to determine problem, determined solution implemented fix or routed ticket to appropriate IT
+department. Updated ticket and notified customers.
+
+VLSM & CIDR IP Addressing: Experienced Configuring IPV4, VLSM (subneting) & CIDR (superneting), route
+summarization, L2 & L3 Multicasting.
+
+Perimeter Security: Knowledgeable setting up security on perimeter routers and switches by using encrypted
+AD authentication and SSH.
+
+Packet Trace & Diagnose Protocols: TCP/IP, MPLS, IS-IS, CLNP, CONP, BGP, iBGP, OSPF, EIGRP, ARP,
+RARP, HTTP(s), IPSEC /IKE, FTP, MSSQL, TFTP, SQLNET, SMTP, SNMP, NTP, ICMP, IMAP, TELNET,
+HTTP, 802.11 b/g/n, SSL, SSH,SIP,VOIP NETBIOS, DNS, DHCP, HDLC, PPP, 7 layers of OSI.
+
+Telecommunications WAN Services and Protocols: Experienced with 100 mbs HS Ethernet MAN &HS multiple
+ISP 100 mbs Internet ISP services (Ethernet over EoMPLS), PRI & BRI ISDN, T1 & T3, Non-Broadcast Multi
+Access (NBMA) i.e. Frame Relay, multicast private pt-to-pt circuits, PPP, HDLC, GRE Tunnels. Experience
+with various router WAN controllers and WICs supporting T1 and ISDN PRI modules
+
+Troubleshooting  &  Network  Tools:  configure  and  diagnose  system  problems  using  CLI,  device  show  and
+debug commands, use ManageEngine'e Syslog Analyzer and OpManager Configuration Manager for changes
+iteration history, Ethereal packet trace tools, SolarWinds event & monitoring tools and alerting, ping, trace
+route.
+
+WORK EXPERIENCE
+
+Network Infrastructure Engineer
+National Board of Medical Examiners  -  Philadelphia, PA - September 2000 to March 2014
+
+3750 Market Street, Philadelphia, Pa, 19104 Network Infrastructure Engineer (9/2000 - 3/2014)
+
+• Configured and support new and upgraded network infrastructure hardware systems as required to maintain
+a reliable and secure network solutions.
+
+Supervisor models 1 & 2 to models 720 & 32
+Reconfigured Internet  -  Malvern, PA - August 1995 to September 2000
+
+• Daily operational support for individual users and all NAS equipment and services. Also 7/24 support. Major
+Accomplishments: Reconfigured Internet access using (2) 3850 ISR routers using (2) 100mbs HS Ethernet
+ISP services. Designed using BGP and iBGP. Installed 1 pair of ASA 5520 firewalls for enterprise ingress
+and egress traffic. Installed a second pair of 5520s for staff Remote Access to internal resources (using SSL).
+Also configured Site-to-Site VPNs using IPSEC. Made several internal catalyst 6509 infrastructure refreshes.
+Upgraded from 6509 to 6509e, Supervisor models 1 & 2 to models 720 & 32, changed from L2 switching to
+L3 switching,
+Shared Medical Systems, Malvern, Pa, 19355 Network Analyst (8/1995-9/2000)
+• Configured and supported fully redundant LAN/WAN transport using 2600 routers configured with DLSW+
+for SNA between SMS Mega Center and remote client sites. Installed over 100 dual routed WAN networks
+using 2600 Cisco routers using OSPF, and EIGRP, redistribution, ACL, route maps, authentication.
+• Support over 500 remote healthcare sites. Operational support 24/7.
+Major  Accomplishments:  Upgraded  25  Crosscom  Transparent  bridges  spread  across  3  major  healthcare
+systems in New York, Baltimore and Washington with fully redundant WAN service between Shared Medical
+Systems and remote hospitals using (26) Cisco 2611 routers configured with DLSW+ over TCP/IP. Configured
+new OSPF areas with redistribution from EIGRP into OSPF. Network availability improved by 25%.
+
+Network Engineer
+SunGard Recovery Services  -  Philadelphia, PA - May 1989 to August 1995
+
+Configured and maintain internal network infrastructure. Upgrade client networks at DR facility.
+• Configure SunGard remote DR facilities. Including HP server OS installation, client applications, network
+infrastructure and telecommunications infrastructure.
+
+EDUCATION
+
+Bachelor of Science in Electrical Engineering
+Drexel University Philadelphia
+1993
+
+

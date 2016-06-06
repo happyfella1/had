@@ -1,0 +1,123 @@
+Chim Krishnan
+
+CHALLENGE-DRIVEN HARDWARE AND SOFTWARE ENGINEER
+
+West Chester, PA - Email me on Indeed: indeed.com/r/Chim-Krishnan/d6a2a0a55af25076
+
+Delivering industry-leading products by designing useful, value-added hardware and software.
+〓 Extensive experience in design including feasibility study, architecture, work estimates, logic and software
+design, test, engineering management.
+〓 International Project Team Management
+〓 Excellent written and verbal communication skills
+〓 Doing whatever it takes to get the job done that consistently meets or beats business expectations.
+Authorized to work in the US for any employer
+
+WORK EXPERIENCE
+
+Principal Engineer - Tools and support for software development
+Unisys Corporation  -  Malvern, PA - 2014 to 2015
+
+• Evaluated and ranked static code analysis tools, leading to deployment of a recommended code analysis
+tool in a large software group developing a secure hypervisor.
+• Designed a software tool using Perl on Linux to verify hardware inventory, firmware levels, LAN network
+connections and Infiniband fabric connections for a multi-server system. Designed as a tool for the end user,
+the factory and test groups embraced the tool because of its utility.
+
+Principal Engineer - Windows software for Telephony network
+Unisys Corporation  -  Malvern, PA - 2010 to 2014
+
+• Developed code for sharing of call signaling servers and voice media servers among multiple hosts, and
+allowed load-sharing among voice media servers without host involvement.
+• Developed code to interface with third party software providing SIP protocol and media transport.
+•  Supervised  team  in  India  modifying  web-based  configuration  tool  to  support  above  sharing  feature.
+Documented the configuration requirements, generated sample HTML/ASP to use as a template.
+• Combined Windows and Linux onto single server with VMWare to reduce number of call servers.
+• Managed various code streams to support multiple code versions and multiple hardware types.
+
+Principal Engineer - Enterprise class server development using Altera Virtex IV FPGA
+Unisys Corporation  -  Malvern, PA - 2008 to 2009
+
+• Designed DDR3 memory controller including scheduler, BIST logic, ECC and maintenance logic.
+• Controller used the PHY provided by Altera, but lower latency than the Altera controller design. Took the
+design forward into running simulation.
+
+Engineering Manager I - Enterprise-class server development - Physical design of 90nm
+node controller ASIC, ~30M gates
+Unisys orporation  -  Malvern, PA - 2007 to 2008
+
+• Physical design of 90nm node controller ASIC, ~30M gates
+* Managed physical design team (synthesis, layout, routing, timing, tape out) of a 90nm node controller ASIC
+for a server that led the industry in transaction performance or cost/performance.
+* ASIC supported Intel processor bus, memory directory, FBDIMM controllers and PCIE root nodes.
+*  Developed  schedules,  published  and  tracked  metrics,  and  coordinated  with  the  ASIC  vendor  in  solving
+issues.
+
+* Managed re-allocation of resources when head count was reduced due to a re-organization.
+
+Hardware Engineer I - Enterprise-class server development
+
+Hardware Engineer I – Enterprise-class server development - Coherency engine for a
+90nm node controller ASIC
+Unisys Corporation  -  Malvern, PA - 2005 to 2007
+
+* Designed a coherency engine and a memory directory that controlled the main memory accesses of Intel
+X64 processors. The directory used embedded DRAM in the ASIC.
+* Guided junior engineers that were given portions of the design, including documenting functionality of sub-
+sections and suggestions for implementation.
+* Worked with physical designers to improve timing and routing.
+* Took the design all the way to tape out and product delivery.
+
+Hardware Engineer I – Enterprise-class server development - Crossbar switch ASIC and
+a node controller ASIC
+Unisys Corporation  -  Malvern, PA - 2001 to 2005
+
+* Designed and simulated a node controller ASIC and took it through to tape out and product delivery. The node
+controller ASIC provided a third level cache and coherency engine for Intel Itanium processors and proprietary
+Unisys processors.
+* This node controller is still at the heart of the highest performing Unisys Clearpath systems.
+* Designed a crossbar switch ASIC as part of a large server system with proprietary high speed interconnect.
+Took this design through simulation. This design was used later in a 90nm node controller ASIC.
+
+Hardware Engineer I – Enterprise-class server development - Third level cache and MSU
+interface for Intel Pentium Pro and Itanium processors
+Unisys Corporation  -  Malvern, PA - 1995 to 2001
+
+* Designed an ASIC that was a node controller and third level cache for an Intel based server. This ASIC
+supported IA32, IA64 and Unisys proprietary processors, and two different cache line sizes.
+* Became the company expert on Intel front side buses.
+*  Designed  another  node  controller/third  level  cache  ASIC  to  support  new  bus  protocols  for  later  Intel
+processors.
+* All designs carried forward through simulation, tape out and product delivery.
+* The servers running with these ASICs were industry-leading in transaction performance.
+
+EDUCATION
+
+Master of Science in Systems Engineering
+University of Pennsylvania - Philadelphia, PA
+
+Bachelor of Science in Electrical Engineering
+University of Pennsylvania - Philadelphia, PA
+
+SKILLS
+
+Microsoft office (9 years), Software Development (5 years), C++ (5 years), Logic Design (10+ years), Perl (6
+years)
+
+LINKS
+
+https://www.linkedin.com/in/chimkrishnan
+
+ADDITIONAL INFORMATION
+
+Technical Skills
+
+ASIC design Software design Architecture Engineering Management Test Microcontrollers
+
+Languages and Tools
+
+Expert/Competent: Verilog VHDL C C++ TCL Perl Java Subversion Visual Studio Cadence Synopsys Agile
+Windows Linux ClearCase ClearQuest Wireshark Assembly Language
+
+Knowledgeable: CSS JS PHP C# HTML
+
+

@@ -1,0 +1,149 @@
+Mark Yusko
+
+Lead Software Engineer JTT - Lockheed Martin
+
+Magnolia, NJ - Email me on Indeed: indeed.com/r/Mark-Yusko/f2a52b799e2e2f66
+
+WORK EXPERIENCE
+
+Lead Software Engineer JTT
+Lockheed Martin  -  Aberdeen Proving Ground, MD - October 2012 to Present
+
+Responsibilities: Software engineering consulting.
+Software  Development  and  Testing  Consultant;  US  Army  SEC  Directorate,  Aberdeen  Proving  Ground,
+Maryland
+Lead software engineer and test engineer for Joint Tactical Terminal (JTT) tactical satellite radio. Work involves
+developing VxWorks
+RTOS-based  embedded  software  builds  and  integration  using  Agile  SCM  and  continuous  build  methods.
+Executes integration and testing configurations and end-to-end protocol translations using XML DTD.
+
+Software Manager
+BAE Systems  -  Belcamp, MD - March 2012 to October 2012
+
+Responsibilities: Software engineering consulting.
+Systems Project Manager; US Army CERDEC CP&I Directorate, Aberdeen Proving Ground, Maryland
+Lead software engineer and test engineer for developing SNMP network management communications for
+FBCB2/JBCP network.
+Work  included  developing  Linux  gateway  using  C/C++/Boost  software  on  VMware-based  Linux  Ubuntu/
+CentOS VMs and configuring both Linux and Windows-based SNMPc Network Management Systems (NMS).
+6-month contract ended 29-Sep-2012.
+
+Associate
+Booz Allen Hamilton  -  Belcamp, MD - November 2010 to January 2012
+
+Responsibilities: Systems engineering consulting and proposal development.
+Systems/RF Engineering Consultant; US Army CERDEC I2WD Ground Branch, Aberdeen Proving Ground,
+Maryland
+Lead systems engineer and RF test engineer for Electromagnetic Emanations (EME) lab platform and THORIII
+jammer, respectively.
+Work included RF system design, calibration and testing from EME system to RF test beds and RF chamber.
+Conducted FPGA
+firmware  and  embedded  Linux  software  upgrades  for  THORIII  jammer.  Trained  PM-CREW  associates  on
+management of upgraded
+EME system.
+
+Lead Member Engineering Staff
+Lockheed Martin MS2  -  Moorestown, NJ - September 2004 to May 2010
+
+Temporary Duty Assignment
+Lockheed Martin MS2  -  Akron, OH - March 2006 to February 2007
+
+Last Assignment: CGS/Deepwater COMMS and Sensors systems engineer for USCG National Security Cutter
+2 (Waesche)
+
+Responsibilities:  Internal  and  external  communications  suite  engineering  support,  including  secure  RF
+communications.
+Other  Assignments:  1)  Missile  Defense  (BMD)  systems  engineer;  2)  Halifax  SRR  DOORS  requirements
+engineer 3) SM-6 and NIFC-
+CA studies for SPY/AEGIS radar; 4) Royal Australian Navy (RAN) SM-2 Performance Specification (P-Spec)
+and 3.1 requirement
+analysis; RAN SM-2 Flyout analysis. 5) Coast Guard Systems (CGS)/Deepwater COMMS systems engineer
+for USCG National
+Security  Cutter  1  (Berthoff).  L-3  subcontractor  management  responsibilities  for  ship  and  shore  COMMS
+systems: DOORS P-Spec, 3.1,
+3.2  and  Cutter  Specific  Certification  Matrix  (CSCM)  requirement  compliance;  TEMPEST,  Information
+Assurance (IA) and SPAWAR
+compliance of delivered equipment; CGS-to-USCG proposal generation.
+TDY Assignment: Lead systems engineer in Akron, OH for DARPA/US Air Force Optical RF Combined Link
+Experiment (ORCLE).
+Engineering responsibilities: P-Spec requirement development and product test support for the program. The
+ORCLE experiment
+creates an air-air-ground RF and Optical (Laser-based) data link, of very high bit rates, over great distances.
+First Assignment: Deepwater lead COMMS systems engineer for USCG Fast Response Cutter (FRC).
+Engineering responsibilities for the ship's COMMS system: DOORS performance specification (P-Spec), 3.1,
+3.2 and Cutter Specific
+Certification Matrix (CSCM) requirement compliance; L-3 subcontractor management; the design, selection,
+purchase and integration of all interior and exterior (RF) COMMS gear. The FRC COMMS system consists of
+internal and external voice, data and video
+communications distribution systems of both tactical and non-tactical nature which connect through tactical
+and non-tactical RF-based
+line-of-sight or over-the-horizon links and/or shore ties. Additional responsibilities included managing weekly
+issues and both creating and presenting review material at regular Engineering Technical Reviews (ETRs)
+for USCG acceptance.
+Other Assignments: LANdroids proposal; FRC-A and FRC-B COMMS proposals; IP-based RF COMMS IRAD.
+
+EDUCATION
+
+Master of Science in Electrical/Computer Engineering
+Stevens Institute of Technology
+September 2013
+
+Master of Science in Telecommunications Management
+Stevens Institute of Technology
+1995
+
+Bachelors of Science in Electrical Engineering
+Villanova University
+1982
+
+ADDITIONAL INFORMATION
+
+CAREER SKILLS
+• Embedded Software Engineering • Agile Software Development • MS / UNIX / Linux Server Admin.
+• Systems Engineering • Program Management Support • Cost Reduction Strategies
+
+• RF and Optical Engineering • Project / Product Management • Proposals / Presentations
+• Network Engineering • Capital Budget Management • International Network Integration
+• Radar Engineering • Research and Development • New Product Development
+• System Integration and Testing • FPGA Design • Pre-Sales / Post-Sales Support
+• C4ISR Integration and Testing • Digital / Analog Design • Customer Engineering
+
+TECHNICAL SUMMARY
+Development Software Applications/Operating Systems/Languages/Libraries:
+WindRiver VxWorks RTOS; Enterprise and Embedded Linux; Windows 7, Vista, XP; Solaris; HPUX; Eclipse,
+MS Visual Studio;
+Trolltech Qt; C++/C; Boost C++ Libraries; XML, HTML; Java; Ant; Python; Perl; Go; Net-SNMP; 80x86, 680x0
+and ARM Assembly; Git,
+SVN, Hudson, JSON, Scons, Make, Openembedded; Microsoft ASP and VBScript; JavaScript; SQL; ODBC;
+Pascal, Basic, Fortran
+Software Apps/Requirements Management Apps/Databases/Common Desktop Apps/Network Mgmt. Apps
+IBM  Rational  Rhapsody,  System  Architect,  Rose,  ClearCase,  RequisitePro;  VMWare;  VirtualBox;  Matlab;
+MathCAD; Lucent NavisCore
+ATM NMS, NavisAccess, NavisRadius, Radius ABM and QIP 4.0; GDC ProSphere ATM NMS3000 4.0; Oracle
+for Workgroups,
+Sybase; Informix; Microsoft Word, Excel, PowerPoint, Visio, Access, Project; SNMPc NMS; OpenNMS; HP
+OpenView
+RF COMMS:
+Agilent spectrum/network analyzers, Rhode & Schwartz XK2100L HF transceiver, Rockwell Collins RT-2200
+HF transceiver, Rockwell
+Collins 1851C V/UHF tactical transceiver and AM-7526 UHF MILSATCOM PA, Rockwell Collins MDM-Q9604
+M/HF data modem, L-3
+Com  DSC500Pro-M  VHF  marine  radio,  ICOM  F60  UHF  portable  radio,  Furuno  FS-1570  HF/GMDSS  and
+Felcom 15 Inmarsat-C
+transceivers, Mykotronx KIV-7HSB data crypto, M/A-COM M7100 V/UHF P25 transceivers, Thrane & Thrane
+TT-3064A Mini-M radio.
+Network Topologies and Protocols:
+[…] b & g; TCP, UDP, IP, Ethernet, ATM, Frame Relay, Dial-up IP over Frame Relay, SONET, ISDN PRI,
+SDSL, VDSL, ADSL,
+X.25, FDDI, Token Ring, SNA, SIP, RTP, L2TP, PPP, SNMP, SS7, SMTP, DNS, DHCP, MPEG2
+Networking Equipment:
+L-3 Com MarCom voice switch and KITEs, Cisco 7200 & 4500 routers; Lucent PathStar IP Class 5 switch,
+GX550 and CBX500 ATM
+switches, MAX TNT WAN Access switch, Portmaster 4, Sahara, Conversant call adjunct, 4ESS voice switch;
+3COM routers; Marconi
+ASX1000 ATM switch; GDC APEX ATM switch; HP ATM test equipment; Sun 450 enterprise servers and
+Ultra 10/5 workstations;
+HP/Dell servers and workstations; Paradyne AAC; Alcatel-Telematics X.25 switches; Network General Sniffer;
+T-Bird; HP datascope
+
+

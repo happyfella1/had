@@ -1,0 +1,72 @@
+John Stachecki
+
+Software Engineer - eBay Enterprise
+
+Philadelphia, PA - Email me on Indeed: indeed.com/r/John-Stachecki/d987d4b5bb24b77d
+
+Information Systems Specialist with 15 years of experience in the creation of information systems. Strengths
+include Information/Application Architecture, expertise in the Software Development Life Cycle, and identifying
+and implementing industry best practices and standards.
+
+• Programming • Data modeling
+• Object-oriented analysis and design • Software Development Process improvement
+
+WORK EXPERIENCE
+
+Software Engineer
+eBay Enterprise  -  King of Prussia, PA - July 2011 to Present
+
+Functioned as a Software Engineer for ICS, Email Service, and the Integration Services group
+•  Participated  as  a  Software  Engineer  for  the  Integration  Services  group.  The  group  is  responsible  for
+developing Java EE integration applications for various eBay systems and exposing them to external
+customers, systems, and mobile devices via applications and apis. These systems include a web store,
+shopping cart, inventory systems, order systems, payment systems, warehouse systems, etc.
+• Implemented various new feature for the above systems which were generally written with Java EE 6,
+Spring, Mule, XML, XSLT, XSD, they and utilized our message-oriented infrastructure which used
+JMS/SonicMQ.
+• Worked on a small team that fully developed our Email Service application following Agile methodologies
+(using Jira and Rally) that included the full development lifecycle including requirements, architecture,
+development, testing, deployment, documentation and production support
+• We built the service with various additional technologies (such as Java, REST, JPA, JPQL, JSF, XML,
+XSLT) that conformed to various design patterns and best practices.
+• Developed and utilized best practices to make improvements to the service by utilizing UML diagrams,
+design patterns, refactoring, and generalization to support the reuse of source code and a cleaner data
+model
+• Researched emerging technologies and tools such as Hadoop, jQuery, Clojure, Scala, Akka, RDF, OWL,
+and the Semantic Web for possible use in our applications.
+
+Software Engineer
+GSI Commerce  -  King of Prussia, PA - July 2010 to June 2011
+
+Functioned as a Software Engineer for the Integrated Configuration Service (ICS)
+• Lead and implemented the ICS product through the software development life cycle including
+requirements, design, implementation, and deployment to the end users and applications
+• Created the software architecture and developed the component using Java SE 6 and various
+OpenSource libraries.
+• Utilized various continuous integration, source control, and project management tools such as Jira,
+Rally, Bamboo, Subversion, and Maven to ensure a quality product and source code control
+• Pushed the product through our internal server environment which consisted of a development, test, and
+production tiers hosted on our Linux servers.
+
+Information System Specialist
+
+Towers Perrin - April 2008 to April 2010
+
+Hewlett-Packard - Enterprise Application Services, Philadelphia PA
+Functioned as a Technical Specialist for various projects.
+• In this role, I was a member of the working group that was tasked with obtaining CMMI Level 3
+
+Java/Web Application Developer
+Towers Perrin  -  Philadelphia, PA - June 1999 to April 2010
+
+Provided full software development life cycle services for several applications.
+• Participated as an Application Developer for our group which was responsible for the full SDLC process
+including  requirement  gathering,  application  design,  implementation,  testing,  and  production  support  for  a
+15,000+ worldwide user base.
+• Developed the companies Assignment Planning and Monitoring application used to manage all company
+projects and budgets. The application was built using Java SE 1.4 and integrated with a SQL backend
+database using JDBC and provided a browser front end using HTML and JavaScript via JavaServlets.
+• Developed an enterprise web calendaring application that utilized XML and XSLT to provide data to a
+browser front end created with HTML/JavaScript, and CSS
+
+

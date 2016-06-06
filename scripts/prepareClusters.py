@@ -1,6 +1,6 @@
 import os
 
-clustersCsv = "output/kmeans/clusterng5validated.csv"
+clustersCsv = "output/kmeans/clusterng6validated.csv"
 data = "data/data1_docs"
 
 

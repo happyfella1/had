@@ -1,0 +1,289 @@
+Kaushal Patel
+
+Sr. Software Engineer - Verizon Communications Inc
+
+- Email me on Indeed: indeed.com/r/Kaushal-Patel/888b726ca0594899
+
+• JAVA developer with over 8 years of hands on experience on system analysis, design, development, testing
+and deployment on Banking and Telecom sector projects.
+• Strong experience and skill set for telecom project on GRANITE Telcordia development.
+• IT experience with focus on development and implementation of business logic on MVC architecture.
+• Proficient in using OOAD tools like Rational Rose2000, MS-VISIO in UML for developing the Class, Use-
+Case, Sequence, Activity, State and Collaboration diagrams.
+• Strong experience and skill set for Core JAVA, J2EE, Apache Struts 1.2, Struts 2.0, and Hibernate 3.0. And
+Spring 3.0.
+• Hands on JAVA IDE experience on Eclipse 3.4.0, My Eclipse6.0 and Net Beans 6.5 and RAD
+• Strong experience on project deploymentor hosting tools like FTP, Fill Zilla, and QuteFTP.
+• Extensively worked on web and application servers like Tomcat 7, Web Logic 11g and web sphere.
+• Strong experience on web services implementation with JAX-WS SOAP and JAX-RS RESTful using WSDL
+and SOAP UI
+• Extensively worked on HTML5, CSS3, Dream Viewer 8.0, NODE JS, Angular JS and Java Script to develop
+the presentation layer.
+• Experience working throughout the Software Development Lifecycle (SDLC) and supported all the phases
+of the project life cycle.
+• Experience in data modeling, designing and creating table/views for the databases such as Oracle and HP-
+Neoview, IBM-DB2, My SQL 5.1, MS Access.
+• Strong experience on database tools like TOAD for MySQL, TOAD for Oracle and Wamp Server.
+• Strong experience working with business analysts/users and project managers for user requirement analysis,
+developing functional/design specifications, tracking & maintaining project plans.
+• Self-starter, fast learner and a team player with strong personal and group communication skills.
+
+WORK EXPERIENCE
+
+Sr. Software Engineer
+Verizon Communications Inc  -  Philadelphia, PA - June 2014 to Present
+
+Philadelphia, PA
+
+Project Title: OSS/BSS and GRANITE Worx Migration Tool Development
+Project Duration: 9-JUN-2014 TO Till Date (1 Year)
+Position: Sr. Software Engineer
+Domain: Telecom (GRANITE-TELCORIDA)
+Description: They are one of the largest internet service provider company in USA. The main objective of the
+project is to provide High Speed internet services to their customers and setup more network and service
+facilities in today's competitive market. They are providing OSS/BSS support and services and solutions with
+the help of GRANITE-Telcordia one of the best telecom product tool.
+
+GRANITE Worx Migration tool: Operations team was working manually on GRANITE thin client to create Work
+Order Templates, Task Operations, Queue Management, Task Descriptions and Jeopardy Operations earlier.
+Team have to configure worx migration design to all environments like ST, SIT, DEV and PRODUCTION which
+turns into the error or bugs because at creation time users configure wrong data or have a chances of lot of
+
+mistakes to be done which turn in to the errors at the end. So I developed automated tool to migrate all dis
+activity. With the help of this tool you can migrate configurations to any environment easily and it's a pure
+automated process which developed in Core JAVA.
+
+Technologies/Platforms:
+
+Technology Analyst
+WELLS FARGO - April 2013 to May 2014
+
+Project Title: FTU (File Transfer Utility)
+Project Duration: 1-APR-2013 TO 23-MAY-2014 (1.2 Years)
+Position: Technology Analyst
+Domain: Banking
+Description: FTU - File Transfer Utility is an application through which we are getting customers requested
+input file from RM team. This file will be generated through JAVA Web Methods application as a middle ware
+libraries. We need to develop a code in XML to process the file through Informatica tool. We have to deliver
+the customer request on timely manner. Before deliver the code to Onsite team we have to go through SDLC
+process for particular customer. There will be no any specific data base on this project for customer data file
+process. We need to develop a code in XML for direct file processing and output generation. We have to use
+XML Parser, XML Mapper and XML Serializer for code development for every new customer request.
+
+Technologies/Platforms:
+
+Technology Analyst
+American Express  -  Phoenix, AZ - April 2012 to March 2013
+
+Phoenix, AZ
+Project Title: LET (List Execution Transformation Customer Marketing)
+Project Duration: 02-APR-2012 TO 31-MAR-2013 (1 Year)
+Position: Technology Analyst
+Domain: Banking
+Description: LET List Execution Transformation is the application used for Credit Card Customers for American
+Express US based customers. American Express gives different offers and discount based on the usage of the
+card spent. With the help of LET Application different types of customers are filtered and reports and customers
+data is generated as per the client's requirements. There will be different types of modules like Pre Campaign,
+Post Campaign, Admin, and Spend Category.
+
+New request created by the client and scheduled jobs scripts runs on Control-M server for Pre Campaign / Post
+campaign and other related process. Control-M feeds from Mainframe jobs and required data is generated
+by the request. Every campaign having a different request id and rungs independently on server as per the
+schedule. We are also able to see campaign status by its status code.
+
+Technologies/Platforms:
+
+Software Engineer
+SEE Infobiz Pvt Ltd - January 2011 to March 2011
+
+Domain: Banking
+Description: CLICK-PSS solution provides statements for BANK OF INDIA customers across various products
+and services offered by the bank.The solution is being introduced to enable the Bank to generate statement
+information  that  is  better  presented  in  a  customer  friendly  format.  The  solution  enable  sending  Electronic
+Contract  Note  and  Transaction  statements  to  customer  in  PDF  format  making  it  read-only  and  password
+
+protected to ensure that only the authorized user is able to see the contents. Furthermore, the statements will
+be digitally signed, and same will be emailed to the customer. Source data will be receivedfrom FINACLEin
+the .TXT format for Credit Card, Loan, CASA. Term Deposit, Fixed Depositand more.Once the source data
+processed consolidated statements are generated and broadcasted to customers.
+
+Technologies/Platforms:
+
+SEE Infobiz Pvt Ltd  -  Dubai - July 2010 to December 2010
+
+Project Duration: 1-JUL-2010 TO 31-DEC-2010 (6 Months)
+Domain: Banking
+Description: CLICK PSS - Financials is a product developed for SIB-DUBAIthat caters to the requirements of
+Statement processing Delivering statements through various channels such as Email, Print, Fax and Producing
+MIS  reports  required  for  Reconciliations,  Return  deliverables,  Process  related  information,  Generating
+management  /  business  reports  through  a  secured  login.  This  product  is  targeted  to  SIB-DUBAI  offering
+services  such  as  CASA,  Credit  Card  and  Payment  Advice.  We  parsed  the  data  in  CLICK  DATA  MART
+bypopulating  such  imported  data  into  a  relational  database  management  systemandgenerate  statements.
+CLICK determines the applicable marketing message and/or image and attaches the same to the statement
+Statements can be generated in several output formats (such as .PDF, .PS, .PCL, .AFP, .XLS,.TXTetc.)
+
+Technologies/Platforms:
+
+SEE Infobiz Pvt Ltd - January 2010 to June 2010
+
+Domain: Banking
+Description:  CLICK-PSS  solution  provides  statements  for  YES  BANK  customers  MT940  and  Multicash
+statement  services  offered  by  the  bank.  The  solution  is  being  introduced  to  enable  the  Bank  to  generate
+statement  information  that  is  better  presented  in  a  customer  friendly  format.  The  solution  enable  sending
+Transaction Order Confirmation to customer in .TXT format making it read-only and password protected to
+ensure that only the authorized user is able to see the contents. Furthermore, the statements will be digitally
+signed, and same will be broadcast to the customers.SIB will receive the source data in TXT format for MT940
+and Multicash. Once the source data processed statements are generated and broadcasted to customers.
+
+Technologies/Platforms:
+
+TATA Teleservices Limited - August 2007 to November 2009
+
+INDIA
+Employer: Sharp Techno Solutions Pvt. Ltd.
+Project Title: CRM (Customer Relationship Management)
+Project Duration: 1-AUG-2007 TO 30-Nov-2009 (2.3 Years)
+Domain: Telecom
+Description: TATA Teleservices CRM call center product is used by call center executives, administrators,
+team  leaders,  project  managers  to  provide  services  for  Prepaid,  Postpaid,  TATA  walky  and  PCO  Boothto
+maintain different product wise customers from the glob. Top level management is also able to get analytical
+view  by  using  product.  Customers  Unique  Identification  number  needs  to  be  given  as  an  input  for  detail
+description of the customer. System is able to send customers technical issue details to the selected technical
+persons automatically. System is able to display call flows and view on live environment as a report as per the
+requirements. System is able to give different products related information which will be provided to different
+customers. DISHA, another related web based application from which employees are able to get all detail
+description for each and every product like Mobiles, RCV and New Arrival Schemes which will be delivered
+to customers by call center executive.
+
+Technologies/Platforms:
+
+Sr. Software Engineer
+- March 2003 to May 2003
+
+Core Java, XML, Spring 3.0, HTML5, CSS3, Node JS, JSP, Hibernate 3.0, Web Services JAX-WS SAOP,
+Putty, Edit Plus, Beyond Compare, MS-Visio, Web Logic Server11g, Toad for Oracle, Eclipse, HTML5, CSS3,
+Web Services, SOAP UI, WSDL
+Role: Sr. Software Engineer
+•  Development  of  the  code  based  on  new  Requirements  and  have  to  provide  solutions  in  Core  JAVA  for
+GRANITE solutions.
+• Analysis, Design, Build, UTP, SIT, UT based on requirements for customer request.
+• Deployment of code on SIT2, DEV and various servers
+• Testing of code on SIT2, DEV servers
+• Upload code on SVN on local area network for backup plan
+• Weekly team meeting with all team members at offshore for task updates and issues and any other updates
+related to project
+• Development and Enhancement in GRANITE worx design based on new requirements
+
+Technology Analyst
+Angular JS - March 2003 to May 2003
+
+Spring 3.0, HTML5, CSS3, JSP, Hibernate 3.0, Web Services JAX-RS RESTFul,
+
+Role: Technology Analyst
+• Development of the code based on mapping document in XML using JAVA Informatica tool.
+• Analysis, Design, Build, UTP, SIT, UT based on requirements for customer request and file processing.
+• Deployment of code on SIT2, DEV servers
+• Testing of code on SIT2, DEV servers
+• Upload code on SVN on local area network for backup plan
+• Development of Weekly Status Report
+• ITGS Data Collection process
+• Daily status call with onsite for daily status updates
+• Weekly team meeting with all team members at offshore for task updates and issues and any other updates
+related to project
+
+Technology Analyst
+MVC Architecture - March 2003 to May 2003
+
+Java Script, JDK 1.6, JSP, CSS3, HTML5, Angular JS, Web sphere, DB2, UNIX, Putty, Edit Plus, Spring 3.0,
+JSP, Hibernate 3.0, Web Services JAX-RS RESTFul
+
+Role: Technology Analyst
+• Development of the job scripts on UNIX open system environment.
+• Development of the LET application requirements in Java.
+• Database creation and manipulation operations on DB2 database.
+• All LET campaign processing based on request generated by client.
+• Checking the performance of the portal in live Control-M server.
+• Parsing the input data in database and resolving issues in live environment.
+• Query development, procedure, scripting in UNIX environment and design project documents. 
+Client: Bank of India-INDIA
+
+Software Engineer
+MVC Architecture - March 2003 to May 2003
+
+Hibernate 3.0, Java Script, JDK 1.6, JSP, HTML5, CSS3 Net Beans 6.8, Tomcat 6.0, Toad for Oracle, UNIX,
+HP-Neoview, Oracle, Spring 3.0, Web Services JAX-WS SOAP
+
+Role: Software Engineer
+• Deployment of the portal on UNIX environment.
+• Customization of portal according to client's requirements.
+• Development of different reports on Inetsoft.
+• Deployment of the billing reports design on web portal.
+• Checking the performance of the portal in live environment.
+• Handling bill cycle generation process on portal and generating reports in required format.
+• Parsing the input data in database and resolving issues in live environment.
+• Query development, procedure, scripting in UNIX environment.
+
+Software Engineer
+MVC Architecture - March 2003 to May 2003
+
+Angular JS, Java Script, JDK 1.6, JSP, HTML5, XML, Net Beans 6.5, CSS3, Tomcat, Toad for Oracle, Oracle,
+JQuery, spring 3.0, Hibernate 3.0, Web Services JAX-RS RESTFul
+
+Role: Software Engineer
+• Deployment of the portal on Windowsenvironment.
+• Customization of portal according to client's requirements.
+• Development of different reports on Inetsoft.
+• Deployment of the billing reports design on web portal.
+• Handling bill cycle generation process on portal and generating reports in required format.
+• Checking the performance of the portal in live environment.
+• Parsing the input data in database
+• Query development, procedure in windows environment.
+
+Software Engineer
+RS RESTFul - March 2003 to May 2003
+
+Struts 2.0, Angular JS, Java Script, JDK 1.6, JSP, HTML5, XML, Net Beans 6.5, CSS3, Tomcat, Toad, Dream
+Viewer, JDBC, SQL Server, Spring 3.0, Hibernate 3.0, Web Services JAX-RS RESTFul
+
+Role: Software Engineer
+• Deployment of the portal on Windowsenvironment.
+• Customization of portal according to client's requirements.
+• Development of different reports on Inetsoft.
+• Deployment of the billing reports design on web portal.
+• Checking the performance of the portal in live environment.
+• Handling bill cycle generation process on portal and generating reports in required format.
+• Parsing the input data in database
+• Query development, procedure in windows environment.
+• Design docs. 
+Client: YES Bank -INDIA
+
+Software Developer
+MVC Architecture - March 2002 to June 2002
+
+Java Script, JDK 1.6, JSP, HTML, XML, NetBeans 6.5, CSS, Tomcat, Toad, Dream Viewer, Ant, JDBC, MySQL
+5.1, JQuery, Spring 3.0, Hibernate 3.0, Web Services JAX-WS
+
+Role: Software Developer
+•  Supported  complete  software  development  life  cycle  (SDLC)  and  used  waterfall  methodology  during  the
+SDLC life cycle.
+• Worked on UML methodologies using Rational Rose Enterprise Edition, Preparation of class diagrams, use
+case diagrams, sequence diagrams, activity diagrams andstate diagrams using Rational Rose.
+• Implemented system development through Struts framework.
+• Worked with Session Factory, Component mapping and HQL in Hibernate framework.
+•  Involved  in  designing  and  developing  JSP  pages,  Servlet,  JavaScript,  and  accomplished  the  front  end
+validations for developing presentation layer.
+• Used Ant scripts for code compilation and Log4j for logging purposes.
+• Extensively used PL/SQL to write procedures, triggers and SQL queries for data validations.
+• Involved in Integration testing, functional testing, User acceptance testing and deployment.
+• Responsible for installation, configuration and performance tuning Tomcat Server.
+• Used NetBeans 6.5 as development tool.
+
+ADDITIONAL INFORMATION
+
+Methodologies
+Object  Oriented  Analysis  and  Design  (OOAD),  Service  Oriented  Architecture  (SOA),  object  oriented
+programming (OOP), MVC architecture
+
+Operating Systems Windows […] Linux, UNIX
+
+

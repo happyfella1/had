@@ -1,0 +1,299 @@
+Urminder Singh
+
+Sr. System Engineer & Design - UBS AG
+
+Lawrenceville, NJ - Email me on Indeed: indeed.com/r/Urminder-Singh/be72b5019b552de5
+
+•  Specialization  in  IT-Infrastructure  Architecture,  Engineering,  and  Integration  with  more  than  16  years  of
+progressive  IT  experience  In  Systems  Administration,  Windows  infrastructure  support  delivered  various
+projects  resulting  in  efficiency  and  head-count  reduction.  Self-motivated  leader  with  vision  of  Continuous
+Process Improvement.
+• Proven ability to analyze processes and workflows, implement SLAs and KPI.
+•  Well  Versed  with  industry  standard  Tools  and  Tracking  systems  for  INCIDENT  mgmt.  /PROBLEM
+Management  &  Project  management  few  of  them  are  Rally,  KANBAN  board,  Service  Now,  JIRA,  Quality
+Center,FCAST(In house Tool in UBS) for Provisioning/Decomm,TECHM(In-house tool -BOA) for Provisioning
+and Decomm of assets.
+Proven track record in delivering against competitive and demanding environment
+• Administration of […] Server, Win Vista, Win XP and Win 2000 Workstations and Windows 7.
+• Strong knowledge on Web servers (IIS […] ASP.NET, Web Services on Windows Environment.
+• Strong knowledge on load balancing (Netscaler and 3DNS), SSL offload and Clustering.
+• Certificate installation (SSL) on IIS and Root Certs, Server and Client Certs and on MQ Server and Client
+certs as well.
+• Worked as Project Manager in ISP (Infrastructure Simplification Project), DNP (Declining and Not Permitted)
+& NPT (Non-Pertinent Technology) & SAN Reclaim project etc.
+• Worked as Project Manager in Dev Server Remediation (Finding Owners & Billing information by running Last
+Login Scripts on 8000+ Dev servers and running Daily Status calls with Dev leads and Managers to validate
+the data obtained from the Scripts and updating Bank Systems with correct information and reduce the cost
+of hosting VM infrastructure by Decommissioning 1000+ VM's not used actively by 2.2 Million Per Annum.
+• Worked as Project Manager on Successful migration of TPM to TECH.M.(Bank's new Asset management
+tool) using Agile approach.
+•  Worked  on  a  number  of  Engineering  and  integration  projects  that  involved  planning  and  leading  teams
+(onshore and offshore and near shore as well) and always meet deadlines set by management and clients.
+•  Designed  and  Implemented  Check21  project  on  .Net  2.0  which  enable  Supervisors  &  Operators  to  use
+WMW_Casheiring enabled Desktop for daily workload.
+• Designed and implemented successful Migration of Check21 application from .Net 2.0 to .Net 4.0 from OS
+Win2003 to Win2008 environment.
+• Designed and implemented migration of various Banking Lite Applications from .Net 2.0 to .Net 4.0 viz LMA,
+BRE, FAComp, MLHL etc to name a few
+•  Worked  as  part  of  Design  team  which  have  architected,  integrated  and  troubleshot  complex  business
+solutions that will move a client from Design to Production stages.
+• Designed and implemented migration of various Banking Lite Applications(in house) from .Net 2.0 to .Net 3.5
+& later .Net 3.5 to .Net 4.0 viz LMA, BRE, FAComp, MLHL,Check21 etc.
+• CA Unicenter Software Delivery to Deploy Tier1, Tier2, Tier3 applications on top of Core build.
+•  Configuration  and  support  Cognos,  IBM  WebSphere  MQ  […]  MSMQ,  BizTalk  in  Pre-Prod  &  Production
+environments.
+• Provided Level 3 support in resolving and tracking issues in Production.
+•  Involved  in  creating  Siteminder  realms,  rules,  policies  and  agent  configuration  for  Web  Services  and
+documents the changes in Deployment documents.
+• Configuration of Network Protocols (TCP/IP, IPX/SPX, NetBEUI) on servers and client machines to establish
+communication between them.
+• Experience with Data Center operations and management.
+
+• Worked in different roles over the years in SDLC in different environments such as System engineering,
+Development, QA, UAT, Production Support, and DR Sites.
+• Worked as Implementation Architect to introduce Splunk to EBiz (ecommerce) suite of apps (Dotcom, My
+Account, Chat & Business Class Portal etc.). I worked on getting Splunk Forwarders installed, Configured &
+Creation of dashboards & alerts for operations team to view Perfmon & IIS key metrics in order for them to
+ably support 24*7 production Datacenters and able to review perfmon and IIS logs.
+
+Technical Environment
+• Hardware: Blade Servers IBM LS20, Blade Logic 460c G5,G6,G7,Intel based
+Pentium (PI, PII, PIII) 80486, 80386, Compaq
+Insight Manager, KVM Switches etc.
+HP Servers - All DL, ML and ProLiant product lines including blades
+All Dell PowerEdge product line.
+Sponsorship required to work in the US
+
+WORK EXPERIENCE
+
+Sr. System Engineer & Design
+UBS AG - January 2016 to Present
+
+• Improve design of infrastructure and applications for increased availability, stability, and fault tolerance.
+• Working on Providing Solutions and design on Data center migration Project for servers running on Windows
+2008 & 2012 OS.
+•  Identify  Security  risks  for  Customer  information  and  remediate  issues  with  patches,  configuration  or
+deployment.
+• Provided L3 support on Window clustering, DFS (GROUPSHARES) with Geo clusters.
+• Provided support on DHCP, Wintel networks, Wintel OS patching and OS upgrades following UBS approved
+guidelines.
+• Worked with Wintel NAS filers and SAN configuration and optimization and migration of NAS filers.
+• Successful migration of FTP/SFTP servers from Win2003 to win2008/win2012 as part of EOL project (End
+of Life).
+• Data center migration supporting application group (Broil, BO etc.) with performance and troubleshooting
+skillsets and server/Blades moves from one DC to another.
+• Worked on EOL (End of Service Life) project as well.
+• Designed and configured Chassis and Blades servers for Data Center Migrations for Grid Application (Broil
+etc).
+• Worked on Creating a DR server for defining DHCP scope to UBS Americas.
+
+Implementation Architect
+Comcast Cable - September 2014 to December 2015
+
+Working  in  Service  Design  Team  within  ITIL  Framework  responsible  for  areas  such  as  Availability
+management,  Capacity  management,  Configuration  Management,  SLA  Management  for  the  Core  internet
+business within Xfinity.com/Comcast.com eBiz suite of applications such as Comcast.com, My Account, Chat,
+ehelp,  Business  class  portal  &  Business  class  chat  etc.  Ordering  VM's  &  physicals  for  new  and  existing
+applicatons, VIP's , DNS requests, Opening Firewall ACL's for new and existing projects, Creating Dashboards
+and alerts in Splunk for Operations team, Updating Visio diagrams for new and existing applications are few of
+the tasks I have performed in this role. Worked on Agile Framework and Used Rally to create User Stories, run
+Scrum Calls and Scrum planning sessions used Rally Kanban board etc.Used SLACK Channel for efficient
+Communications on outages or issues and troubleshoot them quickly.
+
+• Holistic approach to determine the impact of change introduction on the existing services and management
+processes.
+• As a part of an Agile team was responsible for task, user story and sprint estimations. Participated in bi weekly
+sprint planning and sprint retrospective sessions for various releases.
+•  Identify  infrastructure  and  operational  projects  (requiring  hardware  or  otherwise),  and  execute  them  with
+same rigor and quality as applicable to functional projects
+•  Improve  service  levels  by  defining  and  governing  realistic  SLAs  for  key  eBiz  Applications,  NN(Near
+Neighbours) and vendors, and agreed upon by Business and Technology teams
+•  Forecast  IT  infrastructure  capacity  needs  18-24  months  out  for  the  Core  eBiz  Platform,  and  implement
+scalable design to augment needed capacity
+• Improve design of infrastructure and applications for increased availability, stability, and fault tolerance
+• Improve configuration consistency across all eBiz system assets by maintaining the configuration information
+and change to them in centralized configuration management system(s), as well as applying changes to the
+configuration consistently
+• CMDB has been established to capture eBiz Server assets.
+• All eBiz server configuration data for BCP, Dotcom & MyAccount is captured after every CM deployment to
+ensure that all web servers have the same configuration. This data is analyzed and anomalies are identified
+and corrected
+• Produced asset tracking reports for Staging & Production
+• Developed and deployed Code Configuration Consistency Tool and Firewall Connectivity Validation tool. All
+these steps have resulted in improved configuration consistency
+•  Identify  Security  risks  for  Customer  information  and  remediate  issues  with  patches,  configuration  or
+deployment.
+• Design architecture for new internet/intranet projects.
+• Worked on introducing Splunk to Ebiz (ecommerce) suite of apps (Dotcom, MyAccount, Chat & Business
+Class  Portal  etc.).I  worked  on  getting  Splunk  Forwarders  installed,  Configured  &  Creation  of  dashboards
+&  alerts  for  operations  team  to  view  Perfmon  &  IIS  key  metrics  in  order  for  them  to  ably  support  24*7
+production support. Prepared, arranged and tested Splunk search strings and operational strings. Created and
+configured management reports and dashboards. Developed, evaluated and documented specific metrics for
+management purpose. Installed, tested and deployed monitoring solutions with Splunk services.
+
+Sr. Windows Administrator, Engineering & Design
+Bank of America -Merrill Lynch  -  Hopewell, NJ - January 2011 to August 2014
+
+Responsibilities
+Same as When I worked for Merrill Lynch
+
+Sr. System Engineer, Design & Migration Lead
+Verizon Data Services & Frontier Communication - October 2009 to December 2010
+
+In  this  stint  with  Verizon  team  to  build  a  parallel  environment  for  Frontier  Communication  in  pre-prod  and
+production to support the sale of operations of 9 states dialup and Landline operations to them via cash deal
+between VZ & Frontier.
+Responsibilities:
+• Build servers (VMware) Windows OS for Fort Wayne (Spinco) Environment Project.
+• Install Middleware applications (Tier 1 and Tier2) like DB2, IIS 6.0, Siteminder 6.0, MSMQ, Clusters, SSH etc
+on Pre-prod & Prod environment using Build Specifications (Build sheets) provided by Development Team.
+• Provisioning new hosts and clusters: setting up VMFS volumes, network configuration, HA, DRS and VMotion
+settings.
+• Regularly evaluating cluster capacity to make sure environment is not overloaded with virtual machines and
+making changes in the virtual environment accordingly.
+
+• Provisioning virtual machines on VMware ESX 4.1 environment and P2V servers from physical to virtual
+environment.
+•  Work  closely  with  Development,  Configuration  Management  Team,  Monitoring,  Change  and  Release
+management  for  any  escalations  and  outages  for  Fort  Wayne  Applications.  Collecting  PerfMon  and
+Applications logs, Agent logs (used by Siteminder) for troubleshooting purposes and at times escalating to
+Third Party vendors like Microsoft, Oracle etc.
+• Providing Production support for over 80+ applications for North central networks for SPINCO Environment.
+
+Sr. System Engineer- Migration, Integration
+Johnson and Johnson - August 2008 to September 2009
+
+The Project Velocity is a major global IT initiative to provide Johnson & Johnson with the latest Operating
+systems. It involved Integration and Migration of the plant infrastructure including Hardware, Software and
+applications into JNJ Processes on Validated and Non-Validated GMP Environment.
+Responsibilities:
+• Analyze and document Hardware and Software systems requirements.
+• Develop user operations and procedures guides (documentation, and continue to further existing Microsoft
+Certified Partnership)
+• Migration and integration of various in-house and third party applications to Windows XP/Vista platform from
+Win2000.
+• Provide applications and desktop support for WinXP/Vista/Win2k
+• Administration and configuration of Windows 2000/2003 running IIS 5.0/6.0.
+• Troubleshooting .NET applications and IIS problems. Worked on .NET 1.1, 2.0, 3.0 upgrades.
+• Work with Latin America Scripting Center to create SMS Scripts. Test and install and validate SMS Scripts
+on Workstations(XP/Vista)
+•  Co-ordinate  with  Users  to  get  them  to  test  the  scripts  before  and  after  scripting  the  application  on  JNJ
+approved Operating Systems.
+• Test the applications in plant production environment on PLC's (Programmer Logic Controller) in Plant and
+validate if they work with New XP/Vista images with Certified Scripts.
+• Create/maintain project matrix and report the status to management
+• Responsible for testing all security patches on a pilot group before deploying to entire Productions systems.
+
+Sr. Windows Administrator, Engineering & Design
+Merrill Lynch  -  Hopewell, NJ - July 2005 to August 2008
+
+Support  the  extensive  and  complex  platform  of  customized  frameworks  based  on  Microsoft  technologies
+and  Service  Oriented  Architecture  (SOA).Coordinate  with  release  managers  to  ensure  timely  schedules
+and cycles for the Program Office approved manifest. Active involvement with Software Architecture (SAD),
+Software Requirements Specs (SRS), and Product Profile reviews. Meet developers and managers to review
+Engineering needs and provide guidance on the platform and processes. Review / audit development teams
+documentation on how, where and what the application will install and need as dependencies on the server
+(build/install/run-time). Manual steps to reproduce MSI functions or un-installation steps. Work together with
+application teams to understand evolving features/changes and how the product works behind-the-scenes and
+the UI (web site clicks), interfaces with endpoints and recreating web service payloads for troubleshooting
+purpose. Responsible to creating HLD/LLD Visio design flow documents for engineering management. They
+includes application endpoints/interfaces (web service names and methods, database connections, mainframe
+connections, FTP, SFTP, AD, DNS FQDN, ports, etc.). List known issues to assist in the implementation by
+QA and Production teams. Be the primary point of contact for product-specific integration issues.
+Responsibilities:
+• Involved in SCM, Change Management and Release Management Activities.
+
+• Building Windows OS Servers (Server builds using Standard images), Tier1/Tier2 and Tier3 applications
+using CA Unicenter.
+• Troubleshooting .NET applications and IIS in all Environments.
+• Worked on .NET 1.1, 2.0, 3.0, 3.5, 4.0 upgrades from Dev to Production environments.
+• Provides application support (administration, configuration, and monitoring) for both off the shelf and home
+grown applications in a 24/7 highly available and clustered web-based environment.
+• Involved in creating Siteminder realms, rules, policies and agent configuration.
+•  Load  balancing  the  web  based  applications  using  Netscaler  by  setting  the  persistence  based  upon  the
+application requirement.
+• Deployment and debugging of Customized MSI for 200+ web services products.
+• Creating and maintaining Virtual directories and web sites in IIS 6.0 & IIS 7.5
+• Isolation of applications to different application pools in IIS6 based on the application requirements.
+• Securing and controlling access to IIS web sites by Authentication schemes, Server and Client certificates
+• Work with development teams to analyze builds, fixes, updates, and overall release coordination
+• Worked on Post install Validation (PIV) Tool customized tool ran after the deployment in QA & Prod to see
+if the configuration went fine as per expectations.
+
+Sr. Production Support Engineer
+Verizon Data Services  -  Tampa, FL - March 2005 to June 2005
+
+Vignette and Non Retail Applications)
+
+Datacenter Engineer - Lead
+Toyota Financial Services  -  Phoenix, AZ - November 2004 to March 2005
+
+Responsibilities:
+Data Center Facilities Management mainly
+• Environment check and monitoring
+• Providing physical support for Level 2 UNIX / WINDOWS / STORAGE
+• Coordinating scheduled outages (change control) schedule
+• Performing Solaris / Windows server hardware upgrades
+• Informing about hardware issues to vendors and LEVEL 3 system Administrators
+• Perform restores from Tape Backups & Handle tape requests
+
+Sr. Production Support Engineer
+BillPay, Registration on www.Verizon.com - February 2003 to November 2004
+
+Worked  in  two  different  teams  on  similar  sort  of  role  providing  Full  Life  cycle  support  on  Pre-Prod  and
+Production Applications on Retail and Non-Retail Applications on www.Verizon.com.Providing Level 2 and
+Level 3 support 24x7 and 365 days.
+Responsibilities:
+• Application support of application on www.verizon.com.
+•  Act  as  a  Second  &  Third  level  support  for  Retail  applications  in  UAT/Staging/Pre-Prod  and  Productions
+environments.
+• Carry out pager on Primary support day and cover on weekends for 24 hours.
+• Installing middleware software's on like IIS, Siteminder 5.x , Vignette , MSMQ, Clusters, SSH, Verizon Remote
+Installer(In house software to push content to Implementation, UAT Env.'s) etc on pre-prod & Prod environment
+during various maintenance windows.
+• Work closely with Development/QA/Monitoring/Change and Release management for any escalations and
+outages for Retail Applications.
+• Vendor Coordination (vz Microsoft, Compaq) for any Hardware and Software issues.
+
+EDUCATION
+
+Bachelor's in Computers in Computer Science
+
+LINKS
+
+https://www.linkedin.com/in/urminder-s-kapoor-84a636
+
+ADDITIONAL INFORMATION
+
+• Operating Systems: […] Enterprise/Std,Win2000 Advanced
+Server/Server, Windows XP, WinNT4.0, Windows 2000
+Professional/NT WorkStation 4.0, Win ME/98/95,Windows 3.1
+& DOS 6.2 ,Sun Solaris 2.7(Intel).
+• Others: Siteminder 5.5/6.0,Lotus Notes Domino R5 , MS Active
+Directory,Microsoft.NET […] […]
+Advanced user of MS Office […] Note)
+MS Project 2010, Visio, Quality Center (HP-
+-Quick Test Professional v10.0, SAN storage. PowerShell Scripting, Microsoft Lync,
+Skype for Business, LiveMeeting, WebEx etc
+• Software Distribution: Win EMC for pushing Hot fixes, Patches and CA Unicenter
+Software Delivery for pushing Tier1/Tier 2 and Tier 3
+Applications using CA stacks, SMS Patch distribution, VMWare
+Tools 4.0 etc.
+• Virtualization: VMware ESX server 2.5, Virtual Center 2.0/2.5, VMotion, HA, DRS,
+VMware, Vi 2.5,VMware ESXi4.1,ESX4.1,vCenter Server 4.1.
+• Remote Access: PC Anywhere 9.0, RDP, Windows Terminal Server 2000/ […]
+VMWare.
+• Communication and N\W: TCP/IP, IPX/SPX, NetBEUI, Net BIOS, ISDN, PPP, RIP, Routers,
+Hubs, Hardware-RAS.
+• Monitoring Tools: Splunk (Deployment & Creation of Dashboards and Email Alerts etc)
+IBM Director, Dell Open Manage, BMC Patrol, Ebizcenter (In house
+Tool- VZ), WinDNT, Sitescope, TVRT (Custom-In-house) etc.
+• Network Security: Installation and Configuration of Sunscreen EFS 3.0 & 3.1 on m
+Solaris 2.7 (Intel Platform).
+• Ticketing Systems: HP Service Desk, Remedy, CMIS Web and Clear Quest for
+Incident management and QC for defect monitoring and
+Tracking & JIRA & Service Catalog (In-house Ticketing Tool for all services within Comcast).Service Now,
+FCAST(Provisioning tool used in UBS)
+• Replication: CA XOSOFT (WAN Sync and HA) & Repliweb.
+
+

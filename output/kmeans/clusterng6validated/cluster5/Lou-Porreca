@@ -1,0 +1,170 @@
+Lou Porreca
+
+Software Engineer
+
+Malvern, PA - Email me on Indeed: indeed.com/r/Lou-Porreca/1f9fb23d0a03eb0b
+
+WORK EXPERIENCE
+
+Software Engineer
+SunGard Financial Systems - February 2007 to December 2012
+
+Worked  on  conversion  of  Sierra  Treasury  Management  components  to  J2EE/browser-based  system.
+Developed enterprise java beans for database access using Hibernate annotations, processor modules to
+handle  business  logic,  JSP/Controller  modules  to  handle  user  interface.  Used  Java,  JavaScript/JQuery,
+Hibernate/Java Query Language, MVC, JUnit.
+• Enhanced, maintained software components (business logic, reports, database access, SWIFT interface,
+user interface) of Sierra Treasury Management front office and back office systems using C, SQL, Sybase,
+Oracle, Solaris. Changes driven by customer enhancement requests, problem reports.
+• Member of the database technical group; tasks include: reviewing any changes to Sierra database objects
+or static data content, certifying third party ODBC drivers used for access to Sybase, Oracle, interface with
+software release group.
+
+Software Engineer, Lead Software Engineer
+CyberSoft, Conshocken, PA - November 2003 to January 2007
+
+Enhanced and maintained components of a computer security/virus detection software toolkit for Unix servers.
+The toolkit components written in C, C++, shell script.
+• Enhanced and maintained Linux software product for filtering email for computer viruses and spam. The
+software components written in C, shell script, Perl, integrated with Sendmail.
+• Implemented a test suite to improve the quality of virus and spam signatures, resulting in a better detection
+rate, a drop in the occurrence of false positive and increased throughput.
+• Created and executed system tests (function, user interface, load, performance, exception) for the computer
+security toolkit and email filtering software.
+• Packaged and maintained multiple releases of the computer security, email filtering products.
+• Led project to design a server to automate the collection, cataloging, and analysis of computer virus samples,
+and the testing and distribution of virus signatures.
+•  Investigated  alternative  scan  engines  for  computer  virus  detection  and  emulation  software  to  simulate
+execution of infected software.
+• Managed software engineers, data analysts, and system administrator.
+• Took customer support calls, diagnosed and resolved reported problems.
+
+Technical Lead, Manager - Unix Product Development
+Tangram Enterprise Solutions/Rabbit Software - July 1996 to November 2002
+
+Member of a cross-functional corporate team chartered to define and design Asset Insight, a cross-platform
+software product for managing the hardware and software assets of desktops and servers on a corporate
+network.
+• Led development of the Unix-based components and several web-based components of Asset Insight. Ported
+to Solaris, Linux, AIX, HPUX, Tru64, using: C/C++, Java, shell scripts, Motif, Oracle OCI, SQL, Apache, tomcat,
+JSPs, servlets, CORBA-based middleware.
+• Worked with QA to formulate test plans from system specifications.
+
+• Developed the SQL scripts for initializing the Asset Insight database control tables, the Oracle applications
+to load asset data into the database, and maintained server components, including sockets-based agents.
+• Received commendations for responsiveness in addressing/resolving customer support issues.
+
+Technical Lead
+Tangram Enterprise Solutions/Rabbit Software  -  Malvern, PA - April 1985 to November 2002
+
+Malvern, PA
+April 1985 - November 2002
+Tangram marketed software products for managing desktop and server systems over an enterprise network.
+These  products  utilize  client/server  architecture  and  Web-based  technologies  and  run  across  multiple
+operating system platforms.
+• Responsible for the development of the Unix/Linux-based components from requirements through delivery
+and provided maintenance for the product releases.
+• Wrote, reviewed system function and technical design specifications, coded and tested software components
+and component updates, provided customer technical support.
+• Worked with remote teams to plan and execute system integration tests. Set up and configured required test
+beds on multiple Unix servers.
+• Evaluated and recommended third party development tools and software components for product integration.
+
+Project Lead, Developer
+Tangram Enterprise Solutions/Rabbit Software - September 1993 to July 1996
+
+Led development of AM:PM for Unix software for unattended distribution and installation of software packages
+to MS Windows desktops and Unix servers utilizing multiple network protocols.
+• Reverse engineered from AM:PM message protocol from IBM mainframe version.
+• Coded and tested file transfer components and TCP/IP and SNA APPC interface modules.
+•  Successfully  migrated  customers  from  mainframe  version  to  Unix  AM:PM.  Assisted  with  technical
+presentations, product demonstrations, and customization.
+• Ported software to Sun Solaris, IBM AIX, HPUX, made multiple major releases.
+
+System Architect
+Tangram Enterprise Solutions/Rabbit Software - November 1991 to September 1993
+
+Architect of a Unix-based, enterprise network gateway product that enabled LAN-connected desktops, servers
+access to IBM mainframe applications and managed by SNMP and IBM management tools.
+• Compiled system requirements, generated system design, coordinated system integration tasks.
+• Led development of the gateway configuration and management utilities and interface to SNMP.
+• Composed and executed quality assurance test plans for system components and integration of third party
+software. Performed beta test at customer sites.
+
+Project Lead, Developer
+Tangram Enterprise Solutions/Rabbit Software - April 1985 to October 1991
+
+Led development of shrink-wrap connectivity products (terminal emulation, batch transfer, API) on Intel-based
+UNIX workstations. Provided technical support over multiple releases.
+• Maintained MS Windows client of LAN-based terminal gateway product.
+• Led development and verification of source code packages for IBM SNA network components. Packages
+ported to third party Unix systems. Provided technical support through customer acceptance.
+• Assisted with composing porting guides, test plans. Developed, presented customer training classes.
+
+Lead Developer
+SNA Interfaces - September 1983 to April 1985
+
+Fall, 1983 - April, 1985
+• Investigated distributed application architectures for message handling, document interchange as input to
+planning development of networked services. Served on office systems architecture task force.
+
+Lead Developer, SNA Interfaces 
+Fall, 1979 - Fall, 1983
+
+Technical Staff
+Burroughs Corporation  -  Devon, PA - December 1973 to April 1985
+
+Technical expert
+IBM Network Architecture - September 1979 to September 1983
+
+IBM product emulation for Burroughs.
+• Designed, developed software components that connected Burroughs systems as terminals, host systems
+to IBM SNA networks.
+• Developed, beta tested programmable branch controller software for Bank of America pilot project.
+• Requirements, design of software for batch transfer with SNA hosts for the Federal Reserve Bank.
+
+Programmer
+IBM - December 1973 to September 1979
+
+1973 - Fall, 1979
+• Developed, maintained terminal emulation, batch transfer componnets for IBM, Burroughs networks.
+• Enhanced, maintained compilers for internal product development.
+• Developed text validation and statistic reporting modules for a Store and Forward Message Switch.
+
+EDUCATION
+
+Java Programming Course
+Pennsylvania State University
+2010
+
+Computer Science Grad Courses
+Villanova University
+1975 to 1979
+
+BS in Mathematics
+Drexel University
+1973
+
+ADDITIONAL INFORMATION
+
+Proven ability to:
+• Design, develop, maintain, and support software products;
+• Plan and execute software test cycles;
+• Respond to software product issues in a timely fashion.
+Key  strengths  include  technical  design  skills,  problem  solving,  learning  and  maintaining  existing  code,
+programming skills: Java, JavaScript, C, SQL on Unix and Linux systems, J2EE/EJB experience, and excellent
+written and verbal communication skills.
+
+Involvement  in  software  projects  as  a  developer,  tester,  and  technical  lead.  Experience  with  SCRUM
+development  framework.  Have  demonstrated  the  ability  to  enhance  and  maintain  software  products  over
+multiple releases.
+Experience with compiling requirements, writing and reviewing function and design specifications, software
+packaging, evaluating third party software components and tools.
+
+Technology: J2EE/EJB, Hibernate, JBoss, JSP, JUnit, Oracle, Sybase, ODBC.
+Languages: C, Java, SQL, JQL, JavaScript/JQuery, Shell script
+Methodologies, Tools: SCRUM, SDLC, Eclipse, dbVis.
+Operating systems: Solaris, Linux, AIX, HPUX.
+Networking: TCP/IP, SNMP, IBM SNA
+
+

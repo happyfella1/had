@@ -1,0 +1,200 @@
+Gayathri Krishnamoorthy
+
+QA Analyst - SAP America Inc
+
+Garnet Valley, PA - Email me on Indeed: indeed.com/r/Gayathri-Krishnamoorthy/2616a918fdcdd131
+
+• 5 years of experience in Quality Assurance testing for Web based client/server Applications and various
+windows OS upgrade solutions and products
+
+• Architected Cloud data testing solutions and highly skilled in detailed use case preparation across multiple
+devices varying from desktops to mobiles.
+
+• Strong experience in analyzing and testing in Retail, manufacturing ecommerce domains
+
+• Hands on experience with full life cycle of Software Development (Planning, Analysis, Design, Development,
+Testing, Integration and Support)
+
+• Participated in traditional delivery model as well as AGILE methodologies.
+
+• Proficient in developing Test Plans, Test Scenarios, Test Cases and Test Reports.
+
+• Skilled in Black Box Testing, Performance Testing and Functional Testing.
+
+• Adept in developing detailed Functional, Integration and System test specs and converting high-level test
+requirements into reliable, repeatable, and maintainable test cases.
+
+• Extensively used both Quick Test Professional (QTP) and Unified Functional Testing (UFT)
+
+• Hands on experience in Quality Center focusing on various manual testing flows
+
+• Strong expertise in windows imaging of various OS levels and hardware
+
+• Highly skilled in OS upgrade and installation testing specifically on Windows 10 and Office 365 products
+
+• Experienced in high level and low level design document preparation for core commerce business logics
+
+•  Extensively  worked  in  IBM  WebSphere  Commerce  Suite  v6.0  and  experienced  in  core  Java  backend
+programming, IBM DB2, JSP and Java Scripts
+
+• Adept in power shell scripting to automate manual test cases per QTP
+
+• Strong technical engineering academic background with excellent analytical skills.
+
+• Specialized in projects related to Retail domain and completed multiple certifications in JAVA and Retail
+domain.
+
+• Highly motivated, capable to self-train and guide teams, coordinate and deliver projects successfully.
+
+• Excellent communication skills with a positive service-oriented demeanor.
+
+WORK EXPERIENCE
+
+QA Analyst
+SAP America Inc  -  Newtown Square, PA - October 2015 to Present
+
+SAP  is  the  world  leader  in  enterprise  applications  for  software  and  software-related  services.  Based  on
+market capitalization, SAP is the world's third largest independent software manufacturer. SAP solutions cover
+everything from project management to professional services automation (PSA); it establishes a repeatable
+process for delivering high quality services, fine tunes resource planning, and take business development to
+the next level.
+
+The project I worked on involves extensive testing of Windows 10 and Office 365 products on SAP solutions.
+I  worked  exclusively  on  ALM,  windows  imaging,  software  upgrade  testing,  installation/uninstallation  defect
+testing across multiple hardware systems.
+
+Key Achievement
+Test machines availability is one of the challenges of this project that determines timely delivery of various
+test runs. As a senior member of the team I expertly performed imaging of available test machines in a semi-
+automated fashion. The best practices and techniques to achieve such faster and successful imaging is shared
+and documented; which helped all testers achieve their delivery on time and improved overall productivity.
+
+Role & Responsibilities:
+• Responsible for creating automation scripts in UFT for manual test cases per project docs
+• Extensive imaging of various windows machines with multiple OS levels and dependencies for project testing
+• Performed Direct Access (DA) testing and Connected Backup testing as well as various MS products testing
+like Visio and Project professional across multiple OS level machines.
+• Responsible for windows 10 OS upgrades on various test machines - Lenova, HP, surface Pro - through
+dock, monitor, wireless and USB HD.
+• Thorough testing of Office 365 on various test machines for both install and un-install flow
+• Performed monthly patch cycle testing and review and document all test results
+• Responsible for project test metric collection by maintaining an extensive excel worksheet of test data and
+results.
+• Cloud Data Solution - instrumental in high level and detailed test cases preparation for User stories like
+document access, password authentication, Unicode, Corporate folders and more.
+• UFT - experienced in windows based applications automation from scratch and also thoroughly trained on
+advanced concepts
+• IT Tools test case - responsible for performance testing test cases from scratch and as well as detailed new
+machine verifications
+• Desktop - performed win 10 extended hardware support testing on platforms including VMware
+• Performed detailed citrix receiver testing on Windows 10
+•  Trained  a  team  of  interns  on  Quality  center  concepts  ,  imaging  techniques  and  overall  product  testing
+responsibilities
+
+Environment: ALM 12.0, UFT 12.01, MS Office 2013/2016 applications, Windows 7, 8 and 10, 95/98/NT/2000/
+XP
+
+QA Analyst
+Sears-Kmart Retail - February 2013 to June 2015
+
+The  project  I  worked  on  is  an  ecommerce  transformation  project  for  Sears-Kmart  Retail  website  migrated
+existing ecommerce websites (Sears.com, Kmart.com, Craftsman.com and Kenmore.com) to the new platform
+IBM WebSphere Commerce Server version 6.0 and added several custom functionalities.
+
+Key Achievement
+Customer check out module was one of the critical functionality of the ecommerce engine that I prepared the
+test plan for from the scratch as an individual contributor. I added specific quality assurance checks like page
+to page navigation and customer edit options until the final rendering of the checkout cart.
+
+A step by step detailed test case document that I prepared for the above module was the bed rock on which
+all added functionalities was stress tested throughout the development phase.
+
+I received key performer of the project award for the solution.
+
+Role & Responsibilities:
+• As a senior QA analyst responsible for developing test plan design for page construction and commerce
+business logic during initial project requirement gathering phase.
+• Prepared both a high level test spec for the commerce engine as well as supporting test plans to address
+the design of its subsystems.
+• Developed a comprehensive test system for shopping cart checkout module that tests the logic for various
+backend processing and calculations.
+•  Responsible  for  session  management  and  user  tracking  testing  focusing  on  server  side  programming
+modules.
+• Performed system tests of new pages, functionality tests of specific cart checkout enhancements, usability
+testing of shopping logic to satisfy all the requirements of the users.
+• Responsible for execution of test Cases manually for specific scenarios like duplicate elements in the cart,
+session idle time reminder to customers etc.
+•  Created  data-driven  test  cases,  by  generating  a  generic  test  case  that  operates  on  varying  data  values
+specified in the test plan.
+• Performed all phases of end-to-end testing which includes windows testing, functionality testing, regression
+testing, interface testing and system testing of the Application.
+• Involved in writing the conversion test cases, executed manually and automated the cases, entered defects
+as per the results
+• Worked Active Data Sheet for data driven testing to support automation scripts.
+• Performed Regression Testing of the affected test cases to confirm that the defect has been resolved when
+defect corrections are delivered in a build.
+• Provided testing production support for critical fixes and enhancements
+• Regular client interaction to gather new business requirement and translating them to detailed test spec with
+steps. Represented entire team on many occasions.
+
+Environment: Quality Center, Quick Test Pro, MS Office applications, Windows95/98/NT/2000/XP, UNIX, IBM
+Websphere Commerce Suite v6.0, Java Script HTML, DHTML, XML, JSP
+
+QA Analyst
+Texas Instruments Inc - August 2011 to January 2013
+
+The project I worked on is a Transaction management system that fully migrated Texas Instruments existing
+Sample Device application to the new platform IBM WebSphere Commerce Server version 6.0.
+
+Key Achievement
+
+As a part of the core team I developed a comprehensive test system solution to test the new transaction flow
+user session that replaced the client's existing legacy system.
+
+Conducted  QA  workshops  with  the  team  where  project  design  points  and  testing  methodologies  were
+discussed and vetted. This helped accelerate the contribution and productivity of the overall project team.
+
+Role & Responsibilities:
+• Responsible for requirement and use case analysis, reviewing Business Requirements document, project
+test phase estimation and approach.
+• Prepared low level and high level test plan documents focusing on various transaction flows as well as ACID
+properties of such database commit
+• Performed Business functionality testing, which involved testing of all core functions of the application.
+• Involved in preparation of Test Plans for different modules and documented test cases and scripts for various
+screens of the application.
+• Performed Functional and User Acceptance Testing (UAT) using QTP.
+• Converted Manual Integration tests into automated tests. Used QTP extensively for the purpose of GUI and
+Functionality testing.
+• Responsible for categorizing bugs based on severity and Regression testing after bug fixes and verified
+those fixes.
+• Lead a 15 member team, conducted presentations and knowledge transfer sessions about phases of project
+testing, test system and automation tools used.
+
+Environment: QTP, Mercury Quality Center, Win Runner, MS-Word, MS-Excel, Windows95/98/NT/2000/XP,
+UNIX, IBM Websphere Commerce Suite v6.0, Java Script HTML, DHTML, XML, JSP
+
+EDUCATION
+
+Bachelors in Electrical and Electronics Engineering
+Anna University - Chennai, Tamil Nadu
+
+Information Systems for Decision
+Strayer university
+
+ADDITIONAL INFORMATION
+
+TECHNICAL SKILLS
+
+Hardware: IBM PC/AT compatibles, Dell, HP
+Operating Systems: UNIX, Windows NT, Windows […] DOS 6.1
+Testing Tools: Quick Test Pro, Load Runner, Test Director/Mercury Quality Center, Win Runner
+Testing Methods: GUI, Black Box, Integration, Regression, Functional, Back End, UAT, System and Smoke
+Testing
+Languages C, C++, JAVA
+Scripting Languages: Java Script, HTML, DHTML, XML
+Databases: IBM DB2, Oracle 8, Oracle SQL Plus, MS-Access, and MS- SQL
+Web Technology - IBM Websphere Commerce Suite v6.0
+GUI/Front end- JSP
+Application packages: MS Office, PowerPoint, Excel
+
+
