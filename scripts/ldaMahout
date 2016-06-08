@@ -1,3 +1,4 @@
+# Add shellscript for all the four steps below
 # Here make sure you use tf vector instead of tfidf vector
 
 mahout seqdirectory -i clusterng5validated/cluster1 -o clusterng5-LDA/cluster1/sequenced
